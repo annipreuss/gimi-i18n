@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "pre-push": [
+    "jest",
+    "flow"
+  ],
   "scripts": {
     "test": "jest",
     "babelize": "./node_modules/.bin/babel ./utils/src -d ./utils/dest",
@@ -26,6 +30,7 @@
   "devDependencies": {
     "babel-cli": "6.24.1",
     "babel-eslint": "7.2.3",
+    "pre-push": "0.1.1",
     "babel-preset-es2015": "6.24.1",
     "babel-preset-react-native": "1.9.2",
     "eslint": "3.19.0",

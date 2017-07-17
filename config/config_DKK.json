@@ -14,7 +14,7 @@
   "numberOfDecimals" : 2,
   "defaultDataTaskReward" : 1,
   "prefix": "",
-  "suffix": "kr",
+  "suffix": " kr",
   "thousandsSeparator": ".",
   "decimalMark": ",",
   "minimumSavingsBonusAmountCents": 1,

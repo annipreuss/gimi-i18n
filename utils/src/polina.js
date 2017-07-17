@@ -47,19 +47,26 @@ let RunPolina = (filePath):* => {
       return fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
     })
   }
+  let translateTextId = (file, textIdToTranslate) => {
+    Promise.all(fs.readdirSync(filePath).map((file) => translateTextStringForFile(file, textIdToTranslate)))
+      .then(() => console.log('saved Successfully :)'))
+      .catch((err) => console.error(err.message))
+  }
 
   let textIdToTranslate = process.argv[2]
 
-  if (!textIdToTranslate) { console.log('use: npm run poli -- <text_id>') }
+  if (!textIdToTranslate) { console.log('use: npm run poli <text_id>') }
 
   if (textIdToTranslate) {
     if(textIdToTranslate.indexOf(',') > 0) {
       var splitIds = textIdToTranslate.split(',')
-      for (var i=0; i<splitIds.length; i++) {
-          translateTextStringForFile('en.json', splitIds[i])
-      }
+
+      Object.keys(splitIds).forEach((key) => {
+          console.log(splitIds[key])
+          translateTextId('en.json', splitIds[key])
+      })
     } else {
-      translateTextStringForFile('en.json', textIdToTranslate)
+      translateTextId('en.json', textIdToTranslate)
     }
   }
 }

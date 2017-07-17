@@ -28,7 +28,7 @@
   {"text":"(GMT-06:00) Central Time - Mexico City", "value":"America/Mexico_City"},
   {"text":"(GMT-06:00) Central Time - Regina", "value":"America/Regina"},
   {"text":"(GMT-06:00) Central Time - Tegucigalpa", "value":"America/Tegucigalpa"},
-  {"text":"(GMT-06:00) Central Time - Winnipeg", "value":"America/Winnipeg"},
+  {"text":"(GMT-06:00) Central Time - Winnipeg", "value":"America/Winnipeg"}, 
   {"text":"(GMT-06:00) Galapagos", "value":"Pacific/Galapagos"},
   {"text":"(GMT-05:00) Bogota", "value":"America/Bogota"},
   {"text":"(GMT-05:00) America Cancun", "value":"America/Cancun"},
