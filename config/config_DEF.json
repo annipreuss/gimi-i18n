@@ -17,7 +17,7 @@
   "suffix": "",
   "thousandsSeparator": ",",
   "decimalMark": ".",
-  "minimumSavingsBonusAmount": 1,
+  "minimumSavingsBonusAmountCents": 1,
   "minimumTransactionAmount": 4,
   "maximumSavingsBonusAmount": 10000,
   "minimumGoalAmount": 1

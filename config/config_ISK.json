@@ -17,7 +17,7 @@
   "suffix": "kr",
   "thousandsSeparator": ".",
   "decimalMark": ",",
-  "minimumSavingsBonusAmount": 50,
+  "minimumSavingsBonusAmountCents": 50,
   "minimumTransactionAmount": 1,
   "maximumSavingsBonusAmount": 99999,
   "minimumGoalAmount": 10,
