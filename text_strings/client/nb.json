@@ -1507,7 +1507,7 @@
   "fingerprint_error_message": "PLZ_TRANSLATE Det er ingen fingerPrint sensor eller det er ingen tillatelser.",
   "parent_transaction_list_no_items": "PLZ_TRANSLATE Det er ingen transaksjoner.",
   "notifications": "PLZ_TRANSLATE merknader",
-  "premium_free_active_headline": "PLZ_TRANSLATE Bankstyrker er aktive[You are testing premium]",
+  "premium_free_active_headline": "PLZ_TRANSLATE Bankstyrker er aktive",
   "premium_free_active_desc": "PLZ_TRANSLATE Bankkontoen din er online, og du tester nå premium!",
   "choose_country": "PLZ_TRANSLATE Velg land",
   "add_action_child_headline": "PLZ_TRANSLATE Legg til en ny aktivitet",
