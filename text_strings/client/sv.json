@@ -1531,5 +1531,6 @@
   "disable_interactable_task_setting": "Aktivera ny interaktiv design",
   "lost_boost_popover_title_for_parent": "%1$d har blivit av med boost",
   "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d har använt pengar från spargrisen. Det betyder att %1$d har blivit av med boost från tidigare milstolpar",
-  "too_big_withdraw": "Utlägget är för stort och gör att ditt konto hamnar under minimum"
+  "too_big_withdraw": "Utlägget är för stort och gör att ditt konto hamnar under minimum",
+  "add_new": "PLZ_TRANSLATE Lägg till"
 }

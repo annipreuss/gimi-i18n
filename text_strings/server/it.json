@@ -83,7 +83,7 @@
   "dashboard_assignment_approved": "Il compito di {assignment.task.title} è stato approvato. ({assignment.str_value})",
   "push_task_enabled": "Adesso puoi eseguire il compito {task}!",
   "push_disabled_task_created": "{child} ha proposto un compito: {task}!",
-  "push_weekly_payout_message_parent":"{transaction.str_value} della paghetta settimanale è stata trasferita al conto corrente di {transaction.child.name} .",
+  "push_weekly_payout_message_parent": "{transaction.str_value} della paghetta settimanale è stata trasferita al conto corrente di {transaction.child.name} .",
   "push_monthly_payout_message_parent": "{transaction.str_value} della paghetta mensile è stata trasferita al conto corrente di {transaction.child.name} .",
   "push_charge_message_parent": "Attualmente, {amount} saranno domani trasferiti sul conto corrente di {child}",
   "dashboard_disabled_task_created": "Compito suggerito {task}.",

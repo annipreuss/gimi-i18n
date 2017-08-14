@@ -1520,5 +1520,6 @@
   "disable_interactable_task_setting": "Attiva il nuovo design interattivo",
   "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE %1$d ha perso la spinta",
   "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d ha utilizzato i soldi dalla banca salvadana. Ciò significa che %1$d ha perso l&#39;impulso dalle precedenti tappe",
-  "too_big_withdraw": "PLZ_TRANSLATE La spesa è troppo grande e il tuo conto sarebbe al di sotto del minimo"
+  "too_big_withdraw": "PLZ_TRANSLATE La spesa è troppo grande e il tuo conto sarebbe al di sotto del minimo",
+  "add_new": "PLZ_TRANSLATE Inserisci"
 }

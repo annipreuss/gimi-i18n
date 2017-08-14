@@ -1520,5 +1520,6 @@
   "disable_interactable_task_setting": "PLZ_TRANSLATE Aktivér nyt interaktivt design",
   "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE %1$d har mistet boost",
   "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d har brugt penge fra sparegrisen. Dette betyder, at %1$d har mistet boost fra tidligere milepæle",
-  "too_big_withdraw": "PLZ_TRANSLATE Udgiften er for stor, og din konto vil være under minimum"
+  "too_big_withdraw": "PLZ_TRANSLATE Udgiften er for stor, og din konto vil være under minimum",
+  "add_new": "PLZ_TRANSLATE Tilføje"
 }
