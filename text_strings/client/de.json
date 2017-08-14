@@ -1439,7 +1439,7 @@
   "invite_child_popover_success_desc": "Es wurde eine Nachricht mit der Downloadempfehlung an Dein Kind verschickt. Sobald die App heruntergeladen wurde, kann Dein Kind auf den Link in der Nachricht klicken, um eine Verbindung herzustellen.",
   "goal_map_pie_all_goals_title": "Erreichte Sparziele",
   "goal_map_pie_saved_title": "Das Sparschwein",
-  "goal_map_pie_all_goals_desc": "Erreichte Ziele: %1$d Durchschnittliche Summe: %2$d Höchste Summe: %3$d Rangliste für %4$d Jährige: Top %5$d ([Gesamt gespart in %6$d])",
+  "goal_map_pie_all_goals_desc": "PLZ_CHECK Erreichte Ziele: %1$d Durchschnittliche Summe: %2$d Höchste Summe: %3$d Rangliste für %4$d Jährige: Top %5$d ([Gesamt gespart in %6$d])",
   "goal_map_pie_overview_desc_parent_help_child": "Du hast %1$d Links zum speichern. Elternhilfe wurde aktiviert. Wenn du %2$d sparst, wird dein Elternteil die restlichen %3$d bezahlen.",
   "goal_map_pie_overview_desc_parent_help_parent": "%1$d hat %2$d Links zum speichern. Elternhilfe wurde aktiviert. Wenn %1$d %3$d spart, bezahlst Du die restlichen %4$d .",
   "goal_map_pie_overview_desc_child": "Du hast %1$d Links zum speichern.",
