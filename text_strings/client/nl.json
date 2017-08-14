@@ -1507,7 +1507,7 @@
   "fingerprint_error_message": "Er is geen vingerprintsensor aanwezig of er zijn geen toestemmingen.",
   "parent_transaction_list_no_items": "PLZ_TRANSLATE Er zijn geen transacties.",
   "notifications": "PLZ_TRANSLATE Mededelingen",
-  "premium_free_active_headline": "PLZ_TRANSLATE Bankmachten zijn actief[You are testing premium]",
+  "premium_free_active_headline": "PLZ_TRANSLATE Bankmachten zijn actief",
   "premium_free_active_desc": "PLZ_TRANSLATE Je bankrekening is online en je test nu premium!",
   "choose_country": "PLZ_TRANSLATE Kies land",
   "add_action_child_headline": "PLZ_TRANSLATE Voeg een nieuwe activiteit toe",
