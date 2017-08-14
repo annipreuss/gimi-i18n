@@ -1518,7 +1518,7 @@
   "remind": "PLZ_TRANSLATE нагадваць",
   "stop_timer_task": "PLZ_TRANSLATE спыніць",
   "disable_interactable_task_setting": "PLZ_TRANSLATE Ўключыць новы interactable дызайн",
-  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE %1$d страціў імпульс",
+  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE Павышэнне было страчана",
   "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d выкарыстаў грошы з скарбонкі. Гэта азначае , што %1$d страціў падтрымку ад папярэдніх этапаў",
   "too_big_withdraw": "PLZ_TRANSLATE Выдатак занадта вялікі, і ваш рахунак будзе ніжэй мінімальнай",
   "add_new": "PLZ_TRANSLATE дадаваць"

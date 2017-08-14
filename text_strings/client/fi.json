@@ -1518,7 +1518,7 @@
   "remind": "Muistuta",
   "stop_timer_task": "Keskeytä",
   "disable_interactable_task_setting": "Ota käyttöön uusi interaktiivinen muotoilu",
-  "lost_boost_popover_title_for_parent": "%1$d on menettänyt boostinsa",
+  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE Boost on menetetty",
   "lost_boost_popover_text_for_parent": "%1$d on käyttänyt rahaa säästöpossusta. Tämä tarkoittaa, että %1$d on menettänyt edellisten välitavoitteiden boostin",
   "too_big_withdraw": "Nosto on liian suuri ja tilisi tippuisi miinukselle",
   "add_new": "PLZ_TRANSLATE Lisätä"

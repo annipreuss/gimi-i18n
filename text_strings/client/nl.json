@@ -1518,7 +1518,7 @@
   "remind": "PLZ_TRANSLATE Herinneren",
   "stop_timer_task": "PLZ_TRANSLATE Hou op",
   "disable_interactable_task_setting": "PLZ_TRANSLATE Nieuw interactiebaar ontwerp inschakelen",
-  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE %1$d heeft de boost verloren",
+  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE Boost is verloren gegaan",
   "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d heeft geld van de spaarpot gebruikt. Dit betekent dat %1$d de versterking van de vorige mijlpalen heeft verloren",
   "too_big_withdraw": "PLZ_TRANSLATE De kosten zijn te groot en uw account zou onder het minimum liggen",
   "add_new": "PLZ_TRANSLATE Toevoegen"

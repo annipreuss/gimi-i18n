@@ -1518,7 +1518,7 @@
   "remind": "Recordar",
   "stop_timer_task": "Detener",
   "disable_interactable_task_setting": "Habilitar un nuevo diseño interactivo",
-  "lost_boost_popover_title_for_parent": "%1$d ha perdido impulso",
+  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE El impulso se ha perdido",
   "lost_boost_popover_text_for_parent": "%1$d ha usado dinero de la alcancía. Esto significa que %1$d ha perdido impulso de las etapas anteriores",
   "too_big_withdraw": "El gasto es demasiado grande y su cuenta quedaría por debajo del mínimo",
   "add_new": "PLZ_TRANSLATE Añadir"
