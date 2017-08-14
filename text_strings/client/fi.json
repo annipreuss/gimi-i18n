@@ -1507,7 +1507,7 @@
   "fingerprint_error_message": "Sormenjälkitunnistinta ei ole tai käyttöoikeudet puuttuvat.",
   "parent_transaction_list_no_items": "Ei tapahtumia.",
   "notifications": "Ilmoitukset",
-  "premium_free_active_headline": "PLZ_CHECK Bank Powers on aktivoitu [You are testing premium]",
+  "premium_free_active_headline": "PLZ_CHECK Bank Powers on aktivoitu",
   "premium_free_active_desc": "Pankkitilisi on liitetty ja Premium on nyt testissä!",
   "choose_country": "Valitse maa",
   "add_action_child_headline": "Lisää uusi aktiviteetti",
