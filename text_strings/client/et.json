@@ -1518,7 +1518,7 @@
   "remind": "PLZ_TRANSLATE Meenutagem",
   "stop_timer_task": "PLZ_TRANSLATE Peatus",
   "disable_interactable_task_setting": "PLZ_TRANSLATE Luba uus interaktiivne disain",
-  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE %1$d on kaotanud tõuke",
+  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE Boost on kaotatud",
   "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d on sulgpangast raha kasutanud. See tähendab, et %1$d on varasematest vahe-eesmärkidest kaotanud tõuke",
   "too_big_withdraw": "PLZ_TRANSLATE Kulud on liiga suured ja teie konto oleks miinimumist allpool",
   "add_new": "PLZ_TRANSLATE Lisama"

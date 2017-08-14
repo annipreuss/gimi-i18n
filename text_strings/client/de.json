@@ -1518,7 +1518,7 @@
   "remind": "Erinnern",
   "stop_timer_task": "Halt",
   "disable_interactable_task_setting": "PLZ_TRANSLATE Neues interaktierbares Design aktivieren",
-  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE %1$d hat den Auftrieb verloren",
+  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE Boost ist verloren gegangen",
   "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d hat Geld aus dem Sparschwein verwendet. Dies bedeutet, dass %1$d den Anstieg von früheren Meilensteinen verloren hat",
   "too_big_withdraw": "PLZ_TRANSLATE Der Aufwand ist zu groß und Ihr Konto wäre unter dem Minimum",
   "add_new": "PLZ_TRANSLATE Hinzufügen"

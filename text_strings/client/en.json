@@ -1518,7 +1518,7 @@
   "remind": "Remind",
   "stop_timer_task": "Stop",
   "disable_interactable_task_setting": "Enable new interactable design",
-  "lost_boost_popover_title_for_parent": "%1$d has lost boost",
+  "lost_boost_popover_title_for_parent": "Boost has been lost",
   "lost_boost_popover_text_for_parent": "%1$d has used money from the piggy bank. This means that %1$d has lost boost from previous milestones",
   "too_big_withdraw": "The expense is too large and your account would be below the minimum",
   "add_new": "Add"

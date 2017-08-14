@@ -1518,7 +1518,7 @@
   "remind": "PLZ_TRANSLATE Minne om",
   "stop_timer_task": "PLZ_TRANSLATE Stoppe",
   "disable_interactable_task_setting": "PLZ_TRANSLATE Aktiver ny interaktiv design",
-  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE %1$d har mistet boost",
+  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE Boost har gått tapt",
   "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d har brukt penger fra spargrisen. Dette betyr at %1$d har mistet boost fra tidligere milepæler",
   "too_big_withdraw": "PLZ_TRANSLATE Utgiften er for stor og kontoen din vil være under minimum",
   "add_new": "PLZ_TRANSLATE Legg til"

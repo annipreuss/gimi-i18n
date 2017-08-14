@@ -1518,7 +1518,7 @@
   "remind": "PLZ_TRANSLATE Minna á",
   "stop_timer_task": "PLZ_TRANSLATE Hættu",
   "disable_interactable_task_setting": "PLZ_TRANSLATE Virkja nýja gagnvirka hönnun",
-  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE %1$d hefur misst uppörvun",
+  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE Uppörvun hefur glatast",
   "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d hefur notað peninga frá sparisjóðnum. Þetta þýðir að %1$d hefur misst aukningu frá fyrri áfangum",
   "too_big_withdraw": "PLZ_TRANSLATE Kostnaðurinn er of stór og reikningurinn þinn er undir lágmarkinu",
   "add_new": "PLZ_TRANSLATE Bæta við"
