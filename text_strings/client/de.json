@@ -1517,9 +1517,9 @@
   "goals_pie_rank_among": "Rangliste für %1$d Jahr alt: Top %2$d ( %3$d )",
   "remind": "Erinnern",
   "stop_timer_task": "Halt",
-  "disable_interactable_task_setting": "PLZ_TRANSLATE Neues interaktierbares Design aktivieren",
-  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE Boost ist verloren gegangen",
-  "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d hat Geld aus dem Sparschwein verwendet. Dies bedeutet, dass %1$d den Anstieg von früheren Meilensteinen verloren hat",
-  "too_big_withdraw": "PLZ_TRANSLATE Der Aufwand ist zu groß und Ihr Konto wäre unter dem Minimum",
-  "add_new": "PLZ_TRANSLATE Hinzufügen"
+  "disable_interactable_task_setting": "Neues interaktives Design aktivieren",
+  "lost_boost_popover_title_for_parent": "Der Boost wurde verloren",
+  "lost_boost_popover_text_for_parent": "%1$d hat Geld aus dem Sparschwein ausgegeben. Dies bedeutet, dass %1$d den Fortschritt von früheren Meilensteinen verloren hat",
+  "too_big_withdraw": "Der auszugebenede Betrag ist zu hoch und Du würdest Dein Konto überziehen",
+  "add_new": "Hinzufügen"
 }
