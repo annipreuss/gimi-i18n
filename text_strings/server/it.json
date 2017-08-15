@@ -160,5 +160,7 @@
   "push_manual_trustly_withdrawal": "{transaction.str_value} è stato trasferito al conto bancario di {transaction.child.name}",
   "push_manual_trustly_withdrawal_failed_parent": "Il trasferimento di {transaction.str_value} verso il conto corrente di {transaction.child.name} per la paghetta settimanale non è riuscito",
   "push_manual_trustly_withdrawal_failed_child": "Il trasferimento di {transaction.str_value} sul tuo conto corrente non è riuscito.",
-  "push_event_message_created": "{user.name}: \"{text}\""
+  "push_event_message_created": "{user.name}: \"{text}\"",
+  "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Attività approvata automaticamente: {assignment.task.title}",
+  "event_assignment_auto_approved": "PLZ_TRANSLATE Attività approvata automaticamente: {assignment.task.title}"
 }

@@ -160,5 +160,7 @@
   "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} on üle antud {transaction.child.name} pangakontole",
   "push_manual_trustly_withdrawal_failed_parent": "PLZ_TRANSLATE {transaction.str_value} ja {transaction.child.name} pangakonto iganädalase toetuse üleandmine ebaõnnestus",
   "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE {transaction.str_value} ülekandmine teie pangakontole ei õnnestunud.",
-  "push_event_message_created": "{user.name}: \"{text}\""
+  "push_event_message_created": "{user.name}: \"{text}\"",
+  "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Task kinnitatud automaatselt: {assignment.task.title}",
+  "event_assignment_auto_approved": "PLZ_TRANSLATE Task kinnitatud automaatselt: {assignment.task.title}"
 }

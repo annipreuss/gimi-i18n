@@ -160,5 +160,7 @@
   "push_manual_trustly_withdrawal": "{transaction.str_value} er overført til {transaction.child.name} s bankkonto",
   "push_manual_trustly_withdrawal_failed_parent": "Overførslen af {transaction.str_value} til {transaction.child.name} s bankkonto ugentlige ydelse var mislykket",
   "push_manual_trustly_withdrawal_failed_child": "Overførsel af {transaction.str_value} til din bankkonto mislykkedes.",
-  "push_event_message_created": "{user.name}: \"{text}\""
+  "push_event_message_created": "{user.name}: \"{text}\"",
+  "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Opgave automatisk godkendt: {assignment.task.title}",
+  "event_assignment_auto_approved": "PLZ_TRANSLATE Opgave automatisk godkendt: {assignment.task.title}"
 }

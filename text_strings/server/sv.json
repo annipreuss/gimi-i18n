@@ -160,5 +160,8 @@
   "push_manual_trustly_withdrawal": "{transaction.str_value} överfördes till {transaction.child.name} bankkonto",
   "push_manual_trustly_withdrawal_failed_parent": "Banköverföringen på {transaction.str_value} till {transaction.child.name}s konto misslyckades.",
   "push_manual_trustly_withdrawal_failed_child": "Banköverföring på {transaction.str_value} till ditt konto misslyckades",
-  "push_event_message_created": "{user.name}: \"{text}\""
+  "push_event_message_created": "{user.name}: \"{text}\"",
+  "push_assignment_auto_approved": "Grattis! {assignment.task.title} blev autogodkänd!",
+  "push_assignment_auto_approved_parent": "Uppgiften autogodkändes: {assignment.task.title}",
+  "event_assignment_auto_approved": "Uppgiften autogodkändes: {assignment.task.title}"
 }

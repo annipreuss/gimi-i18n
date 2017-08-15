@@ -160,5 +160,7 @@
   "push_manual_trustly_withdrawal": "{transaction.str_value} on siirretty {transaction.child.name}n pankkitilille",
   "push_manual_trustly_withdrawal_failed_parent": "{transaction.str_value} viikko-/kuukausirahan siirto {transaction.child.name}n pankkitilille ei onnistunut",
   "push_manual_trustly_withdrawal_failed_child": "{transaction.str_value} siirto pankkitilillesi epäonnistui.",
-  "push_event_message_created": "{user.name}: \"{text}\""
+  "push_event_message_created": "{user.name}: \"{text}\"",
+  "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Tehtävä automaattisesti hyväksytty: {assignment.task.title}",
+  "event_assignment_auto_approved": "PLZ_TRANSLATE Tehtävä automaattisesti hyväksytty: {assignment.task.title}"
 }
