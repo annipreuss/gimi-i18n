@@ -162,5 +162,6 @@
   "push_manual_trustly_withdrawal_failed_child": "Il trasferimento di {transaction.str_value} sul tuo conto corrente non è riuscito.",
   "push_event_message_created": "{user.name}: \"{text}\"",
   "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Attività approvata automaticamente: {assignment.task.title}",
-  "event_assignment_auto_approved": "PLZ_TRANSLATE Attività approvata automaticamente: {assignment.task.title}"
+  "event_assignment_auto_approved": "PLZ_TRANSLATE Attività approvata automaticamente: {assignment.task.title}",
+  "push_assignment_auto_approved": "PLZ_TRANSLATE Bello! {assignment.task.title} stato approvato automaticamente!"
 }

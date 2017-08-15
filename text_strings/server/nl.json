@@ -162,5 +162,6 @@
   "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE Overdracht van {transaction.str_value} naar uw bankrekening is mislukt.",
   "push_event_message_created": "{user.name}: \"{text}\"",
   "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Taak automatisch goedgekeurd: {assignment.task.title}",
-  "event_assignment_auto_approved": "PLZ_TRANSLATE Taak automatisch goedgekeurd: {assignment.task.title}"
+  "event_assignment_auto_approved": "PLZ_TRANSLATE Taak automatisch goedgekeurd: {assignment.task.title}",
+  "push_assignment_auto_approved": "PLZ_TRANSLATE Leuk! {assignment.task.title} is automatisch goedgekeurd!"
 }

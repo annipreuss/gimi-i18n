@@ -162,5 +162,6 @@
   "push_manual_trustly_withdrawal_failed_child": "Die Überweisung von {transaction.str_value} auf Dein Bankkonto ist fehlgeschlagen.",
   "push_event_message_created": "{user.name}: \"{text}\"",
   "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Aufgabe automatisch genehmigt: {assignment.task.title}",
-  "event_assignment_auto_approved": "PLZ_TRANSLATE Aufgabe automatisch genehmigt: {assignment.task.title}"
+  "event_assignment_auto_approved": "PLZ_TRANSLATE Aufgabe automatisch genehmigt: {assignment.task.title}",
+  "push_assignment_auto_approved": "PLZ_TRANSLATE Nett! {assignment.task.title} wurde automatisch zugelassen!"
 }

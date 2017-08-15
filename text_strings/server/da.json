@@ -162,5 +162,6 @@
   "push_manual_trustly_withdrawal_failed_child": "Overførsel af {transaction.str_value} til din bankkonto mislykkedes.",
   "push_event_message_created": "{user.name}: \"{text}\"",
   "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Opgave automatisk godkendt: {assignment.task.title}",
-  "event_assignment_auto_approved": "PLZ_TRANSLATE Opgave automatisk godkendt: {assignment.task.title}"
+  "event_assignment_auto_approved": "PLZ_TRANSLATE Opgave automatisk godkendt: {assignment.task.title}",
+  "push_assignment_auto_approved": "PLZ_TRANSLATE Pæn! {assignment.task.title} blev automatisk godkendt!"
 }

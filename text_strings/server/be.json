@@ -162,5 +162,6 @@
   "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE Перадача {transaction.str_value} на Ваш банкаўскі рахунак не ўдалося.",
   "push_event_message_created": "{user.name}: \"{text}\"",
   "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Задача аўтаматычнага зацверджаны: {assignment.task.title}",
-  "event_assignment_auto_approved": "PLZ_TRANSLATE Задача аўтаматычнага зацверджаны: {assignment.task.title}"
+  "event_assignment_auto_approved": "PLZ_TRANSLATE Задача аўтаматычнага зацверджаны: {assignment.task.title}",
+  "push_assignment_auto_approved": "PLZ_TRANSLATE Nice! {assignment.task.title} быў аўтаматычна ухвалены!"
 }
