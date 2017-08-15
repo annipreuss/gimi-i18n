@@ -79,7 +79,7 @@
   "push_shared_assignment_created": "Kig ind i app'en, du konkurrerer om at fuldføre en opgave!",
   "push_repeating_assignment_created": "Kig ind! Du har en ny opgave, som kan gentages!",
   "push_check_wish_list": "En måned tilbage til din fødselsdag. Tjek ønskelisten!",
-  "push_assignment_approved_parent": "{parent} godkendte opgaven {task}. ({value})",
+  "push_assignment_approved_parent": "{assignment.approved_by.name} godkendte opgaven {assignment.task.title}. ({assignment.str_value})",
   "dashboard_assignment_approved": "Opgaven {assignment.task.title} blev godkendt. ({assignment.str_value})",
   "push_task_enabled": "Nu kan du udføre opgaven {task}!",
   "push_disabled_task_created": "{child} har foreslået opgave {task}!",

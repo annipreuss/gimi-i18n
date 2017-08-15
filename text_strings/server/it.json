@@ -79,7 +79,7 @@
   "push_shared_assignment_created": "Dai un occhiata, sei in competizione per completare un compito!",
   "push_repeating_assignment_created": "Dai un occhiata, hai ricevuto un compito ripetibile!",
   "push_check_wish_list": "Manca ancora un mese al tuo compleanno. Dai un'occhiata alla lista di desideri!",
-  "push_assignment_approved_parent": "{parent} ha approvato il compito di {task}. ({value})",
+  "push_assignment_approved_parent": "{assignment.approved_by.name} ha approvato il compito di {assignment.task.title}. ({assignment.str_value})",
   "dashboard_assignment_approved": "Il compito di {assignment.task.title} è stato approvato. ({assignment.str_value})",
   "push_task_enabled": "Adesso puoi eseguire il compito {task}!",
   "push_disabled_task_created": "{child} ha proposto un compito: {task}!",

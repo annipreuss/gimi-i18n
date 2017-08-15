@@ -79,7 +79,7 @@
   "push_shared_assignment_created": "Kikk inn i app, du konkurrerer om å fullføre en oppgave!",
   "push_repeating_assignment_created": "Sjekk ut! Du har en ny oppgave som du alltid får penger for å utføre!",
   "push_check_wish_list": "En måned igjen til bursdagen din. Sjekk ønskeliste!",
-  "push_assignment_approved_parent": "{parent} Godkjent oppgave {task} ({value})",
+  "push_assignment_approved_parent": "{assignment.approved_by.name} Godkjent oppgave {assignment.task.title} ({assignment.str_value})",
   "dashboard_assignment_approved": "Oppgaven {assignment.task.title} ble godkjent. ({assignment.str_value})",
   "push_task_enabled": "Nå kan du utføre oppgaven {task}!",
   "push_disabled_task_created": "{child} har foreslått oppgave {task}!",

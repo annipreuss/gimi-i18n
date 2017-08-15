@@ -79,7 +79,7 @@
   "push_shared_assignment_created": "Check it out, you're in competition to complete a task!",
   "push_repeating_assignment_created": "Take a look, you have received a repeatable task!",
   "push_check_wish_list": "One month left to your birthday. Check the wish list!",
-  "push_assignment_approved_parent": "{parent} approved task {task}. ({value})",
+  "push_assignment_approved_parent": "{assignment.approved_by.name} approved task {assignment.task.title}. ({assignment.str_value})",
   "dashboard_assignment_approved": "The task {assignment.task.title} was approved. ({assignment.str_value})",
   "push_task_enabled": "Now you can perform the task {task}!",
   "push_disabled_task_created": "{child} has proposed a task {task}!",

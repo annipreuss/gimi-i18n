@@ -79,7 +79,7 @@
   "push_shared_assignment_created": "Guck Dir das an, Du wirst herausgefordert, eine Aufgabe zu beenden!",
   "push_repeating_assignment_created": "Guck mal, Du hast eine wiederholbare Aufgabe erhalten!",
   "push_check_wish_list": "In einem Monat hast Du Geburtstag. Wirf einen Blick auf die Wunschliste!",
-  "push_assignment_approved_parent": "{parent} hat die Aufgabe {task} akzeptiert. ({value})",
+  "push_assignment_approved_parent": "{assignment.approved_by.name} hat die Aufgabe {assignment.task.title} akzeptiert. ({assignment.str_value})",
   "dashboard_assignment_approved": "Die Aufgabe {assignment.task.title} wurde akzeptiert. ({assignment.str_value})",
   "push_task_enabled": "Du kannst jetzt die Aufgabe {task} durchführen!",
   "push_disabled_task_created": "{child} hat die Aufgabe {task} vorgeschlagen!",

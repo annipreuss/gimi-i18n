@@ -79,7 +79,7 @@
   "push_shared_assignment_created": "Oho! Sinulle on annettu kilpailuaskare!",
   "push_repeating_assignment_created": "Tsekkaa sovellus, sinulle on annettu toistettava askare!",
   "push_check_wish_list": "Syntymäpäiväsi on kuukauden päästä. Tarkista toivelistasi!",
-  "push_assignment_approved_parent": "{parent} on hyväksynyt askareen {task} ({value})",
+  "push_assignment_approved_parent": "{assignment.approved_by.name} on hyväksynyt askareen {assignment.task.title} ({assignment.str_value})",
   "dashboard_assignment_approved": "Askare {assignment.task.title} hyväksyttiin. ({assignment.str_value})",
   "push_task_enabled": "Nyt voit suorittaa Askareen {task}!",
   "push_disabled_task_created": "{child} on ehdottanut askareeksi {task}!",

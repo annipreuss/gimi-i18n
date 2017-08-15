@@ -79,7 +79,7 @@
   "push_shared_assignment_created": "Vous êtes en compétition pour accomplir une tâche!",
   "push_repeating_assignment_created": "Regardez, vous avez une nouvelle tâche routinière!",
   "push_check_wish_list": "Il reste encore un mois avant votre anniversaire. Consultez la liste de souhaits!",
-  "push_assignment_approved_parent": "{parent} a approuvé la tâche {task} ({value})",
+  "push_assignment_approved_parent": "{assignment.approved_by.name} a approuvé la tâche {assignment.task.title} ({assignment.str_value})",
   "dashboard_assignment_approved": "La tâche {assignment.task.title} a été approuvé. ({assignment.str_value})",
   "push_task_enabled": "Vous pouvez maintenant effectuer la tâche {task}!",
   "push_disabled_task_created": "{child} a proposé une tâche {task}!",

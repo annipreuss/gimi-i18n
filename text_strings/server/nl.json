@@ -79,7 +79,7 @@
   "push_shared_assignment_created": "Neem een kijkje, je zit in een competitie voor een taak!",
   "push_repeating_assignment_created": "Neem een kijkje, je hebt een herhaalde taak gekregen!",
   "push_check_wish_list": "Nog een maand tot je verjaardaag. Bekijk de wenslijst!",
-  "push_assignment_approved_parent": "{parent} heeft {task} goedgekeurd. ({value})",
+  "push_assignment_approved_parent": "{assignment.approved_by.name} heeft {assignment.task.title} goedgekeurd. ({assignment.str_value})",
   "dashboard_assignment_approved": "De taak {assignment.task.title} was goedgekeurd. ({assignment.str_value})",
   "push_task_enabled": "Je kan nu {task} voltooien!",
   "push_disabled_task_created": "{child} heeft {task} voorgesteld!",

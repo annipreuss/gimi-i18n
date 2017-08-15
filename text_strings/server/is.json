@@ -79,7 +79,7 @@
   "push_shared_assignment_created": "PLZ_TRANSLATE Peek inn í app, þú ert að keppa í að ljúka verkefni!",
   "push_repeating_assignment_created": "PLZ_TRANSLATE Kíkja! Þú ert með nýtt verkefni sem þú færð alltaf peninga til að framkvæma!",
   "push_check_wish_list": "PLZ_TRANSLATE Einn mánuður eftir að afmæli. Athugaðu óskalistanum!",
-  "push_assignment_approved_parent": "PLZ_TRANSLATE {parent} æð verkefni {task} ({value})",
+  "push_assignment_approved_parent": "PLZ_TRANSLATE {assignment.approved_by.name} æð verkefni {assignment.task.title} ({assignment.str_value})",
   "dashboard_assignment_approved": "PLZ_TRANSLATE Verkefni {assignment.task.title} var samþykkt. ({assignment.str_value})",
   "push_task_enabled": "PLZ_TRANSLATE Nú er hægt að framkvæma verkefni {task}!",
   "push_disabled_task_created": "PLZ_TRANSLATE {child} hefur lagt verkefni {task}!",

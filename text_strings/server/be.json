@@ -79,7 +79,7 @@
   "push_shared_assignment_created": "PLZ_TRANSLATE Check it out, you're in competition to complete a task!",
   "push_repeating_assignment_created": "PLZ_TRANSLATE Take a look, you have received a repeatable task!",
   "push_check_wish_list": "PLZ_TRANSLATE One month left to your birthday. Check the wish list!",
-  "push_assignment_approved_parent": "PLZ_TRANSLATE {parent} approved task {task}. ({value})",
+  "push_assignment_approved_parent": "PLZ_TRANSLATE {assignment.approved_by.name} approved task {assignment.task.title}. ({assignment.str_value})",
   "dashboard_assignment_approved": "PLZ_TRANSLATE The task {assignment.task.title} was approved. ({assignment.str_value})",
   "push_task_enabled": "PLZ_TRANSLATE Now you can perform the task {task}!",
   "push_disabled_task_created": "PLZ_TRANSLATE {child} has proposed a task {task}!",

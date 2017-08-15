@@ -79,7 +79,7 @@
   "push_shared_assignment_created": "¡Compruébalo, estas en competencia para terminar una tarea!",
   "push_repeating_assignment_created": "¡Da un vistazo, recibiste una tarea repetible!",
   "push_check_wish_list": "¡Falta un mes para tu cumpleaños. Verifica la lista de deseos!",
-  "push_assignment_approved_parent": "{parent} aprobó la tarea {task}. ({value})",
+  "push_assignment_approved_parent": "{assignment.approved_by.name} aprobó la tarea {assignment.task.title}. ({assignment.str_value})",
   "dashboard_assignment_approved": "La tarea {assignment.task.title} fue aprobada. ({assignment.str_value})",
   "push_task_enabled": "¡Ahora puedes realizar la tarea {task}!",
   "push_disabled_task_created": "¡{child} ha propuesto una tarea {task}!",
