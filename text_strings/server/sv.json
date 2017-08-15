@@ -79,7 +79,7 @@
   "push_shared_assignment_created": "Kika in i appen, du är med och tävlar i att bli klar med en uppgift!",
   "push_repeating_assignment_created": "Kolla in! Du har fått en ny uppgift som du alltid får pengar för att utföra!",
   "push_check_wish_list": "En månad kvar till din födelsedag. Kolla önskelistan!",
-  "push_assignment_approved_parent": "{parent} godkände uppgiften {task}. ({value})",
+  "push_assignment_approved_parent": "{assignment.approved_by.name} godkände uppgiften {assignment.task.title}. ({assignment.str_value})",
   "dashboard_assignment_approved": "Uppgiften {assignment.task.title} blev godkänd. ({assignment.str_value})",
   "push_task_enabled": "Nu kan du utföra uppgiften {task}!",
   "push_disabled_task_created": "{child} har föreslagit uppgiften {task}!",
