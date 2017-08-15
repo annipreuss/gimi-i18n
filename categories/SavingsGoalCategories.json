@@ -1,4 +1,4 @@
-{
+[
    "general":{
       "id":13,
       "titleId":"category_name_13",
@@ -132,4 +132,4 @@
       "color":"#AD83B2",
       "categoryGroup":"other"
    }
-}
+]
