@@ -1,6 +1,6 @@
 import {getCurrencyConfig} from '../lib/CurrencyConfig'
 var fs = require('fs')
-var configs = fs.readdirSync('./config/')
+var configs = []
 var allConfigs = []
 jest.disableAutomock()
 
@@ -23,7 +23,8 @@ expect.extend({
 
 var supportedCurrencies = ['SEK', 'USD', 'AUD', 'CAD', 'GBP', 'INR', 'EUR', 'NZD']
 
-describe('Config', () => {
+let getAllConfigFiles = ():Array<Object> => {
+  configs = fs.readdirSync('./config/')
   configs.forEach(file => {
     file = file.split('config_')[1]
     if (file && file.indexOf('.json') !== -1) {
@@ -31,6 +32,10 @@ describe('Config', () => {
       allConfigs.push(file)
     }
   })
+    return allConfigs
+}
+describe('Config', () => {
+
 
   it('it should be able to get config ', () => {
     supportedCurrencies.forEach((currencyCode) => expect(getCurrencyConfig(currencyCode)).toBeDefined())
@@ -47,6 +52,7 @@ describe('Config', () => {
   })
 
   it('all configs should have same number of keys', () => {
+    getAllConfigFiles()
     allConfigs.forEach((x) => {
       allConfigs.forEach((y) => {
         expect(Object.keys(getCurrencyConfig(x)).length).toHaveSameLength(Object.keys(getCurrencyConfig(y)).length, {x, y})
