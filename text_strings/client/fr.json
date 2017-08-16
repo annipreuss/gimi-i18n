@@ -1521,5 +1521,9 @@
   "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE Le rétablissement a été perdu",
   "lost_boost_popover_text_for_parent": "PLZ_CHECK %1$d a utilisé de l&#39;argent de la tirelire. %1$d Cela signifie qu'il a perdu un boost depuis les jalons précédents",
   "too_big_withdraw": "La valeur de la dépense est trop grande et le montant disponible dans votre compte serait inférieur au minimum",
-  "add_new": "PLZ_TRANSLATE Ajouter"
+  "add_new": "PLZ_TRANSLATE Ajouter",
+  "camera_request_access_title": "PLZ_TRANSLATE La caméra a besoin d'accès",
+  "camera_request_access_descr": "PLZ_TRANSLATE Pour utiliser l'appareil photo, vous devez autoriser l'accès!",
+  "camera_access_deny_request": "PLZ_TRANSLATE Non!",
+  "camera_access_goto_settings": "PLZ_TRANSLATE Paramètres"
 }

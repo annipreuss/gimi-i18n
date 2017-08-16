@@ -1521,5 +1521,9 @@
   "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE La spinta è stata persa",
   "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d ha utilizzato i soldi dalla banca salvadana. Ciò significa che %1$d ha perso l&#39;impulso dalle precedenti tappe",
   "too_big_withdraw": "PLZ_TRANSLATE La spesa è troppo grande e il tuo conto sarebbe al di sotto del minimo",
-  "add_new": "PLZ_TRANSLATE Inserisci"
+  "add_new": "PLZ_TRANSLATE Inserisci",
+  "camera_request_access_title": "PLZ_TRANSLATE La fotocamera richiede l'accesso",
+  "camera_request_access_descr": "PLZ_TRANSLATE Per utilizzare la fotocamera, è necessario consentire l'accesso!",
+  "camera_access_deny_request": "PLZ_TRANSLATE No!",
+  "camera_access_goto_settings": "PLZ_TRANSLATE impostazioni"
 }

@@ -161,7 +161,7 @@
   "push_manual_trustly_withdrawal_failed_parent": "La transferencia de {transaction.str_value} a la cuenta bancaria de {transaction.child.name} no fué exitosa",
   "push_manual_trustly_withdrawal_failed_child": "No se pudo transferir {transaction.str_value} a su cuenta bancaria.",
   "push_event_message_created": "{user.name}: \"{text}\"",
+  "push_assignment_auto_approved": "PLZ_TRANSLATE ¡Bonito! {assignment.task.title} fue aprobado automáticamente!",
   "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Tarea aprobada automáticamente: {assignment.task.title}",
-  "event_assignment_auto_approved": "PLZ_TRANSLATE Tarea aprobada automáticamente: {assignment.task.title}",
-  "push_assignment_auto_approved": "PLZ_TRANSLATE ¡Bonito! {assignment.task.title} fue aprobado automáticamente!"
+  "event_assignment_auto_approved": "PLZ_TRANSLATE Tarea aprobada automáticamente: {assignment.task.title}"
 }

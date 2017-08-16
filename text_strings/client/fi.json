@@ -1521,5 +1521,9 @@
   "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE Boost on menetetty",
   "lost_boost_popover_text_for_parent": "%1$d on käyttänyt rahaa säästöpossusta. Tämä tarkoittaa, että %1$d on menettänyt edellisten välitavoitteiden boostin",
   "too_big_withdraw": "Nosto on liian suuri ja tilisi tippuisi miinukselle",
-  "add_new": "PLZ_TRANSLATE Lisätä"
+  "add_new": "PLZ_TRANSLATE Lisätä",
+  "camera_request_access_title": "PLZ_TRANSLATE Kamerassa on oltava pääsy",
+  "camera_request_access_descr": "PLZ_TRANSLATE Jos haluat käyttää kameraa, sinun on sallittava pääsy.",
+  "camera_access_deny_request": "PLZ_TRANSLATE Ei!",
+  "camera_access_goto_settings": "PLZ_TRANSLATE asetukset"
 }

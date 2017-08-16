@@ -161,7 +161,7 @@
   "push_manual_trustly_withdrawal_failed_parent": "PLZ_TRANSLATE Flutningur á {transaction.str_value} í {transaction.child.name} bankareiknings vikulega greiðslunnar mistókst",
   "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE Flutningur á {transaction.str_value} í bankareikning þinn mistókst.",
   "push_event_message_created": "{user.name}: \"{text}\"",
+  "push_assignment_auto_approved": "PLZ_TRANSLATE Ágætur! {assignment.task.title} var sjálfkrafa samþykkt!",
   "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Task sjálfvirkt samþykkt: {assignment.task.title}",
-  "event_assignment_auto_approved": "PLZ_TRANSLATE Task sjálfvirkt samþykkt: {assignment.task.title}",
-  "push_assignment_auto_approved": "PLZ_TRANSLATE Ágætur! {assignment.task.title} var sjálfkrafa samþykkt!"
+  "event_assignment_auto_approved": "PLZ_TRANSLATE Task sjálfvirkt samþykkt: {assignment.task.title}"
 }

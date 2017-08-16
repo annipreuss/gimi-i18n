@@ -1521,5 +1521,9 @@
   "lost_boost_popover_title_for_parent": "Der Boost wurde verloren",
   "lost_boost_popover_text_for_parent": "%1$d hat Geld aus dem Sparschwein ausgegeben. Dies bedeutet, dass %1$d den Fortschritt von früheren Meilensteinen verloren hat",
   "too_big_withdraw": "Der auszugebenede Betrag ist zu hoch und Du würdest Dein Konto überziehen",
-  "add_new": "Hinzufügen"
+  "add_new": "Hinzufügen",
+  "camera_request_access_title": "PLZ_TRANSLATE Die Kamera benötigt Zugang",
+  "camera_request_access_descr": "PLZ_TRANSLATE Um die Kamera zu benutzen, müssen Sie den Zugang erlauben!",
+  "camera_access_deny_request": "PLZ_TRANSLATE Nein!",
+  "camera_access_goto_settings": "PLZ_TRANSLATE Einstellungen"
 }
