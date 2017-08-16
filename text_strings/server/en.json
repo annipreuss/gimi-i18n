@@ -161,7 +161,7 @@
   "push_manual_trustly_withdrawal_failed_parent": "The transfer of {transaction.str_value} to {transaction.child.name}'s bank account weekly allowance was unsuccessful",
   "push_manual_trustly_withdrawal_failed_child": "Transfer of {transaction.str_value} to your bank account failed.",
   "push_event_message_created": "{user.name}: \"{text}\"",
-  "push_assignment_auto_approved": "Nice! {assignment.task.title} was auto-approved!",
+  "push_assignment_auto_approved": "Nice! {assignment.task.title} was approved automatically!",
   "push_assignment_auto_approved_parent": "Task auto-approved: {assignment.task.title}",
   "event_assignment_auto_approved": "Task auto-approved: {assignment.task.title}"
 }
