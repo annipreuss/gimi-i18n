@@ -955,7 +955,7 @@
   "task_percentage_done": "PLZ_TRANSLATE Performance Grade",
   "tasks_done_one": "PLZ_TRANSLATE %1$d completed chore",
   "tasks_done_multi": "PLZ_TRANSLATE %1$d completed chores",
-  "task_list_history": "PLZ_TRANSLATE History",
+  "task_list_history": "PLZ_TRANSLATE Гісторыя на працягу тыдня",
   "add_task_recurring_standing": "PLZ_TRANSLATE May be repeated once approved",
   "is_task_approved_child": "PLZ_TRANSLATE Are you finished with the chore?",
   "is_this_task_approved_child": "PLZ_TRANSLATE Is %1$d done?",

@@ -955,7 +955,7 @@
   "task_percentage_done": "Percentage prestaties",
   "tasks_done_one": "%1$d voltooid karwei",
   "tasks_done_multi": "%1$d voltooid klusjes",
-  "task_list_history": "Geschiedenis",
+  "task_list_history": "PLZ_TRANSLATE Geschiedenis voor de week",
   "add_task_recurring_standing": "Kan worden herhaald zodra deze is goedgekeurd",
   "is_task_approved_child": "Ben je klaar met de klus?",
   "is_this_task_approved_child": "Is %1$d klaar?",

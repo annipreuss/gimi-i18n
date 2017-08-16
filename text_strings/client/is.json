@@ -955,7 +955,7 @@
   "task_percentage_done": "flutningur Grade",
   "tasks_done_one": "%1$d lokið verkefni",
   "tasks_done_multi": "%1$d lokið verkefnum",
-  "task_list_history": "Söguleg",
+  "task_list_history": "PLZ_TRANSLATE Saga fyrir vikuna",
   "add_task_recurring_standing": "Kan utföras igen efter att den blivit godkänd",
   "is_task_approved_child": "Är du klar med uppgiften?",
   "is_this_task_approved_child": "Är %1$d klar?",

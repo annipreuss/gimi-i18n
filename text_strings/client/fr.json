@@ -955,7 +955,7 @@
   "task_percentage_done": "Niveau de performance",
   "tasks_done_one": "%1$d tâche terminée",
   "tasks_done_multi": "Tâches terminées: %1$d",
-  "task_list_history": "Historique",
+  "task_list_history": "PLZ_TRANSLATE Histoire de la semaine",
   "add_task_recurring_standing": "Peut se répéter une fois approuvée",
   "is_task_approved_child": "Avez-vous déjà terminé la tâche?",
   "is_this_task_approved_child": "Est ce que la tâche %1$d est terminée?",

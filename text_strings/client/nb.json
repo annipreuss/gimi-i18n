@@ -955,7 +955,7 @@
   "task_percentage_done": "Utførelsesgrad",
   "tasks_done_one": "%1$d utført oppgave",
   "tasks_done_multi": "%1$d utførte oppgaver",
-  "task_list_history": "Historikk",
+  "task_list_history": "PLZ_TRANSLATE Historie for uken",
   "add_task_recurring_standing": "Kan utføres igjen etter at den har blitt godkjent",
   "is_task_approved_child": "Er du ferdig med oppgaven?",
   "is_this_task_approved_child": "Er %1$d ferdig?",

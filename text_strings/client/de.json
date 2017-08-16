@@ -955,7 +955,7 @@
   "task_percentage_done": "Qualität der erbrachten Leistung",
   "tasks_done_one": "%1$d abgeschlossene Aufgabe",
   "tasks_done_multi": "%1$d abgeschlossene Aufgaben",
-  "task_list_history": "Verlauf",
+  "task_list_history": "PLZ_TRANSLATE Geschichte für die Woche",
   "add_task_recurring_standing": "Kann wiederholt werden, sobald die Aufgabe bestätigt wurde",
   "is_task_approved_child": "Bist Du fertig mit der Aufgabe?",
   "is_this_task_approved_child": "Ist %1$d fertig?",

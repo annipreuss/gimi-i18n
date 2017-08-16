@@ -955,7 +955,7 @@
   "task_percentage_done": "Performance Grade",
   "tasks_done_one": "%1$d completed chore",
   "tasks_done_multi": "%1$d completed chores",
-  "task_list_history": "History",
+  "task_list_history": "History for the week",
   "add_task_recurring_standing": "May be repeated once approved",
   "is_task_approved_child": "Are you finished with the chore?",
   "is_this_task_approved_child": "Is %1$d done?",

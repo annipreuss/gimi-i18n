@@ -955,7 +955,7 @@
   "task_percentage_done": "Valmistumisaste",
   "tasks_done_one": "%1$d askere tehty",
   "tasks_done_multi": "%1$d askaretta tehty",
-  "task_list_history": "Historia",
+  "task_list_history": "PLZ_TRANSLATE Viikon historia",
   "add_task_recurring_standing": "Voidaan toistaa kun hyväksytty",
   "is_task_approved_child": "Onko askare valmis?",
   "is_this_task_approved_child": "Onko %1$d valmis?",

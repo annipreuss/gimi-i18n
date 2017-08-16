@@ -955,7 +955,7 @@
   "task_percentage_done": "Ydelses karakter",
   "tasks_done_one": "%1$d afsluttet opgave",
   "tasks_done_multi": "%1$d afsluttede opgaver",
-  "task_list_history": "Historik",
+  "task_list_history": "PLZ_TRANSLATE Historie for ugen",
   "add_task_recurring_standing": "Kan gentages når den er blevet godkendt",
   "is_task_approved_child": "Er du færdig med opgaven?",
   "is_this_task_approved_child": "Er %1$d færdig?",
