@@ -1,6 +1,6 @@
 /* eslint no-console:0 */
 import {compareKeys, compareKeysWithinTextStrings} from '../TestUtil'
-var langCodes = ['da', 'en', 'fi', 'fr', 'nl', 'no', 'sv']
+var langCodes = ['da', 'en', 'fi', 'fr', 'nl', 'no', 'sv', 'it']
 jest.disableAutomock()
 
 var textStringsTypes = ['gimi-web']
