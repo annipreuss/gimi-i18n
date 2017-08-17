@@ -240,7 +240,7 @@
   "archive_goal": "Archivar una meta",
   "overview_child_item_add_task": "Crear",
   "overview_new_notifications": "Nuevos eventos",
-  "profile_add_cost": "Añadir un pago",
+  "profile_add_cost": "PLZ_CHECK Añadir un pago",
   "expense_popover_title": "Pago de %1$d",
   "expense_popover_charachters_left": "%1$d caracteres disponibles",
   "expense_popover_max_charachters": "Límite máximo de caracteres: %1$d",
