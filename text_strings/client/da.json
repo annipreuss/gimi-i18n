@@ -240,7 +240,7 @@
   "archive_goal": "Arkivér opsparingsmål",
   "overview_child_item_add_task": "Opret",
   "overview_new_notifications": "Nye hændelser",
-  "profile_add_cost": "Tilføj betaling",
+  "profile_add_cost": "PLZ_CHECK Tilføj betaling",
   "expense_popover_title": "Betaling for %1$d",
   "expense_popover_charachters_left": "%1$d tegn tilbage",
   "expense_popover_max_charachters": "Øvre grænse %1$d tegn",
