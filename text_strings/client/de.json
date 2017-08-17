@@ -240,7 +240,7 @@
   "archive_goal": "Erreiche ein Ziel",
   "overview_child_item_add_task": "Erstellen",
   "overview_new_notifications": "Neue Ereignisse",
-  "profile_add_cost": "Zahlung hinzufügen",
+  "profile_add_cost": "PLZ_CHECK Zahlung hinzufügen",
   "expense_popover_title": "Zahlung für %1$d",
   "expense_popover_charachters_left": "%1$d Zeichen übrig",
   "expense_popover_max_charachters": "Maximales Zeichenlimit %1$d",
