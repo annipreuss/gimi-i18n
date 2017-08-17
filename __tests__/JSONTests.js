@@ -1,7 +1,7 @@
 jest.disableAutomock()
 
 describe('TextStrings', () => {
-  ['da', 'fi', 'sv', 'nb', 'en', 'nl', 'fr', 'it'].forEach(lang => {
+  ['da', 'fi', 'sv', 'nb', 'en', 'nl', 'fr', 'it', 'es', 'de'].forEach(lang => {
     it(`it should have valid JSON for client/${lang}.json`, () => {
       require(`../text_strings/client/${lang}`)
     })

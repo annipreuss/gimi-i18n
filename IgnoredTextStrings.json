@@ -404,5 +404,8 @@
   "boost_pie_desc_parent",
   "initial_capital_pie_desc_parent",
   "push_event_message_created",
-  "lost_boost_popover_text_for_parent"
+  "lost_boost_popover_text_for_parent",
+  "home.section2.subheader",
+  "home.section3.subheader",
+  "home.section4.subheader"
 ]
