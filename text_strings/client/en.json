@@ -1123,7 +1123,7 @@
   "popover_button_notification_remind": "Remind %1$d",
   "popover_notification_remind_description": "%1$d has reminded you to %2$d",
   "task_history_hand_out_task": "Handing out the chore",
-  "popover_trustly_warning_title": "Transfer of over %1$d",
+  "popover_trustly_warning_title": "The transfer is over %1$d",
   "child_tabbar_home": "Him",
   "child_tabbar_transactions": "Transactions",
   "child_tabbar_tasks": "Chores",
