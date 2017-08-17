@@ -240,7 +240,7 @@
   "archive_goal": "Arkistoi säästötavoite",
   "overview_child_item_add_task": "Luo",
   "overview_new_notifications": "Uusia tapahtumia",
-  "profile_add_cost": "Uusi kulu",
+  "profile_add_cost": "PLZ_CHECK Uusi kulu",
   "expense_popover_title": "Maksu %1$dlle",
   "expense_popover_charachters_left": "%1$d merkkiä jäljellä",
   "expense_popover_max_charachters": "Enintään %1$d merkkiä",
