@@ -68,7 +68,7 @@
   "dashboard_child_trustly_account_ongoing": "Die Bankkonto-Verbindung wird fortgeführt",
   "dashboard_goal_archived": "Das Sparziel {goal.title} wurde erreicht",
   "dashboard_child_trustly_allowance_enabled": "Banküberweisungen aktiviert",
-  "dashboard_add_trustly_account": "Verbinden Sie das Bankkonto",
+  "dashboard_add_trustly_account": "Verbinde das Bankkonto",
   "push_first_wish_created": "{wish.child.name} hat einen Wunschzettel mit {wish.title} erstellt!",
   "push_wish_created": "{wish.child.name} hat {wish.title} zur Wunschliste hinzugefügt",
   "push_wish_deleted": "{wish.child.name} hat {wish.title} von der Wunschliste entfernt",
