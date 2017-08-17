@@ -240,7 +240,7 @@
   "archive_goal": "Archiveer een doel",
   "overview_child_item_add_task": "Maak aan",
   "overview_new_notifications": "Nieuwe gebeurtenissen",
-  "profile_add_cost": "Voeg betaling toe",
+  "profile_add_cost": "PLZ_CHECK Voeg betaling toe",
   "expense_popover_title": "Betaling voor %1$d",
   "expense_popover_charachters_left": "%1$d karakters over",
   "expense_popover_max_charachters": "Max %1$d karakters",
