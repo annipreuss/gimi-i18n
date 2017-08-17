@@ -32,11 +32,10 @@ let getAllConfigFiles = ():Array<Object> => {
       allConfigs.push(file)
     }
   })
-    return allConfigs
+  return allConfigs
 }
+
 describe('Config', () => {
-
-
   it('it should be able to get config ', () => {
     supportedCurrencies.forEach((currencyCode) => expect(getCurrencyConfig(currencyCode)).toBeDefined())
   })
