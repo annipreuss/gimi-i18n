@@ -158,7 +158,7 @@
   "push_assignment_reminder": "{parent.name} gaf je een herinnering voor {assignment.task.title}",
   "push_new_app_version": "Er komt een nieuwe update in de app Store!",
   "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} is overgemaakt naar de bankrekening van {transaction.child.name}",
-  "push_manual_trustly_withdrawal_failed_parent": "PLZ_TRANSLATE De overdracht van {transaction.str_value} te {transaction.child.name} &#39;s bankrekening wekelijkse toelage is mislukt",
+  "push_manual_trustly_withdrawal_failed_parent": "PLZ_TRANSLATE De overdracht van {transaction.str_value} te {transaction.child.name} 's bankrekening wekelijkse toelage is mislukt",
   "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE Overdracht van {transaction.str_value} naar uw bankrekening is mislukt.",
   "push_event_message_created": "{user.name}: \"{text}\"",
   "push_assignment_auto_approved": "PLZ_TRANSLATE Leuk! {assignment.task.title} is automatisch goedgekeurd!",

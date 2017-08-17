@@ -19,7 +19,7 @@
   "push_parent_account_selected": "Din bankkonto er aktivert",
   "push_child_account_selected": "{child.name}s bankkonto er aktivert",
   "push_weekly_trustly_payout_failed_parent": "Överföringen av {transaction.parent.name}s veckopeng misslyckades",
-  "push_monthly_trustly_payout_failed_parent": "PLZ_TRANSLATE Overføringen av {transaction.parent.name} &#39;s månedlige godtgjørelse mislyktes",
+  "push_monthly_trustly_payout_failed_parent": "PLZ_TRANSLATE Overføringen av {transaction.parent.name} 's månedlige godtgjørelse mislyktes",
   "push_weekly_trustly_payout_trustly_failed_child": "Överföringen av din veckopeng misslyckades",
   "push_monthly_trustly_payout_trustly_failed_child": "Överföringen av din månadspeng misslyckades",
   "push_changed_to_weekly_allowance": "{name} har gått over til ukepenger.",

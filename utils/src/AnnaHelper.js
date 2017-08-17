@@ -1,4 +1,4 @@
-var symbolsThatShouldNotBeReplaced = ['%1$s', '%2$s', '%3$s', '%4$s', '%1$d', '%2$d', '%3$d', '%4$d', '%5$d', '%6$d', '%7$d', '%8$d', 'PLZ_TRANSLATE']
+var symbolsThatShouldNotBeReplaced = ['%1$s', '%2$s', '%3$s', '%4$s', '%1$d', '%2$d', '%3$d', '%4$d', '%5$d', '%6$d', '%7$d', '%8$d', 'PLZ_TRANSLATE', "'"]
 
 let toHash = (text: string) => {
   symbolsThatShouldNotBeReplaced.forEach((symbol, index) => {

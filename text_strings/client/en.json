@@ -1284,7 +1284,7 @@
   "twitter_url": "https://twitter.com/gimitheapp",
   "task_requires_photo_action": "Take a picture",
   "go_back": "Go back",
-  "goal_completed_long_text_child": "<b>Congratulations</b>! Your goal goal is reached. When it&#39;s finished, you&#39;ll continue your journey.",
+  "goal_completed_long_text_child": "<b>Congratulations</b>! Your goal goal is reached. When it's finished, you'll continue your journey.",
   "goal_completed_long_text_parent": "<b>Congratulations</b>! %1$d goal is reached. Once completed, %1$d will continue the journey.",
   "goal_popover_child_delete_action": "Delete and do not payout",
   "goal_popover_child_payout_action": "Payout",
