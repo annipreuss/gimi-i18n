@@ -240,7 +240,7 @@
   "archive_goal": "Archiver l'objectif",
   "overview_child_item_add_task": "Créer",
   "overview_new_notifications": "Nouveaux évènements",
-  "profile_add_cost": "Ajouter paiement",
+  "profile_add_cost": "PLZ_CHECK Ajouter paiement",
   "expense_popover_title": "Paiement pour %1$d",
   "expense_popover_charachters_left": "%1$d caractères restants",
   "expense_popover_max_charachters": "MAX %1$d caractères",
