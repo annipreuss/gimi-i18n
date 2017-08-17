@@ -274,5 +274,6 @@
   "seo.news.h2": "current",
   "seo.news.h3": "current",
   "seo.news.title": "current",
-  "seo.news.description": "current"
+  "seo.news.description": "current",
+  "footer.acceptCookies": "I accept"
 }
