@@ -1526,5 +1526,6 @@
   "camera_request_access_descr": "PLZ_TRANSLATE Per utilizzare la fotocamera, è necessario consentire l'accesso!",
   "camera_access_deny_request": "PLZ_TRANSLATE No!",
   "camera_access_goto_settings": "PLZ_TRANSLATE impostazioni",
-  "status_empty_history": "PLZ_TRANSLATE La tua storia è vuota!"
+  "status_empty_history": "PLZ_TRANSLATE La tua storia è vuota!",
+  "task_list_history_header": "PLZ_TRANSLATE Storia"
 }

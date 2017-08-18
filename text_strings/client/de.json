@@ -1526,5 +1526,6 @@
   "camera_request_access_descr": "Um die Kamera zu benutzen, musst Du den Zugriff erlauben!",
   "camera_access_deny_request": "Nein!",
   "camera_access_goto_settings": "Einstellungen",
-  "status_empty_history": "PLZ_TRANSLATE Ihre Geschichte ist leer!"
+  "status_empty_history": "PLZ_TRANSLATE Ihre Geschichte ist leer!",
+  "task_list_history_header": "PLZ_TRANSLATE Geschichte"
 }

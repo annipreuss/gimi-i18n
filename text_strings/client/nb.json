@@ -1526,5 +1526,6 @@
   "camera_request_access_descr": "PLZ_TRANSLATE For å bruke kameraet må du tillate tilgang!",
   "camera_access_deny_request": "PLZ_TRANSLATE Nei!",
   "camera_access_goto_settings": "PLZ_TRANSLATE innstillinger",
-  "status_empty_history": "PLZ_TRANSLATE Din historie er tom!"
+  "status_empty_history": "PLZ_TRANSLATE Din historie er tom!",
+  "task_list_history_header": "PLZ_TRANSLATE Historie"
 }
