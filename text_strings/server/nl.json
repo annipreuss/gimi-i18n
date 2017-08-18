@@ -72,7 +72,7 @@
   "push_first_wish_created": "{wish.child.name} heeft een wenslijst gemaakt met als wens {wish.title}!",
   "push_wish_created": "{wish.child.name} heeft {wish.title} toegevoegd aan hun wenslijst",
   "push_wish_deleted": "{wish.child.name} heeft {wish.title} verwijderd van hun wenslijst",
-  "push_child_logged_in": "{child.name} his ingelogt!,//onelink.to/t69wn8",
+  "push_child_logged_in": "{child.name} his ingelogt!",
   "sms_app_download": "Welkom bij Gimi!\n http://onelink.to/t69wn8",
   "push_goal_archived": "{goal.updated_by.name} verwijderde spaardoel {goal.title}",
   "push_timed_assignment_created": "Neem een kijkje, je hebt een taak voor tijd gekregen!",

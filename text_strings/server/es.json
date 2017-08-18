@@ -72,7 +72,7 @@
   "push_first_wish_created": "¡{wish.child.name} ha creado su lista de deseos con el deseo {wish.title}!",
   "push_wish_created": "{wish.child.name} agregó {wish.title} a su lista de deseos",
   "push_wish_deleted": "{wish.child.name} eliminó {wish.title} de su lista de deseos",
-  "push_child_logged_in": "¡{child.name} inició sesion!,//onelink.to/t69wn8",
+  "push_child_logged_in": "¡{child.name} inició sesion!",
   "sms_app_download": "¡Bienvenido a Gimi!\n http://onelink.to/t69wn8",
   "push_goal_archived": "{goal.updated_by.name} guardó la meta de ahorro {goal.title}",
   "push_timed_assignment_created": "¡Da un vistazo, recibiste una tarea programada!",

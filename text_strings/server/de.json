@@ -72,7 +72,7 @@
   "push_first_wish_created": "{wish.child.name} hat einen Wunschzettel mit {wish.title} erstellt!",
   "push_wish_created": "{wish.child.name} hat {wish.title} zur Wunschliste hinzugefügt",
   "push_wish_deleted": "{wish.child.name} hat {wish.title} von der Wunschliste entfernt",
-  "push_child_logged_in": "{child.name} hat sich eingeloggt!,//onelink.to/t69wn8",
+  "push_child_logged_in": "{child.name} hat sich eingeloggt!",
   "sms_app_download": "Herzlich Willkommen bei Gimi!\n http://onelink.to/t69wn8",
   "push_goal_archived": "{goal.updated_by.name} hat das Sparziel {goal.title} erreicht",
   "push_timed_assignment_created": "Guck mal, Du hast eine zeitlich begrenzte Aufgabe erhalten!",

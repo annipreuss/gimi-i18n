@@ -72,7 +72,7 @@
   "push_first_wish_created": "PLZ_TRANSLATE {wish.child.name} has created their wish list with the wish {wish.title}!",
   "push_wish_created": "PLZ_TRANSLATE {wish.child.name} has added {wish.title} to their wish list",
   "push_wish_deleted": "PLZ_TRANSLATE {wish.child.name} has removed {wish.title} from their wish list",
-  "push_child_logged_in": "PLZ_TRANSLATE {child.name} has logged in!,//onelink.to/t69wn8",
+  "push_child_logged_in": "PLZ_TRANSLATE {child.name} has logged in!",
   "sms_app_download": "PLZ_TRANSLATE Welcome to Gimi!\n http://onelink.to/t69wn8",
   "push_goal_archived": "PLZ_TRANSLATE {goal.updated_by.name} archived savings goal {goal.title}",
   "push_timed_assignment_created": "PLZ_TRANSLATE Take a look, you have received a timed task!",
