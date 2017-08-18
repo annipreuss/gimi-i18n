@@ -1525,5 +1525,6 @@
   "camera_request_access_title": "Kamera tarvitsee luvan",
   "camera_request_access_descr": "Jos haluat käyttää kameraa, sinun on sallittava sen käyttö.",
   "camera_access_deny_request": "Ei!",
-  "camera_access_goto_settings": "Asetukset"
+  "camera_access_goto_settings": "Asetukset",
+  "status_empty_history": "PLZ_TRANSLATE Historia on tyhjä!"
 }
