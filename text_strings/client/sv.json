@@ -1536,5 +1536,6 @@
   "camera_request_access_title": "Kameran behöver tillgång",
   "camera_request_access_descr": "För att använda kameran behöver du slå på tillgång!",
   "camera_access_deny_request": "Nej!",
-  "camera_access_goto_settings": "Inställningar"
+  "camera_access_goto_settings": "Inställningar",
+  "status_empty_history": "PLZ_TRANSLATE Din historik är tom!"
 }
