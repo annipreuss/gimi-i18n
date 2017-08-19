@@ -1523,7 +1523,7 @@
   "too_big_withdraw": "La valeur de la dépense est trop grande et le montant disponible dans votre compte serait inférieur au minimum",
   "add_new": "Ajouter",
   "camera_request_access_title": "La caméra a besoin d'accès",
-  "camera_request_access_descr": "Vous devez autoriser l'accès à l'appareil photo pour pouvoir l'utiliser !",
+  "camera_request_access_descr": "Vous devez autoriser l'accès à l'appareil photo pour pouvoir l'utiliser!",
   "camera_access_deny_request": "Non!",
   "camera_access_goto_settings": "Paramètres",
   "status_empty_history": "Votre historique est vide!",
