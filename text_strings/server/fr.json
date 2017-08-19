@@ -157,11 +157,11 @@
   "event_assignment_reminder": "{parent.name} vient de vous envoyer un rappel pour effectuer la tâche: {assignment.task.title}",
   "push_assignment_reminder": "{parent.name} vient de vous envoyer un rappel pour effectuer la tâche: {assignment.task.title}",
   "push_new_app_version": "Une nouvelle mise à jour est en train d'arriver dans le App Store!!",
-  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} a été transférée au compte bancaire {transaction.child.name}",
-  "push_manual_trustly_withdrawal_failed_parent": "PLZ_TRANSLATE Le transfert de {transaction.str_value} à {transaction.child.name} l'allocation hebdomadaire du compte bancaire n'a pas abouti",
-  "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE Le transfert de {transaction.str_value} sur votre compte bancaire a échoué.",
+  "push_manual_trustly_withdrawal": "{transaction.str_value} ont été transférés au compte bancairede  {transaction.child.name}",
+  "push_manual_trustly_withdrawal_failed_parent": "Le transfert de {transaction.str_value} à l'allocation hebdomadaire du compte bancaire de{transaction.child.name} n'a pas abouti",
+  "push_manual_trustly_withdrawal_failed_child": "Le transfert de {transaction.str_value} sur votre compte bancaire a échoué.",
   "push_event_message_created": "{user.name}: \"{text}\"",
-  "push_assignment_auto_approved": "PLZ_TRANSLATE Agréable! {assignment.task.title} été auto-approuvé!",
-  "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Tâche auto-approuvée: {assignment.task.title}",
-  "event_assignment_auto_approved": "PLZ_TRANSLATE Tâche auto-approuvée: {assignment.task.title}"
+  "push_assignment_auto_approved": "Bien! {assignment.task.title} été auto-approuvé!",
+  "push_assignment_auto_approved_parent": "Tâche auto-approuvée: {assignment.task.title}",
+  "event_assignment_auto_approved": "Tâche auto-approuvée: {assignment.task.title}"
 }
