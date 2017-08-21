@@ -2,73 +2,73 @@
    "general":{
       "id":13,
       "titleId":"category_name_13",
-      "image":"/static/categories/generellt_utlagg.png",
+      "image":"static/categories/generellt_utlagg.png",
       "color":"#A5A5A5"
    },
    "gift":{
       "id":37,
       "titleId":"category_name_37",
-      "image":"/static/categories/symbol_gavor.png",
+      "image":"static/categories/symbol_gavor.png",
       "color":"#ABB4DC"
    },
    "christmasGift":{
       "id":38,
       "titleId":"category_name_38",
-      "image":"/static/categories/symbol_julklapp.png",
+      "image":"static/categories/symbol_julklapp.png",
       "color":"#F08096"
    },
    "birthdayGift":{
       "id":39,
       "titleId":"category_name_39",
-      "image":"/static/categories/symbol_fodelsedag.png",
+      "image":"static/categories/symbol_fodelsedag.png",
       "color":"#ABDDC2"
    },
    "toothfairy":{
       "id":40,
       "titleId":"category_name_40",
-      "image":"/static/categories/symbol_tandfen.png",
+      "image":"static/categories/symbol_tandfen.png",
       "color":"#E0C070"
    },
    "reward":{
       "id":41,
       "titleId":"category_name_41",
-      "image":"/static/categories/symbol_beloning.png",
+      "image":"static/categories/symbol_beloning.png",
       "color":"#554296"
    },
    "loan":{
       "id":42,
       "titleId":"category_name_42",
-      "image":"/static/categories/symbol_lan.png",
+      "image":"static/categories/symbol_lan.png",
       "color":"#D17A74"
    },
    "other":{
       "id":30,
       "titleId":"category_name_30",
-      "image":"/static/categories/symbol_ovriginsattning.png",
+      "image":"static/categories/symbol_ovriginsattning.png",
       "color":"#A5A5A5"
    },
    "confirmation":{
       "id":43,
       "titleId":"category_name_43",
-      "image":"/static/categories/symbol_konfirmation.png",
+      "image":"static/categories/symbol_konfirmation.png",
       "color":"#ABB4DC"
    },
    "interest":{
       "id":45,
       "titleId":"category_name_45",
-      "image":"/static/categories/symbol_sparranta.png",
+      "image":"static/categories/symbol_sparranta.png",
       "color":"#C63C5D"
    },
    "allowance":{
       "id":46,
       "titleId":"category_name_46",
-      "image":"/static/categories/symbol_veckomanadaspeng.png",
+      "image":"static/categories/symbol_veckomanadaspeng.png",
       "color":"#0F9FDB"
    },
    "goalHelp":{
       "id":47,
       "titleId":"category_name_47",
-      "image":"/static/categories/symbol_sparmalshjalp.png",
+      "image":"static/categories/symbol_sparmalshjalp.png",
       "color":"#4F4F4F"
    }
 }

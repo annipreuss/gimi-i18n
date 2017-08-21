@@ -2,73 +2,73 @@
    "custom":{
       "id":12,
       "titleId":"default_category",
-      "image":"/static/categories/uppgift_egen.png",
+      "image":"static/categories/uppgift_egen.png",
       "color":"#F08096"
    },
    "cleaning":{
       "id":1,
       "titleId":"category_name_1",
-      "image":"/static/categories/uppgift_stadning.png",
+      "image":"static/categories/uppgift_stadning.png",
       "color":"#6F83BC"
    },
    "school":{
       "id":2,
       "titleId":"category_name_2",
-      "image":"/static/categories/uppgift_skola.png",
+      "image":"static/categories/uppgift_skola.png",
       "color":"#E0C070"
    },
    "laundry":{
       "id":3,
       "titleId":"category_name_3",
-      "image":"/static/categories/uppgift_tvatt.png",
+      "image":"static/categories/uppgift_tvatt.png",
       "color":"#F08096"
    },
    "kitchenHelp":{
       "id":4,
       "titleId":"category_name_4",
-      "image":"/static/categories/uppgift_kok.png",
+      "image":"static/categories/uppgift_kok.png",
       "color":"#D17A74"
    },
    "order":{
       "id":44,
       "titleId":"category_name_44",
-      "image":"/static/categories/uppgift_ordning.png",
+      "image":"static/categories/uppgift_ordning.png",
       "color":"#ABDDC2"
    },
    "yardwork":{
       "id":11,
       "titleId":"category_name_11",
-      "image":"/static/categories/tradgard.png",
+      "image":"static/categories/tradgard.png",
       "color":"#5FB782"
    },
    "goodBehaviour":{
       "id":6,
       "titleId":"category_name_6",
-      "image":"/static/categories/uppgift_uppforande.png",
+      "image":"static/categories/uppgift_uppforande.png",
       "color":"#554296"
    },
    "pet":{
       "id":7,
       "titleId":"category_name_7",
-      "image":"/static/categories/uppgift_husdjur.png",
+      "image":"static/categories/uppgift_husdjur.png",
       "color":"#F4A882"
    },
    "internetSurf":{
       "id":8,
       "titleId":"category_name_8",
-      "image":"/static/categories/uppgift_surf.png",
+      "image":"static/categories/uppgift_surf.png",
       "color":"#6F83BC"
    },
    "extraHelp":{
       "id":9,
       "titleId":"category_name_9",
-      "image":"/static/categories/uppgift_extrahjalpforaldrarna.png",
+      "image":"static/categories/uppgift_extrahjalpforaldrarna.png",
       "color":"#C63C5D"
    },
    "challenges":{
       "id":10,
       "titleId":"category_name_10",
-      "image":"/static/categories/uppgift_utmaning.png",
+      "image":"static/categories/uppgift_utmaning.png",
       "color":"#ABB4DC"
    }
 }

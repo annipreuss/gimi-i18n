@@ -2,126 +2,126 @@
    "general":{
       "id":13,
       "titleId":"category_name_13",
-      "image":"/static/categories/generellt_utlagg.png",
+      "image":"static/categories/generellt_utlagg.png",
       "color":"#A5A5A5",
       "categoryGroup":"general"
    },
    "toy":{
       "id":18,
       "titleId":"category_name_18",
-      "image":"/static/categories/symbol_leksak.png",
+      "image":"static/categories/symbol_leksak.png",
       "color":"#F08096",
       "categoryGroup":"toys"
    },
    "app":{
       "id":31,
       "titleId":"category_name_31",
-      "image":"/static/categories/symbol_appar.png",
+      "image":"static/categories/symbol_appar.png",
       "color":"#6F83BC",
       "categoryGroup":"apps"
    },
    "shopping":{
       "id":32,
       "titleId":"category_name_32",
-      "image":"/static/categories/generellt_utlagg.png",
+      "image":"static/categories/generellt_utlagg.png",
       "color":"#ABDDC2",
       "categoryGroup":"shopping"
    },
    "makeUp":{
       "id":21,
       "titleId":"category_name_21",
-      "image":"/static/categories/symbol_smink.png",
+      "image":"static/categories/symbol_smink.png",
       "color":"#ABDDC2",
       "categoryGroup":"shopping"
    },
    "clothing":{
       "id":20,
       "titleId":"category_name_20",
-      "image":"/static/categories/symbol_klader.png",
+      "image":"static/categories/symbol_klader.png",
       "color":"#ABDDC2",
       "categoryGroup":"shopping"
    },
    "candy":{
       "id":29,
       "titleId":"category_name_29",
-      "image":"/static/categories/symbol_godis.png",
+      "image":"static/categories/symbol_godis.png",
       "color":"#5FB782",
       "categoryGroup":"candy"
    },
    "entertainment":{
       "id":23,
       "titleId":"category_name_23",
-      "image":"/static/categories/symbol_noje.png",
+      "image":"static/categories/symbol_noje.png",
       "color":"#554296",
       "categoryGroup":"entertainment"
    },
    "cinema":{
       "id":33,
       "titleId":"category_name_33",
-      "image":"/static/categories/symbol_bio.png",
+      "image":"static/categories/symbol_bio.png",
       "color":"#554296",
       "categoryGroup":"entertainment"
    },
    "transport":{
       "id":34,
       "titleId":"category_name_34",
-      "image":"/static/categories/symbol_transport.png",
+      "image":"static/categories/symbol_transport.png",
       "color":"#F4A882",
       "categoryGroup":"transport"
    },
    "pet":{
       "id":7,
       "titleId":"category_name_7",
-      "image":"/static/categories/uppgift_husdjur.png",
+      "image":"static/categories/uppgift_husdjur.png",
       "color":"#BDE06C",
       "categoryGroup":"pets"
    },
    "school":{
       "id":2,
       "titleId":"category_name_2",
-      "image":"/static/categories/symbol_skola.png",
+      "image":"static/categories/symbol_skola.png",
       "color":"#E0C070",
       "categoryGroup":"school"
    },
    "music":{
       "id":35,
       "titleId":"category_name_35",
-      "image":"/static/categories/symbol_musik.png",
+      "image":"static/categories/symbol_musik.png",
       "color":"#C63C5D",
       "categoryGroup":"music"
    },
    "travel":{
       "id":22,
       "titleId":"category_name_22",
-      "image":"/static/categories/symbol_resor.png",
+      "image":"static/categories/symbol_resor.png",
       "color":"#E0C070",
       "categoryGroup":"travel"
    },
    "foodDrink":{
       "id":36,
       "titleId":"category_name_36",
-      "image":"/static/categories/symbol_matdryck.png",
+      "image":"static/categories/symbol_matdryck.png",
       "color":"#5FB782",
       "categoryGroup":"foodAndDrinks"
    },
    "tvComputerGame":{
       "id":14,
       "titleId":"category_name_14",
-      "image":"/static/categories/symbol_tvspel.png",
+      "image":"static/categories/symbol_tvspel.png",
       "color":"#ABB4DC",
       "categoryGroup":"tech"
    },
    "other":{
       "id":30,
       "titleId":"category_name_30",
-      "image":"/static/categories/symbol_ovriginsattning.png",
+      "image":"static/categories/symbol_ovriginsattning.png",
       "color":"#AD83B2",
       "categoryGroup":"other"
    },
    "trustly":{
       "id":48,
       "titleId":"category_name_48",
-      "image":"/static/categories/generellt_utlagg.png",
+      "image":"static/categories/generellt_utlagg.png",
       "color":"#A5A5A5",
       "categoryGroup":"general"
    }
