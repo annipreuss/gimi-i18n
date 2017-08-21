@@ -2,133 +2,133 @@
    "general":{
       "id":13,
       "titleId":"category_name_13",
-      "image":"static/categories/generellt_sparmal.png",
+      "image":"/static/categories/generellt_sparmal.png",
       "color":"#A5A5A5",
       "categoryGroup":"general"
    },
    "tvComputerGame":{
       "id":14,
       "titleId":"category_name_14",
-      "image":"static/categories/symbol_tvspel.png",
+      "image":"/static/categories/symbol_tvspel.png",
       "color":"#ABB4DC",
       "categoryGroup":"tech"
    },
    "computer":{
       "id":15,
       "titleId":"category_name_15",
-      "image":"static/categories/symbol_dator.png",
+      "image":"/static/categories/symbol_dator.png",
       "color":"#ABB4DC",
       "categoryGroup":"tech"
    },
    "mobile":{
       "id":16,
       "titleId":"category_name_16",
-      "image":"static/categories/symbol_mobil.png",
+      "image":"/static/categories/symbol_mobil.png",
       "color":"#ABB4DC",
       "categoryGroup":"tech"
    },
    "camera":{
       "id":17,
       "titleId":"category_name_17",
-      "image":"static/categories/symbol_kamera.png",
+      "image":"/static/categories/symbol_kamera.png",
       "color":"#ABB4DC",
       "categoryGroup":"tech"
    },
    "toy":{
       "id":18,
       "titleId":"category_name_18",
-      "image":"static/categories/symbol_leksak.png",
+      "image":"/static/categories/symbol_leksak.png",
       "color":"#F08096",
       "categoryGroup":"toys"
    },
    "lego":{
       "id":19,
       "titleId":"category_name_19",
-      "image":"static/categories/symbol_lego.png",
+      "image":"/static/categories/symbol_lego.png",
       "color":"#F08096",
       "categoryGroup":"toys"
    },
    "clothes":{
       "id":20,
       "titleId":"category_name_20",
-      "image":"static/categories/symbol_klader.png",
+      "image":"/static/categories/symbol_klader.png",
       "color":"#ABDDC2",
       "categoryGroup":"clothes"
    },
    "makeUp":{
       "id":21,
       "titleId":"category_name_21",
-      "image":"static/categories/symbol_smink.png",
+      "image":"/static/categories/symbol_smink.png",
       "color":"#ABDDC2",
       "categoryGroup":"clothes"
    },
    "travel":{
       "id":22,
       "titleId":"category_name_22",
-      "image":"static/categories/symbol_resor.png",
+      "image":"/static/categories/symbol_resor.png",
       "color":"#E0C070",
       "categoryGroup":"travel"
    },
    "entertainment":{
       "id":23,
       "titleId":"category_name_23",
-      "image":"static/categories/symbol_noje.png",
+      "image":"/static/categories/symbol_noje.png",
       "color":"#554296",
       "categoryGroup":"entertainment"
    },
    "sport":{
       "id":24,
       "titleId":"category_name_24",
-      "image":"static/categories/symbol_sport.png",
+      "image":"/static/categories/symbol_sport.png",
       "color":"#D17A74",
       "categoryGroup":"sport"
    },
    "bike":{
       "id":25,
       "titleId":"category_name_25",
-      "image":"static/categories/symbol_cykel.png",
+      "image":"/static/categories/symbol_cykel.png",
       "color":"#F4A882",
       "categoryGroup":"transport"
    },
    "moped":{
       "id":26,
       "titleId":"category_name_26",
-      "image":"static/categories/symbol_moped.png",
+      "image":"/static/categories/symbol_moped.png",
       "color":"#F4A882",
       "categoryGroup":"transport"
    },
    "airboard":{
       "id":27,
       "titleId":"category_name_27",
-      "image":"static/categories/symbol_airboard.png",
+      "image":"/static/categories/symbol_airboard.png",
       "color":"#F4A882",
       "categoryGroup":"transport"
    },
    "saving":{
       "id":28,
       "titleId":"category_name_28",
-      "image":"static/categories/symbol_sparande.png",
+      "image":"/static/categories/symbol_sparande.png",
       "color":"#9175B5",
       "categoryGroup":"savings"
    },
    "candySnack":{
       "id":29,
       "titleId":"category_name_29",
-      "image":"static/categories/symbol_godis.png",
+      "image":"/static/categories/symbol_godis.png",
       "color":"#9175B5",
       "categoryGroup":"candy"
    },
    "pet":{
       "id":7,
       "titleId":"category_name_7",
-      "image":"static/categories/uppgift_husdjur.png",
+      "image":"/static/categories/uppgift_husdjur.png",
       "color":"#BDE06C",
       "categoryGroup":"pets"
    },
    "other":{
       "id":30,
       "titleId":"category_name_30",
-      "image":"static/categories/symbol_ovriginsattning.png",
+      "image":"/static/categories/symbol_ovriginsattning.png",
       "color":"#AD83B2",
       "categoryGroup":"other"
    }
