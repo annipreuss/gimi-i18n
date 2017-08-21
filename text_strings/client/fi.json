@@ -955,7 +955,7 @@
   "task_percentage_done": "Valmistumisaste",
   "tasks_done_one": "%1$d askere tehty",
   "tasks_done_multi": "%1$d askaretta tehty",
-  "task_list_history": "PLZ_TRANSLATE Viikon historia",
+  "task_list_history": "PLZ_TRANSLATE historiallinen",
   "add_task_recurring_standing": "Voidaan toistaa kun hyväksytty",
   "is_task_approved_child": "Onko askare valmis?",
   "is_this_task_approved_child": "Onko %1$d valmis?",
@@ -1527,5 +1527,5 @@
   "camera_access_deny_request": "Ei!",
   "camera_access_goto_settings": "Asetukset",
   "status_empty_history": "PLZ_TRANSLATE Historia on tyhjä!",
-  "task_list_history_header": "PLZ_TRANSLATE Historia"
+  "task_list_history_header": "PLZ_TRANSLATE Tämän viikon historia"
 }

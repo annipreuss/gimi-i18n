@@ -955,7 +955,7 @@
   "task_percentage_done": "Ydelses karakter",
   "tasks_done_one": "%1$d afsluttet opgave",
   "tasks_done_multi": "%1$d afsluttede opgaver",
-  "task_list_history": "PLZ_TRANSLATE Historie for ugen",
+  "task_list_history": "PLZ_TRANSLATE historisk",
   "add_task_recurring_standing": "Kan gentages når den er blevet godkendt",
   "is_task_approved_child": "Er du færdig med opgaven?",
   "is_this_task_approved_child": "Er %1$d færdig?",
@@ -1527,5 +1527,5 @@
   "camera_access_deny_request": "PLZ_TRANSLATE Ingen!",
   "camera_access_goto_settings": "PLZ_TRANSLATE Indstillinger",
   "status_empty_history": "PLZ_TRANSLATE Din historie er tom!",
-  "task_list_history_header": "PLZ_TRANSLATE Historie"
+  "task_list_history_header": "PLZ_TRANSLATE Historie for denne uge"
 }

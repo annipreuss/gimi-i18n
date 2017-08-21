@@ -966,7 +966,7 @@
   "task_percentage_done": "Utförandegrad",
   "tasks_done_one": "%1$d utförd uppgift",
   "tasks_done_multi": "%1$d utförda uppgifter",
-  "task_list_history": "PLZ_TRANSLATE Historik för denna vecka",
+  "task_list_history": "PLZ_TRANSLATE historisk",
   "add_task_recurring_standing": "Kan utföras igen efter att den blivit godkänd",
   "is_task_approved_child": "Är du klar med uppgiften?",
   "is_this_task_approved_child": "Är %1$d klar?",
@@ -1538,5 +1538,5 @@
   "camera_access_deny_request": "Nej!",
   "camera_access_goto_settings": "Inställningar",
   "status_empty_history": "PLZ_TRANSLATE Din historik är tom!",
-  "task_list_history_header": "Historik"
+  "task_list_history_header": "PLZ_TRANSLATE Historik för denna vecka"
 }
