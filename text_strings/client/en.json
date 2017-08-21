@@ -955,7 +955,6 @@
   "task_percentage_done": "Performance Grade",
   "tasks_done_one": "%1$d completed chore",
   "tasks_done_multi": "%1$d completed chores",
-  "task_list_history": "Historik",
   "add_task_recurring_standing": "May be repeated once approved",
   "is_task_approved_child": "Are you finished with the chore?",
   "is_this_task_approved_child": "Is %1$d done?",
@@ -1527,5 +1526,6 @@
   "camera_access_deny_request": "No!",
   "camera_access_goto_settings": "Settings",
   "status_empty_history": "Your history is empty!",
-  "task_list_history_header": "History for this week"
+  "task_list_history_recent": "History for this week",
+  "task_list_history": "History"
 }

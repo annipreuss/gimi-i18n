@@ -955,7 +955,6 @@
   "task_percentage_done": "Livello di performance",
   "tasks_done_one": "%1$d compito completato",
   "tasks_done_multi": "%1$d compiti completati ",
-  "task_list_history": "PLZ_TRANSLATE storico",
   "add_task_recurring_standing": "Potrebbero ripetersi una volta approvati",
   "is_task_approved_child": "Hai finito il compito?",
   "is_this_task_approved_child": "il compito di %1$d è finito?",
@@ -1527,5 +1526,6 @@
   "camera_access_deny_request": "PLZ_TRANSLATE No!",
   "camera_access_goto_settings": "PLZ_TRANSLATE impostazioni",
   "status_empty_history": "PLZ_TRANSLATE La tua storia è vuota!",
-  "task_list_history_header": "PLZ_TRANSLATE Storia per questa settimana"
+  "task_list_history_recent": "PLZ_TRANSLATE Storia per questa settimana",
+  "task_list_history": "PLZ_TRANSLATE Storia"
 }
