@@ -2,9 +2,10 @@
   "header_goal": "SAVINGS GOAL",
   "header_goal_amount": "AMOUNT",
   "header_goal_duration": "SAVED IN",
-  "goal_duration": "{days} days",
   "header_assignment_completed_at": "Completed on",
   "header_assignment_task_title": "TASK",
   "header_assignment_completed_by": "COMPLETED BY",
-  "header_assignment_approved_by": "APPROVED BY"
+  "header_assignment_approved_by": "APPROVED BY",
+  "goal_duration_day_singular": "{days} day",
+  "goal_duration_day_plural": "{days} days"
 }

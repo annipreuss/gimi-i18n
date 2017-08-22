@@ -2,9 +2,10 @@
   "header_goal": "PLZ_TRANSLATE OBJETIVO DE AHORRO",
   "header_goal_amount": "PLZ_TRANSLATE CANTIDAD",
   "header_goal_duration": "PLZ_TRANSLATE Salvo en",
-  "goal_duration": "PLZ_TRANSLATE {days} días",
   "header_assignment_completed_at": "PLZ_TRANSLATE Completado en",
   "header_assignment_task_title": "PLZ_TRANSLATE TAREA",
   "header_assignment_completed_by": "PLZ_TRANSLATE COMPLETADO POR",
-  "header_assignment_approved_by": "PLZ_TRANSLATE APROBADO POR"
+  "header_assignment_approved_by": "PLZ_TRANSLATE APROBADO POR",
+  "goal_duration_day_singular": "PLZ_TRANSLATE {days} día",
+  "goal_duration_day_plural": "PLZ_TRANSLATE {days} días"
 }

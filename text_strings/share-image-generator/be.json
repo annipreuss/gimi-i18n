@@ -2,9 +2,10 @@
   "header_goal": "PLZ_TRANSLATE Эканомія ЗАДАЧА",
   "header_goal_amount": "PLZ_TRANSLATE Сума",
   "header_goal_duration": "PLZ_TRANSLATE захавана ў",
-  "goal_duration": "{days} days",
   "header_assignment_completed_at": "PLZ_TRANSLATE запоўнена на",
   "header_assignment_task_title": "PLZ_TRANSLATE ЗАДАЧА",
   "header_assignment_completed_by": "PLZ_TRANSLATE ЗАПАЎНЕННЯ",
-  "header_assignment_approved_by": "PLZ_TRANSLATE ЗАЦВЕРДЖАНЫ"
+  "header_assignment_approved_by": "PLZ_TRANSLATE ЗАЦВЕРДЖАНЫ",
+  "goal_duration_day_singular": "PLZ_TRANSLATE {days} дзень",
+  "goal_duration_day_plural": "PLZ_TRANSLATE {days} дзён"
 }

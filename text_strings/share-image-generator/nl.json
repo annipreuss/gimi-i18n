@@ -2,9 +2,10 @@
   "header_goal": "PLZ_TRANSLATE BESLAG GOEDEREN",
   "header_goal_amount": "PLZ_TRANSLATE BEDRAG",
   "header_goal_duration": "PLZ_TRANSLATE BESPAAR IN",
-  "goal_duration": "PLZ_TRANSLATE {days} dagen",
   "header_assignment_completed_at": "PLZ_TRANSLATE Voltooid op",
   "header_assignment_task_title": "PLZ_TRANSLATE TAAK",
   "header_assignment_completed_by": "PLZ_TRANSLATE AFGEMAAKT DOOR",
-  "header_assignment_approved_by": "PLZ_TRANSLATE GOEDGEKEURD DOOR"
+  "header_assignment_approved_by": "PLZ_TRANSLATE GOEDGEKEURD DOOR",
+  "goal_duration_day_singular": "PLZ_TRANSLATE {days} dag",
+  "goal_duration_day_plural": "PLZ_TRANSLATE {days} dagen"
 }

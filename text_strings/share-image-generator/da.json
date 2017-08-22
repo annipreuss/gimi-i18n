@@ -2,9 +2,10 @@
   "header_goal": "PLZ_TRANSLATE SPARINGSMÅL",
   "header_goal_amount": "PLZ_TRANSLATE BELØB",
   "header_goal_duration": "PLZ_TRANSLATE SAVED IN",
-  "goal_duration": "{days} days",
   "header_assignment_completed_at": "PLZ_TRANSLATE Afsluttet på",
   "header_assignment_task_title": "PLZ_TRANSLATE OPGAVE",
   "header_assignment_completed_by": "PLZ_TRANSLATE Fuldført af",
-  "header_assignment_approved_by": "PLZ_TRANSLATE GODKENDT AF"
+  "header_assignment_approved_by": "PLZ_TRANSLATE GODKENDT AF",
+  "goal_duration_day_singular": "PLZ_TRANSLATE {days} dag",
+  "goal_duration_day_plural": "PLZ_TRANSLATE {days} dage"
 }

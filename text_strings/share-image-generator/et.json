@@ -2,9 +2,10 @@
   "header_goal": "PLZ_TRANSLATE Säästude eesmärk",
   "header_goal_amount": "PLZ_TRANSLATE AMOUNT",
   "header_goal_duration": "PLZ_TRANSLATE SÄILITUD",
-  "goal_duration": "{days} days",
   "header_assignment_completed_at": "PLZ_TRANSLATE Lõpetatud edasi",
   "header_assignment_task_title": "PLZ_TRANSLATE TASK",
   "header_assignment_completed_by": "PLZ_TRANSLATE Täidetud",
-  "header_assignment_approved_by": "PLZ_TRANSLATE KINNITATUD"
+  "header_assignment_approved_by": "PLZ_TRANSLATE KINNITATUD",
+  "goal_duration_day_singular": "PLZ_TRANSLATE {days} päev",
+  "goal_duration_day_plural": "PLZ_TRANSLATE {days} päeva"
 }

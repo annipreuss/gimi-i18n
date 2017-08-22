@@ -2,9 +2,10 @@
   "header_goal": "PLZ_TRANSLATE Sparnaðarmörk",
   "header_goal_amount": "PLZ_TRANSLATE MAGN",
   "header_goal_duration": "PLZ_TRANSLATE Sparað í",
-  "goal_duration": "{days} days",
   "header_assignment_completed_at": "PLZ_TRANSLATE Lokið á",
   "header_assignment_task_title": "PLZ_TRANSLATE Verkefni",
   "header_assignment_completed_by": "PLZ_TRANSLATE FULLT AF",
-  "header_assignment_approved_by": "PLZ_TRANSLATE SAMÞYKKT AF"
+  "header_assignment_approved_by": "PLZ_TRANSLATE SAMÞYKKT AF",
+  "goal_duration_day_singular": "PLZ_TRANSLATE {days} dagur",
+  "goal_duration_day_plural": "PLZ_TRANSLATE {days} dagar"
 }
