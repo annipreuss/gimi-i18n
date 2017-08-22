@@ -1499,7 +1499,7 @@
   "savings_goal_item_boost_parent": "You boost with %1$d per milestone and support the goal with a total of %2$d.",
   "savings_goal_item_boost_and_sponsor_parent": "You take a percentage of %1$d and boost each milestone with %2$d. In total, you support the goal with %3$d.",
   "empty_notification_list_title": "No notifications here",
-  "empty_notification_list_text": "Here your notifications will appear",
+  "empty_notification_list_text": "Your notifications will appear here",
   "error_message_fingerprint_permission": "Missing permissions or fingerprint sensors.",
   "fingerprint_popup_header": "Scan your finger",
   "fingerprint_popup_request_message": "Scan your finger to continue",
