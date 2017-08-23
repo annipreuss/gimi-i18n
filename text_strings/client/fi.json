@@ -1055,7 +1055,7 @@
   "bar_code_scanner_help_text_parent": "Skannaa koodi lapsesi tilin",
   "task_editor_type_of_task": "Askareen tyyppi",
   "suggest_task_child": "Ehdota askaretta",
-  "show_history": "PLZ_TRANSLATE Näytä koko historia",
+  "show_history": "PLZ_TRANSLATE Näytä historia",
   "is_being_payed_to_bank_account": "Maksetaan tilille",
   "payed_to_bank_account": "Maksetaan tilille",
   "task_needs_approval": "Tätä askaretta on ehdottanut %1$d. Anna askare tai poista se.",

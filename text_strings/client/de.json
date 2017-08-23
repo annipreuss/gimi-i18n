@@ -1055,7 +1055,7 @@
   "bar_code_scanner_help_text_parent": "Scanne den Code des Accounts Deines Kindes",
   "task_editor_type_of_task": "Aufgabentyp",
   "suggest_task_child": "Aufgabe vorschlagen",
-  "show_history": "PLZ_TRANSLATE Vollständige Geschichte anzeigen",
+  "show_history": "PLZ_TRANSLATE Siehe Verlauf",
   "is_being_payed_to_bank_account": "Zahlbar an Account",
   "payed_to_bank_account": "An Account bezahlt",
   "task_needs_approval": "Diese Aufgabe wurde von %1$d gestellt. Nehme sie an oder lösche sie.",

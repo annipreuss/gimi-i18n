@@ -1055,7 +1055,7 @@
   "bar_code_scanner_help_text_parent": "Scan de code van de rekening van uw kind",
   "task_editor_type_of_task": "Type informatie",
   "suggest_task_child": "Suggestie taak",
-  "show_history": "PLZ_TRANSLATE Toon volledige geschiedenis",
+  "show_history": "PLZ_TRANSLATE Bekijk geschiedenis",
   "is_being_payed_to_bank_account": "betaalbaar naar account",
   "payed_to_bank_account": "Te betalen naar account",
   "task_needs_approval": "Deze taak wordt door %1$d voorgesteld. Klik hier als je wilt accepteren, of te verwijderen.",

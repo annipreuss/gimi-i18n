@@ -1055,7 +1055,7 @@
   "bar_code_scanner_help_text_parent": "Skanne koden fra barnets konto",
   "task_editor_type_of_task": "Type informasjon",
   "suggest_task_child": "foreslå oppgave",
-  "show_history": "PLZ_TRANSLATE Vis full historie",
+  "show_history": "PLZ_TRANSLATE Se historikk",
   "is_being_payed_to_bank_account": "Betales til konto",
   "payed_to_bank_account": "Betalt til konto",
   "task_needs_approval": "Denne oppgaven er foreslått av %1$d. Del den ut hvis du vil, eller slett den.",
