@@ -1055,7 +1055,7 @@
   "bar_code_scanner_help_text_parent": "PLZ_TRANSLATE Scan the code from your child's account",
   "task_editor_type_of_task": "PLZ_TRANSLATE Type of chore",
   "suggest_task_child": "PLZ_TRANSLATE Suggest chore",
-  "show_history": "PLZ_TRANSLATE View history",
+  "show_history": "PLZ_TRANSLATE Паказаць ўсю гісторыю",
   "is_being_payed_to_bank_account": "PLZ_TRANSLATE Payable to account",
   "payed_to_bank_account": "PLZ_TRANSLATE Paid to account",
   "task_needs_approval": "PLZ_TRANSLATE This chore is proposed by %1$d. Give it out if you want, or delete it.",

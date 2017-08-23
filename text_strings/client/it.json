@@ -1055,7 +1055,7 @@
   "bar_code_scanner_help_text_parent": "Scannerizza il  codice dal conto dei tuoi figli",
   "task_editor_type_of_task": "Tipo di compito",
   "suggest_task_child": "Suggerisci un compito",
-  "show_history": "Visualizza cronologia",
+  "show_history": "PLZ_TRANSLATE Mostra la storia completa",
   "is_being_payed_to_bank_account": "Da versare sul conto ",
   "payed_to_bank_account": "Versato sul conto",
   "task_needs_approval": "Questo compito è stato proposto da %1$d. Se vuoi, puoi distribuirlo, oppure cancellarlo.",

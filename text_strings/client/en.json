@@ -1055,7 +1055,7 @@
   "bar_code_scanner_help_text_parent": "Scan the code from your child's account",
   "task_editor_type_of_task": "Type of chore",
   "suggest_task_child": "Suggest chore",
-  "show_history": "View history",
+  "show_history": "Show full history",
   "is_being_payed_to_bank_account": "Paid to account",
   "payed_to_bank_account": "Paid to account",
   "task_needs_approval": "This chore is proposed by %1$d. Give it out if you want, or delete it.",

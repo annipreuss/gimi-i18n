@@ -1066,7 +1066,7 @@
   "bar_code_scanner_help_text_parent": "Skanna koden från ditt barns konto",
   "task_editor_type_of_task": "Typ av uppgift",
   "suggest_task_child": "Föreslå uppgift",
-  "show_history": "Visa historik",
+  "show_history": "Visa all historik",
   "is_being_payed_to_bank_account": "Betalas ut till konto",
   "payed_to_bank_account": "Betalades ut till konto",
   "task_needs_approval": "Denna uppgift är föreslagen av %1$d. Ge ut den om du vill, eller ta bort den.",

@@ -1055,7 +1055,7 @@
   "bar_code_scanner_help_text_parent": "Escanea el código de la cuenta de tu hijo",
   "task_editor_type_of_task": "Tipo de tarea",
   "suggest_task_child": "Tarea sugerida",
-  "show_history": "Ver historial",
+  "show_history": "PLZ_TRANSLATE Mostrar historial completo",
   "is_being_payed_to_bank_account": "Pagable a la cuenta",
   "payed_to_bank_account": "Pagado a la cuenta",
   "task_needs_approval": "Esta tarea es propuesta por %1$d. Si quieres la puedes ceder o borrar.",
