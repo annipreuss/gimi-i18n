@@ -1520,11 +1520,14 @@
   "lost_boost_popover_title_for_parent": "Boost is verloren gegaan",
   "lost_boost_popover_text_for_parent": "%1$d heeft geld van de spaarpot gebruikt. Dit betekent dat %1$d de boost van de vorige mijlpalen heeft verloren",
   "too_big_withdraw": "Toevoegen",
-  "camera_request_access_title": "De camera heeft toegang nodig",
-  "camera_request_access_descr": "Om de camera te gebruiken, moet u toegang toestaan!",
-  "camera_access_deny_request": "Nee!",
-  "camera_access_goto_settings": "Instellingen",
+  "add_new": "PLZ_TRANSLATE Lägg till",
   "status_empty_history": "Je geschiedenis is leeg!",
   "task_list_history_recent": "Geschiedenis voor deze week",
-  "task_list_history": "Geschiedenis"
+  "task_list_history": "Geschiedenis",
+  "request_permission_title": "PLZ_TRANSLATE De app ontbreekt toegang 😓",
+  "request_permission_user_denied": "PLZ_TRANSLATE Nee!",
+  "request_permission_goto_settings": "PLZ_TRANSLATE instellingen",
+  "request_permission_photo": "PLZ_TRANSLATE De app heeft toegang om u toe te voegen om foto's uit uw bibliotheek toe te voegen voor uw spaardoelstellingen, taken of uw profielfoto bijwerken.",
+  "request_permission_camera": "PLZ_TRANSLATE De app heeft toegang tot de camera om ervoor te zorgen dat er een beeldbewijs wordt verzonden bij het uitvoeren van taken en wanneer u een nieuwe profielfoto wilt maken.",
+  "request_permission_notifications": "PLZ_TRANSLATE De app heeft uw toestemming nodig om meldingen te sturen naar u als er transacties of andere gebeurtenissen die je je en familie van invloed &#39; financiën s."
 }

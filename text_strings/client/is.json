@@ -1521,11 +1521,13 @@
   "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d hefur notað peninga frá sparisjóðnum. Þetta þýðir að %1$d hefur misst aukningu frá fyrri áfangum",
   "too_big_withdraw": "PLZ_TRANSLATE Kostnaðurinn er of stór og reikningurinn þinn er undir lágmarkinu",
   "add_new": "PLZ_TRANSLATE Bæta við",
-  "camera_request_access_title": "PLZ_TRANSLATE Myndavélin þarf aðgang",
-  "camera_request_access_descr": "PLZ_TRANSLATE Til að nota myndavélina þarftu að leyfa aðgang!",
-  "camera_access_deny_request": "PLZ_TRANSLATE Nei!",
-  "camera_access_goto_settings": "PLZ_TRANSLATE Stillingar",
   "status_empty_history": "PLZ_TRANSLATE Saga þín er tóm!",
   "task_list_history_recent": "PLZ_TRANSLATE Saga fyrir þessa viku",
-  "task_list_history": "PLZ_TRANSLATE Saga"
+  "task_list_history": "PLZ_TRANSLATE Saga",
+  "request_permission_title": "PLZ_TRANSLATE Forritið vantar aðgang 😓",
+  "request_permission_user_denied": "PLZ_TRANSLATE Nei!",
+  "request_permission_goto_settings": "PLZ_TRANSLATE Stillingar",
+  "request_permission_photo": "PLZ_TRANSLATE Forritið þarf aðgang til að leyfa þér að bæta við myndum úr bókasafni þínu til að fá sparnaðarmörk, verkefni eða uppfæra prófílmyndina þína.",
+  "request_permission_camera": "PLZ_TRANSLATE Forritið þarf aðgang að myndavélinni til að hægt sé að senda myndsönnun þegar verkefni er framkvæmt og þegar þú vilt taka nýja prófílmynd.",
+  "request_permission_notifications": "PLZ_TRANSLATE The app þarf leyfi til að senda tilkynningar til þín þegar það eru viðskipti eða aðrir atburðir sem hafa áhrif á þína og fjölskylda þín &#39; fjárhag s."
 }
