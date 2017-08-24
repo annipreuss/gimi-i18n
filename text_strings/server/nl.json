@@ -83,8 +83,8 @@
   "dashboard_assignment_approved": "De taak {assignment.task.title} was goedgekeurd. ({assignment.str_value})",
   "push_task_enabled": "Je kan nu {task} voltooien!",
   "push_disabled_task_created": "{child} heeft {task} voorgesteld!",
-  "push_weekly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} van de wekelijkse vergoeding is overgemaakt naar de bankrekening van {transaction.child.name} .",
-  "push_monthly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} van de maandelijkse vergoeding is overgemaakt naar het bankrekening van {transaction.child.name} .",
+  "push_weekly_payout_message_parent": "{transaction.str_value} van de wekelijkse vergoeding is overgemaakt naar de bankrekening van {transaction.child.name} .",
+  "push_monthly_payout_message_parent": "{transaction.str_value} van de maandelijkse vergoeding is overgemaakt naar het bankrekening van {transaction.child.name} .",
   "push_charge_message_parent": "Momenteel: {amount} wordt overgedragen aan {child}'s bankrekening morgen.",
   "dashboard_disabled_task_created": "Voorgestelde taak {task}.",
   "push_trustly_mandate_revoked": "Uw bankrekening is nu losgekoppeld, update uw gegevens om overschrijvingen te gebruiken.",
@@ -157,11 +157,11 @@
   "event_assignment_reminder": "{parent.name} gaf je een herinnering voor {assignment.task.title}",
   "push_assignment_reminder": "{parent.name} gaf je een herinnering voor {assignment.task.title}",
   "push_new_app_version": "Er komt een nieuwe update in de app Store!",
-  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} is overgemaakt naar de bankrekening van {transaction.child.name}",
-  "push_manual_trustly_withdrawal_failed_parent": "PLZ_TRANSLATE De overdracht van {transaction.str_value} te {transaction.child.name} 's bankrekening wekelijkse toelage is mislukt",
-  "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE Overdracht van {transaction.str_value} naar uw bankrekening is mislukt.",
+  "push_manual_trustly_withdrawal": "{transaction.str_value} is overgemaakt naar de bankrekening van {transaction.child.name}",
+  "push_manual_trustly_withdrawal_failed_parent": "De overdracht van {transaction.str_value} naar {transaction.child.name} 's bankrekening wekelijkse toelage is mislukt",
+  "push_manual_trustly_withdrawal_failed_child": "Overdracht van {transaction.str_value} naar uw bankrekening is mislukt.",
   "push_event_message_created": "{user.name}: \"{text}\"",
-  "push_assignment_auto_approved": "PLZ_TRANSLATE Leuk! {assignment.task.title} is automatisch goedgekeurd!",
-  "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Taak automatisch goedgekeurd: {assignment.task.title}",
-  "event_assignment_auto_approved": "PLZ_TRANSLATE Taak automatisch goedgekeurd: {assignment.task.title}"
+  "push_assignment_auto_approved": "Leuk! {assignment.task.title} is automatisch goedgekeurd!",
+  "push_assignment_auto_approved_parent": "Taak automatisch goedgekeurd: {assignment.task.title}",
+  "event_assignment_auto_approved": "Taak automatisch goedgekeurd: {assignment.task.title}"
 }
