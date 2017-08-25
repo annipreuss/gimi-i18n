@@ -1533,9 +1533,5 @@
   "camera_request_access_title": "PLZ_TRANSLATE Kameraet har brug for adgang",
   "camera_request_access_descr": "PLZ_TRANSLATE For at bruge kameraet skal du aktivere adgang",
   "camera_access_goto_settings": "PLZ_TRANSLATE Indstillinger",
-  "camera_access_deny_request": "PLZ_TRANSLATE Ingen!",
-  "android_permission_popover_title": "PLZ_TRANSLATE Gå til indstillinger",
-  "android_permission_popover_photo": "PLZ_TRANSLATE Appen mangler adgang. Indtast dine indstillinger og aktiver adgang til billeder for at bruge funktionen",
-  "android_permission_popover_camera": "PLZ_TRANSLATE Appen har ingen adgang til kameraet. Indtast dine indstillinger og aktiver adgang for at bruge funktionen",
-  "android_permission_popover_notifications": "PLZ_TRANSLATE Appen har ikke adgang til underretninger. Indtast dine indstillinger og aktiver adgang for at bruge funktionen"
+  "camera_access_deny_request": "PLZ_TRANSLATE Ingen!"
 }

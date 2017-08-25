@@ -1533,9 +1533,5 @@
   "camera_request_access_title": "The camera needs access",
   "camera_request_access_descr": "To use the camera you need to enable access",
   "camera_access_goto_settings": "Settings",
-  "camera_access_deny_request": "No!",
-  "android_permission_popover_title": "Go to settings",
-  "android_permission_popover_photo": "The app is missing access. Go to your settings and enable access to photos in order to use this feature",
-  "android_permission_popover_camera": "The app is missing access to the camera. Go to your settings and enable access in order to use this feature",
-  "android_permission_popover_notifications": "The app is missing access to notifications. Go to your settings and enable access in order to use this feature"
+  "camera_access_deny_request": "No!"
 }
