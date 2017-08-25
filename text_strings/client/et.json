@@ -1533,5 +1533,9 @@
   "camera_request_access_title": "PLZ_TRANSLATE Kaameral on juurdepääs",
   "camera_request_access_descr": "PLZ_TRANSLATE Kaamera kasutamiseks peate juurdepääsu lubama",
   "camera_access_goto_settings": "PLZ_TRANSLATE Seaded",
-  "camera_access_deny_request": "PLZ_TRANSLATE Ei!"
+  "camera_access_deny_request": "PLZ_TRANSLATE Ei!",
+  "android_permission_popover_title": "PLZ_TRANSLATE Avage seadeid",
+  "android_permission_popover_photo": "PLZ_TRANSLATE Rakendusel puudub juurdepääs. Selle funktsiooni kasutamiseks sisestage oma seaded ja lubage juurdepääs piltidele",
+  "android_permission_popover_camera": "PLZ_TRANSLATE Rakendusel ei ole kaamerale juurdepääsu. Sisestage oma seaded ja lubage juurdepääs funktsiooni kasutamiseks",
+  "android_permission_popover_notifications": "PLZ_TRANSLATE Rakendusel pole teatisi. Sisestage oma seaded ja lubage juurdepääs funktsiooni kasutamiseks"
 }

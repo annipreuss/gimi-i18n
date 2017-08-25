@@ -1533,5 +1533,9 @@
   "camera_request_access_title": "PLZ_TRANSLATE Myndavélin þarf aðgang",
   "camera_request_access_descr": "PLZ_TRANSLATE Til að nota myndavélina þarftu að virkja aðgang",
   "camera_access_goto_settings": "PLZ_TRANSLATE Stillingar",
-  "camera_access_deny_request": "PLZ_TRANSLATE Nei!"
+  "camera_access_deny_request": "PLZ_TRANSLATE Nei!",
+  "android_permission_popover_title": "PLZ_TRANSLATE Farðu í stillingar",
+  "android_permission_popover_photo": "PLZ_TRANSLATE Forritið vantar aðgang. Sláðu inn stillingarnar þínar og virkjaðu aðgang að myndum til að nota þennan eiginleika",
+  "android_permission_popover_camera": "PLZ_TRANSLATE Forritið hefur ekki aðgang að myndavélinni. Sláðu inn stillingarnar þínar og virkjaðu aðgang að því að nota þennan eiginleika",
+  "android_permission_popover_notifications": "PLZ_TRANSLATE Forritið hefur ekki aðgang að tilkynningum. Sláðu inn stillingarnar þínar og virkjaðu aðgang að því að nota þennan eiginleika"
 }

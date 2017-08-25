@@ -1544,5 +1544,9 @@
   "camera_request_access_title": "Kameran behöver tillgång",
   "camera_request_access_descr": "För att använda kameran behöver du slå på tillgång",
   "camera_access_goto_settings": "Inställningar",
-  "camera_access_deny_request": "Nej!"
+  "camera_access_deny_request": "Nej!",
+  "android_permission_popover_title": "Gå till inställningar",
+  "android_permission_popover_photo": "Appen saknar åtkomst. Gå in i dina inställningar och aktivera åtkomst till bilder för att använda funktionen",
+  "android_permission_popover_camera": "Appen saknar åtkomst till kameran. Gå in i dina inställningar och aktivera åtkomst för att använda funktionen",
+  "android_permission_popover_notifications": "Appen saknar åtkomst till notifikationer. Gå in i dina inställningar och aktivera åtkomst för att använda funktionen"
 }
