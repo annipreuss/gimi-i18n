@@ -1535,10 +1535,14 @@
   "status_empty_history": "PLZ_TRANSLATE Din historik är tom!",
   "task_list_history_recent": "Historik för denna vecka",
   "task_list_history": "Historik",
-  "request_permission_title": "PLZ_TRANSLATE Appen saknar åtkomst 😓",
-  "request_permission_user_denied": "PLZ_TRANSLATE Nej!",
-  "request_permission_goto_settings": "PLZ_TRANSLATE Inställningar",
-  "request_permission_photo": "PLZ_TRANSLATE Appen begär åtkomst för att du ska kunna lägga till bilder från ditt bibliotek vid sparmål, uppgifter eller uppdatering av profilbilder.",
-  "request_permission_camera": "PLZ_TRANSLATE Appen begär åtkomst till kameran för att bildbevis ska kunna skickas vid utförande av uppgifter och då du vill ta en ny profilbild.",
-  "request_permission_notifications": "PLZ_TRANSLATE Appen ber om tillåtelse att skicka notifikationer till dig då det sker transaktioner eller andra händelser som påverkar din och din familjs ekonomi."
+  "request_permission_title": "Appen saknar åtkomst 😓",
+  "request_permission_user_denied": "Nej!",
+  "request_permission_goto_settings": "Inställningar",
+  "request_permission_photo": "Appen begär åtkomst för att du ska kunna lägga till bilder från ditt bibliotek vid sparmål, uppgifter eller uppdatering av profilbilder.",
+  "request_permission_camera": "Appen begär åtkomst till kameran för att bildbevis ska kunna skickas vid utförande av uppgifter och då du vill ta en ny profilbild.",
+  "request_permission_notifications": "Appen ber om tillåtelse att skicka notifikationer till dig då det sker transaktioner eller andra händelser som påverkar din och din familjs ekonomi.",
+  "camera_request_access_title": "Kameran behöver tillgång",
+  "camera_request_access_descr": "För att använda kameran behöver du slå på tillgång",
+  "camera_access_goto_settings": "Inställningar",
+  "camera_access_deny_request": "Nej!"
 }

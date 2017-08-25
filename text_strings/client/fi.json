@@ -1529,5 +1529,9 @@
   "request_permission_goto_settings": "PLZ_TRANSLATE asetukset",
   "request_permission_photo": "PLZ_TRANSLATE Sovellus tarvitsee pääsyn, jotta voit lisätä valokuvasi kirjastostasi säästötavoitteisiin, tehtäviin tai profiilikuvan päivittämiseen.",
   "request_permission_camera": "PLZ_TRANSLATE Sovellus tarvitsee käyttää kameraa, jotta kuvaustulos lähetettäisiin tehtävien suorittamisen aikana ja kun haluat ottaa uuden profiilikuvan.",
-  "request_permission_notifications": "PLZ_TRANSLATE Sovellus tarvitsee luvan lähettää ilmoituksia, kun siihen on liiketoimia tai muita tapahtumia, jotka vaikuttavat ja perheesi &#39; s taloutta."
+  "request_permission_notifications": "PLZ_TRANSLATE Sovellus tarvitsee luvan lähettää ilmoituksia, kun siihen on liiketoimia tai muita tapahtumia, jotka vaikuttavat ja perheesi &#39; s taloutta.",
+  "camera_request_access_title": "PLZ_TRANSLATE Kamerassa on oltava pääsy",
+  "camera_request_access_descr": "PLZ_TRANSLATE Jotta voit käyttää kameraa, sinun on otettava yhteys käyttöön",
+  "camera_access_goto_settings": "PLZ_TRANSLATE asetukset",
+  "camera_access_deny_request": "PLZ_TRANSLATE Ei!"
 }

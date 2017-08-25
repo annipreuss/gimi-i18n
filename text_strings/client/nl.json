@@ -1529,5 +1529,9 @@
   "request_permission_goto_settings": "PLZ_TRANSLATE instellingen",
   "request_permission_photo": "PLZ_TRANSLATE De app heeft toegang om u toe te voegen om foto's uit uw bibliotheek toe te voegen voor uw spaardoelstellingen, taken of uw profielfoto bijwerken.",
   "request_permission_camera": "PLZ_TRANSLATE De app heeft toegang tot de camera om ervoor te zorgen dat er een beeldbewijs wordt verzonden bij het uitvoeren van taken en wanneer u een nieuwe profielfoto wilt maken.",
-  "request_permission_notifications": "PLZ_TRANSLATE De app heeft uw toestemming nodig om meldingen te sturen naar u als er transacties of andere gebeurtenissen die je je en familie van invloed &#39; financiën s."
+  "request_permission_notifications": "PLZ_TRANSLATE De app heeft uw toestemming nodig om meldingen te sturen naar u als er transacties of andere gebeurtenissen die je je en familie van invloed &#39; financiën s.",
+  "camera_request_access_title": "PLZ_TRANSLATE De camera heeft toegang",
+  "camera_request_access_descr": "PLZ_TRANSLATE Om de camera te gebruiken moet u de toegang inschakelen",
+  "camera_access_goto_settings": "PLZ_TRANSLATE instellingen",
+  "camera_access_deny_request": "PLZ_TRANSLATE Nee!"
 }

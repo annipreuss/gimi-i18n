@@ -1529,5 +1529,9 @@
   "request_permission_goto_settings": "PLZ_TRANSLATE Seaded",
   "request_permission_photo": "PLZ_TRANSLATE Rakendusel on juurdepääs, et saaksite oma raamatukogust fotot lisada säästueesmärkideks, ülesanneteks või oma profiilipiltide värskendamiseks.",
   "request_permission_camera": "PLZ_TRANSLATE Rakendusel on vajalik juurdepääs kaameratele, et ülesannete täitmisel ja kui soovite uue profiilipildi pildistada, saadetakse pilditõend.",
-  "request_permission_notifications": "PLZ_TRANSLATE Rakendus vajab teie luba saata Teile teateid, kui on tehingute või muude sündmuste, mis mõjutavad teie ja teie pere &#39; s rahandust."
+  "request_permission_notifications": "PLZ_TRANSLATE Rakendus vajab teie luba saata Teile teateid, kui on tehingute või muude sündmuste, mis mõjutavad teie ja teie pere &#39; s rahandust.",
+  "camera_request_access_title": "PLZ_TRANSLATE Kaameral on juurdepääs",
+  "camera_request_access_descr": "PLZ_TRANSLATE Kaamera kasutamiseks peate juurdepääsu lubama",
+  "camera_access_goto_settings": "PLZ_TRANSLATE Seaded",
+  "camera_access_deny_request": "PLZ_TRANSLATE Ei!"
 }
