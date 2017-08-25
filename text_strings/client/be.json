@@ -1533,5 +1533,9 @@
   "camera_request_access_title": "PLZ_TRANSLATE Камера павінна мець доступ",
   "camera_request_access_descr": "PLZ_TRANSLATE Каб выкарыстоўваць камеру, Вам неабходна ўключыць доступ",
   "camera_access_goto_settings": "PLZ_TRANSLATE налады",
-  "camera_access_deny_request": "PLZ_TRANSLATE Няма!"
+  "camera_access_deny_request": "PLZ_TRANSLATE Няма!",
+  "android_permission_popover_title": "PLZ_TRANSLATE Перайдзіце ў раздзел Налады",
+  "android_permission_popover_photo": "PLZ_TRANSLATE Прыкладанне не мае доступу. Перайдзіце ў налады і забяспечыць доступ да малюнкаў, каб выкарыстоўваць гэтую функцыю",
+  "android_permission_popover_camera": "PLZ_TRANSLATE Прыкладанне не мае доступу да камеры. Перайдзіце ў налады і ўключыць доступ выкарыстоўваць гэтую функцыю",
+  "android_permission_popover_notifications": "PLZ_TRANSLATE Прыкладанне не мае доступу да паведамлення. Перайдзіце ў налады і ўключыць доступ выкарыстоўваць гэтую функцыю"
 }
