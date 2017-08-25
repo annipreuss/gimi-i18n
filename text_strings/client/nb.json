@@ -1537,5 +1537,7 @@
   "android_permission_popover_title": "PLZ_TRANSLATE Gå til innstillinger",
   "android_permission_popover_photo": "PLZ_TRANSLATE Appen mangler tilgang. Skriv inn innstillingene dine og aktiver tilgang til bilder for å bruke funksjonen",
   "android_permission_popover_camera": "PLZ_TRANSLATE Appen har ingen tilgang til kameraet. Skriv inn innstillingene dine og aktiver tilgang for å bruke funksjonen",
-  "android_permission_popover_notifications": "PLZ_TRANSLATE Appen har ingen tilgang til varsler. Skriv inn innstillingene dine og aktiver tilgang for å bruke funksjonen"
+  "android_permission_popover_notifications": "PLZ_TRANSLATE Appen har ingen tilgang til varsler. Skriv inn innstillingene dine og aktiver tilgang for å bruke funksjonen",
+  "feedback_for_task_title": "PLZ_TRANSLATE Hvorfor ikke var &#39; t til oppdraget godkjent?",
+  "feedback_for_task_description": "PLZ_TRANSLATE Skriv en linje til %1$d beskrive hvorfor du gjorde &#39; t godkjenne oppgaven"
 }

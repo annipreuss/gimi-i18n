@@ -1537,5 +1537,7 @@
   "android_permission_popover_title": "Go to settings",
   "android_permission_popover_photo": "The app is missing access. Go to your settings and enable access to photos in order to use this feature",
   "android_permission_popover_camera": "The app is missing access to the camera. Go to your settings and enable access in order to use this feature",
-  "android_permission_popover_notifications": "The app is missing access to notifications. Go to your settings and enable access in order to use this feature"
+  "android_permission_popover_notifications": "The app is missing access to notifications. Go to your settings and enable access in order to use this feature",
+  "feedback_for_task_title": "Why wasn't the assignment approved?",
+  "feedback_for_task_description": "Write a line to %1$d describing why you didn't approve the task"
 }

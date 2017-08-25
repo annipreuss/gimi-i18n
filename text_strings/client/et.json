@@ -1537,5 +1537,7 @@
   "android_permission_popover_title": "PLZ_TRANSLATE Avage seadeid",
   "android_permission_popover_photo": "PLZ_TRANSLATE Rakendusel puudub juurdepääs. Selle funktsiooni kasutamiseks sisestage oma seaded ja lubage juurdepääs piltidele",
   "android_permission_popover_camera": "PLZ_TRANSLATE Rakendusel ei ole kaamerale juurdepääsu. Sisestage oma seaded ja lubage juurdepääs funktsiooni kasutamiseks",
-  "android_permission_popover_notifications": "PLZ_TRANSLATE Rakendusel pole teatisi. Sisestage oma seaded ja lubage juurdepääs funktsiooni kasutamiseks"
+  "android_permission_popover_notifications": "PLZ_TRANSLATE Rakendusel pole teatisi. Sisestage oma seaded ja lubage juurdepääs funktsiooni kasutamiseks",
+  "feedback_for_task_title": "PLZ_TRANSLATE Miks polnud &#39; t loovutamise heaks?",
+  "feedback_for_task_description": "PLZ_TRANSLATE Kirjutage joon %1$d kirjeldab, miks sa ei &#39; t kinnitab ülesanne"
 }

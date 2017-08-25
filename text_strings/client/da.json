@@ -1537,5 +1537,7 @@
   "android_permission_popover_title": "PLZ_TRANSLATE Gå til indstillinger",
   "android_permission_popover_photo": "PLZ_TRANSLATE Appen mangler adgang. Indtast dine indstillinger og aktiver adgang til billeder for at bruge funktionen",
   "android_permission_popover_camera": "PLZ_TRANSLATE Appen har ingen adgang til kameraet. Indtast dine indstillinger og aktiver adgang for at bruge funktionen",
-  "android_permission_popover_notifications": "PLZ_TRANSLATE Appen har ikke adgang til underretninger. Indtast dine indstillinger og aktiver adgang for at bruge funktionen"
+  "android_permission_popover_notifications": "PLZ_TRANSLATE Appen har ikke adgang til underretninger. Indtast dine indstillinger og aktiver adgang for at bruge funktionen",
+  "feedback_for_task_title": "PLZ_TRANSLATE Hvorfor var ikke &#39; t opgaven godkendt?",
+  "feedback_for_task_description": "PLZ_TRANSLATE Skriv en linje til %1$d beskriver, hvorfor du didn &#39; t godkende opgaven"
 }

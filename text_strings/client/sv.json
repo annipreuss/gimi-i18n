@@ -1548,5 +1548,7 @@
   "android_permission_popover_title": "Gå till inställningar",
   "android_permission_popover_photo": "Appen saknar åtkomst. Gå in i dina inställningar och aktivera åtkomst till bilder för att använda funktionen",
   "android_permission_popover_camera": "Appen saknar åtkomst till kameran. Gå in i dina inställningar och aktivera åtkomst för att använda funktionen",
-  "android_permission_popover_notifications": "Appen saknar åtkomst till notifikationer. Gå in i dina inställningar och aktivera åtkomst för att använda funktionen"
+  "android_permission_popover_notifications": "Appen saknar åtkomst till notifikationer. Gå in i dina inställningar och aktivera åtkomst för att använda funktionen",
+  "feedback_for_task_title": "PLZ_TRANSLATE Varför godkändes uppgiften ej?",
+  "feedback_for_task_description": "PLZ_TRANSLATE Skriv en rad till %1$d om varför du ej godkände uppgiften"
 }
