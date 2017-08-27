@@ -1518,7 +1518,7 @@
   "stop_timer_task": "Arrêter",
   "disable_interactable_task_setting": "Activer le nouveau design interactif",
   "lost_boost_popover_title_for_parent": "Le boost a été perdu",
-  "lost_boost_popover_text_for_parent": "PLZ_CHECK %1$d a utilisé de l'argent de la tirelire. Cela signifie qu'il a %1$d un boost depuis les jalons précédents",
+  "lost_boost_popover_text_for_parent": "%1$d a utilisé de l'argent de la tirelire. Cela signifie que %1$d a perdu un boost des jalons précédants",
   "too_big_withdraw": "La valeur de la dépense est trop grande et le montant disponible dans votre compte serait inférieur au minimum",
   "add_new": "Ajouter",
   "status_empty_history": "Votre historique est vide!",
