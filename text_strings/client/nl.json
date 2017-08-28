@@ -1539,5 +1539,7 @@
   "android_permission_popover_camera": "PLZ_TRANSLATE De app heeft geen toegang tot de camera. Voer uw instellingen in en stel de toegang in om de functie te gebruiken",
   "android_permission_popover_notifications": "PLZ_TRANSLATE De app heeft geen toegang tot meldingen. Voer uw instellingen in en stel de toegang in om de functie te gebruiken",
   "feedback_for_task_title": "PLZ_TRANSLATE Waarom was geen &#39; t de opdracht goedgekeurd?",
-  "feedback_for_task_description": "PLZ_TRANSLATE Schrijf een lijn om %1$d beschrijven waarom u didn &#39; t goedkeuren van de taak"
+  "feedback_for_task_description": "PLZ_TRANSLATE Schrijf een lijn om %1$d beschrijven waarom u didn &#39; t goedkeuren van de taak",
+  "connect_via_camera_description": "PLZ_TRANSLATE Verbind als samen",
+  "connect_via_message_description": "PLZ_TRANSLATE Uitnodiging sturen"
 }

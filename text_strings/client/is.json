@@ -1539,5 +1539,7 @@
   "android_permission_popover_camera": "PLZ_TRANSLATE Forritið hefur ekki aðgang að myndavélinni. Sláðu inn stillingarnar þínar og virkjaðu aðgang að því að nota þennan eiginleika",
   "android_permission_popover_notifications": "PLZ_TRANSLATE Forritið hefur ekki aðgang að tilkynningum. Sláðu inn stillingarnar þínar og virkjaðu aðgang að því að nota þennan eiginleika",
   "feedback_for_task_title": "PLZ_TRANSLATE Af hverju myndað af was not &#39; T framsal samþykkt?",
-  "feedback_for_task_description": "PLZ_TRANSLATE Skrifaðu línu til %1$d lýsir því hvers vegna þú settir ekkert &#39; T samþykkja verkefni"
+  "feedback_for_task_description": "PLZ_TRANSLATE Skrifaðu línu til %1$d lýsir því hvers vegna þú settir ekkert &#39; T samþykkja verkefni",
+  "connect_via_camera_description": "PLZ_TRANSLATE Tengdu ef saman",
+  "connect_via_message_description": "PLZ_TRANSLATE Senda boð"
 }

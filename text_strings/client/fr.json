@@ -1539,5 +1539,7 @@
   "android_permission_popover_camera": "PLZ_TRANSLATE L'application n'a pas accès à la caméra. Entrez vos paramètres et autorisez l'accès à l'utilisation de la fonction",
   "android_permission_popover_notifications": "PLZ_TRANSLATE L'application n'a pas accès aux notifications. Entrez vos paramètres et autorisez l'accès à l'utilisation de la fonction",
   "feedback_for_task_title": "PLZ_TRANSLATE Pourquoi l&#39;affectation n&#39;était-elle &#39; approuvée?",
-  "feedback_for_task_description": "PLZ_TRANSLATE Écrire une ligne à %1$d décrivant pourquoi vous n &#39; t approuver la tâche"
+  "feedback_for_task_description": "PLZ_TRANSLATE Écrire une ligne à %1$d décrivant pourquoi vous n &#39; t approuver la tâche",
+  "connect_via_camera_description": "PLZ_TRANSLATE Se connecter si ensemble",
+  "connect_via_message_description": "PLZ_TRANSLATE Envoyer une invitation"
 }

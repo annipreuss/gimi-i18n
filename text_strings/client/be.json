@@ -1539,5 +1539,7 @@
   "android_permission_popover_camera": "PLZ_TRANSLATE Прыкладанне не мае доступу да камеры. Перайдзіце ў налады і ўключыць доступ выкарыстоўваць гэтую функцыю",
   "android_permission_popover_notifications": "PLZ_TRANSLATE Прыкладанне не мае доступу да паведамлення. Перайдзіце ў налады і ўключыць доступ выкарыстоўваць гэтую функцыю",
   "feedback_for_task_title": "PLZ_TRANSLATE Чаму WASN &#39; T ўхваліў прызначэнне?",
-  "feedback_for_task_description": "PLZ_TRANSLATE Напісаць радок %1$d , у якіх тлумачылася , чаму вы Чакаеце &#39; т зацвердзіць задачу"
+  "feedback_for_task_description": "PLZ_TRANSLATE Напісаць радок %1$d , у якіх тлумачылася , чаму вы Чакаеце &#39; т зацвердзіць задачу",
+  "connect_via_camera_description": "PLZ_TRANSLATE Падключэнне, калі разам",
+  "connect_via_message_description": "PLZ_TRANSLATE адправіць запрашэнне"
 }
