@@ -1547,5 +1547,6 @@
   "how_trustly_works_bullet_2": "PLZ_TRANSLATE Collegalo all&#39;account %1$d",
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Seleziona le funzionalità da abilitare per ogni account",
   "how_trustly_works_done": "PLZ_TRANSLATE Fatto!",
-  "select_image_title": "PLZ_TRANSLATE Come si desidera selezionare l'immagine?"
+  "select_image_title": "PLZ_TRANSLATE Come si desidera selezionare l'immagine?",
+  "fetch_failed": "PLZ_TRANSLATE Il recupero non è riuscito"
 }

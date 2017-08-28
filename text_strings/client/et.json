@@ -1547,5 +1547,6 @@
   "how_trustly_works_bullet_2": "PLZ_TRANSLATE Linkige see %1$d kontole",
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Valige, milliseid funktsioone soovite iga konto jaoks lubada",
   "how_trustly_works_done": "PLZ_TRANSLATE Valmis!",
-  "select_image_title": "PLZ_TRANSLATE Kuidas soovite pilti valida?"
+  "select_image_title": "PLZ_TRANSLATE Kuidas soovite pilti valida?",
+  "fetch_failed": "PLZ_TRANSLATE Tõstmine ebaõnnestus"
 }

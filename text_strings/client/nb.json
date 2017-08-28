@@ -1547,5 +1547,6 @@
   "how_trustly_works_bullet_2": "PLZ_TRANSLATE Koble den til %1$d kontoen",
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Velg hvilke funksjoner du vil aktivere for hver konto",
   "how_trustly_works_done": "PLZ_TRANSLATE Ferdig!",
-  "select_image_title": "PLZ_TRANSLATE Hvordan vil du velge bilde?"
+  "select_image_title": "PLZ_TRANSLATE Hvordan vil du velge bilde?",
+  "fetch_failed": "PLZ_TRANSLATE Hentingen mislyktes"
 }

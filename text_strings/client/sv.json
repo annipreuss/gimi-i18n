@@ -1558,5 +1558,6 @@
   "how_trustly_works_bullet_2": "PLZ_TRANSLATE Koppla ihop det med %1$d konto",
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Välj vilka funktioner du vill aktivera för varje konto",
   "how_trustly_works_done": "PLZ_TRANSLATE Klart!",
-  "select_image_title": "Hur vill du välja bild?"
+  "select_image_title": "Hur vill du välja bild?",
+  "fetch_failed": "Hämtningen misslyckades"
 }
