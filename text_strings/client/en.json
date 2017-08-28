@@ -1546,5 +1546,6 @@
   "how_trustly_works_bullet_1": "Link your account to %1$d",
   "how_trustly_works_bullet_2": "Link it to %1$d account",
   "how_trustly_works_bullet_3": "Select which features you want to enable for each account",
-  "how_trustly_works_done": "Done!"
+  "how_trustly_works_done": "Done!",
+  "select_image_title": "How do you want to select image?"
 }

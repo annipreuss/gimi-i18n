@@ -1546,5 +1546,6 @@
   "how_trustly_works_bullet_1": "PLZ_TRANSLATE Yhdistä tilisi %1$d",
   "how_trustly_works_bullet_2": "PLZ_TRANSLATE Liitä se tiliin %1$d",
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Valitse, mitkä toiminnot haluat ottaa käyttöön jokaiselle tilille",
-  "how_trustly_works_done": "PLZ_TRANSLATE Tehty!"
+  "how_trustly_works_done": "PLZ_TRANSLATE Tehty!",
+  "select_image_title": "PLZ_TRANSLATE Kuinka haluat valita kuvan?"
 }

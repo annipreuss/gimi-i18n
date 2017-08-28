@@ -1546,5 +1546,6 @@
   "how_trustly_works_bullet_1": "PLZ_TRANSLATE Tengdu reikninginn þinn við %1$d",
   "how_trustly_works_bullet_2": "PLZ_TRANSLATE Tengdu það við %1$d reikning",
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Veldu hvaða aðgerðir þú vilt virkja fyrir hvern reikning",
-  "how_trustly_works_done": "PLZ_TRANSLATE Gert!"
+  "how_trustly_works_done": "PLZ_TRANSLATE Gert!",
+  "select_image_title": "PLZ_TRANSLATE Hvernig viltu velja mynd?"
 }

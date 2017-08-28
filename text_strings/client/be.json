@@ -1546,5 +1546,6 @@
   "how_trustly_works_bullet_1": "PLZ_TRANSLATE Звяжыце свой рахунак на %1$d",
   "how_trustly_works_bullet_2": "PLZ_TRANSLATE Размясціце спасылку на %1$d рахункі",
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Выберыце, якія функцыі вы хочаце ўключыць для кожнай ўліковага запісу",
-  "how_trustly_works_done": "PLZ_TRANSLATE Гатова!"
+  "how_trustly_works_done": "PLZ_TRANSLATE Гатова!",
+  "select_image_title": "PLZ_TRANSLATE Як вы хочаце, каб выбраць малюнак?"
 }

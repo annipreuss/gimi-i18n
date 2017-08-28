@@ -1546,5 +1546,6 @@
   "how_trustly_works_bullet_1": "PLZ_TRANSLATE Verknüpfe dein Konto mit %1$d",
   "how_trustly_works_bullet_2": "PLZ_TRANSLATE Verknüpfe es mit %1$d Konto",
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Wählen Sie aus, welche Funktionen für jedes Konto aktiviert werden sollen",
-  "how_trustly_works_done": "PLZ_TRANSLATE Erledigt!"
+  "how_trustly_works_done": "PLZ_TRANSLATE Erledigt!",
+  "select_image_title": "PLZ_TRANSLATE Wie möchten Sie das Bild auswählen?"
 }

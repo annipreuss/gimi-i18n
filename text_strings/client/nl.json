@@ -1546,5 +1546,6 @@
   "how_trustly_works_bullet_1": "PLZ_TRANSLATE Link uw account naar %1$d",
   "how_trustly_works_bullet_2": "PLZ_TRANSLATE Link het aan %1$d account",
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Selecteer welke functies u wilt inschakelen voor elk account",
-  "how_trustly_works_done": "PLZ_TRANSLATE Gedaan!"
+  "how_trustly_works_done": "PLZ_TRANSLATE Gedaan!",
+  "select_image_title": "PLZ_TRANSLATE Hoe wil je een afbeelding selecteren?"
 }

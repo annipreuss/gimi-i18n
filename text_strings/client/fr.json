@@ -1546,5 +1546,6 @@
   "how_trustly_works_bullet_1": "PLZ_TRANSLATE Reliez votre compte à %1$d",
   "how_trustly_works_bullet_2": "PLZ_TRANSLATE Reliez-le au compte %1$d",
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Sélectionnez les fonctionnalités que vous souhaitez activer pour chaque compte",
-  "how_trustly_works_done": "PLZ_TRANSLATE Terminé!"
+  "how_trustly_works_done": "PLZ_TRANSLATE Terminé!",
+  "select_image_title": "PLZ_TRANSLATE Comment souhaitez-vous sélectionner l'image?"
 }
