@@ -1541,5 +1541,10 @@
   "feedback_for_task_title": "PLZ_TRANSLATE ¿Por qué no era &#39; t aprobó la asignación?",
   "feedback_for_task_description": "PLZ_TRANSLATE Escribir una línea de %1$d describiendo por qué no lo hiciste &#39; t Aprobar la tarea",
   "connect_via_camera_description": "PLZ_TRANSLATE Conectar si juntos",
-  "connect_via_message_description": "PLZ_TRANSLATE Enviar invitación"
+  "connect_via_message_description": "PLZ_TRANSLATE Enviar invitación",
+  "this_is_how_it_works": "PLZ_TRANSLATE Así es como funciona",
+  "how_trustly_works_bullet_1": "PLZ_TRANSLATE Vincule su cuenta a %1$d",
+  "how_trustly_works_bullet_2": "PLZ_TRANSLATE Enlace a la cuenta %1$d",
+  "how_trustly_works_bullet_3": "PLZ_TRANSLATE Seleccione las características que desea habilitar para cada cuenta",
+  "how_trustly_works_done": "PLZ_TRANSLATE ¡Hecho!"
 }

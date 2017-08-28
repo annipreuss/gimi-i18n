@@ -1541,5 +1541,10 @@
   "feedback_for_task_title": "PLZ_TRANSLATE Чаму WASN &#39; T ўхваліў прызначэнне?",
   "feedback_for_task_description": "PLZ_TRANSLATE Напісаць радок %1$d , у якіх тлумачылася , чаму вы Чакаеце &#39; т зацвердзіць задачу",
   "connect_via_camera_description": "PLZ_TRANSLATE Падключэнне, калі разам",
-  "connect_via_message_description": "PLZ_TRANSLATE адправіць запрашэнне"
+  "connect_via_message_description": "PLZ_TRANSLATE адправіць запрашэнне",
+  "this_is_how_it_works": "PLZ_TRANSLATE Вось як гэта працуе",
+  "how_trustly_works_bullet_1": "PLZ_TRANSLATE Звяжыце свой рахунак на %1$d",
+  "how_trustly_works_bullet_2": "PLZ_TRANSLATE Размясціце спасылку на %1$d рахункі",
+  "how_trustly_works_bullet_3": "PLZ_TRANSLATE Выберыце, якія функцыі вы хочаце ўключыць для кожнай ўліковага запісу",
+  "how_trustly_works_done": "PLZ_TRANSLATE Гатова!"
 }

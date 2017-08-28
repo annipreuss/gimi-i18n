@@ -1541,5 +1541,10 @@
   "feedback_for_task_title": "PLZ_TRANSLATE Af hverju myndað af was not &#39; T framsal samþykkt?",
   "feedback_for_task_description": "PLZ_TRANSLATE Skrifaðu línu til %1$d lýsir því hvers vegna þú settir ekkert &#39; T samþykkja verkefni",
   "connect_via_camera_description": "PLZ_TRANSLATE Tengdu ef saman",
-  "connect_via_message_description": "PLZ_TRANSLATE Senda boð"
+  "connect_via_message_description": "PLZ_TRANSLATE Senda boð",
+  "this_is_how_it_works": "PLZ_TRANSLATE Þetta er hvernig það virkar",
+  "how_trustly_works_bullet_1": "PLZ_TRANSLATE Tengdu reikninginn þinn við %1$d",
+  "how_trustly_works_bullet_2": "PLZ_TRANSLATE Tengdu það við %1$d reikning",
+  "how_trustly_works_bullet_3": "PLZ_TRANSLATE Veldu hvaða aðgerðir þú vilt virkja fyrir hvern reikning",
+  "how_trustly_works_done": "PLZ_TRANSLATE Gert!"
 }

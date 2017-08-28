@@ -1541,5 +1541,10 @@
   "feedback_for_task_title": "Hvorfor var opgaven &#39; ikke godkendt?",
   "feedback_for_task_description": "Skriv en meddelelse til %1$d som forklarer hvorfor du ikke &#39; godkendte opgaven",
   "connect_via_camera_description": "PLZ_TRANSLATE Tilslut hvis sammen",
-  "connect_via_message_description": "PLZ_TRANSLATE Send invitation"
+  "connect_via_message_description": "PLZ_TRANSLATE Send invitation",
+  "this_is_how_it_works": "PLZ_TRANSLATE Sådan virker det",
+  "how_trustly_works_bullet_1": "PLZ_TRANSLATE Link din konto til %1$d",
+  "how_trustly_works_bullet_2": "PLZ_TRANSLATE Link det til %1$d konto",
+  "how_trustly_works_bullet_3": "PLZ_TRANSLATE Vælg hvilke funktioner du vil aktivere for hver konto",
+  "how_trustly_works_done": "PLZ_TRANSLATE Færdig!"
 }

@@ -1541,5 +1541,10 @@
   "feedback_for_task_title": "PLZ_TRANSLATE Waarom was geen &#39; t de opdracht goedgekeurd?",
   "feedback_for_task_description": "PLZ_TRANSLATE Schrijf een lijn om %1$d beschrijven waarom u didn &#39; t goedkeuren van de taak",
   "connect_via_camera_description": "PLZ_TRANSLATE Verbind als samen",
-  "connect_via_message_description": "PLZ_TRANSLATE Uitnodiging sturen"
+  "connect_via_message_description": "PLZ_TRANSLATE Uitnodiging sturen",
+  "this_is_how_it_works": "PLZ_TRANSLATE Dit is hoe het werkt",
+  "how_trustly_works_bullet_1": "PLZ_TRANSLATE Link uw account naar %1$d",
+  "how_trustly_works_bullet_2": "PLZ_TRANSLATE Link het aan %1$d account",
+  "how_trustly_works_bullet_3": "PLZ_TRANSLATE Selecteer welke functies u wilt inschakelen voor elk account",
+  "how_trustly_works_done": "PLZ_TRANSLATE Gedaan!"
 }

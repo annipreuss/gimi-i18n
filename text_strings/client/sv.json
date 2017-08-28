@@ -1552,5 +1552,10 @@
   "feedback_for_task_title": "PLZ_TRANSLATE Varför godkändes uppgiften ej?",
   "feedback_for_task_description": "PLZ_TRANSLATE Skriv en rad till %1$d om varför du ej godkände uppgiften",
   "connect_via_camera_description": "Om ni är tillsammans",
-  "connect_via_message_description": "Skicka inbjudan"
+  "connect_via_message_description": "Skicka inbjudan",
+  "this_is_how_it_works": "PLZ_TRANSLATE Såhär funkar det",
+  "how_trustly_works_bullet_1": "PLZ_TRANSLATE Koppla ditt konto till %1$d",
+  "how_trustly_works_bullet_2": "PLZ_TRANSLATE Koppla ihop det med %1$d konto",
+  "how_trustly_works_bullet_3": "PLZ_TRANSLATE Välj vilka funktioner du vill aktivera för varje konto",
+  "how_trustly_works_done": "PLZ_TRANSLATE Klart!"
 }

@@ -1541,5 +1541,10 @@
   "feedback_for_task_title": "PLZ_TRANSLATE Miks polnud &#39; t loovutamise heaks?",
   "feedback_for_task_description": "PLZ_TRANSLATE Kirjutage joon %1$d kirjeldab, miks sa ei &#39; t kinnitab ülesanne",
   "connect_via_camera_description": "PLZ_TRANSLATE Ühendage, kui koos",
-  "connect_via_message_description": "PLZ_TRANSLATE Saada kutse"
+  "connect_via_message_description": "PLZ_TRANSLATE Saada kutse",
+  "this_is_how_it_works": "PLZ_TRANSLATE Nii toimib see",
+  "how_trustly_works_bullet_1": "PLZ_TRANSLATE Linkige oma konto %1$d",
+  "how_trustly_works_bullet_2": "PLZ_TRANSLATE Linkige see %1$d kontole",
+  "how_trustly_works_bullet_3": "PLZ_TRANSLATE Valige, milliseid funktsioone soovite iga konto jaoks lubada",
+  "how_trustly_works_done": "PLZ_TRANSLATE Valmis!"
 }

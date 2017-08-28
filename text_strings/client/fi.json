@@ -1541,5 +1541,10 @@
   "feedback_for_task_title": "PLZ_TRANSLATE Miksi ei ollut &#39; t tehtävän hyväksytty?",
   "feedback_for_task_description": "PLZ_TRANSLATE Kirjoita rivi %1$d joissa kuvataan, miksi sinä et &#39; t hyväksyä tehtävän",
   "connect_via_camera_description": "PLZ_TRANSLATE Liitä yhteen",
-  "connect_via_message_description": "PLZ_TRANSLATE Lähetä kutsu"
+  "connect_via_message_description": "PLZ_TRANSLATE Lähetä kutsu",
+  "this_is_how_it_works": "PLZ_TRANSLATE Näin se toimii",
+  "how_trustly_works_bullet_1": "PLZ_TRANSLATE Yhdistä tilisi %1$d",
+  "how_trustly_works_bullet_2": "PLZ_TRANSLATE Liitä se tiliin %1$d",
+  "how_trustly_works_bullet_3": "PLZ_TRANSLATE Valitse, mitkä toiminnot haluat ottaa käyttöön jokaiselle tilille",
+  "how_trustly_works_done": "PLZ_TRANSLATE Tehty!"
 }
