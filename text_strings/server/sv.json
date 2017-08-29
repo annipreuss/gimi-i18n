@@ -163,5 +163,6 @@
   "push_event_message_created": "{user.name}: \"{text}\"",
   "push_assignment_auto_approved": "Uppgiften {assignment.task.title} godkändes automatiskt!",
   "push_assignment_auto_approved_parent": "Uppgiften autogodkändes: {assignment.task.title}",
-  "event_assignment_auto_approved": "Uppgiften autogodkändes: {assignment.task.title}"
+  "event_assignment_auto_approved": "Uppgiften autogodkändes: {assignment.task.title}",
+  "dashboard_connected_parent": "Du har kopplats ihop med {child.name}"
 }

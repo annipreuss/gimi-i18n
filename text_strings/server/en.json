@@ -163,5 +163,6 @@
   "push_event_message_created": "{user.name}: \"{text}\"",
   "push_assignment_auto_approved": "Nice! {assignment.task.title} was approved automatically!",
   "push_assignment_auto_approved_parent": "Task auto-approved: {assignment.task.title}",
-  "event_assignment_auto_approved": "Task auto-approved: {assignment.task.title}"
+  "event_assignment_auto_approved": "Task auto-approved: {assignment.task.title}",
+  "dashboard_connected_parent": "You are now connected with {child.name}"
 }

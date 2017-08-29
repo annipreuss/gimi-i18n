@@ -163,5 +163,6 @@
   "push_event_message_created": "{user.name}: \"{text}\"",
   "push_assignment_auto_approved": "PLZ_TRANSLATE Kiva! {assignment.task.title} hyväksyttiin automaattisesti!",
   "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Tehtävä automaattisesti hyväksytty: {assignment.task.title}",
-  "event_assignment_auto_approved": "PLZ_TRANSLATE Tehtävä automaattisesti hyväksytty: {assignment.task.title}"
+  "event_assignment_auto_approved": "PLZ_TRANSLATE Tehtävä automaattisesti hyväksytty: {assignment.task.title}",
+  "dashboard_connected_parent": "PLZ_TRANSLATE Olet nyt yhteydessä {child.name}"
 }

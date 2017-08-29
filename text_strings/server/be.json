@@ -163,5 +163,6 @@
   "push_event_message_created": "{user.name}: \"{text}\"",
   "push_assignment_auto_approved": "PLZ_TRANSLATE Nice! {assignment.task.title} быў аўтаматычна ухвалены!",
   "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Задача аўтаматычнага зацверджаны: {assignment.task.title}",
-  "event_assignment_auto_approved": "PLZ_TRANSLATE Задача аўтаматычнага зацверджаны: {assignment.task.title}"
+  "event_assignment_auto_approved": "PLZ_TRANSLATE Задача аўтаматычнага зацверджаны: {assignment.task.title}",
+  "dashboard_connected_parent": "PLZ_TRANSLATE Цяпер вы злучаны з {child.name}"
 }

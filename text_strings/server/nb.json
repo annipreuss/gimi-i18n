@@ -163,5 +163,6 @@
   "push_event_message_created": "{user.name}: \"{text}\"",
   "push_assignment_auto_approved": "PLZ_TRANSLATE Hyggelig! {assignment.task.title} ble automatisk godkjent!",
   "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Oppgave automatisk godkjent: {assignment.task.title}",
-  "event_assignment_auto_approved": "PLZ_TRANSLATE Oppgave automatisk godkjent: {assignment.task.title}"
+  "event_assignment_auto_approved": "PLZ_TRANSLATE Oppgave automatisk godkjent: {assignment.task.title}",
+  "dashboard_connected_parent": "PLZ_TRANSLATE Du er nå koblet til {child.name}"
 }

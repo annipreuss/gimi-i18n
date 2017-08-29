@@ -163,5 +163,6 @@
   "push_event_message_created": "{user.name}: \"{text}\"",
   "push_assignment_auto_approved": "Toll! {assignment.task.title} wurde automatisch zugelassen!",
   "push_assignment_auto_approved_parent": "Die Aufgabe: {assignment.task.title} automatisch genehmigt",
-  "event_assignment_auto_approved": "Aufgabe: {assignment.task.title} wurde automatisch genehmigt"
+  "event_assignment_auto_approved": "Aufgabe: {assignment.task.title} wurde automatisch genehmigt",
+  "dashboard_connected_parent": "PLZ_TRANSLATE Sie sind jetzt mit {child.name}"
 }

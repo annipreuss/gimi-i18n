@@ -163,5 +163,6 @@
   "push_event_message_created": "{user.name}: \"{text}\"",
   "push_assignment_auto_approved": "Flot! {assignment.task.title} blev automatisk godkendt!",
   "push_assignment_auto_approved_parent": "Opgave er automatisk godkendt: {assignment.task.title}",
-  "event_assignment_auto_approved": "Opgave er automatisk godkendt: {assignment.task.title}"
+  "event_assignment_auto_approved": "Opgave er automatisk godkendt: {assignment.task.title}",
+  "dashboard_connected_parent": "PLZ_TRANSLATE Du er nu forbundet med {child.name}"
 }

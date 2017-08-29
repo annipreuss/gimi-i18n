@@ -163,5 +163,6 @@
   "push_event_message_created": "{user.name}: \"{text}\"",
   "push_assignment_auto_approved": "PLZ_TRANSLATE Bello! {assignment.task.title} stato approvato automaticamente!",
   "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Attività approvata automaticamente: {assignment.task.title}",
-  "event_assignment_auto_approved": "PLZ_TRANSLATE Attività approvata automaticamente: {assignment.task.title}"
+  "event_assignment_auto_approved": "PLZ_TRANSLATE Attività approvata automaticamente: {assignment.task.title}",
+  "dashboard_connected_parent": "PLZ_TRANSLATE Ora sei connesso con {child.name}"
 }

@@ -163,5 +163,6 @@
   "push_event_message_created": "{user.name}: \"{text}\"",
   "push_assignment_auto_approved": "Bien! {assignment.task.title} été auto-approuvé!",
   "push_assignment_auto_approved_parent": "Tâche auto-approuvée: {assignment.task.title}",
-  "event_assignment_auto_approved": "Tâche auto-approuvée: {assignment.task.title}"
+  "event_assignment_auto_approved": "Tâche auto-approuvée: {assignment.task.title}",
+  "dashboard_connected_parent": "PLZ_TRANSLATE Vous êtes maintenant connecté avec {child.name}"
 }

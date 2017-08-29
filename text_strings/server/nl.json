@@ -163,5 +163,6 @@
   "push_event_message_created": "{user.name}: \"{text}\"",
   "push_assignment_auto_approved": "Leuk! {assignment.task.title} is automatisch goedgekeurd!",
   "push_assignment_auto_approved_parent": "Taak automatisch goedgekeurd: {assignment.task.title}",
-  "event_assignment_auto_approved": "Taak automatisch goedgekeurd: {assignment.task.title}"
+  "event_assignment_auto_approved": "Taak automatisch goedgekeurd: {assignment.task.title}",
+  "dashboard_connected_parent": "PLZ_TRANSLATE Je bent nu verbonden met {child.name}"
 }
