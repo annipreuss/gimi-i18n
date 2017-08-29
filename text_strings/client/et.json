@@ -1548,5 +1548,7 @@
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Valige, milliseid funktsioone soovite iga konto jaoks lubada",
   "how_trustly_works_done": "PLZ_TRANSLATE Valmis!",
   "select_image_title": "PLZ_TRANSLATE Kuidas soovite pilti valida?",
-  "fetch_failed": "PLZ_TRANSLATE Tõstmine ebaõnnestus"
+  "fetch_failed": "PLZ_TRANSLATE Tõstmine ebaõnnestus",
+  "task_per_hour_card_started_text_parent": "PLZ_TRANSLATE Taimer on käivitunud. Peatage, kui ülesanne on lõpetatud %1$d ga",
+  "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Taimer on käivitatud. Peatage, kui olete selle ülesande täitnud"
 }

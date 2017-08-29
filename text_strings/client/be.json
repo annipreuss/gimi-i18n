@@ -1548,5 +1548,7 @@
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Выберыце, якія функцыі вы хочаце ўключыць для кожнай ўліковага запісу",
   "how_trustly_works_done": "PLZ_TRANSLATE Гатова!",
   "select_image_title": "PLZ_TRANSLATE Як вы хочаце, каб выбраць малюнак?",
-  "fetch_failed": "PLZ_TRANSLATE , Не атрымалася"
+  "fetch_failed": "PLZ_TRANSLATE , Не атрымалася",
+  "task_per_hour_card_started_text_parent": "PLZ_TRANSLATE Таймер запускаецца. Спыніцеся , калі %1$d робіцца з задачай",
+  "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Таймер запускаецца. Спыніцеся, калі вы скончыце з задачай"
 }

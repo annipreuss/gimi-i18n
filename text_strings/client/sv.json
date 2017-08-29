@@ -1559,5 +1559,7 @@
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Välj vilka funktioner du vill aktivera för varje konto",
   "how_trustly_works_done": "PLZ_TRANSLATE Klart!",
   "select_image_title": "Hur vill du välja bild?",
-  "fetch_failed": "Hämtningen misslyckades"
+  "fetch_failed": "Hämtningen misslyckades",
+  "task_per_hour_card_started_text_parent": "Tidtagning är igång. Stoppa när %1$d är klar med uppgiften",
+  "task_per_hour_card_started_text_child": "Tidtagning är igång. Stoppa när du är klar med uppgiften"
 }

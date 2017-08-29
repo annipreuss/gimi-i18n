@@ -1548,5 +1548,7 @@
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Seleziona le funzionalità da abilitare per ogni account",
   "how_trustly_works_done": "PLZ_TRANSLATE Fatto!",
   "select_image_title": "PLZ_TRANSLATE Come si desidera selezionare l'immagine?",
-  "fetch_failed": "PLZ_TRANSLATE Il recupero non è riuscito"
+  "fetch_failed": "PLZ_TRANSLATE Il recupero non è riuscito",
+  "task_per_hour_card_started_text_parent": "PLZ_TRANSLATE Il timer viene avviato. Arresti quando %1$d viene eseguito con l&#39;attività",
+  "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Il timer viene avviato. Interrompi quando hai finito con l'operazione"
 }

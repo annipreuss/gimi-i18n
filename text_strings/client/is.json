@@ -1548,5 +1548,7 @@
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Veldu hvaða aðgerðir þú vilt virkja fyrir hvern reikning",
   "how_trustly_works_done": "PLZ_TRANSLATE Gert!",
   "select_image_title": "PLZ_TRANSLATE Hvernig viltu velja mynd?",
-  "fetch_failed": "PLZ_TRANSLATE Höfnunin mistókst"
+  "fetch_failed": "PLZ_TRANSLATE Höfnunin mistókst",
+  "task_per_hour_card_started_text_parent": "PLZ_TRANSLATE Tímamælirinn er ræstur. Hættu þegar %1$d er búið til með verkefninu",
+  "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Tímamælirinn er ræstur. Hættu þegar þú ert búinn að gera þetta verkefni"
 }

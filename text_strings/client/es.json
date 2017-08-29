@@ -1548,5 +1548,7 @@
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Seleccione las características que desea habilitar para cada cuenta",
   "how_trustly_works_done": "PLZ_TRANSLATE ¡Hecho!",
   "select_image_title": "PLZ_TRANSLATE ¿Cómo desea seleccionar la imagen?",
-  "fetch_failed": "PLZ_TRANSLATE Error de búsqueda"
+  "fetch_failed": "PLZ_TRANSLATE Error de búsqueda",
+  "task_per_hour_card_started_text_parent": "PLZ_TRANSLATE Se inicia el temporizador. Detener cuando %1$d se realiza con la tarea",
+  "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Se inicia el temporizador. Deténgase cuando termine con la tarea"
 }

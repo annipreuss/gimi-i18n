@@ -1548,5 +1548,7 @@
   "how_trustly_works_bullet_3": "PLZ_TRANSLATE Selecteer welke functies u wilt inschakelen voor elk account",
   "how_trustly_works_done": "PLZ_TRANSLATE Gedaan!",
   "select_image_title": "PLZ_TRANSLATE Hoe wil je een afbeelding selecteren?",
-  "fetch_failed": "PLZ_TRANSLATE Het ophalen is mislukt"
+  "fetch_failed": "PLZ_TRANSLATE Het ophalen is mislukt",
+  "task_per_hour_card_started_text_parent": "PLZ_TRANSLATE Timer is gestart. Stop wanneer %1$d is gedaan met de taak",
+  "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Timer is gestart. Stop als je klaar bent met de taak"
 }
