@@ -1562,5 +1562,6 @@
   "fetch_failed": "Hämtningen misslyckades",
   "task_per_hour_card_started_text_parent": "Tidtagning är igång. Stoppa när %1$d är klar med uppgiften",
   "task_per_hour_card_started_text_child": "Tidtagning är igång. Stoppa när du är klar med uppgiften",
-  "upload_profile_pic": "Ladda upp profilbild"
+  "upload_profile_pic": "Ladda upp profilbild",
+  "android_confirm_exit": "Vill du verkligen stänga appen?"
 }

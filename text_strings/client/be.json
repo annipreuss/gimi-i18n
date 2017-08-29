@@ -1551,5 +1551,6 @@
   "fetch_failed": "PLZ_TRANSLATE , Не атрымалася",
   "task_per_hour_card_started_text_parent": "PLZ_TRANSLATE Таймер запускаецца. Спыніцеся , калі %1$d робіцца з задачай",
   "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Таймер запускаецца. Спыніцеся, калі вы скончыце з задачай",
-  "upload_profile_pic": "PLZ_TRANSLATE Загрузіць фота профілю"
+  "upload_profile_pic": "PLZ_TRANSLATE Загрузіць фота профілю",
+  "android_confirm_exit": "PLZ_TRANSLATE Вы сапраўды хочаце, каб закрыць прыкладанне?"
 }

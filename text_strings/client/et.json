@@ -1551,5 +1551,6 @@
   "fetch_failed": "PLZ_TRANSLATE Tõstmine ebaõnnestus",
   "task_per_hour_card_started_text_parent": "PLZ_TRANSLATE Taimer on käivitunud. Peatage, kui ülesanne on lõpetatud %1$d ga",
   "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Taimer on käivitatud. Peatage, kui olete selle ülesande täitnud",
-  "upload_profile_pic": "PLZ_TRANSLATE Laadige profiili pilt üles"
+  "upload_profile_pic": "PLZ_TRANSLATE Laadige profiili pilt üles",
+  "android_confirm_exit": "PLZ_TRANSLATE Kas soovite tõesti rakenduse sulgeda?"
 }
