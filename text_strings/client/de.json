@@ -1550,5 +1550,6 @@
   "select_image_title": "PLZ_TRANSLATE Wie möchten Sie das Bild auswählen?",
   "fetch_failed": "PLZ_TRANSLATE Der Abruf ist fehlgeschlagen",
   "task_per_hour_card_started_text_parent": "PLZ_TRANSLATE Der Timer wird gestartet. Stopp, wenn %1$d mit der Aufgabe fertig ist",
-  "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Der Timer wird gestartet. Hör auf, wenn du mit der Aufgabe fertig bist"
+  "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Der Timer wird gestartet. Hör auf, wenn du mit der Aufgabe fertig bist",
+  "upload_profile_pic": "PLZ_TRANSLATE Profil hochladen"
 }

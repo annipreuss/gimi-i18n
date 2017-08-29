@@ -1550,5 +1550,6 @@
   "select_image_title": "PLZ_TRANSLATE Hvernig viltu velja mynd?",
   "fetch_failed": "PLZ_TRANSLATE Höfnunin mistókst",
   "task_per_hour_card_started_text_parent": "PLZ_TRANSLATE Tímamælirinn er ræstur. Hættu þegar %1$d er búið til með verkefninu",
-  "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Tímamælirinn er ræstur. Hættu þegar þú ert búinn að gera þetta verkefni"
+  "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Tímamælirinn er ræstur. Hættu þegar þú ert búinn að gera þetta verkefni",
+  "upload_profile_pic": "PLZ_TRANSLATE Hlaða upp prófíl mynd"
 }

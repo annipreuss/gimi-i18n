@@ -1550,5 +1550,6 @@
   "select_image_title": "PLZ_TRANSLATE ¿Cómo desea seleccionar la imagen?",
   "fetch_failed": "PLZ_TRANSLATE Error de búsqueda",
   "task_per_hour_card_started_text_parent": "PLZ_TRANSLATE Se inicia el temporizador. Detener cuando %1$d se realiza con la tarea",
-  "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Se inicia el temporizador. Deténgase cuando termine con la tarea"
+  "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Se inicia el temporizador. Deténgase cuando termine con la tarea",
+  "upload_profile_pic": "PLZ_TRANSLATE Subir foto de perfil"
 }

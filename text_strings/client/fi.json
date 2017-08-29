@@ -1550,5 +1550,6 @@
   "select_image_title": "PLZ_TRANSLATE Kuinka haluat valita kuvan?",
   "fetch_failed": "PLZ_TRANSLATE Haku epäonnistui",
   "task_per_hour_card_started_text_parent": "PLZ_TRANSLATE Ajastin käynnistyy. Lopeta, kun tehtävä on tehtävä %1$d",
-  "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Ajastin käynnistyy. Lopeta, kun olet tehnyt tehtävän"
+  "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Ajastin käynnistyy. Lopeta, kun olet tehnyt tehtävän",
+  "upload_profile_pic": "PLZ_TRANSLATE Lähetä profiilikuva"
 }

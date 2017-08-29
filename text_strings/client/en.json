@@ -1550,5 +1550,6 @@
   "select_image_title": "How do you want to select image?",
   "fetch_failed": "The fetch failed",
   "task_per_hour_card_started_text_parent": "Timer is started. Stop when %1$d is done with the task",
-  "task_per_hour_card_started_text_child": "Timer is started. Stop when you are done with the task"
+  "task_per_hour_card_started_text_child": "Timer is started. Stop when you are done with the task",
+  "upload_profile_pic": "Upload profile pic"
 }

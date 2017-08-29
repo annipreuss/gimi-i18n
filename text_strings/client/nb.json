@@ -1550,5 +1550,6 @@
   "select_image_title": "PLZ_TRANSLATE Hvordan vil du velge bilde?",
   "fetch_failed": "PLZ_TRANSLATE Hentingen mislyktes",
   "task_per_hour_card_started_text_parent": "PLZ_TRANSLATE Timeren er startet. Stopp når %1$d er ferdig med oppgaven",
-  "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Timeren er startet. Stopp når du er ferdig med oppgaven"
+  "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Timeren er startet. Stopp når du er ferdig med oppgaven",
+  "upload_profile_pic": "PLZ_TRANSLATE Last opp profilbilde"
 }
