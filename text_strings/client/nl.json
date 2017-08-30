@@ -1552,5 +1552,6 @@
   "task_per_hour_card_started_text_parent": "PLZ_TRANSLATE Timer is gestart. Stop wanneer %1$d is gedaan met de taak",
   "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Timer is gestart. Stop als je klaar bent met de taak",
   "upload_profile_pic": "PLZ_TRANSLATE Upload profiel foto",
-  "android_confirm_exit": "PLZ_TRANSLATE Wil je de applicatie echt sluiten?"
+  "android_confirm_exit": "PLZ_TRANSLATE Wil je de applicatie echt sluiten?",
+  "photoinput_change": "PLZ_TRANSLATE Verander afbeelding"
 }

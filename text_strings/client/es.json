@@ -1552,5 +1552,6 @@
   "task_per_hour_card_started_text_parent": "PLZ_TRANSLATE Se inicia el temporizador. Detener cuando %1$d se realiza con la tarea",
   "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Se inicia el temporizador. Deténgase cuando termine con la tarea",
   "upload_profile_pic": "PLZ_TRANSLATE Subir foto de perfil",
-  "android_confirm_exit": "PLZ_TRANSLATE ¿De verdad quieres cerrar la aplicación?"
+  "android_confirm_exit": "PLZ_TRANSLATE ¿De verdad quieres cerrar la aplicación?",
+  "photoinput_change": "PLZ_TRANSLATE Cambiar imagen"
 }

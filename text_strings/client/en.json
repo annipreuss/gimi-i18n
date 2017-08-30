@@ -1552,5 +1552,6 @@
   "task_per_hour_card_started_text_parent": "Timer is started. Stop when %1$d is done with the task",
   "task_per_hour_card_started_text_child": "Timer is started. Stop when you are done with the task",
   "upload_profile_pic": "Upload profile pic",
-  "android_confirm_exit": "Do you really want to close the app?"
+  "android_confirm_exit": "Do you really want to close the app?",
+  "photoinput_change": "Change picture"
 }

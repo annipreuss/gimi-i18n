@@ -1552,5 +1552,6 @@
   "task_per_hour_card_started_text_parent": "Ajastin käynnistyy. Lopeta, kun %1$d on tehnyt tehtävän",
   "task_per_hour_card_started_text_child": "Ajastin käynnistyy. Lopeta, kun olet tehnyt tehtävän",
   "upload_profile_pic": "Lisää profiilikuva",
-  "android_confirm_exit": "Haluatko todella sulkea sovelluksen?"
+  "android_confirm_exit": "Haluatko todella sulkea sovelluksen?",
+  "photoinput_change": "PLZ_TRANSLATE Vaihda kuva"
 }
