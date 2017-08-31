@@ -6,6 +6,6 @@
   "header_assignment_task_title": "TÂCHE",
   "header_assignment_completed_by": "COMPLÉTÉ PAR",
   "header_assignment_approved_by": "APPROUVÉ PAR",
-  "goal_duration_day_singular": "PLZ_TRANSLATE {days} jour",
-  "goal_duration_day_plural": "PLZ_TRANSLATE {days} jours"
+  "goal_duration_day_singular": "{days} jours",
+  "goal_duration_day_plural": "{days} jours"
 }
