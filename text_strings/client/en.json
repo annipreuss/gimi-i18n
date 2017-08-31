@@ -1556,5 +1556,6 @@
   "upload_profile_pic": "Upload profile pic",
   "android_confirm_exit": "Do you really want to close the app?",
   "photoinput_change": "Change picture",
-  "task_editor_edit_participant": "Edit participants"
+  "task_editor_edit_participant": "Edit participants",
+  "upload": "Upload"
 }

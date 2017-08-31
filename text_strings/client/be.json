@@ -1556,5 +1556,6 @@
   "upload_profile_pic": "PLZ_TRANSLATE Загрузіць фота профілю",
   "android_confirm_exit": "PLZ_TRANSLATE Вы сапраўды хочаце, каб закрыць прыкладанне?",
   "photoinput_change": "PLZ_TRANSLATE змяніць карцінку",
-  "task_editor_edit_participant": "PLZ_TRANSLATE ўдзельнікі Рэдагаваць"
+  "task_editor_edit_participant": "PLZ_TRANSLATE ўдзельнікі Рэдагаваць",
+  "upload": "PLZ_TRANSLATE загрузіць"
 }

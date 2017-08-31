@@ -1556,5 +1556,6 @@
   "upload_profile_pic": "PLZ_TRANSLATE Laadige profiili pilt üles",
   "android_confirm_exit": "PLZ_TRANSLATE Kas soovite tõesti rakenduse sulgeda?",
   "photoinput_change": "PLZ_TRANSLATE Muuda pilti",
-  "task_editor_edit_participant": "PLZ_TRANSLATE Muuda osalejaid"
+  "task_editor_edit_participant": "PLZ_TRANSLATE Muuda osalejaid",
+  "upload": "PLZ_TRANSLATE Laadi üles"
 }

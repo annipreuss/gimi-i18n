@@ -1566,6 +1566,7 @@
   "task_per_hour_card_started_text_child": "Tidtagning är igång. Stoppa när du är klar med uppgiften",
   "upload_profile_pic": "Ladda upp profilbild",
   "android_confirm_exit": "Vill du verkligen stänga appen?",
-  "photoinput_change": "PLZ_TRANSLATE Ändra bild",
-  "task_editor_edit_participant": "PLZ_TRANSLATE Redigera deltagare"
+  "photoinput_change": "Ändra bild",
+  "task_editor_edit_participant": "Redigera deltagare",
+  "upload": "Ladda upp"
 }

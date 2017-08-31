@@ -1556,5 +1556,6 @@
   "upload_profile_pic": "PLZ_TRANSLATE Carica profilo pic",
   "android_confirm_exit": "PLZ_TRANSLATE Vuoi veramente chiudere l'applicazione?",
   "photoinput_change": "PLZ_TRANSLATE Cambia immagine",
-  "task_editor_edit_participant": "PLZ_TRANSLATE Modifica i partecipanti"
+  "task_editor_edit_participant": "PLZ_TRANSLATE Modifica i partecipanti",
+  "upload": "PLZ_TRANSLATE Caricare"
 }
