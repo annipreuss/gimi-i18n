@@ -1555,5 +1555,6 @@
   "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Se inicia el temporizador. Deténgase cuando termine con la tarea",
   "upload_profile_pic": "PLZ_TRANSLATE Subir foto de perfil",
   "android_confirm_exit": "PLZ_TRANSLATE ¿De verdad quieres cerrar la aplicación?",
-  "photoinput_change": "PLZ_TRANSLATE Cambiar imagen"
+  "photoinput_change": "PLZ_TRANSLATE Cambiar imagen",
+  "task_editor_edit_participant": "PLZ_TRANSLATE Editar participantes"
 }

@@ -1555,5 +1555,6 @@
   "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Tímamælirinn er ræstur. Hættu þegar þú ert búinn að gera þetta verkefni",
   "upload_profile_pic": "PLZ_TRANSLATE Hlaða upp prófíl mynd",
   "android_confirm_exit": "PLZ_TRANSLATE Viltu virkilega loka forritinu?",
-  "photoinput_change": "PLZ_TRANSLATE Breyta mynd"
+  "photoinput_change": "PLZ_TRANSLATE Breyta mynd",
+  "task_editor_edit_participant": "PLZ_TRANSLATE Breyta þátttakendum"
 }

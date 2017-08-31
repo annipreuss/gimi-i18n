@@ -1555,5 +1555,6 @@
   "task_per_hour_card_started_text_child": "PLZ_TRANSLATE La minuterie est démarrée. Arrêtez lorsque vous avez terminé la tâche",
   "upload_profile_pic": "PLZ_TRANSLATE Télécharger la photo du profil",
   "android_confirm_exit": "PLZ_TRANSLATE Voulez-vous vraiment fermer l'application?",
-  "photoinput_change": "PLZ_TRANSLATE Changer l'image"
+  "photoinput_change": "PLZ_TRANSLATE Changer l'image",
+  "task_editor_edit_participant": "PLZ_TRANSLATE Modifier les participants"
 }

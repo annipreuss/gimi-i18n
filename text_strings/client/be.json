@@ -1555,5 +1555,6 @@
   "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Таймер запускаецца. Спыніцеся, калі вы скончыце з задачай",
   "upload_profile_pic": "PLZ_TRANSLATE Загрузіць фота профілю",
   "android_confirm_exit": "PLZ_TRANSLATE Вы сапраўды хочаце, каб закрыць прыкладанне?",
-  "photoinput_change": "PLZ_TRANSLATE змяніць карцінку"
+  "photoinput_change": "PLZ_TRANSLATE змяніць карцінку",
+  "task_editor_edit_participant": "PLZ_TRANSLATE ўдзельнікі Рэдагаваць"
 }

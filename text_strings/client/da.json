@@ -1555,5 +1555,6 @@
   "task_per_hour_card_started_text_child": "PLZ_TRANSLATE Timeren er startet. Stop, når du er færdig med opgaven",
   "upload_profile_pic": "PLZ_TRANSLATE Upload profilbillede",
   "android_confirm_exit": "PLZ_TRANSLATE Vil du virkelig lukke appen?",
-  "photoinput_change": "PLZ_TRANSLATE Skift billede"
+  "photoinput_change": "PLZ_TRANSLATE Skift billede",
+  "task_editor_edit_participant": "PLZ_TRANSLATE Rediger deltagerne"
 }
