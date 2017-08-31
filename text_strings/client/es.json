@@ -1550,5 +1550,6 @@
   "android_confirm_exit": "PLZ_TRANSLATE ¿De verdad quieres cerrar la aplicación?",
   "photoinput_change": "PLZ_TRANSLATE Cambiar imagen",
   "task_editor_edit_participant": "PLZ_TRANSLATE Editar participantes",
-  "upload": "PLZ_TRANSLATE Subir"
+  "upload": "PLZ_TRANSLATE Subir",
+  "tap_to_activate": "PLZ_TRANSLATE Pulse aquí para activar"
 }

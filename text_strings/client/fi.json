@@ -1550,5 +1550,6 @@
   "android_confirm_exit": "Haluatko todella sulkea sovelluksen?",
   "photoinput_change": "PLZ_TRANSLATE Vaihda kuva",
   "task_editor_edit_participant": "PLZ_TRANSLATE Muokkaa osallistujia",
-  "upload": "PLZ_TRANSLATE upload"
+  "upload": "PLZ_TRANSLATE upload",
+  "tap_to_activate": "PLZ_TRANSLATE Napauta tästä aktivoidaksesi"
 }

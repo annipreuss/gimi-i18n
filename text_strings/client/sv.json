@@ -1561,5 +1561,6 @@
   "android_confirm_exit": "Vill du verkligen stänga appen?",
   "photoinput_change": "Ändra bild",
   "task_editor_edit_participant": "Redigera deltagare",
-  "upload": "Ladda upp"
+  "upload": "Ladda upp",
+  "tap_to_activate": "PLZ_TRANSLATE Klicka här för att aktivera"
 }
