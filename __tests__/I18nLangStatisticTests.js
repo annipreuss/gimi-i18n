@@ -30,7 +30,7 @@ describe('TextStrings', () => {
     var jsonDataCheck = []
     var jsonDataTranslate = []
 
-    var textStringsTypes = ['server', 'templates', 'client', 'gimi-web']
+    var textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator']
 
     var textStrings = {}
     textStringsTypes.forEach(textStringsType => {
