@@ -164,5 +164,5 @@
   "push_assignment_auto_approved": "¡Genial! ¡{assignment.task.title} fue aprobado automáticamente!",
   "push_assignment_auto_approved_parent": "Tarea aprobada automáticamente: {assignment.task.title}",
   "event_assignment_auto_approved": "Tarea aprobada automáticamente: {assignment.task.title}",
-  "dashboard_connected_parent": "PLZ_TRANSLATE Ahora estás conectado con {child.name}"
+  "dashboard_connected_parent": "Ahora estás conectado con {child.name}"
 }
