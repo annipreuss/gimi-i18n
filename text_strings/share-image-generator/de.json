@@ -1,11 +1,11 @@
 {
-  "header_goal": "PLZ_TRANSLATE SPEICHERN ZIEL",
-  "header_goal_amount": "PLZ_TRANSLATE MENGE",
-  "header_goal_duration": "PLZ_TRANSLATE GESCHLOSSEN",
-  "header_assignment_completed_at": "PLZ_TRANSLATE Vervollständigt am",
-  "header_assignment_task_title": "PLZ_TRANSLATE AUFGABE",
-  "header_assignment_completed_by": "PLZ_TRANSLATE VERVOLLSTÄNDIGT VON",
-  "header_assignment_approved_by": "PLZ_TRANSLATE GENEHMIGT DURCH",
-  "goal_duration_day_singular": "PLZ_TRANSLATE {days} Tag",
-  "goal_duration_day_plural": "PLZ_TRANSLATE {days} Tage"
+  "header_goal": "ZIEL SPEICHERN",
+  "header_goal_amount": "BETRAG",
+  "header_goal_duration": "ABGELAUFEN",
+  "header_assignment_completed_at": "Vervollständigt am",
+  "header_assignment_task_title": "AUFGABE",
+  "header_assignment_completed_by": "PVERVOLLSTÄNDIGT VON",
+  "header_assignment_approved_by": "GENEHMIGT DURCH",
+  "goal_duration_day_singular": "{days} Tag",
+  "goal_duration_day_plural": "{days} Tage"
 }
