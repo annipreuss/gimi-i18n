@@ -1536,7 +1536,7 @@
   "task_list_history_recent": "Historik för denna vecka",
   "task_list_history": "Historik",
   "request_permission_title": "PLZ_TRANSLATE Appen saknar åtkomst",
-  "request_permission_user_denied": "PLZ_TRANSLATE avboka",
+  "request_permission_user_denied": "Avbryt",
   "request_permission_goto_settings": "PLZ_TRANSLATE Aktivera åtkomst",
   "request_permission_photo": "Appen begär åtkomst för att du ska kunna lägga till bilder från ditt bibliotek vid sparmål, uppgifter eller uppdatering av profilbilder.",
   "request_permission_camera": "Appen begär åtkomst till kameran för att bildbevis ska kunna skickas vid utförande av uppgifter och då du vill ta en ny profilbild.",
