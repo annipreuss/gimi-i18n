@@ -1,9 +1,9 @@
 
 var keysToIgnore=[
-'child_about_data_tracking_title',
-'child_about_data_tracking_content',
-'parent_about_data_tracking_title',
-'parent_about_data_tracking_content',
+
+
+
+
 'child_advice_title',
 'child_advice_content',
 'parent_advice_title',
@@ -11,7 +11,7 @@ var keysToIgnore=[
 'data_knowledge_item_text',
 'knowledge_child_item_content',
 'knowledge_child_item_header',
-'data_tracking_assignment_threshold',
+
 '_permissions_denied',
 'vp_help_page_title',
 'vp_help_page_content',
