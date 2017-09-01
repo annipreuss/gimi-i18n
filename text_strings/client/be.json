@@ -1551,5 +1551,13 @@
   "photoinput_change": "PLZ_TRANSLATE змяніць карцінку",
   "task_editor_edit_participant": "PLZ_TRANSLATE ўдзельнікі Рэдагаваць",
   "upload": "PLZ_TRANSLATE загрузіць",
-  "tap_to_activate": "PLZ_TRANSLATE Націсніце тут, каб актываваць"
+  "tap_to_activate": "PLZ_TRANSLATE Націсніце тут, каб актываваць",
+  "camera_access_deny_request": "PLZ_TRANSLATE Няма!",
+  "camera_access_goto_settings": "PLZ_TRANSLATE налады",
+  "android_permission_popover_title": "PLZ_TRANSLATE Перайсці да налад",
+  "android_permission_popover_photo": "PLZ_TRANSLATE Дадатак адсутнічае доступ. Зайдзіце ў налады і ўключыць доступ да малюнкаў для таго, каб выкарыстоўваць гэтую функцыю",
+  "android_permission_popover_camera": "PLZ_TRANSLATE Прыкладанне не мае доступу да камеры. Зайдзіце ў налады і ўключыць доступ для таго, каб выкарыстоўваць гэтую функцыю",
+  "android_permission_popover_notifications": "PLZ_TRANSLATE Прыкладанне не мае доступу да паведамлення. Зайдзіце ў налады і ўключыць доступ для таго, каб выкарыстоўваць гэтую функцыю",
+  "android_permission_popover_microphone": "PLZ_TRANSLATE Прыкладанне не мае доступу. Перайдзіце ў налады і ўключыць доступ да мікрафону, каб выкарыстоўваць гэтую функцыю",
+  "task_list_history_header": "PLZ_TRANSLATE Гісторыя гэтага тыдня"
 }

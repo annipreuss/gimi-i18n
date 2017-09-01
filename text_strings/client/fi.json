@@ -1551,5 +1551,13 @@
   "photoinput_change": "PLZ_TRANSLATE Vaihda kuva",
   "task_editor_edit_participant": "PLZ_TRANSLATE Muokkaa osallistujia",
   "upload": "PLZ_TRANSLATE upload",
-  "tap_to_activate": "PLZ_TRANSLATE Napauta tästä aktivoidaksesi"
+  "tap_to_activate": "PLZ_TRANSLATE Napauta tästä aktivoidaksesi",
+  "camera_access_deny_request": "PLZ_TRANSLATE Ei!",
+  "camera_access_goto_settings": "PLZ_TRANSLATE asetukset",
+  "android_permission_popover_title": "PLZ_TRANSLATE Mene asetuksiin",
+  "android_permission_popover_photo": "PLZ_TRANSLATE Sovelluksesta puuttuu pääsy. Siirry asetuksiin ja ota käyttöön kuvia, jotta voit käyttää tätä ominaisuutta",
+  "android_permission_popover_camera": "PLZ_TRANSLATE Sovelluksella ei ole pääsyä kameraan. Siirry asetuksiin ja ota käyttöön käyttöoikeus, jotta voit käyttää tätä ominaisuutta",
+  "android_permission_popover_notifications": "PLZ_TRANSLATE Sovelluksella ei ole pääsyä ilmoituksiin. Siirry asetuksiin ja ota käyttöön käyttöoikeus, jotta voit käyttää tätä ominaisuutta",
+  "android_permission_popover_microphone": "PLZ_TRANSLATE Sovelluksella ei ole käyttöoikeutta. Anna asetukset ja ota mikrofonin käyttö käyttöön",
+  "task_list_history_header": "PLZ_TRANSLATE Tämän viikon historia"
 }

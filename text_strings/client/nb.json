@@ -1551,5 +1551,13 @@
   "photoinput_change": "PLZ_TRANSLATE Endre bilde",
   "task_editor_edit_participant": "PLZ_TRANSLATE Rediger deltakere",
   "upload": "PLZ_TRANSLATE Laste opp",
-  "tap_to_activate": "PLZ_TRANSLATE Trykk her for å aktivere"
+  "tap_to_activate": "PLZ_TRANSLATE Trykk her for å aktivere",
+  "camera_access_deny_request": "PLZ_TRANSLATE Nei!",
+  "camera_access_goto_settings": "PLZ_TRANSLATE innstillinger",
+  "android_permission_popover_title": "PLZ_TRANSLATE Gå til innstillinger",
+  "android_permission_popover_photo": "PLZ_TRANSLATE Appen mangler tilgang. Gå til innstillingene dine og aktiver tilgang til bilder for å bruke denne funksjonen",
+  "android_permission_popover_camera": "PLZ_TRANSLATE Appen har ingen tilgang til kameraet. Gå til innstillingene dine og aktiver tilgang for å bruke denne funksjonen",
+  "android_permission_popover_notifications": "PLZ_TRANSLATE Appen har ingen tilgang til varsler. Gå til innstillingene dine og aktiver tilgang for å bruke denne funksjonen",
+  "android_permission_popover_microphone": "PLZ_TRANSLATE Appen har ingen tilgang. Skriv inn innstillingene dine og aktiver tilgang til mikrofonen for å bruke funksjonen",
+  "task_list_history_header": "PLZ_TRANSLATE Historie for denne uken"
 }

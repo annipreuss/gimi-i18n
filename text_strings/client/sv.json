@@ -1543,7 +1543,7 @@
   "request_permission_notifications": "Appen ber om tillåtelse att skicka notifikationer till dig då det sker transaktioner eller andra händelser som påverkar din och din familjs ekonomi.",
   "request_permission_microphone": "Appen begär åtkomst till mikrofonen för att du ska kunna filma och skicka det som bildbevis för utförda uppgifter",
   "camera_request_access_title": "Kameran behöver tillgång",
-  "camera_request_access_descr": "För att använda kameran behöver du slå på tillgång",
+  "camera_request_access_descr": "För att använda kameran behöver du slå på tillgång!",
   "feedback_for_task_title": "PLZ_TRANSLATE Varför godkändes uppgiften ej?",
   "feedback_for_task_description": "PLZ_TRANSLATE Skriv en rad till %1$d om varför du ej godkände uppgiften",
   "connect_via_camera_description": "Om ni är tillsammans",
@@ -1562,5 +1562,13 @@
   "photoinput_change": "Ändra bild",
   "task_editor_edit_participant": "Redigera deltagare",
   "upload": "Ladda upp",
-  "tap_to_activate": "PLZ_TRANSLATE Klicka här för att aktivera"
+  "tap_to_activate": "PLZ_TRANSLATE Klicka här för att aktivera",
+  "camera_access_deny_request": "PLZ_TRANSLATE Nej!",
+  "camera_access_goto_settings": "PLZ_TRANSLATE Inställningar",
+  "android_permission_popover_title": "PLZ_TRANSLATE Gå till inställningar",
+  "android_permission_popover_photo": "PLZ_TRANSLATE Appen saknar åtkomst. Gå in i dina inställningar och aktivera åtkomst till bilder för att använda funktionen",
+  "android_permission_popover_camera": "PLZ_TRANSLATE Appen saknar åtkomst till kameran. Gå in i dina inställningar och aktivera åtkomst för att använda funktionen",
+  "android_permission_popover_notifications": "PLZ_TRANSLATE Appen saknar åtkomst till notifikationer. Gå in i dina inställningar och aktivera åtkomst för att använda funktionen",
+  "android_permission_popover_microphone": "PLZ_TRANSLATE Appen saknar åtkomst. Gå in i dina inställningar och aktivera åtkomst till mikrofonen för att använda funktionen",
+  "task_list_history_header": "PLZ_TRANSLATE Historik för denna vecka"
 }
