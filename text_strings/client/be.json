@@ -1524,9 +1524,9 @@
   "status_empty_history": "PLZ_TRANSLATE Ваша гісторыя пустая!",
   "task_list_history_recent": "PLZ_TRANSLATE Гісторыя гэтага тыдня",
   "task_list_history": "PLZ_TRANSLATE гісторыя",
-  "request_permission_title": "PLZ_TRANSLATE Дадатак адсутнічае доступ",
-  "request_permission_user_denied": "PLZ_TRANSLATE Няма!",
-  "request_permission_goto_settings": "PLZ_TRANSLATE налады",
+  "request_permission_title": "PLZ_TRANSLATE Прыкладанне мае патрэбу ў доступе",
+  "request_permission_user_denied": "PLZ_TRANSLATE адмяніць",
+  "request_permission_goto_settings": "PLZ_TRANSLATE дазволіць доступ",
   "request_permission_photo": "PLZ_TRANSLATE Прыкладанне мае патрэбу ў доступе для таго, каб дазволіць вам дадаць фатаграфіі з вашай бібліятэкі для вашых зберажэнняў мэтаў, задач або абнавіць фатаграфію.",
   "request_permission_camera": "PLZ_TRANSLATE Патрэбы прыкладанняў доступу да камеры для таго, каб малюнак доказы для адпраўкі пры выкананні задач і, калі вы хочаце прыняць новую фатаграфію.",
   "request_permission_notifications": "PLZ_TRANSLATE Дадатак патрабуе дазволаў для адпраўкі апавяшчэнняў вам , калі ёсць аперацыі або іншыя падзеі , якія ўплываюць на сямейныя вашыя і &#39; фінансы s.",
@@ -1559,5 +1559,9 @@
   "android_permission_popover_camera": "PLZ_TRANSLATE Прыкладанне не мае доступу да камеры. Зайдзіце ў налады і ўключыць доступ для таго, каб выкарыстоўваць гэтую функцыю",
   "android_permission_popover_notifications": "PLZ_TRANSLATE Прыкладанне не мае доступу да паведамлення. Зайдзіце ў налады і ўключыць доступ для таго, каб выкарыстоўваць гэтую функцыю",
   "android_permission_popover_microphone": "PLZ_TRANSLATE Прыкладанне не мае доступу. Перайдзіце ў налады і ўключыць доступ да мікрафону, каб выкарыстоўваць гэтую функцыю",
-  "task_list_history_header": "PLZ_TRANSLATE Гісторыя гэтага тыдня"
+  "task_list_history_header": "PLZ_TRANSLATE Гісторыя гэтага тыдня",
+  "request_permission_title_photo": "PLZ_TRANSLATE Адсутнічае доступ да малюнках",
+  "request_permission_title_camera": "PLZ_TRANSLATE Адсутнічае доступ да камеры",
+  "request_permission_title_notification": "PLZ_TRANSLATE Адсутнічае доступ да паведамлення",
+  "request_permission_title_microphone": "PLZ_TRANSLATE Адсутнічае доступ да мікрафону"
 }

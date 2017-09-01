@@ -1524,9 +1524,9 @@
   "status_empty_history": "Historia on tyhjä!",
   "task_list_history_recent": "Tämän viikon historia",
   "task_list_history": "Historia",
-  "request_permission_title": "PLZ_TRANSLATE Sovelluksesta puuttuu pääsy",
-  "request_permission_user_denied": "Ei!",
-  "request_permission_goto_settings": "PLZ_TRANSLATE asetukset",
+  "request_permission_title": "PLZ_TRANSLATE Sovellus tarvitsee pääsyn",
+  "request_permission_user_denied": "PLZ_TRANSLATE Peruuttaa",
+  "request_permission_goto_settings": "PLZ_TRANSLATE Ota käyttöön pääsy",
   "request_permission_photo": "Sovellus tarvitsee luvan, jotta voit lisätä valokuvasi kuvakirjastostasi säästötavoitteisiin, askareisiin tai profiilikuvaksesi.",
   "request_permission_camera": "Sovellus tarvitsee luvan käyttää kameraa, jotta kuvatodiste voidaan lähettää askareisiin ja jotta voit ottaa uuden profiilikuvan.",
   "request_permission_notifications": "Sovellus tarvitsee luvan lähettää ilmoituksia, kun siirtoja tai muuta perheesi talouteen liittyvää tapahtuu.",
@@ -1559,5 +1559,9 @@
   "android_permission_popover_camera": "PLZ_TRANSLATE Sovelluksella ei ole pääsyä kameraan. Siirry asetuksiin ja ota käyttöön käyttöoikeus, jotta voit käyttää tätä ominaisuutta",
   "android_permission_popover_notifications": "PLZ_TRANSLATE Sovelluksella ei ole pääsyä ilmoituksiin. Siirry asetuksiin ja ota käyttöön käyttöoikeus, jotta voit käyttää tätä ominaisuutta",
   "android_permission_popover_microphone": "PLZ_TRANSLATE Sovelluksella ei ole käyttöoikeutta. Anna asetukset ja ota mikrofonin käyttö käyttöön",
-  "task_list_history_header": "PLZ_TRANSLATE Tämän viikon historia"
+  "task_list_history_header": "PLZ_TRANSLATE Tämän viikon historia",
+  "request_permission_title_photo": "PLZ_TRANSLATE Kuvien puuttuminen puuttuu",
+  "request_permission_title_camera": "PLZ_TRANSLATE Kamerasta puuttuu pääsy",
+  "request_permission_title_notification": "PLZ_TRANSLATE Ilmoitusten puuttuminen",
+  "request_permission_title_microphone": "PLZ_TRANSLATE Puuttuva pääsy mikrofoniin"
 }

@@ -1535,9 +1535,9 @@
   "status_empty_history": "PLZ_TRANSLATE Din historik är tom!",
   "task_list_history_recent": "Historik för denna vecka",
   "task_list_history": "Historik",
-  "request_permission_title": "Appen saknar åtkomst",
-  "request_permission_user_denied": "Nej!",
-  "request_permission_goto_settings": "Inställningar",
+  "request_permission_title": "PLZ_TRANSLATE Appen saknar åtkomst",
+  "request_permission_user_denied": "PLZ_TRANSLATE avboka",
+  "request_permission_goto_settings": "PLZ_TRANSLATE Aktivera åtkomst",
   "request_permission_photo": "Appen begär åtkomst för att du ska kunna lägga till bilder från ditt bibliotek vid sparmål, uppgifter eller uppdatering av profilbilder.",
   "request_permission_camera": "Appen begär åtkomst till kameran för att bildbevis ska kunna skickas vid utförande av uppgifter och då du vill ta en ny profilbild.",
   "request_permission_notifications": "Appen ber om tillåtelse att skicka notifikationer till dig då det sker transaktioner eller andra händelser som påverkar din och din familjs ekonomi.",
@@ -1570,5 +1570,9 @@
   "android_permission_popover_camera": "PLZ_TRANSLATE Appen saknar åtkomst till kameran. Gå in i dina inställningar och aktivera åtkomst för att använda funktionen",
   "android_permission_popover_notifications": "PLZ_TRANSLATE Appen saknar åtkomst till notifikationer. Gå in i dina inställningar och aktivera åtkomst för att använda funktionen",
   "android_permission_popover_microphone": "PLZ_TRANSLATE Appen saknar åtkomst. Gå in i dina inställningar och aktivera åtkomst till mikrofonen för att använda funktionen",
-  "task_list_history_header": "PLZ_TRANSLATE Historik för denna vecka"
+  "task_list_history_header": "PLZ_TRANSLATE Historik för denna vecka",
+  "request_permission_title_photo": "PLZ_TRANSLATE Saknar åtkomst till bilder",
+  "request_permission_title_camera": "PLZ_TRANSLATE Saknar åtkomst till kameran",
+  "request_permission_title_notification": "PLZ_TRANSLATE Saknar åtkomst till notifikationer",
+  "request_permission_title_microphone": "PLZ_TRANSLATE Saknar åtkomst till mikrofonen"
 }

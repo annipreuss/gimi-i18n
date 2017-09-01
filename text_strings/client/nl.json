@@ -1524,9 +1524,9 @@
   "status_empty_history": "Je geschiedenis is leeg!",
   "task_list_history_recent": "Geschiedenis voor deze week",
   "task_list_history": "Geschiedenis",
-  "request_permission_title": "PLZ_TRANSLATE De app ontbreekt toegang",
-  "request_permission_user_denied": "PLZ_TRANSLATE Nee!",
-  "request_permission_goto_settings": "PLZ_TRANSLATE instellingen",
+  "request_permission_title": "PLZ_TRANSLATE De app heeft toegang",
+  "request_permission_user_denied": "PLZ_TRANSLATE Annuleer",
+  "request_permission_goto_settings": "PLZ_TRANSLATE Toegang inschakelen",
   "request_permission_photo": "PLZ_TRANSLATE De app heeft toegang om u toe te voegen om foto's uit uw bibliotheek toe te voegen voor uw spaardoelstellingen, taken of uw profielfoto bijwerken.",
   "request_permission_camera": "PLZ_TRANSLATE De app heeft toegang tot de camera om ervoor te zorgen dat er een beeldbewijs wordt verzonden bij het uitvoeren van taken en wanneer u een nieuwe profielfoto wilt maken.",
   "request_permission_notifications": "PLZ_TRANSLATE De app heeft uw toestemming nodig om meldingen te sturen naar u als er transacties of andere gebeurtenissen die je je en familie van invloed &#39; financiën s.",
@@ -1559,5 +1559,9 @@
   "android_permission_popover_camera": "PLZ_TRANSLATE De app heeft geen toegang tot de camera. Ga naar uw instellingen en stel toegang in om deze functie te kunnen gebruiken",
   "android_permission_popover_notifications": "PLZ_TRANSLATE De app heeft geen toegang tot meldingen. Ga naar uw instellingen en stel toegang in om deze functie te kunnen gebruiken",
   "android_permission_popover_microphone": "PLZ_TRANSLATE De app heeft geen toegang. Voer uw instellingen in en geef toegang tot de microfoon om de functie te gebruiken",
-  "task_list_history_header": "PLZ_TRANSLATE Geschiedenis voor deze week"
+  "task_list_history_header": "PLZ_TRANSLATE Geschiedenis voor deze week",
+  "request_permission_title_photo": "PLZ_TRANSLATE Ontbrekende toegang tot afbeeldingen",
+  "request_permission_title_camera": "PLZ_TRANSLATE Ontbrekende toegang tot de camera",
+  "request_permission_title_notification": "PLZ_TRANSLATE Ontbrekende toegang tot meldingen ontbreken",
+  "request_permission_title_microphone": "PLZ_TRANSLATE Ontbrekende toegang tot de microfoon"
 }

@@ -1524,9 +1524,9 @@
   "status_empty_history": "Din historik er tom!",
   "task_list_history_recent": "Historik for denne uge",
   "task_list_history": "Historik",
-  "request_permission_title": "PLZ_TRANSLATE Appen mangler adgang",
-  "request_permission_user_denied": "Ingen!",
-  "request_permission_goto_settings": "PLZ_TRANSLATE indstillinger",
+  "request_permission_title": "PLZ_TRANSLATE Appen har brug for adgang",
+  "request_permission_user_denied": "PLZ_TRANSLATE Afbestille",
+  "request_permission_goto_settings": "PLZ_TRANSLATE Aktivér adgang",
   "request_permission_photo": "Appen kræver adgangstilladelse for at muliggøre tilføjelsen af billeder fra dit bibliotek til dine opsparingsmål, opgaver elle til opdateringen af dit profilbillede.",
   "request_permission_camera": "Appen kræver adgangstilladelse til kameraet så billedbeviserne kan sendes når du udfører opgaver, og når du vil tilføje et nyt profilbillede.",
   "request_permission_notifications": "Denne app kræver din tilladelse til at sende meddelelser til dig når der er transaktioner eller andre begivenheder som vil kunne påvirke din og din familie &#39; s finanser.",
@@ -1559,5 +1559,9 @@
   "android_permission_popover_camera": "PLZ_TRANSLATE Appen har ingen adgang til kameraet. Gå til dine indstillinger og aktiver adgang for at bruge denne funktion",
   "android_permission_popover_notifications": "PLZ_TRANSLATE Appen har ikke adgang til underretninger. Gå til dine indstillinger og aktiver adgang for at bruge denne funktion",
   "android_permission_popover_microphone": "PLZ_TRANSLATE Appen har ingen adgang. Indtast dine indstillinger og aktiver adgang til mikrofonen for at bruge funktionen",
-  "task_list_history_header": "PLZ_TRANSLATE Historie for denne uge"
+  "task_list_history_header": "PLZ_TRANSLATE Historie for denne uge",
+  "request_permission_title_photo": "PLZ_TRANSLATE Mangler adgang til billeder",
+  "request_permission_title_camera": "PLZ_TRANSLATE Manglende adgang til kameraet",
+  "request_permission_title_notification": "PLZ_TRANSLATE Mangler adgang til anmeldelser",
+  "request_permission_title_microphone": "PLZ_TRANSLATE Manglende adgang til mikrofonen"
 }

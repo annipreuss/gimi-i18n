@@ -1524,9 +1524,9 @@
   "status_empty_history": "PLZ_TRANSLATE Teie ajalugu on tühi!",
   "task_list_history_recent": "PLZ_TRANSLATE Selle nädala ajalugu",
   "task_list_history": "PLZ_TRANSLATE Ajalugu",
-  "request_permission_title": "PLZ_TRANSLATE Rakendusel puudub juurdepääs",
-  "request_permission_user_denied": "PLZ_TRANSLATE Ei!",
-  "request_permission_goto_settings": "PLZ_TRANSLATE seaded",
+  "request_permission_title": "PLZ_TRANSLATE Rakendusel on juurdepääs",
+  "request_permission_user_denied": "PLZ_TRANSLATE Loobu",
+  "request_permission_goto_settings": "PLZ_TRANSLATE Luba juurdepääs",
   "request_permission_photo": "PLZ_TRANSLATE Rakendusel on juurdepääs, et saaksite oma raamatukogust fotot lisada säästueesmärkideks, ülesanneteks või oma profiilipiltide värskendamiseks.",
   "request_permission_camera": "PLZ_TRANSLATE Rakendusel on vajalik juurdepääs kaameratele, et ülesannete täitmisel ja kui soovite uue profiilipildi pildistada, saadetakse pilditõend.",
   "request_permission_notifications": "PLZ_TRANSLATE Rakendus vajab teie luba saata Teile teateid, kui on tehingute või muude sündmuste, mis mõjutavad teie ja teie pere &#39; s rahandust.",
@@ -1559,5 +1559,9 @@
   "android_permission_popover_camera": "PLZ_TRANSLATE Rakendusel ei ole kaamerale juurdepääsu. Selle funktsiooni kasutamiseks mine oma seadetele ja lubage juurdepääs",
   "android_permission_popover_notifications": "PLZ_TRANSLATE Rakendusel puudub juurdepääs märguandele. Selle funktsiooni kasutamiseks mine oma seadetele ja lubage juurdepääs",
   "android_permission_popover_microphone": "PLZ_TRANSLATE Rakendusel pole juurdepääsu. Selle funktsiooni kasutamiseks sisestage oma seaded ja lubage juurdepääs mikrofonile",
-  "task_list_history_header": "PLZ_TRANSLATE Selle nädala ajalugu"
+  "task_list_history_header": "PLZ_TRANSLATE Selle nädala ajalugu",
+  "request_permission_title_photo": "PLZ_TRANSLATE Puudub juurdepääs piltidele",
+  "request_permission_title_camera": "PLZ_TRANSLATE Puudub juurdepääs kaameratele",
+  "request_permission_title_notification": "PLZ_TRANSLATE Puudub juurdepääs teatistele",
+  "request_permission_title_microphone": "PLZ_TRANSLATE Puudub juurdepääs mikrofonile"
 }

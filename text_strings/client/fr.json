@@ -1524,9 +1524,9 @@
   "status_empty_history": "Votre historique est vide!",
   "task_list_history_recent": "PLZ_TRANSLATE L'histoire de cette semaine",
   "task_list_history": "PLZ_TRANSLATE Histoire",
-  "request_permission_title": "PLZ_TRANSLATE L'application manque d'accès",
-  "request_permission_user_denied": "PLZ_TRANSLATE Non!",
-  "request_permission_goto_settings": "PLZ_TRANSLATE paramètres",
+  "request_permission_title": "PLZ_TRANSLATE L'application a besoin d'accès",
+  "request_permission_user_denied": "PLZ_TRANSLATE Annuler",
+  "request_permission_goto_settings": "PLZ_TRANSLATE Activer l'accès",
   "request_permission_photo": "PLZ_TRANSLATE L'application a besoin d'un accès pour vous permettre d'ajouter des photos de votre bibliothèque pour vos objectifs d'économie, vos tâches ou pour mettre à jour votre image de profil.",
   "request_permission_camera": "PLZ_TRANSLATE L'application a besoin d'accéder à la caméra pour que l'image soit envoyée lors de l'exécution des tâches et lorsque vous souhaitez prendre une nouvelle image de profil.",
   "request_permission_notifications": "PLZ_TRANSLATE L&#39;application a besoin de votre permission de vous envoyer des notifications quand il y a des transactions ou d&#39; autres événements qui affectent votre famille et vos &#39; finances s.",
@@ -1559,5 +1559,9 @@
   "android_permission_popover_camera": "PLZ_TRANSLATE L'application n'a pas accès à la caméra. Accédez à vos paramètres et activez l'accès pour utiliser cette fonctionnalité",
   "android_permission_popover_notifications": "PLZ_TRANSLATE L'application n'a pas accès aux notifications. Accédez à vos paramètres et activez l'accès pour utiliser cette fonctionnalité",
   "android_permission_popover_microphone": "PLZ_TRANSLATE L'application n'a pas accès. Entrez vos paramètres et activez l'accès au microphone pour utiliser la fonction",
-  "task_list_history_header": "PLZ_TRANSLATE L'histoire de cette semaine"
+  "task_list_history_header": "PLZ_TRANSLATE L'histoire de cette semaine",
+  "request_permission_title_photo": "PLZ_TRANSLATE Absence d'accès aux images",
+  "request_permission_title_camera": "PLZ_TRANSLATE Absence d'accès à la caméra",
+  "request_permission_title_notification": "PLZ_TRANSLATE Absence d'accès aux notifications",
+  "request_permission_title_microphone": "PLZ_TRANSLATE Absence d'accès au microphone"
 }

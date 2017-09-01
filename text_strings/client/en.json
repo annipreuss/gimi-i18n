@@ -1524,9 +1524,9 @@
   "status_empty_history": "Your history is empty!",
   "task_list_history_recent": "History for this week",
   "task_list_history": "History",
-  "request_permission_title": "The app is missing access",
-  "request_permission_user_denied": "No!",
-  "request_permission_goto_settings": "Settings",
+  "request_permission_title": "The app needs access",
+  "request_permission_user_denied": "Cancel",
+  "request_permission_goto_settings": "Enable access",
   "request_permission_photo": "The app needs access in order to allow you to add photos from your library for your savings goals, tasks or to update your profile picture.",
   "request_permission_camera": "The app needs access to the camera in order for image proof to be sent when performing tasks and when you want to take a new profile picture.",
   "request_permission_notifications": "The app needs your permission to send notifications to you when there are transactions or other events that affect your and your family's finances.",
@@ -1559,5 +1559,9 @@
   "android_permission_popover_camera": "The app has no access to the camera. Go to your settings and enable access in order to use this feature",
   "android_permission_popover_notifications": "The app has no access to notifications. Go to your settings and enable access in order to use this feature",
   "android_permission_popover_microphone": "PLZ_TRANSLATE The app has no access. Go to your settings and enable access to the microphone in order to use this feature",
-  "task_list_history_header": "History for this week"
+  "task_list_history_header": "History for this week",
+  "request_permission_title_photo": "Missing access to images",
+  "request_permission_title_camera": "Missing access to the camera",
+  "request_permission_title_notification": "Missing access to notifications",
+  "request_permission_title_microphone": "Missing access to the microphone"
 }
