@@ -1,19 +1,24 @@
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 var keysToIgnore = [
-    'child_advice_title',
-    'child_advice_content',
-    'parent_advice_title',
-    'parent_advice_content',
-    'data_knowledge_item_text',
-    'knowledge_child_item_content',
-    'knowledge_child_item_header',
-    '_permissions_denied',
-    'vp_help_page_title',
-    'vp_help_page_content',
-    'transactions_help_page_title',
-    'transactions_help_page_content',
-    'task_editor_title_input_hint_example',
-    'task_status'
+  'child_about_data_tracking_title',
+  'child_about_data_tracking_content',
+  'parent_about_data_tracking_title',
+  'parent_about_data_tracking_content',
+  'child_advice_title',
+  'child_advice_content',
+  'parent_advice_title',
+  'parent_advice_content',
+  'data_knowledge_item_text',
+  'knowledge_child_item_content',
+  'knowledge_child_item_header',
+  'data_tracking_assignment_threshold',
+  '_permissions_denied',
+  'vp_help_page_title',
+  'vp_help_page_content',
+  'transactions_help_page_title',
+  'transactions_help_page_content',
+  'task_editor_title_input_hint_example',
+  'task_status'
 ]
 
 var keysToDelete = []
