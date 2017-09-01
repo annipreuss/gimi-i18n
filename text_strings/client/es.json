@@ -1530,7 +1530,7 @@
   "request_permission_photo": "La aplicación necesita acceso para permitirte agregar fotos de tu biblioteca para tus metas de ahorro, tareas o para actualizar tu imagen de perfil.",
   "request_permission_camera": "La aplicación necesita acceso a la cámara para que se pueda enviar la prueba de imagen al realizar tareas y cuando quieras tomar una nueva foto de perfil.",
   "request_permission_notifications": "La aplicación necesita tu permiso para enviar notificaciones cuando hay transacciones u otros eventos que afectan &#39; finanzas de tu familia.",
-  "request_permission_microphone": "PLZ_TRANSLATE La aplicación solicita acceso al micrófono para permitirle filmar y enviarlo como prueba de imagen para las tareas realizadas",
+  "request_permission_microphone": "La aplicación solicita acceso al micrófono para permitirle filmar y enviarlo como prueba de imagen para las tareas realizadas",
   "camera_request_access_title": "La cámara necesita acceso",
   "camera_request_access_descr": "Para usar la cámara es necesario habilitar el acceso",
   "feedback_for_task_title": "PLZ_TRANSLATE ¿Por qué no era &#39; t aprobó la asignación?",
