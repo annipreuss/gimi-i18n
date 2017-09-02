@@ -38,26 +38,26 @@
   "trustly_payout_failed_email_subject": "Melding om mislykket utbetaling og refusjon.",
   "invite_email_subject": "Invitasjon til Gimi",
   "login_email_subject": "Logg inn på Gimi",
-  "push_data_tracking_assignment_completed_parent": "{assignment.child.name} har klart sin surfmengde oppgave.",
-  "push_data_tracking_assignment_completed_child": "Du har klart din surfemengde oppgave!",
-  "push_data_tracking_assignment_threshold_parent": "{child} har surfet opp {percentage}% av sin surfemengde.",
-  "push_data_tracking_assignment_threshold_child": "Du har brukt {percentage}% av surfemengden denne uken!",
-  "dashboard_data_tracking_assignment_completed": "Fikk {assignment.str_value} for å ha klart surfemengden!",
-  "dashboard_data_tracking_assignment_failed": "Klarte ikke ukens surfemengde!",
+
+
+
+
+
+
   "push_trustly_over_limit": "Mislykket overføring på {amount}.",
   "dashboard_goal_created": "Opprettet sparemålet {goal.title}.",
   "dashboard_goal_completed": "Oppnådde sparemålet {goal.title}.",
   "dashboard_transfer_to_savings": "Spart {transaction.str_value}.",
-  "push_data_usage_assignment_created": "Du har fått en ny surfekontroll oppgave.",
+
   "push_goal_updated": "{goal.updated_by.name} har endret sparemål {goal.title}.",
   "push_task_updated": "{user} har endret oppgaven {task}.",
   "push_weekly_allowance_auto_transferred": "Ny uke og {amount} av dine forrige ukepenger har automatisk blitt spart!",
   "push_weekly_allowance_transferred_parent": "{name}s ukepenger på {amount} har automatisk blitt spart!",
   "push_monthly_allowance_auto_transferred": "Ny måned og {amount} av dine forrige månedspenger har automatisk blitt spart!",
   "push_monthly_allowance_transferred_parent": "{name}s månedspenger på {amount} har automatisk blitt spart!",
-  "push_data_tracking_assignment_failed_parent": "{assignment.child.name} klarte ikke sin surfmengde oppgave.",
-  "push_data_tracking_assignment_failed_child": "Du klarte ikke din surfemengde oppgave!",
-  "push_data_tracking_assignment_reminder": "En dag igjen, sjekk din surfing!",
+
+
+
   "dashboard_child_not_connected": "Koble sammen",
   "dashboard_child_setup": "Er ikke ferdigskapt enda!",
   "dashboard_weekly_allowance_over_trustly_limit": "Ukepengene har gått over beløpsgrensen",

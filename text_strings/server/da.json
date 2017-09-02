@@ -38,26 +38,26 @@
   "trustly_payout_failed_email_subject": "Meddelelse om mislykket udbetaling og tilbagebetaling.",
   "invite_email_subject": "Inviter til Gimi",
   "login_email_subject": "Log ind på Gimi",
-  "push_data_tracking_assignment_completed_parent": "{assignment.child.name} har klaret sit surfbeløb.",
-  "push_data_tracking_assignment_completed_child": "Du har klaret dit surfbeløb!",
-  "push_data_tracking_assignment_threshold_parent": "{child} har surfet {percentage}% op af sit samlede surfbeløb.",
-  "push_data_tracking_assignment_threshold_child": "Du har anvendt {percentage}% af dit samlede surfbeløb denne uge!",
-  "dashboard_data_tracking_assignment_completed": "Fik {assignment.str_value} for klaret surfbeløb!",
-  "dashboard_data_tracking_assignment_failed": "Klarede ikke ugens surfbeløb!",
+
+
+
+
+
+
   "push_trustly_over_limit": "Mislykket overførsel på {amount}.",
   "dashboard_goal_created": "Oprettede opsparingsmål {goal.title}.",
   "dashboard_goal_completed": "Opsparingsmålet er opnået {goal.title}.",
   "dashboard_transfer_to_savings": "Opsparet {transaction.str_value}.",
-  "push_data_usage_assignment_created": "Du har fået en ny surfkontrol-opgave.",
+
   "push_goal_updated": "{goal.updated_by.name} har ændret opsparingsmålet {goal.title}.",
   "push_task_updated": "{user} har ændret opgaven {task}.",
   "push_weekly_allowance_auto_transferred": "Ny uge, og {amount} af sidste uges ydelse er automatisk opsparet!",
   "push_weekly_allowance_transferred_parent": "{name}s ugentlig lommepenge på {amount} er automatisk opsparet!",
   "push_monthly_allowance_auto_transferred": "Nyt måned, og {amount} af sidste måneds ydelse er automatisk opsparet!",
   "push_monthly_allowance_transferred_parent": "{name}s månedlig lommepenge på {amount} er automatisk opsparet!",
-  "push_data_tracking_assignment_failed_parent": "{assignment.child.name} klarede ikke sin surfbeløb-oppave.",
-  "push_data_tracking_assignment_failed_child": "Du klarede ikke din surfbeløb-opgave!",
-  "push_data_tracking_assignment_reminder": "En dag tilbage, tjek din surf!",
+
+
+
   "dashboard_child_not_connected": "Glem ikke at tilslutte dig",
   "dashboard_child_setup": "Er ikke færdigoprettet endnu!",
   "dashboard_weekly_allowance_over_trustly_limit": "Ugentlig lommepenge er over beløbsgrænsen",

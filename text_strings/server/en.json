@@ -38,26 +38,26 @@
   "trustly_payout_failed_email_subject": "A message about a failed payout and refund.",
   "invite_email_subject": "Invitation to Gimi",
   "login_email_subject": "Gimi Login",
-  "push_data_tracking_assignment_completed_parent": "{assignment.child.name} has completed the surf pot task.",
-  "push_data_tracking_assignment_completed_child": "You have completed your surf pot task!",
-  "push_data_tracking_assignment_threshold_parent": "{child} has used up {percentage}% of the surf pot.",
-  "push_data_tracking_assignment_threshold_child": "You have used up {percentage}% of the surf pot this week!",
-  "dashboard_data_tracking_assignment_completed": "Received {assignment.str_value} for a completed surf pot!",
-  "dashboard_data_tracking_assignment_failed": "Failed this week's surf pot!",
+
+
+
+
+
+
   "push_trustly_over_limit": "A transfer of {amount} failed.",
   "dashboard_goal_created": "Savings goal {goal.title} set.",
   "dashboard_goal_completed": "Completed {goal.title}.",
   "dashboard_transfer_to_savings": "Saved {transaction.str_value}.",
-  "push_data_usage_assignment_created": "You have received a new surf check task.",
+
   "push_goal_updated": "{goal.updated_by.name} has an updated {goal.title}.",
   "push_task_updated": "{user} has an updated {task}.",
   "push_weekly_allowance_auto_transferred": "It's a new week and {amount} of your last weekly allowance has been auto saved!",
   "push_weekly_allowance_transferred_parent": "{name}'s weekly allowance of {amount} has been auto saved!",
   "push_monthly_allowance_auto_transferred": "It's a new month and {amount} of your last monthly allowance has been auto saved!",
   "push_monthly_allowance_transferred_parent": "{name}'s monthly allowance of {amount} has been auto saved!",
-  "push_data_tracking_assignment_failed_parent": "{assignment.child.name} did not complete the data usage task!",
-  "push_data_tracking_assignment_failed_child": "You did not complete the data usage task!",
-  "push_data_tracking_assignment_reminder": "One more day, track your surfing!",
+
+
+
   "dashboard_child_not_connected": "Connect to a family member",
   "dashboard_child_setup": "Set up a profile!",
   "dashboard_weekly_allowance_over_trustly_limit": "The allowance is over the transfer limit",

@@ -38,26 +38,26 @@
   "trustly_payout_failed_email_subject": "Message à propos d'un versement échoué et d'un remboursement.",
   "invite_email_subject": "Invitation pour Gimi",
   "login_email_subject": "Se connecter à Gimi",
-  "push_data_tracking_assignment_completed_parent": "{assignment.child.name} a épuisé le pot de navigation.",
-  "push_data_tracking_assignment_completed_child": "Vous avez épuisé le pot de navigation!",
-  "push_data_tracking_assignment_threshold_parent": "{child} a épuisé {percentage}% du pot de navigation.",
-  "push_data_tracking_assignment_threshold_child": "Vous avez utilisé durant cette semaine {percentage}% du pot de navigation!",
-  "dashboard_data_tracking_assignment_completed": "{assignment.str_value} reçus pour un pot de navigation complété!",
-  "dashboard_data_tracking_assignment_failed": "Echec du pot de navigation de cette semaine!",
+
+
+
+
+
+
   "push_trustly_over_limit": "Echec de transfert de {amount}.",
   "dashboard_goal_created": "Objectif d'épargne {goal.title} fixé.",
   "dashboard_goal_completed": "{goal.title} complété.",
   "dashboard_transfer_to_savings": "{transaction.str_value} épargnés.",
-  "push_data_usage_assignment_created": "Vous avez reçu une nouvelle tâche de vérification de navigation.",
+
   "push_goal_updated": "{goal.updated_by.name} a une mise à jour pour{goal.title}.",
   "push_task_updated": "{user} a mis à jour la tâche: {task}.",
   "push_weekly_allowance_auto_transferred": "Nouvelle semaine! {amount} de votre dernière allocation hebdomadaire ont été automatiquement épargnés!",
   "push_weekly_allowance_transferred_parent": "L'allocation hebdomadaire de {name} valant {amount} a été automatiquement épargnée!",
   "push_monthly_allowance_auto_transferred": "Nouveau mois! {amount} de votre dernière allocation mensuelle ont été automatiquement épargnés!",
   "push_monthly_allowance_transferred_parent": "L'allocation mensuelle de {name} valant {amount} a été automatiquement épargnée!",
-  "push_data_tracking_assignment_failed_parent": "{assignment.child.name} n'a pas terminé la tâche associée à l'utilisation des données!",
-  "push_data_tracking_assignment_failed_child": "Vous n'avez pas complété la tâche associée à l'utilisation des données!",
-  "push_data_tracking_assignment_reminder": "Encore un jour, suivez votre navigation!",
+
+
+
   "dashboard_child_not_connected": "Se connecter avec un membre de la famille",
   "dashboard_child_setup": "Créez un profil!",
   "dashboard_weekly_allowance_over_trustly_limit": "L'allocation a dépassé la limite maximale de transfert",

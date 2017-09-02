@@ -38,26 +38,26 @@
   "trustly_payout_failed_email_subject": "Een bericht over een mislukte betaling of terugbetaling.",
   "invite_email_subject": "Uitnodiging tot Gimi",
   "login_email_subject": "Login voor Gimi",
-  "push_data_tracking_assignment_completed_parent": "{assignment.child.name} heeft de surf pot taak volbracht.",
-  "push_data_tracking_assignment_completed_child": "Je hebt een surf pot taak volbracht!",
-  "push_data_tracking_assignment_threshold_parent": "{child} heeft {percentage}% van de surfpot opgebruikt.",
-  "push_data_tracking_assignment_threshold_child": "Je hebt {percentage}% van de surf pot opgebruikt!",
-  "dashboard_data_tracking_assignment_completed": "Kreeg {assignment.str_value} voor een volle spaarpot!",
-  "dashboard_data_tracking_assignment_failed": "Faalde de surfpot deze week!",
+
+
+
+
+
+
   "push_trustly_over_limit": "De overschrijving van {amount} mislukte.",
   "dashboard_goal_created": "Spaardoel gezet : {goal.title}.",
   "dashboard_goal_completed": "Voltooide {goal.title}.",
   "dashboard_transfer_to_savings": "Spaarde {transaction.str_value}.",
-  "push_data_usage_assignment_created": "Je kreeg een nieuwe surf check taak.",
+
   "push_goal_updated": "{goal.updated_by.name} heeft upgedate {goal.title}.",
   "push_task_updated": "{user} heeft een upgedate {task}.",
   "push_weekly_allowance_auto_transferred": "Het is een nieuwe week en het bedrag {amount} is automatisch opgeslagen!",
   "push_weekly_allowance_transferred_parent": "{name}s zakgeld van {amount} is automatisch overgezet!",
   "push_monthly_allowance_auto_transferred": "Het is een nieuwe maand en {amount} van je laatste zakgeld is automatisch gespaard!",
   "push_monthly_allowance_transferred_parent": "{name}s maandloon van {amount} is automatisch gespaard!",
-  "push_data_tracking_assignment_failed_parent": "{assignment.child.name} heeft de data taak niet volbracht.",
-  "push_data_tracking_assignment_failed_child": "Je hebt de data gebruik taak niet volbracht!",
-  "push_data_tracking_assignment_reminder": "Nog 1 dag, let op je surfgedrag!",
+
+
+
   "dashboard_child_not_connected": "Verbind met een familielid",
   "dashboard_child_setup": "Maak een profiel!",
   "dashboard_weekly_allowance_over_trustly_limit": "Het zakgeld is groter dan het overgeschreven bedrag",

@@ -38,26 +38,26 @@
   "trustly_payout_failed_email_subject": "Messaggio: versamento fallito ed un rimborso.",
   "invite_email_subject": "Invito a Gimi",
   "login_email_subject": "Accesso Gimi ",
-  "push_data_tracking_assignment_completed_parent": "{assignment.child.name} ha completato il compito del barattolo di navigazione.",
-  "push_data_tracking_assignment_completed_child": "Hai completato il tuo compito del barattolo di navigazione!",
-  "push_data_tracking_assignment_threshold_parent": "{child} ha usato {percentage}% del suo barattolo di navigazione.",
-  "push_data_tracking_assignment_threshold_child": "Hai usato {percentage}% del barattolo di navigazione per questa settimana!",
-  "dashboard_data_tracking_assignment_completed": "{assignment.str_value} ricevuti per un barattolo di navigazione completato!",
-  "dashboard_data_tracking_assignment_failed": "Il barattolo di navigazione di questa settimana è esaurito!",
+
+
+
+
+
+
   "push_trustly_over_limit": "Un trasferimento di {amount} è fallito.",
   "dashboard_goal_created": "Obiettivo di risparmio {goal.title} stabilito.",
   "dashboard_goal_completed": "Completato {goal.title}.",
   "dashboard_transfer_to_savings": "{transaction.str_value} risparmiati.",
-  "push_data_usage_assignment_created": "Hai ricevuto un nuovo compito di controllo di navigazione.",
+
   "push_goal_updated": "{goal.updated_by.name} ha un aggiornamento per {goal.title}.",
   "push_task_updated": "{user} ha aggiornato il compito {task}.",
   "push_weekly_allowance_auto_transferred": "È una nuova settimana e {amount} della tua scorsa paghetta settimanale si sono auto risparmiati!",
   "push_weekly_allowance_transferred_parent": "PLZ_CHECK I {amount} della paghetta settimanale di {name} si sono auto risparmiati!",
   "push_monthly_allowance_auto_transferred": "È un nuovo mese e {amount} della tua scorsa paghetta mensile si sono auto risparmiati!",
   "push_monthly_allowance_transferred_parent": "I {amount} della paghetta mensile di {name} si sono auto risparmiati!",
-  "push_data_tracking_assignment_failed_parent": "{assignment.child.name} non ha completato il compito di uso internet!",
-  "push_data_tracking_assignment_failed_child": "Non hai completato il compito di uso internet!",
-  "push_data_tracking_assignment_reminder": "Manca un giorno, traccia la tua navigazione!",
+
+
+
   "dashboard_child_not_connected": "Connettiti ad un membro della famiglia",
   "dashboard_child_setup": "Crea un profilo!",
   "dashboard_weekly_allowance_over_trustly_limit": "La paghetta supera il valore limite di un versamento",

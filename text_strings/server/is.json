@@ -38,26 +38,26 @@
   "trustly_payout_failed_email_subject": "PLZ_TRANSLATE Meddelande om misslyckad utbetalning och refund.",
   "invite_email_subject": "PLZ_TRANSLATE Inbjudan till Veckopengen",
   "login_email_subject": "PLZ_TRANSLATE Logga in på Veckopengen",
-  "push_data_tracking_assignment_completed_parent": "PLZ_TRANSLATE {assignment.child.name} har klarat sin surfpott.",
-  "push_data_tracking_assignment_completed_child": "PLZ_TRANSLATE Du har klarat din surfpott!",
-  "push_data_tracking_assignment_threshold_parent": "PLZ_TRANSLATE {child} har surfat upp {percentage}% av sin surfpott.",
-  "push_data_tracking_assignment_threshold_child": "PLZ_TRANSLATE Du har använt {percentage}% av surfpotten denna vecka!",
-  "dashboard_data_tracking_assignment_completed": "PLZ_TRANSLATE Fick {assignment.str_value} för klarad surfpott!",
-  "dashboard_data_tracking_assignment_failed": "PLZ_TRANSLATE Klarade inte veckans surfpott!",
+
+
+
+
+
+
   "push_trustly_over_limit": "PLZ_TRANSLATE Misslyckade överföring på {amount}.",
   "dashboard_goal_created": "PLZ_TRANSLATE Skapade sparmålet {goal.title}.",
   "dashboard_goal_completed": "PLZ_TRANSLATE Uppnådde sparmålet {goal.title}.",
   "dashboard_transfer_to_savings": "PLZ_TRANSLATE Sparade {transaction.str_value}.",
-  "push_data_usage_assignment_created": "PLZ_TRANSLATE Du har fått en ny surfkolls uppgift.",
+
   "push_goal_updated": "PLZ_TRANSLATE {goal.updated_by.name} har ändrat sparmål {goal.title}.",
   "push_task_updated": "PLZ_TRANSLATE {user} har ändrat uppgiften {task}.",
   "push_weekly_allowance_auto_transferred": "PLZ_TRANSLATE Ny vecka och {amount} av din förra veckopeng har autosparats!",
   "push_weekly_allowance_transferred_parent": "PLZ_TRANSLATE {name}s veckopeng på {amount} har autosparats!",
   "push_monthly_allowance_auto_transferred": "PLZ_TRANSLATE Ny månad och {amount} av din förra månadspeng har autosparats!",
   "push_monthly_allowance_transferred_parent": "PLZ_TRANSLATE {name}s månadspeng på {amount} har autosparats!",
-  "push_data_tracking_assignment_failed_parent": "PLZ_TRANSLATE {assignment.child.name} klarade inte sin surfpott uppgift.",
-  "push_data_tracking_assignment_failed_child": "PLZ_TRANSLATE Du klarade inte din surfpott uppgift!",
-  "push_data_tracking_assignment_reminder": "PLZ_TRANSLATE En dag kvar, kolla din surf!",
+
+
+
   "dashboard_child_not_connected": "PLZ_TRANSLATE ekki gleyma að tengja saman",
   "dashboard_child_setup": "PLZ_TRANSLATE Er ekki tilbúið!",
   "dashboard_weekly_allowance_over_trustly_limit": "PLZ_TRANSLATE Veckopengen är över beloppsgränsen",
