@@ -12,7 +12,6 @@ import it from './text_strings/client/it.json'
 import es from './text_strings/client/es.json'
 import de from './text_strings/client/de.json'
 import et from './text_strings/client/et.json'
-
 import _default from './text_strings/client/default.json'
 import CountryCodes from './CountryCodes.json'
 import Regions from './Regions.json'
@@ -20,7 +19,9 @@ import Cities from './Cities.json'
 import Timezones from './TimeZones.json'
 import LanguageCodes from './LanguageCodes.json'
 import countryCodes2PhoneNumberPrefixes from './countryCodes2PhoneNumberPrefixes.json'
+import ExchangeRates from './ExchangeRates'
 import DefaultCurrencies from './DefaultCurrencies'
+import SuggestedAllowance from './SuggestedAllowance'
 export var supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et']
 export var supportedTimeZonesAndroid =
   ['Europe/Stockholm', 'Europe/Oslo', 'Europe/Helsinki', 'Europe/Copenhagen', 'Europe/Prague', 'Europe/London', 'America/New_York', 'America/Los_Angeles',
@@ -30,6 +31,18 @@ export var supportedTimeZonesAndroid =
 export var languageCodes = ['da', 'fi', 'is', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et']
 
 export let languageCodesForTranslation = ['nb', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
+
+export let getSuggestedAllowanceByAgeAndCountry = (birthDayYear: number, countryCode: string, allowanceType: number) => {
+  var suggestedAllowanceForCountry = SuggestedAllowance[countryCode]
+  var defaultAllowanceConf = SuggestedAllowance['default'][birthDayYear][allowanceType]
+
+  switch (true) {
+    case !suggestedAllowanceForCountry:
+      return ExchangeRates[getDefaultCurrencyCode(countryCode)] * defaultAllowanceConf
+    default:
+      return suggestedAllowanceForCountry[birthDayYear][allowanceType]
+  }
+}
 
 export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> => [
   {code: 'SEK', name: 'Swedish Krona'},
@@ -44,7 +57,6 @@ export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> =
   {code: 'INR', name: 'Indian Rupee'},
   {code: 'ZAR', name: 'Rand'},
   {code: 'ISK', name: 'Iceland Krona'}
-
 ]
 
 export let getTextStrings = (lang: string) => {
@@ -65,10 +77,8 @@ export let getTextStrings = (lang: string) => {
     default : return {..._default, ...en}
   }
 }
-
-export let getRegions = () => { return Regions }
-export let getCities = () => { return Cities }
-
+export let getRegions = () => Regions
+export let getCities = () => Cities
 export let getCountries = () => CountryCodes
 export let getCountry = (countryCode: string) => CountryCodes.find(country => country.code === countryCode)
 export let getPhoneNumberPrefix = (countryCode: string) => parseInt(countryCodes2PhoneNumberPrefixes[countryCode.toUpperCase()])
