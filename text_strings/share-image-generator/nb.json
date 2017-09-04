@@ -1,11 +1,11 @@
 {
-  "header_goal": "PLZ_TRANSLATE SPARINGSMÅL",
-  "header_goal_amount": "PLZ_TRANSLATE BELØP",
-  "header_goal_duration": "PLZ_TRANSLATE SAVED IN",
-  "header_assignment_completed_at": "PLZ_TRANSLATE Fullført på",
-  "header_assignment_task_title": "PLZ_TRANSLATE OPPGAVE",
-  "header_assignment_completed_by": "PLZ_TRANSLATE FULLFØRT AV",
-  "header_assignment_approved_by": "PLZ_TRANSLATE GODKJENT AV",
-  "goal_duration_day_singular": "PLZ_TRANSLATE {days} dag",
-  "goal_duration_day_plural": "PLZ_TRANSLATE {days} dager"
+  "header_goal": "SPARESMÅL",
+  "header_goal_amount": "BELØP",
+  "header_goal_duration": "LAGRET I",
+  "header_assignment_completed_at": "Fullført på",
+  "header_assignment_task_title": "OPPGAVE",
+  "header_assignment_completed_by": "FULLFØRT AV",
+  "header_assignment_approved_by": "GODKJENT AV",
+  "goal_duration_day_singular": "{days} dag",
+  "goal_duration_day_plural": "{days} dager"
 }
