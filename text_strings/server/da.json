@@ -38,26 +38,16 @@
   "trustly_payout_failed_email_subject": "Meddelelse om mislykket udbetaling og tilbagebetaling.",
   "invite_email_subject": "Inviter til Gimi",
   "login_email_subject": "Log ind på Gimi",
-
-
-
-
-
-
   "push_trustly_over_limit": "Mislykket overførsel på {amount}.",
   "dashboard_goal_created": "Oprettede opsparingsmål {goal.title}.",
   "dashboard_goal_completed": "Opsparingsmålet er opnået {goal.title}.",
   "dashboard_transfer_to_savings": "Opsparet {transaction.str_value}.",
-
   "push_goal_updated": "{goal.updated_by.name} har ændret opsparingsmålet {goal.title}.",
   "push_task_updated": "{user} har ændret opgaven {task}.",
   "push_weekly_allowance_auto_transferred": "Ny uge, og {amount} af sidste uges ydelse er automatisk opsparet!",
   "push_weekly_allowance_transferred_parent": "{name}s ugentlig lommepenge på {amount} er automatisk opsparet!",
   "push_monthly_allowance_auto_transferred": "Nyt måned, og {amount} af sidste måneds ydelse er automatisk opsparet!",
   "push_monthly_allowance_transferred_parent": "{name}s månedlig lommepenge på {amount} er automatisk opsparet!",
-
-
-
   "dashboard_child_not_connected": "Glem ikke at tilslutte dig",
   "dashboard_child_setup": "Er ikke færdigoprettet endnu!",
   "dashboard_weekly_allowance_over_trustly_limit": "Ugentlig lommepenge er over beløbsgrænsen",

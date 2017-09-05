@@ -1563,5 +1563,6 @@
   "request_permission_title_photo": "PLZ_TRANSLATE Falta de acceso a las imágenes",
   "request_permission_title_camera": "PLZ_TRANSLATE Falta de acceso a la cámara",
   "request_permission_title_notification": "PLZ_TRANSLATE Falta de acceso a las notificaciones",
-  "request_permission_title_microphone": "PLZ_TRANSLATE Falta de acceso al micrófono"
+  "request_permission_title_microphone": "PLZ_TRANSLATE Falta de acceso al micrófono",
+  "task_needs_approval_title": "PLZ_TRANSLATE Esta tarea debe ser aprobada"
 }

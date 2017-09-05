@@ -1563,5 +1563,6 @@
   "request_permission_title_photo": "PLZ_TRANSLATE Ontbrekende toegang tot afbeeldingen",
   "request_permission_title_camera": "PLZ_TRANSLATE Ontbrekende toegang tot de camera",
   "request_permission_title_notification": "PLZ_TRANSLATE Ontbrekende toegang tot meldingen ontbreken",
-  "request_permission_title_microphone": "PLZ_TRANSLATE Ontbrekende toegang tot de microfoon"
+  "request_permission_title_microphone": "PLZ_TRANSLATE Ontbrekende toegang tot de microfoon",
+  "task_needs_approval_title": "PLZ_TRANSLATE Deze taak moet goedgekeurd worden"
 }

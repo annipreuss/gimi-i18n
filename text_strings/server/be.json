@@ -38,14 +38,10 @@
   "trustly_payout_failed_email_subject": "PLZ_TRANSLATE A message about a failed payout and refund.",
   "invite_email_subject": "PLZ_TRANSLATE Invitation to Gimi",
   "login_email_subject": "PLZ_TRANSLATE Gimi Login",
-
-
-
   "push_trustly_over_limit": "PLZ_TRANSLATE A transfer of {amount} failed.",
   "dashboard_goal_created": "PLZ_TRANSLATE Savings goal {goal.title} set.",
   "dashboard_goal_completed": "PLZ_TRANSLATE Completed {goal.title}.",
   "dashboard_transfer_to_savings": "PLZ_TRANSLATE Saved {transaction.str_value}.",
-
   "push_goal_updated": "PLZ_TRANSLATE {goal.updated_by.name} has an updated {goal.title}.",
   "push_task_updated": "PLZ_TRANSLATE {user} has an updated {task}.",
   "push_weekly_allowance_auto_transferred": "PLZ_TRANSLATE It's a new week and {amount} of your last weekly allowance has been auto saved!",

@@ -1563,5 +1563,6 @@
   "request_permission_title_photo": "PLZ_TRANSLATE Kuvien puuttuminen puuttuu",
   "request_permission_title_camera": "PLZ_TRANSLATE Kamerasta puuttuu pääsy",
   "request_permission_title_notification": "PLZ_TRANSLATE Ilmoitusten puuttuminen",
-  "request_permission_title_microphone": "PLZ_TRANSLATE Puuttuva pääsy mikrofoniin"
+  "request_permission_title_microphone": "PLZ_TRANSLATE Puuttuva pääsy mikrofoniin",
+  "task_needs_approval_title": "PLZ_TRANSLATE Tämä tehtävä on hyväksyttävä"
 }

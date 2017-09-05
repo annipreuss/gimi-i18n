@@ -38,26 +38,16 @@
   "trustly_payout_failed_email_subject": "Messaggio: versamento fallito ed un rimborso.",
   "invite_email_subject": "Invito a Gimi",
   "login_email_subject": "Accesso Gimi ",
-
-
-
-
-
-
   "push_trustly_over_limit": "Un trasferimento di {amount} è fallito.",
   "dashboard_goal_created": "Obiettivo di risparmio {goal.title} stabilito.",
   "dashboard_goal_completed": "Completato {goal.title}.",
   "dashboard_transfer_to_savings": "{transaction.str_value} risparmiati.",
-
   "push_goal_updated": "{goal.updated_by.name} ha un aggiornamento per {goal.title}.",
   "push_task_updated": "{user} ha aggiornato il compito {task}.",
   "push_weekly_allowance_auto_transferred": "È una nuova settimana e {amount} della tua scorsa paghetta settimanale si sono auto risparmiati!",
   "push_weekly_allowance_transferred_parent": "PLZ_CHECK I {amount} della paghetta settimanale di {name} si sono auto risparmiati!",
   "push_monthly_allowance_auto_transferred": "È un nuovo mese e {amount} della tua scorsa paghetta mensile si sono auto risparmiati!",
   "push_monthly_allowance_transferred_parent": "I {amount} della paghetta mensile di {name} si sono auto risparmiati!",
-
-
-
   "dashboard_child_not_connected": "Connettiti ad un membro della famiglia",
   "dashboard_child_setup": "Crea un profilo!",
   "dashboard_weekly_allowance_over_trustly_limit": "La paghetta supera il valore limite di un versamento",

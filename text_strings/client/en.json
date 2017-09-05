@@ -1563,5 +1563,6 @@
   "request_permission_title_photo": "Missing access to images",
   "request_permission_title_camera": "Missing access to the camera",
   "request_permission_title_notification": "Missing access to notifications",
-  "request_permission_title_microphone": "Missing access to the microphone"
+  "request_permission_title_microphone": "Missing access to the microphone",
+  "task_needs_approval_title": "This task needs to be approved"
 }

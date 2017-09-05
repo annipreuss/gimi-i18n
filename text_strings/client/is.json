@@ -1563,5 +1563,6 @@
   "request_permission_title_photo": "PLZ_TRANSLATE Vantar ekki aðgang að myndum",
   "request_permission_title_camera": "PLZ_TRANSLATE Vantar ekki aðgang að myndavélinni",
   "request_permission_title_notification": "PLZ_TRANSLATE Vantar aðgang að tilkynningum",
-  "request_permission_title_microphone": "PLZ_TRANSLATE Vantar ekki aðgang að hljóðnemanum"
+  "request_permission_title_microphone": "PLZ_TRANSLATE Vantar ekki aðgang að hljóðnemanum",
+  "task_needs_approval_title": "PLZ_TRANSLATE Þetta verkefni þarf að vera samþykkt"
 }

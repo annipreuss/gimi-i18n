@@ -38,26 +38,16 @@
   "trustly_payout_failed_email_subject": "Nachricht bezüglich einer fehlerhaften Auszahlung und Rückzahlung.",
   "invite_email_subject": "Einladung zu Gimi",
   "login_email_subject": "Gimi Einloggen",
-
-
-
-
-
-
   "push_trustly_over_limit": "Eine Überweisung von {amount} ist fehlgeschlagen.",
   "dashboard_goal_created": "Sparziel {goal.title} erstellt.",
   "dashboard_goal_completed": "{goal.title} erreicht.",
   "dashboard_transfer_to_savings": "{transaction.str_value} gespart.",
-
   "push_goal_updated": "{goal.updated_by.name} wurde auf {goal.title} aktualisiert.",
   "push_task_updated": "{user} hat {task} aktualisiert.",
   "push_weekly_allowance_auto_transferred": "Die neue Woche ist angebrochen und {amount} Deines letzten wöchentlichen Taschengelds wurde automatisch gespart!",
   "push_weekly_allowance_transferred_parent": " {name}s wöchentliches Taschengeld in Höhe von {amount} wurde automatisch gespart!",
   "push_monthly_allowance_auto_transferred": "Ein neuer Monat ist angebrochen und {amount} Deines letzten monatlichen Taschengelds wurde automatisch gespart!",
   "push_monthly_allowance_transferred_parent": "{name}s monatliches Taschengeld in Höhe von  {amount} wurde automatisch gespart!",
-
-
-
   "dashboard_child_not_connected": "Bitte verbinde Dich mit einem Familienmitglied",
   "dashboard_child_setup": "Erstelle ein Profil!",
   "dashboard_weekly_allowance_over_trustly_limit": "Das Taschengeld überschreitet die Überweisungsgrenze",

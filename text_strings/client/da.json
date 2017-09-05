@@ -1563,5 +1563,6 @@
   "request_permission_title_photo": "PLZ_TRANSLATE Mangler adgang til billeder",
   "request_permission_title_camera": "PLZ_TRANSLATE Manglende adgang til kameraet",
   "request_permission_title_notification": "PLZ_TRANSLATE Mangler adgang til anmeldelser",
-  "request_permission_title_microphone": "PLZ_TRANSLATE Manglende adgang til mikrofonen"
+  "request_permission_title_microphone": "PLZ_TRANSLATE Manglende adgang til mikrofonen",
+  "task_needs_approval_title": "PLZ_TRANSLATE Denne opgave skal godkendes"
 }

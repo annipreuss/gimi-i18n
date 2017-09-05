@@ -1563,5 +1563,6 @@
   "request_permission_title_photo": "PLZ_TRANSLATE Puudub juurdepääs piltidele",
   "request_permission_title_camera": "PLZ_TRANSLATE Puudub juurdepääs kaameratele",
   "request_permission_title_notification": "PLZ_TRANSLATE Puudub juurdepääs teatistele",
-  "request_permission_title_microphone": "PLZ_TRANSLATE Puudub juurdepääs mikrofonile"
+  "request_permission_title_microphone": "PLZ_TRANSLATE Puudub juurdepääs mikrofonile",
+  "task_needs_approval_title": "PLZ_TRANSLATE Seda ülesannet tuleb heaks kiita"
 }

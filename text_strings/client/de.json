@@ -1563,5 +1563,6 @@
   "request_permission_title_photo": "PLZ_TRANSLATE Fehlender Zugriff auf Bilder",
   "request_permission_title_camera": "PLZ_TRANSLATE Fehlender Zugriff auf die Kamera",
   "request_permission_title_notification": "PLZ_TRANSLATE Fehlender Zugriff auf Benachrichtigungen",
-  "request_permission_title_microphone": "PLZ_TRANSLATE Fehlender Zugriff auf das Mikrofon"
+  "request_permission_title_microphone": "PLZ_TRANSLATE Fehlender Zugriff auf das Mikrofon",
+  "task_needs_approval_title": "PLZ_TRANSLATE Diese Aufgabe muss genehmigt werden"
 }

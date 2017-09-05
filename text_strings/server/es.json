@@ -38,26 +38,16 @@
   "trustly_payout_failed_email_subject": "Un mensaje acerca de un reembolso y un pago fallido.",
   "invite_email_subject": "Invitación a Gimi",
   "login_email_subject": "Inicio de sesión Gimi",
-
-
-
-
-
-
   "push_trustly_over_limit": "Una transferencia de {amount} falló.",
   "dashboard_goal_created": "Meta de ahorro {goal.title} establecida.",
   "dashboard_goal_completed": "{goal.title} completada.",
   "dashboard_transfer_to_savings": "{transaction.str_value} guardado.",
-
   "push_goal_updated": "{goal.updated_by.name} tiene la actualización de {goal.title}.",
   "push_task_updated": "{user} tiene la actualización de {task}.",
   "push_weekly_allowance_auto_transferred": "¡Es una nueva semana y {amount} de su última asignación semanal fue guardada automáticamente!",
   "push_weekly_allowance_transferred_parent": "¡La asignación semanal de {name} por  {amount} fue guardada automáticamente!",
   "push_monthly_allowance_auto_transferred": "¡Es un nuevo mes y {amount} de su última asignación mensual fue guardada automáticamente!",
   "push_monthly_allowance_transferred_parent": "¡La asignación mensual de {name} por {amount} fue guardada automáticamente!",
-
-
-
   "dashboard_child_not_connected": "Conectar a un miembro de la familia",
   "dashboard_child_setup": "¡Configurar un perfil!",
   "dashboard_weekly_allowance_over_trustly_limit": "La asignación es mayor al límite de transferencia",
