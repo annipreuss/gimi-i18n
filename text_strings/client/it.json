@@ -1564,5 +1564,6 @@
   "request_permission_title_camera": "PLZ_TRANSLATE Accesso mancante alla fotocamera",
   "request_permission_title_notification": "PLZ_TRANSLATE Accesso mancante alle notifiche",
   "request_permission_title_microphone": "PLZ_TRANSLATE Assenza di accesso al microfono",
-  "task_needs_approval_title": "PLZ_TRANSLATE Questo compito deve essere approvato"
+  "task_needs_approval_title": "PLZ_TRANSLATE Questo compito deve essere approvato",
+  "task_per_hour_edit_instruction": "PLZ_TRANSLATE Trascinare l'handle per modificare l'ora"
 }

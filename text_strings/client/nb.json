@@ -1564,5 +1564,6 @@
   "request_permission_title_camera": "PLZ_TRANSLATE Mangler tilgang til kameraet",
   "request_permission_title_notification": "PLZ_TRANSLATE Mangler tilgang til varsler",
   "request_permission_title_microphone": "PLZ_TRANSLATE Mangler tilgang til mikrofonen",
-  "task_needs_approval_title": "PLZ_TRANSLATE Denne oppgaven må godkjennes"
+  "task_needs_approval_title": "PLZ_TRANSLATE Denne oppgaven må godkjennes",
+  "task_per_hour_edit_instruction": "PLZ_TRANSLATE Dra håndtaket for å redigere tiden"
 }

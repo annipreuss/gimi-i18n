@@ -1564,5 +1564,6 @@
   "request_permission_title_camera": "PLZ_TRANSLATE Kamerasta puuttuu pääsy",
   "request_permission_title_notification": "PLZ_TRANSLATE Ilmoitusten puuttuminen",
   "request_permission_title_microphone": "PLZ_TRANSLATE Puuttuva pääsy mikrofoniin",
-  "task_needs_approval_title": "PLZ_TRANSLATE Tämä tehtävä on hyväksyttävä"
+  "task_needs_approval_title": "PLZ_TRANSLATE Tämä tehtävä on hyväksyttävä",
+  "task_per_hour_edit_instruction": "PLZ_TRANSLATE Muuta aikaa painamalla kahvaa"
 }

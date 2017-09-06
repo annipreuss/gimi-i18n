@@ -1575,5 +1575,6 @@
   "request_permission_title_camera": "PLZ_TRANSLATE Saknar åtkomst till kameran",
   "request_permission_title_notification": "PLZ_TRANSLATE Saknar åtkomst till notifikationer",
   "request_permission_title_microphone": "PLZ_TRANSLATE Saknar åtkomst till mikrofonen",
-  "task_needs_approval_title": "Uppgiften måste godkännas"
+  "task_needs_approval_title": "Uppgiften måste godkännas",
+  "task_per_hour_edit_instruction": "Dra i handtaget för att redigera tiden"
 }

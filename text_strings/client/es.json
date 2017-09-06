@@ -1564,5 +1564,6 @@
   "request_permission_title_camera": "PLZ_TRANSLATE Falta de acceso a la cámara",
   "request_permission_title_notification": "PLZ_TRANSLATE Falta de acceso a las notificaciones",
   "request_permission_title_microphone": "PLZ_TRANSLATE Falta de acceso al micrófono",
-  "task_needs_approval_title": "PLZ_TRANSLATE Esta tarea debe ser aprobada"
+  "task_needs_approval_title": "PLZ_TRANSLATE Esta tarea debe ser aprobada",
+  "task_per_hour_edit_instruction": "PLZ_TRANSLATE Arrastre el controlador para editar el tiempo"
 }

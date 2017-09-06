@@ -1564,5 +1564,6 @@
   "request_permission_title_camera": "PLZ_TRANSLATE Адсутнічае доступ да камеры",
   "request_permission_title_notification": "PLZ_TRANSLATE Адсутнічае доступ да паведамлення",
   "request_permission_title_microphone": "PLZ_TRANSLATE Адсутнічае доступ да мікрафону",
-  "task_needs_approval_title": "PLZ_TRANSLATE Гэта задача павінна быць зацверджана"
+  "task_needs_approval_title": "PLZ_TRANSLATE Гэта задача павінна быць зацверджана",
+  "task_per_hour_edit_instruction": "PLZ_TRANSLATE Перацягнуць ручку, каб змяніць час"
 }
