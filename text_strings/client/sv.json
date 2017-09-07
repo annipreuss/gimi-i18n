@@ -1577,7 +1577,7 @@
   "request_permission_title_microphone": "PLZ_TRANSLATE Saknar åtkomst till mikrofonen",
   "task_needs_approval_title": "Uppgiften måste godkännas",
   "task_per_hour_edit_instruction": "Dra i handtaget för att redigera tiden",
-  "tab_view_connect_you_to": "Koppla ditt konto till %1$d konto",
+  "tab_view_connect_you_to": "Koppla ditt konto till %1$d",
   "tab_view_bullet_1": "Automatiska överföringar av %1$d.",
   "tab_view_bullet_2": "För enkelt över pengar mellan era konton",
   "connect_us": "Koppla ihop oss!",

@@ -1566,7 +1566,7 @@
   "request_permission_title_microphone": "PLZ_TRANSLATE Assenza di accesso al microfono",
   "task_needs_approval_title": "PLZ_TRANSLATE Questo compito deve essere approvato",
   "task_per_hour_edit_instruction": "PLZ_TRANSLATE Trascinare l'handle per modificare l'ora",
-  "tab_view_connect_you_to": "PLZ_TRANSLATE Collega il tuo account all&#39;account %1$d",
+  "tab_view_connect_you_to": "PLZ_TRANSLATE Collega il tuo account a %1$d",
   "tab_view_bullet_1": "PLZ_TRANSLATE Trasferimenti automatici di %1$d .",
   "tab_view_bullet_2": "PLZ_TRANSLATE Per trasferire facilmente i soldi tra i tuoi account",
   "connect_us": "PLZ_TRANSLATE Connettiti!",

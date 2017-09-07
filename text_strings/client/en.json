@@ -1566,7 +1566,7 @@
   "request_permission_title_microphone": "Missing access to the microphone",
   "task_needs_approval_title": "This task needs to be approved",
   "task_per_hour_edit_instruction": "Drag the handle to edit the time",
-  "tab_view_connect_you_to": "Link your account to %1$d account",
+  "tab_view_connect_you_to": "Link your account to %1$d",
   "tab_view_bullet_1": "Automatic transfers of %1$d .",
   "tab_view_bullet_2": "To easily transfer money between your accounts",
   "connect_us": "Connect us!",

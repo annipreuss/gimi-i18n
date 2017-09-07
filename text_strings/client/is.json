@@ -1566,7 +1566,7 @@
   "request_permission_title_microphone": "PLZ_TRANSLATE Vantar ekki aðgang að hljóðnemanum",
   "task_needs_approval_title": "PLZ_TRANSLATE Þetta verkefni þarf að vera samþykkt",
   "task_per_hour_edit_instruction": "PLZ_TRANSLATE Dragðu handfangið til að breyta tímanum",
-  "tab_view_connect_you_to": "PLZ_TRANSLATE Tengdu reikninginn þinn við %1$d reikning",
+  "tab_view_connect_you_to": "PLZ_TRANSLATE Tengdu reikninginn þinn við %1$d",
   "tab_view_bullet_1": "PLZ_TRANSLATE Sjálfvirk flytja af %1$d .",
   "tab_view_bullet_2": "PLZ_TRANSLATE Til að flytja peninga auðveldlega á milli reikninga",
   "connect_us": "PLZ_TRANSLATE Tengdu okkur!",
