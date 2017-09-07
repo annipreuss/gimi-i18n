@@ -50,5 +50,9 @@ Array [
     "code": "ISK",
     "name": "Iceland Krona",
   },
+  Object {
+    "code": "THB",
+    "name": "Thai Baht",
+  },
 ]
 `;
