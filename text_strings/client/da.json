@@ -360,7 +360,7 @@
   "new_update_text_3": "Direkte til bankkontoen",
   "new_update_text_4": "Nem og sikker kontoregistrering med Bank-ID",
   "new_update_text_5": "Fungerer med alle banker",
-  "new_update_ready_text": "Kom i gang!",
+  "new_update_ready_text": "PLZ_TRANSLATE okay",
   "child_overview_item_pending_trustly_connection": "Afventer tilslutning til bankkontoen",
   "trustly_parent_account_connected_headline": "Overførsler er aktiverede!",
   "trustly_parent_connected_account_info_1": "%s bliver automatisk indsat på <b>%s<b>. Pengene hæves fra din konto på <b>%s</b> og er indsat barnets konto på <b>%s</b>.",

@@ -360,7 +360,7 @@
   "new_update_text_3": "Direct naar hun bankrekening",
   "new_update_text_4": "Gemakkelijke en veilige registratie met behulp van Bank ID",
   "new_update_text_5": "Werkt met alle banken",
-  "new_update_ready_text": "Let's go!",
+  "new_update_ready_text": "PLZ_TRANSLATE oke",
   "child_overview_item_pending_trustly_connection": "Connectie met de bank rekening is bezig",
   "trustly_parent_account_connected_headline": "Transacties zijn ingeschakeld!",
   "trustly_parent_connected_account_info_1": "%s zal automatisch ingevoerd worden in <b>%s<b>. Het geld word afgehaald van jou account <b>%s</b> en geplaatst op dat van je kind <b>%s</b>.",

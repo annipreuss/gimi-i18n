@@ -360,7 +360,7 @@
   "new_update_text_3": "Direkte til barnets bankkonto",
   "new_update_text_4": "Smidig og sikker kontoregistrering med Bank ID",
   "new_update_text_5": "Fungerer med alle banker",
-  "new_update_ready_text": "Kom igang!",
+  "new_update_ready_text": "PLZ_TRANSLATE Greit",
   "child_overview_item_pending_trustly_connection": "Tilkobling av bankkonto pågår",
   "trustly_parent_account_connected_headline": "Overføringer er aktivert!",
   "trustly_parent_connected_account_info_1": "%s kommer autmatisk til å bli utbetalt på <b>%s<b>. Pengene blir dratt fra din konto på <b>%s</b> og er på barnets konto på <b>%s</b>.",

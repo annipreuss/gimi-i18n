@@ -360,7 +360,7 @@
   "new_update_text_3": "Directamente de la cuenta bancaria",
   "new_update_text_4": "Un registro bueno y seguro con ID Bancario",
   "new_update_text_5": "Funciona con todos los bancos",
-  "new_update_ready_text": "¡Vamos!",
+  "new_update_ready_text": "PLZ_TRANSLATE Bueno",
   "child_overview_item_pending_trustly_connection": "Conexión de las cuentas bancarias en curso",
   "trustly_parent_account_connected_headline": "¡Las transacciones están activas!",
   "trustly_parent_connected_account_info_1": "%s se incluirán automáticamente en <b>%s<b>. El dinero es deducido de tu cuenta en <b>%s</b> y está en la cuenta del niño(a) <b>%s</b>.",

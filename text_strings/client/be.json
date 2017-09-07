@@ -360,7 +360,7 @@
   "new_update_text_3": "PLZ_TRANSLATE Directly to the bank account",
   "new_update_text_4": "PLZ_TRANSLATE Smooth and secure registration with Bank ID",
   "new_update_text_5": "PLZ_TRANSLATE Works with all the banks",
-  "new_update_ready_text": "PLZ_TRANSLATE Let's go!",
+  "new_update_ready_text": "PLZ_TRANSLATE добра",
   "child_overview_item_pending_trustly_connection": "PLZ_TRANSLATE Connection of the bank accounts is ongoing",
   "trustly_parent_account_connected_headline": "PLZ_TRANSLATE Transactions are enabled!",
   "trustly_parent_connected_account_info_1": "PLZ_TRANSLATE %s will automatically be inserted to <b>%s<b>. The money is deducted from your account on <b>%s</b> and is in the child's account <b>%s</b>.",

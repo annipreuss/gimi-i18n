@@ -360,7 +360,7 @@
   "new_update_text_3": "Direkt auf das Bankkonto",
   "new_update_text_4": "Leichte und sichere Registration per Bankleitzahl",
   "new_update_text_5": "Kompatibel mit allen Banken",
-  "new_update_ready_text": "Auf geht's!",
+  "new_update_ready_text": "PLZ_TRANSLATE okay",
   "child_overview_item_pending_trustly_connection": "Die Verbindung zwischen den Bankkonten wird fortgeführt",
   "trustly_parent_account_connected_headline": "Transaktionen sind aktiviert!",
   "trustly_parent_connected_account_info_1": "%s wird automatisch ergänzt auf <b>%s<b>. Das Geld wird von Deinem Bankkonto <b>%s</b> abgezogen und auf das Konto des Kindes <b>%s</b> überwiesen.",

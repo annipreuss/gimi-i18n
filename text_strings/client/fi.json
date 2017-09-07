@@ -360,7 +360,7 @@
   "new_update_text_3": "Suoraan lapsesi pankkitilille",
   "new_update_text_4": "Tilin rekisteröinti sujuvasti ja turvallisesti pankkitunnuksilla",
   "new_update_text_5": "Toimii kaikissa pankeissa",
-  "new_update_ready_text": "Tule mukaan!",
+  "new_update_ready_text": "PLZ_TRANSLATE Okei",
   "child_overview_item_pending_trustly_connection": "Liitetään pankkitiliä",
   "trustly_parent_account_connected_headline": "Tilisiirrot on aktivoitu!",
   "trustly_parent_connected_account_info_1": "%s maksetaan automaattisesti <b>%s<b>. Rahat veloitetaan tililtäsi <b>%s</b>, ja ne ovat lapsesi tilillä <b>%s</b>.",

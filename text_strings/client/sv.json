@@ -360,7 +360,7 @@
   "new_update_text_3": "Direkt till ditt barns bankkonto",
   "new_update_text_4": "Smidig och säker kontoregistrering med Bank ID",
   "new_update_text_5": "Fungerar med alla banker",
-  "new_update_ready_text": "Kom igång!",
+  "new_update_ready_text": "Okej",
   "child_overview_item_pending_trustly_connection": "Anslutning av bankkonton pågår",
   "trustly_parent_account_connected_headline": "Överföringar är aktiverade!",
   "trustly_parent_connected_account_info_1": "%s kommer automatiskt att betals ut på <b>%s<b>. Pengarna dras från ditt konto på <b>%s</b> och är på barnets konto på <b>%s</b>.",

@@ -360,7 +360,7 @@
   "new_update_text_3": "Directement au compte bancaire",
   "new_update_text_4": "Inscription avec identifiant bancaire bonne et sécurisée",
   "new_update_text_5": "Marche avec toutes les banques",
-  "new_update_ready_text": "Allons-y!",
+  "new_update_ready_text": "PLZ_TRANSLATE d'accord",
   "child_overview_item_pending_trustly_connection": "La connexion des comptes bancaires est en cours",
   "trustly_parent_account_connected_headline": "Les transferts sont activés!",
   "trustly_parent_connected_account_info_1": "%s sera automatiquement inséré dans <b>%s<b>. L'argent est déduit depuis le compte le <b>%s</b> et est dans le compte de l'enfant <b>%s</b>.",

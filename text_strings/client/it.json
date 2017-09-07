@@ -360,7 +360,7 @@
   "new_update_text_3": "Direttamente nel conto corrente",
   "new_update_text_4": "Registrazione agevole e sicura con l’ID banca",
   "new_update_text_5": "Funzione con tutte le banche",
-  "new_update_ready_text": "Andiamo!",
+  "new_update_ready_text": "PLZ_TRANSLATE Va bene",
   "child_overview_item_pending_trustly_connection": "Connessione fra conti correnti in corso ",
   "trustly_parent_account_connected_headline": "Le operazioni sono attivate!",
   "trustly_parent_connected_account_info_1": "%s saranno automaticamente inseriti nel <b>%s<b>. I soldi sono detratti dal tuo conto il <b>%s</b>  e da quello di vostro figlio il <b>%s</b>.",
