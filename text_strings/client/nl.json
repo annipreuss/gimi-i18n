@@ -1565,5 +1565,10 @@
   "request_permission_title_notification": "PLZ_TRANSLATE Ontbrekende toegang tot meldingen ontbreken",
   "request_permission_title_microphone": "PLZ_TRANSLATE Ontbrekende toegang tot de microfoon",
   "task_needs_approval_title": "PLZ_TRANSLATE Deze taak moet goedgekeurd worden",
-  "task_per_hour_edit_instruction": "PLZ_TRANSLATE Sleep de handgreep om de tijd te bewerken"
+  "task_per_hour_edit_instruction": "PLZ_TRANSLATE Sleep de handgreep om de tijd te bewerken",
+  "tab_view_connect_you_to": "PLZ_TRANSLATE Link uw account aan %1$d account",
+  "tab_view_bullet_1": "PLZ_TRANSLATE Automatische overdrachten van %1$d .",
+  "tab_view_bullet_2": "PLZ_TRANSLATE Om geld gemakkelijk te verplaatsen tussen uw accounts",
+  "connect_us": "PLZ_TRANSLATE Verbind ons!",
+  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Verificatie met Mobiele Bank ID"
 }

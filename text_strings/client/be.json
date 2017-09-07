@@ -1565,5 +1565,10 @@
   "request_permission_title_notification": "PLZ_TRANSLATE Адсутнічае доступ да паведамлення",
   "request_permission_title_microphone": "PLZ_TRANSLATE Адсутнічае доступ да мікрафону",
   "task_needs_approval_title": "PLZ_TRANSLATE Гэта задача павінна быць зацверджана",
-  "task_per_hour_edit_instruction": "PLZ_TRANSLATE Перацягнуць ручку, каб змяніць час"
+  "task_per_hour_edit_instruction": "PLZ_TRANSLATE Перацягнуць ручку, каб змяніць час",
+  "tab_view_connect_you_to": "PLZ_TRANSLATE Звяжыце свой рахунак на %1$d рахункі",
+  "tab_view_bullet_1": "PLZ_TRANSLATE Аўтаматычныя пераклады %1$d .",
+  "tab_view_bullet_2": "PLZ_TRANSLATE Каб лёгка пераводзіць грошы паміж сваімі рахункамі",
+  "connect_us": "PLZ_TRANSLATE Падключэнне да нас!",
+  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Праверка з мабільным банкам ID"
 }

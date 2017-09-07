@@ -1565,5 +1565,10 @@
   "request_permission_title_notification": "PLZ_TRANSLATE Puudub juurdepääs teatistele",
   "request_permission_title_microphone": "PLZ_TRANSLATE Puudub juurdepääs mikrofonile",
   "task_needs_approval_title": "PLZ_TRANSLATE Seda ülesannet tuleb heaks kiita",
-  "task_per_hour_edit_instruction": "PLZ_TRANSLATE Aja muutmiseks lohistage käepide"
+  "task_per_hour_edit_instruction": "PLZ_TRANSLATE Aja muutmiseks lohistage käepide",
+  "tab_view_connect_you_to": "PLZ_TRANSLATE Seostage oma konto %1$d kontoga",
+  "tab_view_bullet_1": "PLZ_TRANSLATE Automaatne ülekanne %1$d .",
+  "tab_view_bullet_2": "PLZ_TRANSLATE Kergesti raha üle oma kontode vahel",
+  "connect_us": "PLZ_TRANSLATE Ühenda meid!",
+  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Mobiilipanga ID-ga kinnitamine"
 }

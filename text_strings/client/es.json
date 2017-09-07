@@ -1565,5 +1565,10 @@
   "request_permission_title_notification": "PLZ_TRANSLATE Falta de acceso a las notificaciones",
   "request_permission_title_microphone": "PLZ_TRANSLATE Falta de acceso al micrófono",
   "task_needs_approval_title": "PLZ_TRANSLATE Esta tarea debe ser aprobada",
-  "task_per_hour_edit_instruction": "PLZ_TRANSLATE Arrastre el controlador para editar el tiempo"
+  "task_per_hour_edit_instruction": "PLZ_TRANSLATE Arrastre el controlador para editar el tiempo",
+  "tab_view_connect_you_to": "PLZ_TRANSLATE Vincule su cuenta a %1$d cuenta",
+  "tab_view_bullet_1": "PLZ_TRANSLATE Transferencias automáticas de %1$d .",
+  "tab_view_bullet_2": "PLZ_TRANSLATE Para transferir fácilmente dinero entre sus cuentas",
+  "connect_us": "PLZ_TRANSLATE ¡Conéctate!",
+  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Verificación con identificación de Mobile Bank"
 }

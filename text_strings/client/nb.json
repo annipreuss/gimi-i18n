@@ -1565,5 +1565,10 @@
   "request_permission_title_notification": "PLZ_TRANSLATE Mangler tilgang til varsler",
   "request_permission_title_microphone": "PLZ_TRANSLATE Mangler tilgang til mikrofonen",
   "task_needs_approval_title": "PLZ_TRANSLATE Denne oppgaven må godkjennes",
-  "task_per_hour_edit_instruction": "PLZ_TRANSLATE Dra håndtaket for å redigere tiden"
+  "task_per_hour_edit_instruction": "PLZ_TRANSLATE Dra håndtaket for å redigere tiden",
+  "tab_view_connect_you_to": "PLZ_TRANSLATE Koble din konto til %1$d konto",
+  "tab_view_bullet_1": "PLZ_TRANSLATE Automatiske overføringer av %1$d .",
+  "tab_view_bullet_2": "PLZ_TRANSLATE For å enkelt overføre penger mellom kontoene dine",
+  "connect_us": "PLZ_TRANSLATE Koble oss!",
+  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Verifisering med mobilbank-ID"
 }
