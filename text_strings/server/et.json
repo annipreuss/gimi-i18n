@@ -154,5 +154,11 @@
   "push_assignment_auto_approved": "PLZ_TRANSLATE Tore! {assignment.task.title} kinnitati automaatselt!",
   "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Task kinnitatud automaatselt: {assignment.task.title}",
   "event_assignment_auto_approved": "PLZ_TRANSLATE Task kinnitatud automaatselt: {assignment.task.title}",
-  "dashboard_connected_parent": "PLZ_TRANSLATE Olete nüüd seotud {child.name}"
+  "dashboard_connected_parent": "PLZ_TRANSLATE Olete nüüd seotud {child.name}",
+  "push_before_super_parent": "PLZ_TRANSLATE Sa oled nüüd lähedal vanematele! Ainus asi, mis on alles, on teie lapsega ühendamine.",
+  "push_intro_chores": "PLZ_TRANSLATE Hea näha sind meiega. Nüüd on aeg anda oma lastele tööd. Võibolla on see väärt 0,50 eurot, et mitte täna sööma hakkama? :-)",
+  "push_intro_make_deposit": "PLZ_TRANSLATE On aeg teha oma laste raha digitaalseks. Tehke tagatisraha säärepangale, et oma lapsed intellektuaalselt areneda.",
+  "push_reminder_give_chores": "PLZ_TRANSLATE Ärge unustage anda oma lastele tööd, et nad saaksid lisaraha õppida, kuidas raha töötab. Rakenduses näiteülesannete leidmine!",
+  "push_suggest_task": "PLZ_TRANSLATE Nüüd saate oma vanematele ülesandeid teha. Valige rakenduses ülesanded ja seejärel soovita ülesanne. Nii saate lisaraha",
+  "push_exchange_cash": "PLZ_TRANSLATE Kas sul on raha? Vaheta sinu raha oma vanematega ja küsige tagatisraha oma säärane pank."
 }

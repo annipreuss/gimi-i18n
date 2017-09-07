@@ -154,5 +154,11 @@
   "push_assignment_auto_approved": "PLZ_TRANSLATE Ágætur! {assignment.task.title} var sjálfkrafa samþykkt!",
   "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Task sjálfvirkt samþykkt: {assignment.task.title}",
   "event_assignment_auto_approved": "PLZ_TRANSLATE Task sjálfvirkt samþykkt: {assignment.task.title}",
-  "dashboard_connected_parent": "PLZ_TRANSLATE Þú ert núna tengdur við {child.name}"
+  "dashboard_connected_parent": "PLZ_TRANSLATE Þú ert núna tengdur við {child.name}",
+  "push_before_super_parent": "PLZ_TRANSLATE Þú ert nú nálægt því að verða frábær foreldri! Það eina sem eftir er er að tengjast barninu þínu.",
+  "push_intro_chores": "PLZ_TRANSLATE Gott að sjá þig með okkur. Nú er kominn tími til að gefa út börnin þín. Kannski er það þess virði að vera 0,50 € að ekki gera diskar í kvöld? :-)",
+  "push_intro_make_deposit": "PLZ_TRANSLATE Það er kominn tími til að gera stafrænt börn barnanna þína. Gakktu inn í grís bankann til að gera börnin þín vaxandi vitsmunalega.",
+  "push_reminder_give_chores": "PLZ_TRANSLATE Ekki gleyma að gefa börnum þínum húsverk svo að þeir geti aukið peninga á meðan að læra hvernig peningar virka. Finndu dæmi um verkefni í appinu!",
+  "push_suggest_task": "PLZ_TRANSLATE Þú getur nú lagt fyrir verkefni fyrir foreldra þína. Veldu Verkefni í appinu, þá Leggja fram verkefni. Þannig geturðu fengið auka peninga",
+  "push_exchange_cash": "PLZ_TRANSLATE Hefur þú peninga? Skiptu peningum þínum með foreldrum þínum og biðja um innborgun í grís bankann þinn."
 }

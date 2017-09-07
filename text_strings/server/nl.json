@@ -154,5 +154,11 @@
   "push_assignment_auto_approved": "Leuk! {assignment.task.title} is automatisch goedgekeurd!",
   "push_assignment_auto_approved_parent": "Taak automatisch goedgekeurd: {assignment.task.title}",
   "event_assignment_auto_approved": "Taak automatisch goedgekeurd: {assignment.task.title}",
-  "dashboard_connected_parent": "PLZ_TRANSLATE Je bent nu verbonden met {child.name}"
+  "dashboard_connected_parent": "PLZ_TRANSLATE Je bent nu verbonden met {child.name}",
+  "push_before_super_parent": "PLZ_TRANSLATE Je bent nu dicht bij het worden van een super ouder! Het enige wat overblijft is om met je kind te verbinden.",
+  "push_intro_chores": "PLZ_TRANSLATE Leuk om je met ons te zien. Het is nu tijd om je kinderen opdrachten uit te geven. Misschien is het € 0,50 waard om vanavond niet de afwas te maken? :-)",
+  "push_intro_make_deposit": "PLZ_TRANSLATE Het is tijd om je cash digitaal te maken. Maak een borg in de spaarpot om je kinderen intellectueel te laten groeien.",
+  "push_reminder_give_chores": "PLZ_TRANSLATE Vergeet niet om je kinderen opdrachten te geven zodat ze extra geld kunnen verdienen, terwijl ze leren hoe het geld werkt. Zoek voorbeeldtaken in de app!",
+  "push_suggest_task": "PLZ_TRANSLATE U kunt nu taken voorstellen aan uw ouders. Selecteer taken in de app, en stel vervolgens taak voor. Op deze manier kunt u wat extra geld krijgen",
+  "push_exchange_cash": "PLZ_TRANSLATE Heb je contant geld? Wissel je geld uit met je ouders en vraag om een ​​borg in je spaarpot."
 }

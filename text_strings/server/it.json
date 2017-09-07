@@ -154,5 +154,11 @@
   "push_assignment_auto_approved": "PLZ_TRANSLATE Bello! {assignment.task.title} stato approvato automaticamente!",
   "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Attività approvata automaticamente: {assignment.task.title}",
   "event_assignment_auto_approved": "PLZ_TRANSLATE Attività approvata automaticamente: {assignment.task.title}",
-  "dashboard_connected_parent": "PLZ_TRANSLATE Ora sei connesso con {child.name}"
+  "dashboard_connected_parent": "PLZ_TRANSLATE Ora sei connesso con {child.name}",
+  "push_before_super_parent": "PLZ_TRANSLATE Ora sei vicino a diventare un genitore super! L'unica cosa rimasta è collegarsi al tuo bambino.",
+  "push_intro_chores": "PLZ_TRANSLATE È bello vederti con noi. È giunto il momento di dare lavoro ai tuoi figli. Forse vale la pena 0,50 euro per non fare i piatti stasera? :-)",
+  "push_intro_make_deposit": "PLZ_TRANSLATE È tempo di rendere digitali i tuoi soldi per i tuoi figli. Fai un deposito nella salvadanaio per rendere i tuoi figli crescere intellettualmente.",
+  "push_reminder_give_chores": "PLZ_TRANSLATE Non dimenticare di dare i propri figli per fare soldi extra mentre imparate come funzionano i soldi. Trova attività di esempio nell'applicazione!",
+  "push_suggest_task": "PLZ_TRANSLATE Ora puoi suggerire dei compiti ai tuoi genitori. Seleziona Attività nell'applicazione, quindi suggerisci Attività. In questo modo puoi ottenere qualche soldo extra",
+  "push_exchange_cash": "PLZ_TRANSLATE Hai soldi? Scambia i tuoi soldi con i tuoi genitori e chieda un deposito nella tua banca salvadanaio."
 }

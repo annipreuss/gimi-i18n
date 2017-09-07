@@ -154,5 +154,11 @@
   "push_assignment_auto_approved": "PLZ_TRANSLATE Hyggelig! {assignment.task.title} ble automatisk godkjent!",
   "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Oppgave automatisk godkjent: {assignment.task.title}",
   "event_assignment_auto_approved": "PLZ_TRANSLATE Oppgave automatisk godkjent: {assignment.task.title}",
-  "dashboard_connected_parent": "PLZ_TRANSLATE Du er nå koblet til {child.name}"
+  "dashboard_connected_parent": "PLZ_TRANSLATE Du er nå koblet til {child.name}",
+  "push_before_super_parent": "PLZ_TRANSLATE Du er nå nær å bli en superforelder! Det eneste som gjenstår er å koble til barnet ditt.",
+  "push_intro_chores": "PLZ_TRANSLATE Fint å se deg med oss. Det er nå på tide å gi ut barna til barna dine. Kanskje er det verdt en € 0,50 å ikke gjøre oppvasken i kveld? :-)",
+  "push_intro_make_deposit": "PLZ_TRANSLATE Det er på tide å gjøre barnas kontanter digital. Gjør et innskudd i spargrisen for å få barna til å vokse intellektuelt.",
+  "push_reminder_give_chores": "PLZ_TRANSLATE Ikke glem å gi barna dine oppgaver slik at de kan tjene ekstra penger mens du lærer hvordan pengene fungerer. Finn eksempeloppgaver i appen!",
+  "push_suggest_task": "PLZ_TRANSLATE Du kan nå foreslå oppgaver til foreldrene dine. Velg Oppgaver i appen, og velg deretter Oppgave. På denne måten kan du få litt ekstra penger",
+  "push_exchange_cash": "PLZ_TRANSLATE Har du kontanter? Bytt penger med foreldrene dine og be om innskudd i spargrisen din."
 }

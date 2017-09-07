@@ -154,5 +154,11 @@
   "push_assignment_auto_approved": "Uppgiften {assignment.task.title} godkändes automatiskt!",
   "push_assignment_auto_approved_parent": "Uppgiften autogodkändes: {assignment.task.title}",
   "event_assignment_auto_approved": "Uppgiften autogodkändes: {assignment.task.title}",
-  "dashboard_connected_parent": "Du har kopplats ihop med {child.name}"
+  "dashboard_connected_parent": "Du har kopplats ihop med {child.name}",
+  "push_before_super_parent": "Du är strax en superförälder! Det enda som återstår är att ansluta till ditt barn.",
+  "push_intro_chores": "Kul att du är med oss. Nu är det dags att ge ut uppgifter. Kanske är det värt 5 kr att slippa göra disken ikväll? :-)",
+  "push_intro_make_deposit": "Det är dags att göra dina barns kontanter digitala. Gör en insättning i spargrisen för att hjälpa dina barn växa intellektuellt.",
+  "push_reminder_give_chores": "Glöm inte att ge dina barn sysslor så att de kan tjäna extra pengar samtidigt som de lär sig hur pengar fungerar. Hitta exempeluppgifter i appen!",
+  "push_suggest_task": "Du kan nu föreslå uppgifter till dina föräldrar. Välj Uppgifter i appen, sedan Föreslå Uppgift. Så kan du få lite extra pengar",
+  "push_exchange_cash": "Har du kontanter? Byt ut dina kontanter med dina föräldrar och be om en insättning i din nya spargris."
 }

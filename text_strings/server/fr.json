@@ -154,5 +154,11 @@
   "push_assignment_auto_approved": "Bien! {assignment.task.title} été auto-approuvé!",
   "push_assignment_auto_approved_parent": "Tâche auto-approuvée: {assignment.task.title}",
   "event_assignment_auto_approved": "Tâche auto-approuvée: {assignment.task.title}",
-  "dashboard_connected_parent": "PLZ_TRANSLATE Vous êtes maintenant connecté avec {child.name}"
+  "dashboard_connected_parent": "PLZ_TRANSLATE Vous êtes maintenant connecté avec {child.name}",
+  "push_before_super_parent": "PLZ_TRANSLATE Vous êtes maintenant proche de devenir un super parent! La seule chose qui reste est de vous connecter avec votre enfant.",
+  "push_intro_chores": "PLZ_TRANSLATE Ravi de vous voir avec nous. Il est maintenant temps de donner des corvées à vos enfants. Peut-être vaut-il 0,50 € pour ne pas faire la vaisselle ce soir? :-)",
+  "push_intro_make_deposit": "PLZ_TRANSLATE Il est temps de rendre l'argent numérique de vos enfants. Faites un dépôt dans la tirelire pour faire croître vos enfants intellectuellement.",
+  "push_reminder_give_chores": "PLZ_TRANSLATE N'oubliez pas de donner à vos enfants des tâches afin qu'ils puissent gagner de l'argent tout en apprenant comment fonctionne l'argent. Trouvez des exemples de tâches dans l'application!",
+  "push_suggest_task": "PLZ_TRANSLATE Vous pouvez maintenant proposer des tâches à vos parents. Sélectionnez Tâches dans l'application, puis Suggérez la tâche. De cette façon, vous pouvez obtenir de l'argent supplémentaire",
+  "push_exchange_cash": "PLZ_TRANSLATE Avez-vous de l'argent? Échangez votre argent avec vos parents et demandez un dépôt dans votre tirelire."
 }

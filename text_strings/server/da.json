@@ -154,5 +154,11 @@
   "push_assignment_auto_approved": "Flot! {assignment.task.title} blev automatisk godkendt!",
   "push_assignment_auto_approved_parent": "Opgave er automatisk godkendt: {assignment.task.title}",
   "event_assignment_auto_approved": "Opgave er automatisk godkendt: {assignment.task.title}",
-  "dashboard_connected_parent": "PLZ_TRANSLATE Du er nu forbundet med {child.name}"
+  "dashboard_connected_parent": "PLZ_TRANSLATE Du er nu forbundet med {child.name}",
+  "push_before_super_parent": "PLZ_TRANSLATE Du er nu tæt på at blive en superforælder! Det eneste der er tilbage, er at forbinde med dit barn.",
+  "push_intro_chores": "PLZ_TRANSLATE Rart at se dig hos os. Det er nu tid til at opgive dine børn. Måske er det en € 0,50 værd at ikke skåle i aften? :-)",
+  "push_intro_make_deposit": "PLZ_TRANSLATE Det er tid til at gøre dine børns kontanter digital. Lav et depositum i spargrisen for at få dine børn til at vokse intellektuelt.",
+  "push_reminder_give_chores": "PLZ_TRANSLATE Glem ikke at give dine børn pligter, så de kan tjene ekstra penge, mens de lærer, hvordan pengene fungerer. Find eksempelopgaver i appen!",
+  "push_suggest_task": "PLZ_TRANSLATE Du kan nu foreslå opgaver til dine forældre. Vælg Opgaver i appen, og giv derefter forslag til opgave. På denne måde kan du få nogle ekstra penge",
+  "push_exchange_cash": "PLZ_TRANSLATE Har du kontanter? Udveksle dine penge med dine forældre og bede om et depositum i din spargebog."
 }

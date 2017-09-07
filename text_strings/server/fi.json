@@ -154,5 +154,11 @@
   "push_assignment_auto_approved": "Kiva! {assignment.task.title} hyväksyttiin automaattisesti!",
   "push_assignment_auto_approved_parent": "Askare hyväksyttiin automaattisesti: {assignment.task.title}",
   "event_assignment_auto_approved": "Askare hyväksyttiin automaattisesti: {assignment.task.title}",
-  "dashboard_connected_parent": "Sinut on nyt yhdistetty henkilöön {child.name}"
+  "dashboard_connected_parent": "Sinut on nyt yhdistetty henkilöön {child.name}",
+  "push_before_super_parent": "PLZ_TRANSLATE Olet nyt lähellä tulossa super vanhempi! Ainoa jäljellä oleva asia on yhteys lapsiin.",
+  "push_intro_chores": "PLZ_TRANSLATE On hienoa nähdä teidät kanssamme. Nyt on aika antaa työtehtäviä lapsillesi. Ehkä se kannattaa 0,50 €, ettette tee ruokia tänä iltana? :-)",
+  "push_intro_make_deposit": "PLZ_TRANSLATE On aika tehdä lapsesi käteistä digitaalinen. Tee talletus säästöpossuun, jotta lapsesi kasvaisivat älyllisesti.",
+  "push_reminder_give_chores": "PLZ_TRANSLATE Älä unohda antaa lapsillesi asioita, jotta he voisivat tehdä ylimääräistä rahaa oppimalla kuinka rahat toimivat. Etsi esimerkkitoimintoja sovelluksessa!",
+  "push_suggest_task": "PLZ_TRANSLATE Voit nyt ehdottaa tehtäviä vanhemmille. Valitse Tehtävät sovelluksessa ja sitten Ehdota tehtävä. Näin voit saada ylimääräistä rahaa",
+  "push_exchange_cash": "PLZ_TRANSLATE Onko sinulla käteistä? Vaihda käteesi vanhempiesi kanssa ja pyydä talletus säästöpossuisi."
 }

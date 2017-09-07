@@ -154,5 +154,11 @@
   "push_assignment_auto_approved": "Nice! {assignment.task.title} was approved automatically!",
   "push_assignment_auto_approved_parent": "Task auto-approved: {assignment.task.title}",
   "event_assignment_auto_approved": "Task auto-approved: {assignment.task.title}",
-  "dashboard_connected_parent": "You are now connected with {child.name}"
+  "dashboard_connected_parent": "You are now connected with {child.name}",
+  "push_before_super_parent": "You’re now close to becoming a super parent! The only thing remaining is to connect with your child.",
+  "push_intro_chores": "Nice to see you with us. It’s now time to give out chores to your kids. Maybe it’s worth a €0.50 to not do the dishes tonight? :-)",
+  "push_intro_make_deposit": "It’s time to make your children’s cash digital. Make a deposit into the piggy bank to make your kids grow intellectually.",
+  "push_reminder_give_chores": "Don’t forget to give your children chores so that they can make extra money while learning how money works. Find example tasks in the app!",
+  "push_suggest_task": "You can now suggest tasks to your parents. Select Tasks in the app, then Suggest Task. This way you can get some extra money",
+  "push_exchange_cash": "Do you have cash? Exchange your cash with your parents and ask for a deposit into your piggy bank."
 }

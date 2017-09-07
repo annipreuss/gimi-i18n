@@ -154,5 +154,11 @@
   "push_assignment_auto_approved": "PLZ_TRANSLATE Nice! {assignment.task.title} быў аўтаматычна ухвалены!",
   "push_assignment_auto_approved_parent": "PLZ_TRANSLATE Задача аўтаматычнага зацверджаны: {assignment.task.title}",
   "event_assignment_auto_approved": "PLZ_TRANSLATE Задача аўтаматычнага зацверджаны: {assignment.task.title}",
-  "dashboard_connected_parent": "PLZ_TRANSLATE Цяпер вы злучаны з {child.name}"
+  "dashboard_connected_parent": "PLZ_TRANSLATE Цяпер вы злучаны з {child.name}",
+  "push_before_super_parent": "PLZ_TRANSLATE Цяпер вы блізка, каб стаць супер-бацька! Пакінуты Адзінае, каб злучыцца з вашым дзіцём.",
+  "push_intro_chores": "PLZ_TRANSLATE Рады бачыць вас з намі. Цяпер прыйшоў час раздаваць клопаты сваім дзецям. Можа быць, гэта каштуе € 0,50, каб не рабіць посуд сёння вечарам? :-)",
+  "push_intro_make_deposit": "PLZ_TRANSLATE Гэты час, каб зрабіць свае дзіця наяўнымі лічбавым. Зрабіце дэпазіт у скарбонку, каб вашы дзеці растуць інтэлектуальна.",
+  "push_reminder_give_chores": "PLZ_TRANSLATE Не забудзьцеся даць сваім дзецям працу па хаце, так што яны могуць зрабіць дадатковыя грошы падчас навучання, як працуюць грошы. Знайсці прыклады задач у дадатку!",
+  "push_suggest_task": "PLZ_TRANSLATE Цяпер вы можаце прапанаваць задачы да сваіх бацькоў. Выбар задачы ў дадатку, а затым Прапаноўвайце задачы. Такім чынам, вы можаце атрымаць некаторыя дадатковыя грошы",
+  "push_exchange_cash": "PLZ_TRANSLATE У Вас ёсць грошы? Абмяняць наяўныя з бацькамі і папрасіць на дэпазіт у вашу скарбонку."
 }

@@ -154,5 +154,11 @@
   "push_assignment_auto_approved": "¡Genial! ¡{assignment.task.title} fue aprobado automáticamente!",
   "push_assignment_auto_approved_parent": "Tarea aprobada automáticamente: {assignment.task.title}",
   "event_assignment_auto_approved": "Tarea aprobada automáticamente: {assignment.task.title}",
-  "dashboard_connected_parent": "Ahora estás conectado con {child.name}"
+  "dashboard_connected_parent": "Ahora estás conectado con {child.name}",
+  "push_before_super_parent": "PLZ_TRANSLATE Ahora estás cerca de convertirte en un super padre! Lo único que queda es conectarse con su hijo.",
+  "push_intro_chores": "PLZ_TRANSLATE Encantado de verte con nosotros. Ahora es el momento de dar las tareas a sus hijos. Tal vez vale la pena un 0,50 € para no hacer los platos esta noche? Todos los derechos reservados",
+  "push_intro_make_deposit": "PLZ_TRANSLATE Es hora de que el dinero de sus hijos sea digital. Haga un depósito en la alcancía para que sus hijos crezcan intelectualmente.",
+  "push_reminder_give_chores": "PLZ_TRANSLATE No se olvide de dar a sus hijos tareas para que puedan ganar dinero extra mientras aprenden cómo funciona el dinero. ¡Encuentra ejemplos de tareas en la aplicación!",
+  "push_suggest_task": "PLZ_TRANSLATE Ahora puede sugerir tareas a sus padres. Seleccione Tareas en la aplicación y, a continuación, Sugiera la tarea. De esta manera usted puede obtener algo de dinero extra",
+  "push_exchange_cash": "PLZ_TRANSLATE ¿Tienes efectivo? Intercambia tu dinero con tus padres y solicita un depósito en tu alcancía."
 }

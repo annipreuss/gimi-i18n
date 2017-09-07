@@ -154,5 +154,11 @@
   "push_assignment_auto_approved": "Toll! {assignment.task.title} wurde automatisch zugelassen!",
   "push_assignment_auto_approved_parent": "Die Aufgabe: {assignment.task.title} automatisch genehmigt",
   "event_assignment_auto_approved": "Aufgabe: {assignment.task.title} wurde automatisch genehmigt",
-  "dashboard_connected_parent": "PLZ_TRANSLATE Sie sind jetzt mit {child.name}"
+  "dashboard_connected_parent": "PLZ_TRANSLATE Sie sind jetzt mit {child.name}",
+  "push_before_super_parent": "PLZ_TRANSLATE Du bist jetzt in der Nähe zu einem Super-Elternteil! Das einzige, was noch übrig ist, ist mit deinem Kind zu verbinden.",
+  "push_intro_chores": "PLZ_TRANSLATE Schön dich bei uns zu sehen. Es ist jetzt Zeit, den Kindern die Arbeit zuzuteilen. Vielleicht ist es wert, ein 0,50 € zu tun, um das Essen heute Abend nicht? :-)",
+  "push_intro_make_deposit": "PLZ_TRANSLATE Es ist Zeit, das Geld deiner Kinder digital zu machen. Machen Sie eine Einzahlung in die Sparschwein, damit Ihre Kinder intellektuell wachsen.",
+  "push_reminder_give_chores": "PLZ_TRANSLATE Vergessen Sie nicht, Ihren Kindern die Arbeit zu geben, damit sie extra Geld verdienen können, während sie lernen, wie Geld funktioniert. Finden Sie Beispielaufgaben in der App!",
+  "push_suggest_task": "PLZ_TRANSLATE Sie können jetzt Ihren Eltern Aufgaben vorschlagen. Wählen Sie Aufgaben in der App aus, und klicken Sie dann auf Task. Auf diese Weise können Sie etwas Geld bekommen",
+  "push_exchange_cash": "PLZ_TRANSLATE Hast du bargeld? Tauschen Sie Ihr Geld mit Ihren Eltern und bitten um eine Einzahlung in Ihr Sparschwein."
 }
