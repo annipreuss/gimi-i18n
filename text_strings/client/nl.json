@@ -1570,5 +1570,6 @@
   "tab_view_bullet_1": "PLZ_TRANSLATE Automatische overdrachten van %1$d .",
   "tab_view_bullet_2": "PLZ_TRANSLATE Om geld gemakkelijk te verplaatsen tussen uw accounts",
   "connect_us": "PLZ_TRANSLATE Verbind ons!",
-  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Verificatie met Mobiele Bank ID"
+  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Verificatie met Mobiele Bank ID",
+  "about_trustly": "PLZ_TRANSLATE over vertrouwelijk"
 }

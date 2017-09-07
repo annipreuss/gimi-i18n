@@ -1570,5 +1570,6 @@
   "tab_view_bullet_1": "PLZ_TRANSLATE Sjálfvirk flytja af %1$d .",
   "tab_view_bullet_2": "PLZ_TRANSLATE Til að flytja peninga auðveldlega á milli reikninga",
   "connect_us": "PLZ_TRANSLATE Tengdu okkur!",
-  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Staðfesting með Mobile Bank ID"
+  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Staðfesting með Mobile Bank ID",
+  "about_trustly": "PLZ_TRANSLATE um traust"
 }

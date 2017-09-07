@@ -1570,5 +1570,6 @@
   "tab_view_bullet_1": "PLZ_TRANSLATE %1$d automaattiset siirrot.",
   "tab_view_bullet_2": "PLZ_TRANSLATE Voit siirtää rahaa helposti tiliesi välillä",
   "connect_us": "PLZ_TRANSLATE Liitä meidät!",
-  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Vahvistus Mobile Bank -tilillä"
+  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Vahvistus Mobile Bank -tilillä",
+  "about_trustly": "PLZ_TRANSLATE Luottamuksellinen"
 }

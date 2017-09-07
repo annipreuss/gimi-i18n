@@ -1570,5 +1570,6 @@
   "tab_view_bullet_1": "PLZ_TRANSLATE Automatiske overføringer av %1$d .",
   "tab_view_bullet_2": "PLZ_TRANSLATE For å enkelt overføre penger mellom kontoene dine",
   "connect_us": "PLZ_TRANSLATE Koble oss!",
-  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Verifisering med mobilbank-ID"
+  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Verifisering med mobilbank-ID",
+  "about_trustly": "PLZ_TRANSLATE om tillitsfullt"
 }

@@ -1570,5 +1570,6 @@
   "tab_view_bullet_1": "PLZ_TRANSLATE Transferencias automáticas de %1$d .",
   "tab_view_bullet_2": "PLZ_TRANSLATE Para transferir fácilmente dinero entre sus cuentas",
   "connect_us": "PLZ_TRANSLATE ¡Conéctate!",
-  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Verificación con identificación de Mobile Bank"
+  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Verificación con identificación de Mobile Bank",
+  "about_trustly": "PLZ_TRANSLATE acerca de Trustly"
 }

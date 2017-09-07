@@ -1570,5 +1570,6 @@
   "tab_view_bullet_1": "PLZ_TRANSLATE Automaatne ülekanne %1$d .",
   "tab_view_bullet_2": "PLZ_TRANSLATE Kergesti raha üle oma kontode vahel",
   "connect_us": "PLZ_TRANSLATE Ühenda meid!",
-  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Mobiilipanga ID-ga kinnitamine"
+  "verification_with_mobile_bank_id": "PLZ_TRANSLATE Mobiilipanga ID-ga kinnitamine",
+  "about_trustly": "PLZ_TRANSLATE Usaldusväärselt"
 }
