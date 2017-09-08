@@ -1574,5 +1574,6 @@
   "about_trustly": "PLZ_TRANSLATE om tillitsfullt",
   "completed_on": "PLZ_TRANSLATE Fullført på %1$d",
   "completed_by": "PLZ_TRANSLATE Fullført av",
-  "connect_your_account": "PLZ_TRANSLATE Koble til kontoen din"
+  "connect_your_account": "PLZ_TRANSLATE Koble til kontoen din",
+  "connecting_to_your_bank": "PLZ_TRANSLATE %1$d kobler til banken din ..."
 }

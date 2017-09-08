@@ -1574,5 +1574,6 @@
   "about_trustly": "PLZ_TRANSLATE Luottamuksellinen",
   "completed_on": "PLZ_TRANSLATE Valmistui kohteessa %1$d",
   "completed_by": "PLZ_TRANSLATE Täydentänyt",
-  "connect_your_account": "PLZ_TRANSLATE Yhdistä tilisi"
+  "connect_your_account": "PLZ_TRANSLATE Yhdistä tilisi",
+  "connecting_to_your_bank": "PLZ_TRANSLATE %1$d on yhteydessä pankkiisi ..."
 }

@@ -1574,5 +1574,6 @@
   "about_trustly": "PLZ_TRANSLATE di Trustly",
   "completed_on": "PLZ_TRANSLATE Completato a %1$d",
   "completed_by": "PLZ_TRANSLATE Completato da",
-  "connect_your_account": "PLZ_TRANSLATE Connetti il ​​tuo account"
+  "connect_your_account": "PLZ_TRANSLATE Connetti il ​​tuo account",
+  "connecting_to_your_bank": "PLZ_TRANSLATE %1$d è collegato alla tua banca ..."
 }
