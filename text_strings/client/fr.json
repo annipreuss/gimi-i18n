@@ -1573,5 +1573,6 @@
   "verification_with_mobile_bank_id": "PLZ_TRANSLATE Vérification avec identification de la banque mobile",
   "about_trustly": "PLZ_TRANSLATE à propos de Trustly",
   "completed_on": "PLZ_TRANSLATE Terminé à %1$d",
-  "completed_by": "PLZ_TRANSLATE Terminé par"
+  "completed_by": "PLZ_TRANSLATE Terminé par",
+  "connect_your_account": "PLZ_TRANSLATE Connectez votre compte"
 }

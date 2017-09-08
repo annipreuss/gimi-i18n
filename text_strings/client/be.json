@@ -1573,5 +1573,6 @@
   "verification_with_mobile_bank_id": "PLZ_TRANSLATE Праверка з мабільным банкам ID",
   "about_trustly": "PLZ_TRANSLATE аб Trustly",
   "completed_on": "PLZ_TRANSLATE Завершаны ў %1$d",
-  "completed_by": "PLZ_TRANSLATE запаўняецца"
+  "completed_by": "PLZ_TRANSLATE запаўняецца",
+  "connect_your_account": "PLZ_TRANSLATE Падключыце свой рахунак"
 }

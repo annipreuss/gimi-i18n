@@ -1573,5 +1573,6 @@
   "verification_with_mobile_bank_id": "PLZ_TRANSLATE Verificatie met Mobiele Bank ID",
   "about_trustly": "PLZ_TRANSLATE over vertrouwelijk",
   "completed_on": "PLZ_TRANSLATE Voltooid op %1$d",
-  "completed_by": "PLZ_TRANSLATE Afgemaakt door"
+  "completed_by": "PLZ_TRANSLATE Afgemaakt door",
+  "connect_your_account": "PLZ_TRANSLATE Sluit je account aan"
 }

@@ -1584,5 +1584,6 @@
   "verification_with_mobile_bank_id": "Verifiering med Mobilt Bank ID",
   "about_trustly": "om Trustly",
   "completed_on": "Utförd %1$d",
-  "completed_by": "Utfördes av"
+  "completed_by": "Utfördes av",
+  "connect_your_account": "Koppla ditt konto"
 }

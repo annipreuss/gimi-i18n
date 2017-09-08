@@ -1573,5 +1573,6 @@
   "verification_with_mobile_bank_id": "PLZ_TRANSLATE Staðfesting með Mobile Bank ID",
   "about_trustly": "PLZ_TRANSLATE um traust",
   "completed_on": "PLZ_TRANSLATE Lokið í %1$d",
-  "completed_by": "PLZ_TRANSLATE Lokið af"
+  "completed_by": "PLZ_TRANSLATE Lokið af",
+  "connect_your_account": "PLZ_TRANSLATE Tengdu reikninginn þinn"
 }

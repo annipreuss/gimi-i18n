@@ -1573,5 +1573,6 @@
   "verification_with_mobile_bank_id": "Verification with Mobile Bank ID",
   "about_trustly": "about Trustly",
   "completed_on": "Completed at %1$d",
-  "completed_by": "Completed by"
+  "completed_by": "Completed by",
+  "connect_your_account": "Connect your account"
 }

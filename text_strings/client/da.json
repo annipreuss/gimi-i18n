@@ -1573,5 +1573,6 @@
   "verification_with_mobile_bank_id": "PLZ_TRANSLATE Verifikation med mobilbank ID",
   "about_trustly": "PLZ_TRANSLATE om tillid",
   "completed_on": "PLZ_TRANSLATE Afsluttet på %1$d",
-  "completed_by": "PLZ_TRANSLATE Afsluttet af"
+  "completed_by": "PLZ_TRANSLATE Afsluttet af",
+  "connect_your_account": "PLZ_TRANSLATE Tilslut din konto"
 }

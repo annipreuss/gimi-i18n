@@ -1573,5 +1573,6 @@
   "verification_with_mobile_bank_id": "PLZ_TRANSLATE Mobiilipanga ID-ga kinnitamine",
   "about_trustly": "PLZ_TRANSLATE Usaldusväärselt",
   "completed_on": "PLZ_TRANSLATE Lõpetatud aadressil %1$d",
-  "completed_by": "PLZ_TRANSLATE Lõppenud"
+  "completed_by": "PLZ_TRANSLATE Lõppenud",
+  "connect_your_account": "PLZ_TRANSLATE Ühendage oma konto"
 }
