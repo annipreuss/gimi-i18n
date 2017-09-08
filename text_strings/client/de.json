@@ -211,7 +211,7 @@
   "account_popover_action_remove": "Account löschen",
   "account_popover_action_signout": "Logout",
   "account_remove_confirm_title": "Löschvorgang bestätigen",
-  "account_remove_confirm_text": "Wenn Du weiterklickst, werden alle mit deinem Account verbundenen Daten gelöscht.  <b>Dies kann nicht rückgangig gemacht werden!</b>",
+  "account_remove_confirm_text": "PLZ_TRANSLATE Wenn Sie fortfahren, wird Ihr Konto gelöscht, zusammen mit Ihrer Telefonnummer, Informationen und allen zugehörigen Daten. \n\n<b>Das kann man nicht bereuen!</b>",
   "account_remove_confirm_remove": "Account löschen",
   "account_remove_confirm_cancel": "Abbrechen",
   "child_yearly_report_reward_header": "Belohnungen",

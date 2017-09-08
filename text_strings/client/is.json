@@ -211,7 +211,7 @@
   "account_popover_action_remove": "eyða reikning",
   "account_popover_action_signout": "útskrá",
   "account_remove_confirm_title": "Staðfestu að taka í burt reikning",
-  "account_remove_confirm_text": "Ef þú heldur áfram mun reikningurinn og öll önnur gögn eyðast. <b>Ekki hægt að skipta um skoðun eftirá!</b>",
+  "account_remove_confirm_text": "PLZ_TRANSLATE Ef þú heldur áfram verður reikningurinn þinn eytt ásamt símanúmeri þínu, upplýsingum og öllum tengdum gögnum. <b>Þetta má ekki sjá eftir!</b>",
   "account_remove_confirm_remove": "eyða reikning",
   "account_remove_confirm_cancel": "hætta við",
   "child_yearly_report_reward_header": "Verðlaun",

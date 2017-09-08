@@ -211,7 +211,7 @@
   "account_popover_action_remove": "Delete account",
   "account_popover_action_signout": "Log out",
   "account_remove_confirm_title": "Confirm erase",
-  "account_remove_confirm_text": "If you continue with your account all the associated data will be erased.  <b>This action is NOT reversible!</b>",
+  "account_remove_confirm_text": "If you continue, your account will be deleted, together with your phone number, information and all associated data. \n\n<b>This can not be regretted!</b>",
   "account_remove_confirm_remove": "Delete account",
   "account_remove_confirm_cancel": "Cancel",
   "child_yearly_report_reward_header": "Rewards",

@@ -211,7 +211,7 @@
   "account_popover_action_remove": "Verwijder account",
   "account_popover_action_signout": "Uitloggen",
   "account_remove_confirm_title": "Bevestig verwijdering",
-  "account_remove_confirm_text": "Als je doorgaat met je profiel zal alle geassocieerde data verwijderd worden. <b>Deze actie kan niet ongedaan gemaakt worden!</b>",
+  "account_remove_confirm_text": "PLZ_TRANSLATE Als u doorgaat, wordt uw account verwijderd, samen met uw telefoonnummer, informatie en alle bijbehorende gegevens. \n\n<b>Dit kan niet spijt worden!</b>",
   "account_remove_confirm_remove": "Verwijder account",
   "account_remove_confirm_cancel": "Annuleer",
   "child_yearly_report_reward_header": "Beloningen",

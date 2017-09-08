@@ -211,7 +211,7 @@
   "account_popover_action_remove": "Slett konto",
   "account_popover_action_signout": "Logg ut",
   "account_remove_confirm_title": "Bekreft fjerning",
-  "account_remove_confirm_text": "Om du fortsetter vil kontoen din og alt tilhørande data bli slettet. <b>Det er ingen vei tilbake etter slettingen!</b>",
+  "account_remove_confirm_text": "PLZ_TRANSLATE Hvis du fortsetter vil din konto bli slettet sammen med telefonnummeret ditt, informasjon og alle tilknyttede data. <b>Dette kan ikke angre!</b>",
   "account_remove_confirm_remove": "Slett konto",
   "account_remove_confirm_cancel": "Avbryt",
   "child_yearly_report_reward_header": "Belønninger",

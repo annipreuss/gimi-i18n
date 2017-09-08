@@ -211,7 +211,7 @@
   "account_popover_action_remove": "Radera konto",
   "account_popover_action_signout": "Logga ut",
   "account_remove_confirm_title": "Bekräfta borttagning",
-  "account_remove_confirm_text": "Om du fortsätter kommer ditt konto och all tillhörande data att raderas. <b>Detta går inte att ångra!</b>",
+  "account_remove_confirm_text": "PLZ_TRANSLATE Om du fortsätter kommer ditt konto med telefonnummer, utgivna uppgifter och all tillhörande data att raderas. \n\n<b>Detta går inte att ångra!</b>",
   "account_remove_confirm_remove": "Radera konto",
   "account_remove_confirm_cancel": "Avbryt",
   "child_yearly_report_reward_header": "Belöningar",

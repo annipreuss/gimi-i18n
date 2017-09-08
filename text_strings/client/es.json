@@ -211,7 +211,7 @@
   "account_popover_action_remove": "Eliminar la cuenta",
   "account_popover_action_signout": "Cerrar sesión",
   "account_remove_confirm_title": "Confirmar para borrar",
-  "account_remove_confirm_text": "Si sigues con tu cuenta, todos los datos asociados serán eliminados.  <b>¡Esta acción NO es reversible!</b>",
+  "account_remove_confirm_text": "PLZ_TRANSLATE Si continúa, se eliminará su cuenta, junto con su número de teléfono, información y todos los datos asociados. \n\n<b>Esto no se puede lamentar!</b>",
   "account_remove_confirm_remove": "Eliminar cuenta",
   "account_remove_confirm_cancel": "Cancelar",
   "child_yearly_report_reward_header": "Premios",

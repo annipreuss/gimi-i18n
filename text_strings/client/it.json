@@ -211,7 +211,7 @@
   "account_popover_action_remove": "Elimina account",
   "account_popover_action_signout": "Esci",
   "account_remove_confirm_title": "Confirma cancellazione",
-  "account_remove_confirm_text": "Se continuerai con il tuo account, tutti i dati associati saranno rimossi.  <b>Quest’azione NON è riversibile!</b>",
+  "account_remove_confirm_text": "PLZ_TRANSLATE Se si continua il tuo account verrà eliminato, insieme al numero di telefono, alle informazioni e tutti i dati associati. \n\n<b>Questo non può essere spaventato!</b>",
   "account_remove_confirm_remove": "Cancella account",
   "account_remove_confirm_cancel": "Annulla",
   "child_yearly_report_reward_header": "Ricompense",

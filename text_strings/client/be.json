@@ -211,7 +211,7 @@
   "account_popover_action_remove": "PLZ_TRANSLATE Delete account",
   "account_popover_action_signout": "PLZ_TRANSLATE Log out",
   "account_remove_confirm_title": "PLZ_TRANSLATE Confirm erase",
-  "account_remove_confirm_text": "PLZ_TRANSLATE If you continue with your account all the associated data will be erased.  <b>This action is NOT reversible!</b>",
+  "account_remove_confirm_text": "PLZ_TRANSLATE Калі вы па-ранейшаму ваш уліковы запіс будзе выдалена, разам з вашым нумарам тэлефона, інфармацыю і ўсе звязаныя з ім дадзеныя. \n\n<b>Гэта не можа быць шкадаваў!</b>",
   "account_remove_confirm_remove": "PLZ_TRANSLATE Delete account",
   "account_remove_confirm_cancel": "PLZ_TRANSLATE Cancel",
   "child_yearly_report_reward_header": "PLZ_TRANSLATE Rewards",

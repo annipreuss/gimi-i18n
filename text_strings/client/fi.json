@@ -211,7 +211,7 @@
   "account_popover_action_remove": "Poista tili",
   "account_popover_action_signout": "Kirjaudu ulos",
   "account_remove_confirm_title": "Vahvista poisto",
-  "account_remove_confirm_text": "Jos jatkat, tilisi ja kaikki siihen liittyvät tiedot poistetaan. <b>Toimintoa ei voi peruuttaa!</b>",
+  "account_remove_confirm_text": "PLZ_TRANSLATE Jos jatkat tilisi poistumista, puhelinnumerosi, tiedot ja kaikki siihen liittyvät tiedot. <b>Tätä ei voi pahoitella!</b>",
   "account_remove_confirm_remove": "Poista tili",
   "account_remove_confirm_cancel": "Peruuta",
   "child_yearly_report_reward_header": "Palkinnot",

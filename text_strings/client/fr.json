@@ -211,7 +211,7 @@
   "account_popover_action_remove": "Supprimer compte",
   "account_popover_action_signout": "Se déconnecter",
   "account_remove_confirm_title": "Confirmer suppression",
-  "account_remove_confirm_text": "Si vous continuez avec votre compte, toutes les données associées vont être supprimées. <b>Cette action n'est pas réversible!</b>",
+  "account_remove_confirm_text": "PLZ_TRANSLATE Si vous continuez votre compte sera supprimé, ainsi que votre numéro de téléphone, vos informations et toutes les données associées. <b>Cela ne peut pas être regretté!</b>",
   "account_remove_confirm_remove": "Supprimer compte",
   "account_remove_confirm_cancel": "Annuler",
   "child_yearly_report_reward_header": "Récompenses",
