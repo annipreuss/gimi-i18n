@@ -1571,5 +1571,7 @@
   "tab_view_bullet_2": "PLZ_TRANSLATE Om geld gemakkelijk te verplaatsen tussen uw accounts",
   "connect_us": "PLZ_TRANSLATE Verbind ons!",
   "verification_with_mobile_bank_id": "PLZ_TRANSLATE Verificatie met Mobiele Bank ID",
-  "about_trustly": "PLZ_TRANSLATE over vertrouwelijk"
+  "about_trustly": "PLZ_TRANSLATE over vertrouwelijk",
+  "completed_on": "PLZ_TRANSLATE Voltooid op %1$d",
+  "completed_by": "PLZ_TRANSLATE Afgemaakt door"
 }

@@ -1571,5 +1571,7 @@
   "tab_view_bullet_2": "To easily transfer money between your accounts",
   "connect_us": "Connect us!",
   "verification_with_mobile_bank_id": "Verification with Mobile Bank ID",
-  "about_trustly": "about Trustly"
+  "about_trustly": "about Trustly",
+  "completed_on": "Completed at %1$d",
+  "completed_by": "Completed by"
 }

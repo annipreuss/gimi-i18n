@@ -335,7 +335,7 @@
   "from_capitalized": "Från",
   "to_capitalized": "Till",
   "added_by": "Tillagd av",
-  "approved_by": "Godkänd av",
+  "approved_by": "Godkändes av",
   "note": "Anteckning",
   "no_note": "Ingen anteckning",
   "withdrawal_from": "Drogs från",
@@ -1582,5 +1582,7 @@
   "tab_view_bullet_2": "För enkelt över pengar mellan era konton",
   "connect_us": "Koppla ihop oss!",
   "verification_with_mobile_bank_id": "Verifiering med Mobilt Bank ID",
-  "about_trustly": "om Trustly"
+  "about_trustly": "om Trustly",
+  "completed_on": "Utförd %1$d",
+  "completed_by": "Utfördes av"
 }

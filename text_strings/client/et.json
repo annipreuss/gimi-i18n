@@ -1571,5 +1571,7 @@
   "tab_view_bullet_2": "PLZ_TRANSLATE Kergesti raha üle oma kontode vahel",
   "connect_us": "PLZ_TRANSLATE Ühenda meid!",
   "verification_with_mobile_bank_id": "PLZ_TRANSLATE Mobiilipanga ID-ga kinnitamine",
-  "about_trustly": "PLZ_TRANSLATE Usaldusväärselt"
+  "about_trustly": "PLZ_TRANSLATE Usaldusväärselt",
+  "completed_on": "PLZ_TRANSLATE Lõpetatud aadressil %1$d",
+  "completed_by": "PLZ_TRANSLATE Lõppenud"
 }

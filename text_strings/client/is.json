@@ -1571,5 +1571,7 @@
   "tab_view_bullet_2": "PLZ_TRANSLATE Til að flytja peninga auðveldlega á milli reikninga",
   "connect_us": "PLZ_TRANSLATE Tengdu okkur!",
   "verification_with_mobile_bank_id": "PLZ_TRANSLATE Staðfesting með Mobile Bank ID",
-  "about_trustly": "PLZ_TRANSLATE um traust"
+  "about_trustly": "PLZ_TRANSLATE um traust",
+  "completed_on": "PLZ_TRANSLATE Lokið í %1$d",
+  "completed_by": "PLZ_TRANSLATE Lokið af"
 }

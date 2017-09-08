@@ -1571,5 +1571,7 @@
   "tab_view_bullet_2": "PLZ_TRANSLATE Per trasferire facilmente i soldi tra i tuoi account",
   "connect_us": "PLZ_TRANSLATE Connettiti!",
   "verification_with_mobile_bank_id": "PLZ_TRANSLATE Verifica con ID banca mobile",
-  "about_trustly": "PLZ_TRANSLATE di Trustly"
+  "about_trustly": "PLZ_TRANSLATE di Trustly",
+  "completed_on": "PLZ_TRANSLATE Completato a %1$d",
+  "completed_by": "PLZ_TRANSLATE Completato da"
 }

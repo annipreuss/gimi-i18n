@@ -1571,5 +1571,7 @@
   "tab_view_bullet_2": "PLZ_TRANSLATE Каб лёгка пераводзіць грошы паміж сваімі рахункамі",
   "connect_us": "PLZ_TRANSLATE Падключэнне да нас!",
   "verification_with_mobile_bank_id": "PLZ_TRANSLATE Праверка з мабільным банкам ID",
-  "about_trustly": "PLZ_TRANSLATE аб Trustly"
+  "about_trustly": "PLZ_TRANSLATE аб Trustly",
+  "completed_on": "PLZ_TRANSLATE Завершаны ў %1$d",
+  "completed_by": "PLZ_TRANSLATE запаўняецца"
 }

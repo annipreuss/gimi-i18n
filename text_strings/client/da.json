@@ -1571,5 +1571,7 @@
   "tab_view_bullet_2": "PLZ_TRANSLATE For nemt at overføre penge mellem dine konti",
   "connect_us": "PLZ_TRANSLATE Forbind os!",
   "verification_with_mobile_bank_id": "PLZ_TRANSLATE Verifikation med mobilbank ID",
-  "about_trustly": "PLZ_TRANSLATE om tillid"
+  "about_trustly": "PLZ_TRANSLATE om tillid",
+  "completed_on": "PLZ_TRANSLATE Afsluttet på %1$d",
+  "completed_by": "PLZ_TRANSLATE Afsluttet af"
 }

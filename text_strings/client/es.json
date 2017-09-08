@@ -1571,5 +1571,7 @@
   "tab_view_bullet_2": "Para transferir fácilmente dinero entre tus cuentas",
   "connect_us": "¡Conéctate!",
   "verification_with_mobile_bank_id": "Verificación con identificación de Mobile Bank",
-  "about_trustly": "Acerca de Trustly"
+  "about_trustly": "Acerca de Trustly",
+  "completed_on": "PLZ_TRANSLATE Completado en %1$d",
+  "completed_by": "PLZ_TRANSLATE Completado por"
 }
