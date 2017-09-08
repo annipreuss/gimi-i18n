@@ -68,7 +68,7 @@
   "connection_error_retry": "Essayez de vous connecter à nouveau",
   "start_sign_in": "J’ai déjà un compte!",
   "start_invite_greeting_title": "Bienvenue à Gimi!",
-  "start_invite_greeting_text": "Pour pouvoir accepter votre invitation vous devez vous connecter ou créer un compte en cliquant sur <b>Se connecter avec un membre de la famille</ b>.",
+  "start_invite_greeting_text": "Pour pouvoir accepter votre invitation vous devez vous connecter ou créer un compte en cliquant sur <b>Se connecter avec un membre de la famille</b>.",
   "signin_instructions": "Entrez votre numéro",
   "signin_phone_email": "Numéro de téléphone portable",
   "signin_code_sent": "Saisir le code que nous avons envoyé par SMS",
@@ -1575,5 +1575,6 @@
   "completed_on": "PLZ_TRANSLATE Terminé à %1$d",
   "completed_by": "PLZ_TRANSLATE Terminé par",
   "connect_your_account": "PLZ_TRANSLATE Connectez votre compte",
-  "connecting_to_your_bank": "PLZ_TRANSLATE %1$d se connecte à votre banque ..."
+  "connecting_to_your_bank": "PLZ_TRANSLATE %1$d se connecte à votre banque ...",
+  "about_trustly": "PLZ_TRANSLATE à propos de Trustly"
 }
