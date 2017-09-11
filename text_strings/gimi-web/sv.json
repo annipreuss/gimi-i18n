@@ -275,5 +275,7 @@
   "seo.news.h3": "PLZ_TRANSLATE aktuellt",
   "seo.news.title": "PLZ_TRANSLATE aktuellt",
   "seo.news.description": "PLZ_TRANSLATE aktuellt",
-  "footer.acceptCookies": "Jag accepterar"
+  "footer.acceptCookies": "Jag accepterar",
+  "page.not.found.title": "404, oops!",
+  "page.not.found.text": "vi letade efter din sida...\nmen vi hittar inte den"
 }

@@ -275,5 +275,7 @@
   "seo.news.h3": "Nuværende",
   "seo.news.title": "Nuværende",
   "seo.news.description": "Nuværende",
-  "footer.acceptCookies": "Jeg accepterer"
+  "footer.acceptCookies": "Jeg accepterer",
+  "page.not.found.title": "PLZ_TRANSLATE 404, oops!",
+  "page.not.found.text": "PLZ_TRANSLATE vi prøvede på udkig efter din side ... men vi kan ikke &#39; t finde det"
 }

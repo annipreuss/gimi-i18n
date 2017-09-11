@@ -275,5 +275,7 @@
   "seo.news.h3": "nykyinen",
   "seo.news.title": "nykyinen",
   "seo.news.description": "nykyinen",
-  "footer.acceptCookies": "Hyväksyn"
+  "footer.acceptCookies": "Hyväksyn",
+  "page.not.found.title": "PLZ_TRANSLATE 404, oops!",
+  "page.not.found.text": "PLZ_TRANSLATE yritimme etsivät sivulle ... mutta emme pystynyt &#39; t löydä sitä"
 }

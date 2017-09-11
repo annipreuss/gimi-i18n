@@ -275,5 +275,7 @@
   "seo.news.h3": "current",
   "seo.news.title": "current",
   "seo.news.description": "current",
-  "footer.acceptCookies": "I accept"
+  "footer.acceptCookies": "I accept",
+  "page.not.found.title": "404, oops!",
+  "page.not.found.text": "we tried looking for your page...\nbut we couldn't find it"
 }

@@ -275,5 +275,7 @@
   "seo.news.h3": "PLZ_TRANSLATE nåværende",
   "seo.news.title": "PLZ_TRANSLATE nåværende",
   "seo.news.description": "PLZ_TRANSLATE nåværende",
-  "footer.acceptCookies": "PLZ_TRANSLATE jeg aksepterer"
+  "footer.acceptCookies": "PLZ_TRANSLATE jeg aksepterer",
+  "page.not.found.title": "PLZ_TRANSLATE 404, oops!",
+  "page.not.found.text": "PLZ_TRANSLATE Vi prøvde å se for siden ... men vi couldn &#39; t finne det"
 }

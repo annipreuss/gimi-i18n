@@ -275,5 +275,7 @@
   "seo.news.h3": "corriente",
   "seo.news.title": "corriente",
   "seo.news.description": "corriente",
-  "footer.acceptCookies": "acepto"
+  "footer.acceptCookies": "acepto",
+  "page.not.found.title": "PLZ_TRANSLATE 404, oops!",
+  "page.not.found.text": "PLZ_TRANSLATE intentamos buscar tu página ... pero no &#39; encontramos"
 }

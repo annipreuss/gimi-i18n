@@ -275,5 +275,7 @@
   "seo.news.h3": "Neuigkeiten",
   "seo.news.title": "Neuigkeiten",
   "seo.news.description": "Neuigkeiten",
-  "footer.acceptCookies": "Ich akzeptiere"
+  "footer.acceptCookies": "Ich akzeptiere",
+  "page.not.found.title": "PLZ_TRANSLATE 404, oops!",
+  "page.not.found.text": "PLZ_TRANSLATE Wir haben versucht, nach deiner Seite zu suchen ... aber wir konnten es &#39; finden"
 }
