@@ -1584,5 +1584,6 @@
   "account_found_title_directly": "PLZ_TRANSLATE ¿Desea conectarse directamente?",
   "account_found_description_with_name": "PLZ_TRANSLATE Parece que has iniciado sesión en este dispositivo antes, ¿te gustaría iniciar sesión como %1$d ahora?",
   "login_now": "PLZ_TRANSLATE Inicia sesión ahora",
-  "transfer_to_piggybank": "PLZ_TRANSLATE Transferencia a la alcancía"
+  "transfer_to_piggybank": "PLZ_TRANSLATE Transferencia a la alcancía",
+  "add_purchase": "PLZ_TRANSLATE Añadir compra"
 }

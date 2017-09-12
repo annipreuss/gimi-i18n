@@ -1584,5 +1584,6 @@
   "account_found_title_directly": "PLZ_TRANSLATE Ønsker du å logge inn direkte?",
   "account_found_description_with_name": "PLZ_TRANSLATE Du ser ut til å ha blitt logget på denne enheten før, vil du logge deg på som %1$d nå?",
   "login_now": "PLZ_TRANSLATE Logg inn nå",
-  "transfer_to_piggybank": "PLZ_TRANSLATE Overfør til spargrisen"
+  "transfer_to_piggybank": "PLZ_TRANSLATE Overfør til spargrisen",
+  "add_purchase": "PLZ_TRANSLATE Legg til kjøp"
 }

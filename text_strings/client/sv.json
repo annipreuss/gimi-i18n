@@ -1595,5 +1595,6 @@
   "account_found_title_directly": "Vill du logga in direkt?",
   "account_found_description_with_name": "Du verkar ha varit inloggad på den här enheten förut, vill du logga in som %1$d nu?",
   "login_now": "Logga in nu",
-  "transfer_to_piggybank": "Överför till spargrisen"
+  "transfer_to_piggybank": "Överför till spargrisen",
+  "add_purchase": "Lägg till köp"
 }
