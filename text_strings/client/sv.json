@@ -1591,5 +1591,7 @@
   "continue_where_you_were": "Fortsätta där du var?",
   "reboarding_popover_description": "Du har varit borta ett tag. Kul att se dig igen! Vill du börja om eller fortsätta i appen där du var senast?",
   "reset_my_piggybank": "Nollställ min spargris",
-  "continue_from_last_point": "Fortsätt från senast"
+  "continue_from_last_point": "Fortsätt från senast",
+  "account_found_title_directly": "Vill du logga in direkt?",
+  "account_found_description_with_name": "Du verkar ha varit inloggad på den här enheten förut, vill du logga in som %1$d nu?"
 }

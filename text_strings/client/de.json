@@ -1580,5 +1580,7 @@
   "continue_where_you_were": "PLZ_TRANSLATE Weiter, wo du warst?",
   "reboarding_popover_description": "PLZ_TRANSLATE Sie &#39; für eine Weile weg waren. Schön dich wieder zu sehen! Möchtest du von der App anfangen oder weitergehen, wo du zuletzt warst?",
   "reset_my_piggybank": "PLZ_TRANSLATE Setzen Sie mein Sparschwein zurück",
-  "continue_from_last_point": "PLZ_TRANSLATE Weiter vom letzten Punkt"
+  "continue_from_last_point": "PLZ_TRANSLATE Weiter vom letzten Punkt",
+  "account_found_title_directly": "PLZ_TRANSLATE Möchten Sie sich direkt einloggen?",
+  "account_found_description_with_name": "PLZ_TRANSLATE Du scheinst auf diesem Gerät angemeldet zu sein, wärst du dich gerne als %1$d anmelden?"
 }

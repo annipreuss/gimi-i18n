@@ -1580,5 +1580,7 @@
   "continue_where_you_were": "PLZ_TRANSLATE Jätkake, kus sa olid?",
   "reboarding_popover_description": "PLZ_TRANSLATE Sa &#39; ve olnud ära mõneks ajaks. Tore sind jälle näha! Kas soovite alustada või jätkata rakenduses, kus sa olid viimati?",
   "reset_my_piggybank": "PLZ_TRANSLATE Lähtestage minu neigupank",
-  "continue_from_last_point": "PLZ_TRANSLATE Jätkake viimasest punktist"
+  "continue_from_last_point": "PLZ_TRANSLATE Jätkake viimasest punktist",
+  "account_found_title_directly": "PLZ_TRANSLATE Kas soovite otse sisse logida?",
+  "account_found_description_with_name": "PLZ_TRANSLATE Näib, et olete enne selle seadme sisse loginud, kas soovite praegu sisse logida kui %1$d ?"
 }

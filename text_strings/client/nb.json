@@ -1580,5 +1580,7 @@
   "continue_where_you_were": "PLZ_TRANSLATE Fortsett hvor du var?",
   "reboarding_popover_description": "PLZ_TRANSLATE Du &#39; har vært borte en stund. Hyggelig å se deg igjen! Vil du starte over eller fortsette i appen hvor du var sist?",
   "reset_my_piggybank": "PLZ_TRANSLATE Tilbakestill min spargebyrå",
-  "continue_from_last_point": "PLZ_TRANSLATE Fortsett fra siste punkt"
+  "continue_from_last_point": "PLZ_TRANSLATE Fortsett fra siste punkt",
+  "account_found_title_directly": "PLZ_TRANSLATE Ønsker du å logge inn direkte?",
+  "account_found_description_with_name": "PLZ_TRANSLATE Du ser ut til å ha blitt logget på denne enheten før, vil du logge deg på som %1$d nå?"
 }

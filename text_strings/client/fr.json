@@ -1580,5 +1580,7 @@
   "continue_where_you_were": "PLZ_TRANSLATE Continuez où vous étiez?",
   "reboarding_popover_description": "PLZ_TRANSLATE Vous &#39; avez été absent pendant un certain temps. C&#39;est un plaisir de vous revoir! Voulez-vous recommencer ou continuer dans l&#39;application où vous étiez le dernier?",
   "reset_my_piggybank": "PLZ_TRANSLATE Réinitialiser ma tirelire",
-  "continue_from_last_point": "PLZ_TRANSLATE Continuer du dernier point"
+  "continue_from_last_point": "PLZ_TRANSLATE Continuer du dernier point",
+  "account_found_title_directly": "PLZ_TRANSLATE Voulez-vous vous connecter directement?",
+  "account_found_description_with_name": "PLZ_TRANSLATE Vous semblez avoir été connecté sur ce périphérique avant, souhaitez-vous vous connecter en %1$d maintenant?"
 }

@@ -1580,5 +1580,7 @@
   "continue_where_you_were": "Continue where you were?",
   "reboarding_popover_description": "You've been away for a while. Nice to see you again! Do you want to start over or continue in the app where you were last?",
   "reset_my_piggybank": "Reset my piggy bank",
-  "continue_from_last_point": "Continue from last point"
+  "continue_from_last_point": "Continue from last point",
+  "account_found_title_directly": "Do you want to log in directly?",
+  "account_found_description_with_name": "You seem to have been logged in on this device before, would you like to log in as %1$d now?"
 }

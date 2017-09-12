@@ -1580,5 +1580,7 @@
   "continue_where_you_were": "PLZ_TRANSLATE Ga door waar je bent geweest?",
   "reboarding_popover_description": "PLZ_TRANSLATE Je &#39; hebt een tijdje weg geweest. Fijn om je nog eens te zien! Wilt u opnieuw beginnen of doorgaan in de app waar u het laatst was?",
   "reset_my_piggybank": "PLZ_TRANSLATE Stel mijn spaarpot terug",
-  "continue_from_last_point": "PLZ_TRANSLATE Ga verder vanaf het laatste punt"
+  "continue_from_last_point": "PLZ_TRANSLATE Ga verder vanaf het laatste punt",
+  "account_found_title_directly": "PLZ_TRANSLATE Wilt u direct inloggen?",
+  "account_found_description_with_name": "PLZ_TRANSLATE U lijkt al eerder ingelogd te zijn op dit apparaat voordat u wilt inloggen als %1$d nu?"
 }

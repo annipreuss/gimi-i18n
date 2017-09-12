@@ -1580,5 +1580,7 @@
   "continue_where_you_were": "PLZ_TRANSLATE Працягвайце, дзе вы былі?",
   "reboarding_popover_description": "PLZ_TRANSLATE Вы &#39; ве адсутнічаў некаторы час. Рады бачыць вас зноў! Вы хочаце, каб пачаць або працягнуць у дадатку, дзе вы ў апошні раз былі ці што?",
   "reset_my_piggybank": "PLZ_TRANSLATE Скінуць маю скарбонку",
-  "continue_from_last_point": "PLZ_TRANSLATE Працягнуць з пункту"
+  "continue_from_last_point": "PLZ_TRANSLATE Працягнуць з пункту",
+  "account_found_title_directly": "PLZ_TRANSLATE Вы хочаце, каб увайсці непасрэдна?",
+  "account_found_description_with_name": "PLZ_TRANSLATE Вы , здаецца, былі зарэгістраваныя на гэтай прыладзе , перш чым, вы хацелі б увайсці ў %1$d цяпер?"
 }

@@ -1580,5 +1580,7 @@
   "continue_where_you_were": "PLZ_TRANSLATE Jatka missä olit?",
   "reboarding_popover_description": "PLZ_TRANSLATE Olet &#39; ve ollut poissa jonkin aikaa. Kiva nähdä sinua taas! Haluatko aloittaa tai jatkaa sovelluksessa, jossa olit viimeinen?",
   "reset_my_piggybank": "PLZ_TRANSLATE Nollaa säästösi",
-  "continue_from_last_point": "PLZ_TRANSLATE Jatka viimeisestä kohdasta"
+  "continue_from_last_point": "PLZ_TRANSLATE Jatka viimeisestä kohdasta",
+  "account_found_title_directly": "PLZ_TRANSLATE Haluatko kirjautua sisään suoraan?",
+  "account_found_description_with_name": "PLZ_TRANSLATE Olet tuntenut kirjautuneena tähän laitteeseen ennen, haluatko kirjautua sisään %1$d nyt?"
 }
