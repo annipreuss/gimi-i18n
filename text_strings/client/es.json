@@ -1585,5 +1585,7 @@
   "account_found_description_with_name": "PLZ_TRANSLATE Parece que has iniciado sesión en este dispositivo antes, ¿te gustaría iniciar sesión como %1$d ahora?",
   "login_now": "PLZ_TRANSLATE Inicia sesión ahora",
   "transfer_to_piggybank": "PLZ_TRANSLATE Transferencia a la alcancía",
-  "add_purchase": "PLZ_TRANSLATE Añadir compra"
+  "add_purchase": "PLZ_TRANSLATE Añadir compra",
+  "add_purchase_title": "PLZ_TRANSLATE El dinero se deducirá",
+  "add_purchase_desc": "PLZ_TRANSLATE Cuando se agrega una compra, el dinero se deduce de la alcancía."
 }

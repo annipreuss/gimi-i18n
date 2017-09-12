@@ -1585,5 +1585,7 @@
   "account_found_description_with_name": "PLZ_TRANSLATE Вы , здаецца, былі зарэгістраваныя на гэтай прыладзе , перш чым, вы хацелі б увайсці ў %1$d цяпер?",
   "login_now": "PLZ_TRANSLATE Увайсці прама цяпер",
   "transfer_to_piggybank": "PLZ_TRANSLATE Трансфер у скарбонку",
-  "add_purchase": "PLZ_TRANSLATE дадаць куплю"
+  "add_purchase": "PLZ_TRANSLATE дадаць куплю",
+  "add_purchase_title": "PLZ_TRANSLATE Грошы будуць адымацца",
+  "add_purchase_desc": "PLZ_TRANSLATE Пры даданні пакупкі, грошы адымаюцца з скарбонкі."
 }

@@ -1585,5 +1585,7 @@
   "account_found_description_with_name": "PLZ_TRANSLATE Vous semblez avoir été connecté sur ce périphérique avant, souhaitez-vous vous connecter en %1$d maintenant?",
   "login_now": "PLZ_TRANSLATE Connecte-toi maintenant",
   "transfer_to_piggybank": "PLZ_TRANSLATE Transfert à la tirelire",
-  "add_purchase": "PLZ_TRANSLATE Ajouter l'achat"
+  "add_purchase": "PLZ_TRANSLATE Ajouter l'achat",
+  "add_purchase_title": "PLZ_TRANSLATE L'argent sera déduit",
+  "add_purchase_desc": "PLZ_TRANSLATE Lorsque vous ajoutez un achat, l'argent est déduit de la tirelire."
 }

@@ -1585,5 +1585,7 @@
   "account_found_description_with_name": "PLZ_TRANSLATE Sembra che sia già stato connesso a questo dispositivo prima, desideri accedere come %1$d adesso?",
   "login_now": "PLZ_TRANSLATE Accedi ora",
   "transfer_to_piggybank": "PLZ_TRANSLATE Trasferimento alla banca salvadanaio",
-  "add_purchase": "PLZ_TRANSLATE Aggiungi l'acquisto"
+  "add_purchase": "PLZ_TRANSLATE Aggiungi l'acquisto",
+  "add_purchase_title": "PLZ_TRANSLATE I soldi saranno detratti",
+  "add_purchase_desc": "PLZ_TRANSLATE Quando aggiungi un acquisto, il denaro viene detratto dalla banca salvadana."
 }

@@ -1585,5 +1585,7 @@
   "account_found_description_with_name": "You seem to have been logged in on this device before, would you like to log in as %1$d now?",
   "login_now": "Log in now",
   "transfer_to_piggybank": "Transfer to the piggy bank",
-  "add_purchase": "Add purchase"
+  "add_purchase": "Add purchase",
+  "add_purchase_title": "Money will be deducted",
+  "add_purchase_desc": "When you add a purchase, money is deducted from the piggy bank."
 }

@@ -1596,5 +1596,7 @@
   "account_found_description_with_name": "Du verkar ha varit inloggad på den här enheten förut, vill du logga in som %1$d nu?",
   "login_now": "Logga in nu",
   "transfer_to_piggybank": "Överför till spargrisen",
-  "add_purchase": "Lägg till köp"
+  "add_purchase": "Lägg till köp",
+  "add_purchase_title": "PLZ_TRANSLATE Pengar kommer dras",
+  "add_purchase_desc": "PLZ_TRANSLATE När du lägger till ett köp dras pengar från spargrisen."
 }

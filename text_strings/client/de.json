@@ -1585,5 +1585,7 @@
   "account_found_description_with_name": "PLZ_TRANSLATE Du scheinst auf diesem Gerät angemeldet zu sein, wärst du dich gerne als %1$d anmelden?",
   "login_now": "PLZ_TRANSLATE Jetzt einloggen",
   "transfer_to_piggybank": "PLZ_TRANSLATE Transfer zum Sparschwein",
-  "add_purchase": "PLZ_TRANSLATE Kauf hinzufügen"
+  "add_purchase": "PLZ_TRANSLATE Kauf hinzufügen",
+  "add_purchase_title": "PLZ_TRANSLATE Geld wird abgezogen",
+  "add_purchase_desc": "PLZ_TRANSLATE Wenn Sie einen Kauf hinzufügen, wird Geld vom Sparschwein abgezogen."
 }

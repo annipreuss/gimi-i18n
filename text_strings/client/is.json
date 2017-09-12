@@ -1585,5 +1585,7 @@
   "account_found_description_with_name": "PLZ_TRANSLATE Þú virðist hafa verið skráð inn á þetta tæki áður, viltu skrá þig inn sem %1$d núna?",
   "login_now": "PLZ_TRANSLATE Skráðu þig inn núna",
   "transfer_to_piggybank": "PLZ_TRANSLATE Flytja til sparisjóðsins",
-  "add_purchase": "PLZ_TRANSLATE Bæta við kaupum"
+  "add_purchase": "PLZ_TRANSLATE Bæta við kaupum",
+  "add_purchase_title": "PLZ_TRANSLATE Peningar verða dregnar frá",
+  "add_purchase_desc": "PLZ_TRANSLATE Þegar þú bætir við kaupi er peninga dregið frá grís bankanum."
 }

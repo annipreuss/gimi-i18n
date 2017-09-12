@@ -1585,5 +1585,7 @@
   "account_found_description_with_name": "PLZ_TRANSLATE U lijkt al eerder ingelogd te zijn op dit apparaat voordat u wilt inloggen als %1$d nu?",
   "login_now": "PLZ_TRANSLATE Log nu in",
   "transfer_to_piggybank": "PLZ_TRANSLATE Overstappen naar de spaarpot",
-  "add_purchase": "PLZ_TRANSLATE Voeg aankoop toe"
+  "add_purchase": "PLZ_TRANSLATE Voeg aankoop toe",
+  "add_purchase_title": "PLZ_TRANSLATE Geld wordt afgetrokken",
+  "add_purchase_desc": "PLZ_TRANSLATE Wanneer u een aankoop toevoegt, wordt het geld van de spaarpot afgetrokken."
 }
