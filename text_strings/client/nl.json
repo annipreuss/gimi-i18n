@@ -1576,5 +1576,9 @@
   "completed_by": "PLZ_TRANSLATE Afgemaakt door",
   "connect_your_account": "PLZ_TRANSLATE Sluit je account aan",
   "connecting_to_your_bank": "PLZ_TRANSLATE %1$d verbindt met je bank ...",
-  "to_someone": "PLZ_TRANSLATE Naar %1$d"
+  "to_someone": "PLZ_TRANSLATE Naar %1$d",
+  "continue_where_you_were": "PLZ_TRANSLATE Ga door waar je bent geweest?",
+  "reboarding_popover_description": "PLZ_TRANSLATE Je &#39; hebt een tijdje weg geweest. Fijn om je nog eens te zien! Wilt u opnieuw beginnen of doorgaan in de app waar u het laatst was?",
+  "reset_my_piggybank": "PLZ_TRANSLATE Stel mijn spaarpot terug",
+  "continue_from_last_point": "PLZ_TRANSLATE Ga verder vanaf het laatste punt"
 }

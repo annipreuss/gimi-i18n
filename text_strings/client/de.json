@@ -1576,5 +1576,9 @@
   "completed_by": "PLZ_TRANSLATE Vervollständigt von",
   "connect_your_account": "PLZ_TRANSLATE Verbinden Sie Ihr Konto",
   "connecting_to_your_bank": "PLZ_TRANSLATE %1$d verbindet sich mit deiner bank ...",
-  "to_someone": "PLZ_TRANSLATE Zu %1$d"
+  "to_someone": "PLZ_TRANSLATE Zu %1$d",
+  "continue_where_you_were": "PLZ_TRANSLATE Weiter, wo du warst?",
+  "reboarding_popover_description": "PLZ_TRANSLATE Sie &#39; für eine Weile weg waren. Schön dich wieder zu sehen! Möchtest du von der App anfangen oder weitergehen, wo du zuletzt warst?",
+  "reset_my_piggybank": "PLZ_TRANSLATE Setzen Sie mein Sparschwein zurück",
+  "continue_from_last_point": "PLZ_TRANSLATE Weiter vom letzten Punkt"
 }

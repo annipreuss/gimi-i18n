@@ -1576,5 +1576,9 @@
   "completed_by": "PLZ_TRANSLATE Completado por",
   "connect_your_account": "PLZ_TRANSLATE Conectar su cuenta",
   "connecting_to_your_bank": "PLZ_TRANSLATE %1$d está conectando a su banco ...",
-  "to_someone": "PLZ_TRANSLATE A %1$d"
+  "to_someone": "PLZ_TRANSLATE A %1$d",
+  "continue_where_you_were": "PLZ_TRANSLATE ¿Continuar donde estabas?",
+  "reboarding_popover_description": "PLZ_TRANSLATE Usted &#39; he estado fuera por un tiempo. ¡Qué gusto verte de nuevo! ¿Quieres empezar de nuevo o continuar en la aplicación donde estuviste la última vez?",
+  "reset_my_piggybank": "PLZ_TRANSLATE Restablecer mi alcancía",
+  "continue_from_last_point": "PLZ_TRANSLATE Continuar desde el último punto"
 }

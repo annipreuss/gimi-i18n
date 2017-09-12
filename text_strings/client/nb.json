@@ -1576,5 +1576,9 @@
   "completed_by": "PLZ_TRANSLATE Fullført av",
   "connect_your_account": "PLZ_TRANSLATE Koble til kontoen din",
   "connecting_to_your_bank": "PLZ_TRANSLATE %1$d kobler til banken din ...",
-  "to_someone": "PLZ_TRANSLATE Til %1$d"
+  "to_someone": "PLZ_TRANSLATE Til %1$d",
+  "continue_where_you_were": "PLZ_TRANSLATE Fortsett hvor du var?",
+  "reboarding_popover_description": "PLZ_TRANSLATE Du &#39; har vært borte en stund. Hyggelig å se deg igjen! Vil du starte over eller fortsette i appen hvor du var sist?",
+  "reset_my_piggybank": "PLZ_TRANSLATE Tilbakestill min spargebyrå",
+  "continue_from_last_point": "PLZ_TRANSLATE Fortsett fra siste punkt"
 }

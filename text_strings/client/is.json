@@ -1576,5 +1576,9 @@
   "completed_by": "PLZ_TRANSLATE Lokið af",
   "connect_your_account": "PLZ_TRANSLATE Tengdu reikninginn þinn",
   "connecting_to_your_bank": "PLZ_TRANSLATE %1$d tengist bankanum þínum ...",
-  "to_someone": "PLZ_TRANSLATE Til %1$d"
+  "to_someone": "PLZ_TRANSLATE Til %1$d",
+  "continue_where_you_were": "PLZ_TRANSLATE Haltu áfram þar sem þú varst?",
+  "reboarding_popover_description": "PLZ_TRANSLATE Þú &#39; hef verið í burtu um stund. Gaman að sjá þig aftur! Viltu byrja aftur eða halda áfram í forritinu þar sem þú varst síðastur?",
+  "reset_my_piggybank": "PLZ_TRANSLATE Endurstilla grannbekkinn minn",
+  "continue_from_last_point": "PLZ_TRANSLATE Halda áfram frá síðasta punkti"
 }

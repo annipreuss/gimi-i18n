@@ -1576,5 +1576,9 @@
   "completed_by": "PLZ_TRANSLATE Lõppenud",
   "connect_your_account": "PLZ_TRANSLATE Ühendage oma konto",
   "connecting_to_your_bank": "PLZ_TRANSLATE %1$d ühendab teie pangaga ...",
-  "to_someone": "PLZ_TRANSLATE %1$d"
+  "to_someone": "PLZ_TRANSLATE %1$d",
+  "continue_where_you_were": "PLZ_TRANSLATE Jätkake, kus sa olid?",
+  "reboarding_popover_description": "PLZ_TRANSLATE Sa &#39; ve olnud ära mõneks ajaks. Tore sind jälle näha! Kas soovite alustada või jätkata rakenduses, kus sa olid viimati?",
+  "reset_my_piggybank": "PLZ_TRANSLATE Lähtestage minu neigupank",
+  "continue_from_last_point": "PLZ_TRANSLATE Jätkake viimasest punktist"
 }

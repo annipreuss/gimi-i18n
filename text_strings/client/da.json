@@ -1576,5 +1576,9 @@
   "completed_by": "PLZ_TRANSLATE Afsluttet af",
   "connect_your_account": "PLZ_TRANSLATE Tilslut din konto",
   "connecting_to_your_bank": "PLZ_TRANSLATE %1$d forbinder din bank ...",
-  "to_someone": "PLZ_TRANSLATE Til %1$d"
+  "to_someone": "PLZ_TRANSLATE Til %1$d",
+  "continue_where_you_were": "PLZ_TRANSLATE Fortsæt, hvor du var?",
+  "reboarding_popover_description": "PLZ_TRANSLATE Du &#39; været væk et stykke tid. Godt at se dig igen! Vil du starte over eller fortsætte i appen, hvor du var sidst?",
+  "reset_my_piggybank": "PLZ_TRANSLATE Nulstil min sparegris",
+  "continue_from_last_point": "PLZ_TRANSLATE Fortsæt fra sidste punkt"
 }

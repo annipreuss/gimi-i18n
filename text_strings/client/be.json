@@ -1576,5 +1576,9 @@
   "completed_by": "PLZ_TRANSLATE запаўняецца",
   "connect_your_account": "PLZ_TRANSLATE Падключыце свой рахунак",
   "connecting_to_your_bank": "PLZ_TRANSLATE %1$d падключаецца да вашаму банку ...",
-  "to_someone": "PLZ_TRANSLATE Для таго, каб %1$d"
+  "to_someone": "PLZ_TRANSLATE Для таго, каб %1$d",
+  "continue_where_you_were": "PLZ_TRANSLATE Працягвайце, дзе вы былі?",
+  "reboarding_popover_description": "PLZ_TRANSLATE Вы &#39; ве адсутнічаў некаторы час. Рады бачыць вас зноў! Вы хочаце, каб пачаць або працягнуць у дадатку, дзе вы ў апошні раз былі ці што?",
+  "reset_my_piggybank": "PLZ_TRANSLATE Скінуць маю скарбонку",
+  "continue_from_last_point": "PLZ_TRANSLATE Працягнуць з пункту"
 }
