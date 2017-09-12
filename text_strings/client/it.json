@@ -1583,5 +1583,6 @@
   "continue_from_last_point": "PLZ_TRANSLATE Continuare dall'ultimo punto",
   "account_found_title_directly": "PLZ_TRANSLATE Vuoi effettuare il login direttamente?",
   "account_found_description_with_name": "PLZ_TRANSLATE Sembra che sia già stato connesso a questo dispositivo prima, desideri accedere come %1$d adesso?",
-  "login_now": "PLZ_TRANSLATE Accedi ora"
+  "login_now": "PLZ_TRANSLATE Accedi ora",
+  "transfer_to_piggybank": "PLZ_TRANSLATE Trasferimento alla banca salvadanaio"
 }

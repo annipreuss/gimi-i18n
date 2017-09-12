@@ -1583,5 +1583,6 @@
   "continue_from_last_point": "PLZ_TRANSLATE Ga verder vanaf het laatste punt",
   "account_found_title_directly": "PLZ_TRANSLATE Wilt u direct inloggen?",
   "account_found_description_with_name": "PLZ_TRANSLATE U lijkt al eerder ingelogd te zijn op dit apparaat voordat u wilt inloggen als %1$d nu?",
-  "login_now": "PLZ_TRANSLATE Log nu in"
+  "login_now": "PLZ_TRANSLATE Log nu in",
+  "transfer_to_piggybank": "PLZ_TRANSLATE Overstappen naar de spaarpot"
 }

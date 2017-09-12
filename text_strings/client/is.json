@@ -1583,5 +1583,6 @@
   "continue_from_last_point": "PLZ_TRANSLATE Halda áfram frá síðasta punkti",
   "account_found_title_directly": "PLZ_TRANSLATE Viltu skrá þig inn beint?",
   "account_found_description_with_name": "PLZ_TRANSLATE Þú virðist hafa verið skráð inn á þetta tæki áður, viltu skrá þig inn sem %1$d núna?",
-  "login_now": "PLZ_TRANSLATE Skráðu þig inn núna"
+  "login_now": "PLZ_TRANSLATE Skráðu þig inn núna",
+  "transfer_to_piggybank": "PLZ_TRANSLATE Flytja til sparisjóðsins"
 }
