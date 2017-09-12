@@ -1582,5 +1582,6 @@
   "reset_my_piggybank": "PLZ_TRANSLATE Nulstil min sparegris",
   "continue_from_last_point": "PLZ_TRANSLATE Fortsæt fra sidste punkt",
   "account_found_title_directly": "PLZ_TRANSLATE Ønsker du at logge ind direkte?",
-  "account_found_description_with_name": "PLZ_TRANSLATE Du ser ud til at være logget ind på denne enhed før, vil du gerne logge ind som %1$d nu?"
+  "account_found_description_with_name": "PLZ_TRANSLATE Du ser ud til at være logget ind på denne enhed før, vil du gerne logge ind som %1$d nu?",
+  "login_now": "PLZ_TRANSLATE Log ind nu"
 }

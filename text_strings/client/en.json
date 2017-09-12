@@ -1582,5 +1582,6 @@
   "reset_my_piggybank": "Reset my piggy bank",
   "continue_from_last_point": "Continue from last point",
   "account_found_title_directly": "Do you want to log in directly?",
-  "account_found_description_with_name": "You seem to have been logged in on this device before, would you like to log in as %1$d now?"
+  "account_found_description_with_name": "You seem to have been logged in on this device before, would you like to log in as %1$d now?",
+  "login_now": "Log in now"
 }

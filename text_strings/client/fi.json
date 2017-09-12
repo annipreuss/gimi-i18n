@@ -1582,5 +1582,6 @@
   "reset_my_piggybank": "PLZ_TRANSLATE Nollaa säästösi",
   "continue_from_last_point": "PLZ_TRANSLATE Jatka viimeisestä kohdasta",
   "account_found_title_directly": "PLZ_TRANSLATE Haluatko kirjautua sisään suoraan?",
-  "account_found_description_with_name": "PLZ_TRANSLATE Olet tuntenut kirjautuneena tähän laitteeseen ennen, haluatko kirjautua sisään %1$d nyt?"
+  "account_found_description_with_name": "PLZ_TRANSLATE Olet tuntenut kirjautuneena tähän laitteeseen ennen, haluatko kirjautua sisään %1$d nyt?",
+  "login_now": "PLZ_TRANSLATE Kirjaudu sisään nyt"
 }

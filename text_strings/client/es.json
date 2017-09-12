@@ -1582,5 +1582,6 @@
   "reset_my_piggybank": "PLZ_TRANSLATE Restablecer mi alcancía",
   "continue_from_last_point": "PLZ_TRANSLATE Continuar desde el último punto",
   "account_found_title_directly": "PLZ_TRANSLATE ¿Desea conectarse directamente?",
-  "account_found_description_with_name": "PLZ_TRANSLATE Parece que has iniciado sesión en este dispositivo antes, ¿te gustaría iniciar sesión como %1$d ahora?"
+  "account_found_description_with_name": "PLZ_TRANSLATE Parece que has iniciado sesión en este dispositivo antes, ¿te gustaría iniciar sesión como %1$d ahora?",
+  "login_now": "PLZ_TRANSLATE Inicia sesión ahora"
 }

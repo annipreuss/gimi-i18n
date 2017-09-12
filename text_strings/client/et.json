@@ -1582,5 +1582,6 @@
   "reset_my_piggybank": "PLZ_TRANSLATE Lähtestage minu neigupank",
   "continue_from_last_point": "PLZ_TRANSLATE Jätkake viimasest punktist",
   "account_found_title_directly": "PLZ_TRANSLATE Kas soovite otse sisse logida?",
-  "account_found_description_with_name": "PLZ_TRANSLATE Näib, et olete enne selle seadme sisse loginud, kas soovite praegu sisse logida kui %1$d ?"
+  "account_found_description_with_name": "PLZ_TRANSLATE Näib, et olete enne selle seadme sisse loginud, kas soovite praegu sisse logida kui %1$d ?",
+  "login_now": "PLZ_TRANSLATE Logi sisse nüüd"
 }

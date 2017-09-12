@@ -1582,5 +1582,6 @@
   "reset_my_piggybank": "PLZ_TRANSLATE Réinitialiser ma tirelire",
   "continue_from_last_point": "PLZ_TRANSLATE Continuer du dernier point",
   "account_found_title_directly": "PLZ_TRANSLATE Voulez-vous vous connecter directement?",
-  "account_found_description_with_name": "PLZ_TRANSLATE Vous semblez avoir été connecté sur ce périphérique avant, souhaitez-vous vous connecter en %1$d maintenant?"
+  "account_found_description_with_name": "PLZ_TRANSLATE Vous semblez avoir été connecté sur ce périphérique avant, souhaitez-vous vous connecter en %1$d maintenant?",
+  "login_now": "PLZ_TRANSLATE Connecte-toi maintenant"
 }

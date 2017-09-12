@@ -1582,5 +1582,6 @@
   "reset_my_piggybank": "PLZ_TRANSLATE Скінуць маю скарбонку",
   "continue_from_last_point": "PLZ_TRANSLATE Працягнуць з пункту",
   "account_found_title_directly": "PLZ_TRANSLATE Вы хочаце, каб увайсці непасрэдна?",
-  "account_found_description_with_name": "PLZ_TRANSLATE Вы , здаецца, былі зарэгістраваныя на гэтай прыладзе , перш чым, вы хацелі б увайсці ў %1$d цяпер?"
+  "account_found_description_with_name": "PLZ_TRANSLATE Вы , здаецца, былі зарэгістраваныя на гэтай прыладзе , перш чым, вы хацелі б увайсці ў %1$d цяпер?",
+  "login_now": "PLZ_TRANSLATE Увайсці прама цяпер"
 }
