@@ -1575,5 +1575,6 @@
   "completed_on": "PLZ_TRANSLATE Lõpetatud aadressil %1$d",
   "completed_by": "PLZ_TRANSLATE Lõppenud",
   "connect_your_account": "PLZ_TRANSLATE Ühendage oma konto",
-  "connecting_to_your_bank": "PLZ_TRANSLATE %1$d ühendab teie pangaga ..."
+  "connecting_to_your_bank": "PLZ_TRANSLATE %1$d ühendab teie pangaga ...",
+  "to_someone": "PLZ_TRANSLATE %1$d"
 }

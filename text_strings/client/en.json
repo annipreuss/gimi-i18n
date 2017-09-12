@@ -1575,5 +1575,6 @@
   "completed_on": "Completed at %1$d",
   "completed_by": "Completed by",
   "connect_your_account": "Connect your account",
-  "connecting_to_your_bank": "%1$d is connecting to your bank..."
+  "connecting_to_your_bank": "%1$d is connecting to your bank...",
+  "to_someone": "To %1$d"
 }

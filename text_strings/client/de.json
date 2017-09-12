@@ -1575,5 +1575,6 @@
   "completed_on": "PLZ_TRANSLATE Abgeschlossen bei %1$d",
   "completed_by": "PLZ_TRANSLATE Vervollständigt von",
   "connect_your_account": "PLZ_TRANSLATE Verbinden Sie Ihr Konto",
-  "connecting_to_your_bank": "PLZ_TRANSLATE %1$d verbindet sich mit deiner bank ..."
+  "connecting_to_your_bank": "PLZ_TRANSLATE %1$d verbindet sich mit deiner bank ...",
+  "to_someone": "PLZ_TRANSLATE Zu %1$d"
 }

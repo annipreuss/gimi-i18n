@@ -1586,5 +1586,6 @@
   "completed_on": "Utförd %1$d",
   "completed_by": "Utfördes av",
   "connect_your_account": "Koppla ditt konto",
-  "connecting_to_your_bank": "%1$d kopplar upp sig till din bank..."
+  "connecting_to_your_bank": "%1$d kopplar upp sig till din bank...",
+  "to_someone": "Till %1$d"
 }

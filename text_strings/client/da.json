@@ -1575,5 +1575,6 @@
   "completed_on": "PLZ_TRANSLATE Afsluttet på %1$d",
   "completed_by": "PLZ_TRANSLATE Afsluttet af",
   "connect_your_account": "PLZ_TRANSLATE Tilslut din konto",
-  "connecting_to_your_bank": "PLZ_TRANSLATE %1$d forbinder din bank ..."
+  "connecting_to_your_bank": "PLZ_TRANSLATE %1$d forbinder din bank ...",
+  "to_someone": "PLZ_TRANSLATE Til %1$d"
 }

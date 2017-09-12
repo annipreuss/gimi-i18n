@@ -1575,5 +1575,6 @@
   "completed_on": "PLZ_TRANSLATE Lokið í %1$d",
   "completed_by": "PLZ_TRANSLATE Lokið af",
   "connect_your_account": "PLZ_TRANSLATE Tengdu reikninginn þinn",
-  "connecting_to_your_bank": "PLZ_TRANSLATE %1$d tengist bankanum þínum ..."
+  "connecting_to_your_bank": "PLZ_TRANSLATE %1$d tengist bankanum þínum ...",
+  "to_someone": "PLZ_TRANSLATE Til %1$d"
 }

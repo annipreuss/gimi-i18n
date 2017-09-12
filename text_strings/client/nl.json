@@ -1575,5 +1575,6 @@
   "completed_on": "PLZ_TRANSLATE Voltooid op %1$d",
   "completed_by": "PLZ_TRANSLATE Afgemaakt door",
   "connect_your_account": "PLZ_TRANSLATE Sluit je account aan",
-  "connecting_to_your_bank": "PLZ_TRANSLATE %1$d verbindt met je bank ..."
+  "connecting_to_your_bank": "PLZ_TRANSLATE %1$d verbindt met je bank ...",
+  "to_someone": "PLZ_TRANSLATE Naar %1$d"
 }
