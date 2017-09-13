@@ -1589,5 +1589,6 @@
   "add_purchase_title": "PLZ_TRANSLATE Грошы будуць адымацца",
   "add_purchase_desc": "PLZ_TRANSLATE Пры даданні пакупкі, грошы адымаюцца з скарбонкі.",
   "child_deny_task_text": "PLZ_TRANSLATE Вы ўпэўненыя , што жадаеце забараніць выкананне задачы %1$d ? Ён будзе адлюстроўвацца як «несанкцыянаваныя».",
-  "deny_task": "PLZ_TRANSLATE забараніць задачу"
+  "deny_task": "PLZ_TRANSLATE забараніць задачу",
+  "error_loading_video": "PLZ_TRANSLATE Памылка відэа, паспрабуйце пазней"
 }

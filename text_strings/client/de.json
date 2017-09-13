@@ -1589,5 +1589,6 @@
   "add_purchase_title": "PLZ_TRANSLATE Geld wird abgezogen",
   "add_purchase_desc": "PLZ_TRANSLATE Wenn Sie einen Kauf hinzufügen, wird Geld vom Sparschwein abgezogen.",
   "child_deny_task_text": "PLZ_TRANSLATE Sind Sie sicher, dass Sie die Ausführung der Aufgabe %1$d verweigern möchten? Es wird als \"nicht genehmigt\" aufgeführt.",
-  "deny_task": "PLZ_TRANSLATE Verweigern Aufgabe"
+  "deny_task": "PLZ_TRANSLATE Verweigern Aufgabe",
+  "error_loading_video": "PLZ_TRANSLATE Video-Fehler, versuche es später noch einmal"
 }

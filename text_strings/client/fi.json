@@ -1589,5 +1589,6 @@
   "add_purchase_title": "PLZ_TRANSLATE Rahaa vähennetään",
   "add_purchase_desc": "PLZ_TRANSLATE Kun lisäät ostoksen, rahaa vähennetään säästöpossuista.",
   "child_deny_task_text": "PLZ_TRANSLATE Haluatko varmasti kieltää tehtävän suorittamisen %1$d ? Se näkyy \"hyväksymättä\".",
-  "deny_task": "PLZ_TRANSLATE Kieltää tehtävä"
+  "deny_task": "PLZ_TRANSLATE Kieltää tehtävä",
+  "error_loading_video": "PLZ_TRANSLATE Videovirhe, yritä myöhemmin uudelleen"
 }

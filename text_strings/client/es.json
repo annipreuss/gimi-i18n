@@ -1589,5 +1589,6 @@
   "add_purchase_title": "PLZ_TRANSLATE El dinero se deducirá",
   "add_purchase_desc": "PLZ_TRANSLATE Cuando se agrega una compra, el dinero se deduce de la alcancía.",
   "child_deny_task_text": "PLZ_TRANSLATE ¿Está seguro de que desea denegar la realización de la tarea %1$d ? Se mostrará como \"no aprobado\".",
-  "deny_task": "PLZ_TRANSLATE Negar tarea"
+  "deny_task": "PLZ_TRANSLATE Negar tarea",
+  "error_loading_video": "PLZ_TRANSLATE Error de video, vuelve a intentarlo más tarde"
 }

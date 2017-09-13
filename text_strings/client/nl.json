@@ -1589,5 +1589,6 @@
   "add_purchase_title": "PLZ_TRANSLATE Geld wordt afgetrokken",
   "add_purchase_desc": "PLZ_TRANSLATE Wanneer u een aankoop toevoegt, wordt het geld van de spaarpot afgetrokken.",
   "child_deny_task_text": "PLZ_TRANSLATE Weet u zeker dat u de taak %1$d wilt ontkennen? Het wordt genoteerd als \"unapproved\".",
-  "deny_task": "PLZ_TRANSLATE Ontken de taak"
+  "deny_task": "PLZ_TRANSLATE Ontken de taak",
+  "error_loading_video": "PLZ_TRANSLATE Video fout, probeer het later opnieuw"
 }

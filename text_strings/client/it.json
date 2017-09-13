@@ -1589,5 +1589,6 @@
   "add_purchase_title": "PLZ_TRANSLATE I soldi saranno detratti",
   "add_purchase_desc": "PLZ_TRANSLATE Quando aggiungi un acquisto, il denaro viene detratto dalla banca salvadana.",
   "child_deny_task_text": "PLZ_TRANSLATE Sei sicuro di voler negare l&#39;esecuzione dell&#39;attività %1$d ? Sarà elencato come \"non approvato\".",
-  "deny_task": "PLZ_TRANSLATE Negare l'attività"
+  "deny_task": "PLZ_TRANSLATE Negare l'attività",
+  "error_loading_video": "PLZ_TRANSLATE Errore video, riprova più tardi"
 }

@@ -1589,5 +1589,6 @@
   "add_purchase_title": "PLZ_TRANSLATE L'argent sera déduit",
   "add_purchase_desc": "PLZ_TRANSLATE Lorsque vous ajoutez un achat, l'argent est déduit de la tirelire.",
   "child_deny_task_text": "PLZ_TRANSLATE Êtes-vous sûr de vouloir nier l&#39;exécution de la tâche %1$d ? Il sera répertorié comme \"non approuvé\".",
-  "deny_task": "PLZ_TRANSLATE Tâche de refus"
+  "deny_task": "PLZ_TRANSLATE Tâche de refus",
+  "error_loading_video": "PLZ_TRANSLATE Erreur vidéo, essayez plus tard"
 }

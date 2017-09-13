@@ -1589,5 +1589,6 @@
   "add_purchase_title": "PLZ_TRANSLATE Raha maha arvatakse",
   "add_purchase_desc": "PLZ_TRANSLATE Kui lisate ostu, arvatakse sigarist maha raha.",
   "child_deny_task_text": "PLZ_TRANSLATE Kas olete kindel, et soovite keelduda ülesande täitmisest %1$d ? See on loetletud kui \"kinnitamata\".",
-  "deny_task": "PLZ_TRANSLATE Keela ülesanne"
+  "deny_task": "PLZ_TRANSLATE Keela ülesanne",
+  "error_loading_video": "PLZ_TRANSLATE Video viga, proovige hiljem uuesti"
 }
