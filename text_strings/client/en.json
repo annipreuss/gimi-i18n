@@ -1059,7 +1059,7 @@
   "is_being_payed_to_bank_account": "Paid to account",
   "payed_to_bank_account": "Paid to account",
   "task_needs_approval": "This chore is proposed by %1$d. Give it out if you want, or delete it.",
-  "task_needs_approval_child": "This chore must be approved by a parent before you can perform it.",
+  "task_needs_approval_child": "This task must be approved by a parent before it can be performed.",
   "days_until_trustly_payment_text_parent": "%1$d days left until the money is transferred to %2$d Bank Accounts",
   "days_until_trustly_payment_text_child": "%1$d days left until the money is transferred to your bank account",
   "change_allowance_trustly_error_header": "Pending transaction!",

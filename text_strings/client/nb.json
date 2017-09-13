@@ -1059,7 +1059,7 @@
   "is_being_payed_to_bank_account": "Betales til konto",
   "payed_to_bank_account": "Betalt til konto",
   "task_needs_approval": "Denne oppgaven er foreslått av %1$d. Del den ut hvis du vil, eller slett den.",
-  "task_needs_approval_child": "Denne oppgaven må være godkjent av en forelder før du kan utføre.",
+  "task_needs_approval_child": "PLZ_TRANSLATE Denne oppgaven må godkjennes av en forelder før den kan utføres.",
   "days_until_trustly_payment_text_parent": "%1$d dager igjen til pengene er overført til %2$d bankkontoer",
   "days_until_trustly_payment_text_child": "%1$d dager igjen til pengene er overført til bankkontoen din",
   "change_allowance_trustly_error_header": "Pågående transaktion!",

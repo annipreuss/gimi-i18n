@@ -1059,7 +1059,7 @@
   "is_being_payed_to_bank_account": "Da versare sul conto ",
   "payed_to_bank_account": "Versato sul conto",
   "task_needs_approval": "Questo compito è stato proposto da %1$d. Se vuoi, puoi distribuirlo, oppure cancellarlo.",
-  "task_needs_approval_child": " Questo compito deve essere approvato da un genitore prima di poterlo eseguire.",
+  "task_needs_approval_child": "PLZ_TRANSLATE Questo compito deve essere approvato da un genitore prima che possa essere eseguito.",
   "days_until_trustly_payment_text_parent": "Mancano ancora %1$d giorni prima del trasferimento dei soldi verso il conto bancario di %2$d",
   "days_until_trustly_payment_text_child": "Mancano ancora %1$d giorni prima del trasferimento dei soldi verso il tuo conto bancario",
   "change_allowance_trustly_error_header": "Transazione pendente!",

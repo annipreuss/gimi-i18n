@@ -1059,7 +1059,7 @@
   "is_being_payed_to_bank_account": "Zahlbar an Account",
   "payed_to_bank_account": "An Account bezahlt",
   "task_needs_approval": "Diese Aufgabe wurde von %1$d gestellt. Nehme sie an oder lösche sie.",
-  "task_needs_approval_child": "Diese Aufgabe muss von einem Elternteil genehmigt werden, bevor Du sie durchführen kannst.",
+  "task_needs_approval_child": "PLZ_TRANSLATE Diese Aufgabe muss von einem Elternteil genehmigt werden, bevor es durchgeführt werden kann.",
   "days_until_trustly_payment_text_parent": "%1$d Tage bis das Geld auf %2$d Bankkonto überwiesen wird",
   "days_until_trustly_payment_text_child": "%1$d Tage bis das Geld auf Dein Bankkonto überwiesen wird",
   "change_allowance_trustly_error_header": "Ausstehende Überweisung!",

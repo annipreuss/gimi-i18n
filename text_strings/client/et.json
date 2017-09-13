@@ -1059,7 +1059,7 @@
   "is_being_payed_to_bank_account": "PLZ_TRANSLATE Payable to account",
   "payed_to_bank_account": "PLZ_TRANSLATE Paid to account",
   "task_needs_approval": "PLZ_TRANSLATE This chore is proposed by %1$d. Give it out if you want, or delete it.",
-  "task_needs_approval_child": "PLZ_TRANSLATE This chore must be approved by a parent before you can perform it.",
+  "task_needs_approval_child": "PLZ_TRANSLATE Selle ülesande peab vanem enne selle läbiviimist heaks kiitma.",
   "days_until_trustly_payment_text_parent": "PLZ_TRANSLATE %1$d days left until the money is transferred to %2$d Bank Accounts",
   "days_until_trustly_payment_text_child": "PLZ_TRANSLATE %1$d days left until the money is transferred to your bank account",
   "change_allowance_trustly_error_header": "PLZ_TRANSLATE Pending transaction!",

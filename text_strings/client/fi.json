@@ -1059,7 +1059,7 @@
   "is_being_payed_to_bank_account": "Maksetaan tilille",
   "payed_to_bank_account": "Maksetaan tilille",
   "task_needs_approval": "Tätä askaretta on ehdottanut %1$d. Anna askare tai poista se.",
-  "task_needs_approval_child": "Vanhemman on hyväksyttävä tämä askare ennen kuin voit suorittaa sen.",
+  "task_needs_approval_child": "PLZ_TRANSLATE Vanhempien on hyväksyttävä tämä tehtävä ennen kuin se voidaan suorittaa.",
   "days_until_trustly_payment_text_parent": "%1$d päivää jäljellä ennen kuin rahat siirtyvät %2$dn pankkitilille",
   "days_until_trustly_payment_text_child": "%1$d päivää jäljellä ennen kuin rahat siirretään pankkitilillesi",
   "change_allowance_trustly_error_header": "Siirto meneillään!",

@@ -1059,7 +1059,7 @@
   "is_being_payed_to_bank_account": "betaalbaar naar account",
   "payed_to_bank_account": "Te betalen naar account",
   "task_needs_approval": "Deze taak wordt door %1$d voorgesteld. Klik hier als je wilt accepteren, of te verwijderen.",
-  "task_needs_approval_child": "Deze taak moet door een ouder te worden goedgekeurd voordat u ze kunt uitvoeren.",
+  "task_needs_approval_child": "PLZ_TRANSLATE Deze taak moet door een ouder worden goedgekeurd voordat het kan worden uitgevoerd.",
   "days_until_trustly_payment_text_parent": "%1$d dagen tot het geld wordt overgedragen aan %2$d Bankrekeningen",
   "days_until_trustly_payment_text_child": "%1$d dagen tot het geld wordt overgemaakt op uw bankrekening",
   "change_allowance_trustly_error_header": "Transactie in afwachting !",

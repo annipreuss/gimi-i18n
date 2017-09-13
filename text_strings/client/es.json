@@ -1059,7 +1059,7 @@
   "is_being_payed_to_bank_account": "Pagable a la cuenta",
   "payed_to_bank_account": "Pagado a la cuenta",
   "task_needs_approval": "Esta tarea es propuesta por %1$d. Si quieres la puedes ceder o borrar.",
-  "task_needs_approval_child": "Esta tarea debe ser aprobada por un padre o madre antes que puedas realizarla.",
+  "task_needs_approval_child": "PLZ_TRANSLATE Esta tarea debe ser aprobada por un padre antes de que pueda ser realizada.",
   "days_until_trustly_payment_text_parent": "%1$d días restantes hasta que el dinero sea transferido a las cuentas bancarias %2$d",
   "days_until_trustly_payment_text_child": "%1$d días restantes hasta que el dinero sea transferido a tu cuenta bancaria",
   "change_allowance_trustly_error_header": "¡Transacción pendiente!",
