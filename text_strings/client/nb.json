@@ -1588,5 +1588,6 @@
   "add_purchase": "PLZ_TRANSLATE Legg til kjøp",
   "add_purchase_title": "PLZ_TRANSLATE Penger vil bli trukket",
   "add_purchase_desc": "PLZ_TRANSLATE Når du legger til et kjøp, blir penger trukket fra spargrisen.",
-  "child_deny_task_text": "PLZ_TRANSLATE Er du sikker på at du vil nekte å utføre oppgaven %1$d ? Det vil bli oppført som \"ikke godkjent\"."
+  "child_deny_task_text": "PLZ_TRANSLATE Er du sikker på at du vil nekte å utføre oppgaven %1$d ? Det vil bli oppført som \"ikke godkjent\".",
+  "deny_task": "PLZ_TRANSLATE Nekte oppgaven"
 }

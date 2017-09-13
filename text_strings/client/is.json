@@ -1588,5 +1588,6 @@
   "add_purchase": "PLZ_TRANSLATE Bæta við kaupum",
   "add_purchase_title": "PLZ_TRANSLATE Peningar verða dregnar frá",
   "add_purchase_desc": "PLZ_TRANSLATE Þegar þú bætir við kaupi er peninga dregið frá grís bankanum.",
-  "child_deny_task_text": "PLZ_TRANSLATE Ertu viss um að þú viljir neita því að framkvæma verkefni %1$d ? Það verður skráð sem \"ósamþykkt\"."
+  "child_deny_task_text": "PLZ_TRANSLATE Ertu viss um að þú viljir neita því að framkvæma verkefni %1$d ? Það verður skráð sem \"ósamþykkt\".",
+  "deny_task": "PLZ_TRANSLATE Neita verkefni"
 }
