@@ -1587,5 +1587,6 @@
   "transfer_to_piggybank": "PLZ_TRANSLATE Overførsel til spargrisen",
   "add_purchase": "PLZ_TRANSLATE Tilføj køb",
   "add_purchase_title": "PLZ_TRANSLATE Penge vil blive fratrukket",
-  "add_purchase_desc": "PLZ_TRANSLATE Når du tilføjer et køb, trækkes penge fra sparegrisen."
+  "add_purchase_desc": "PLZ_TRANSLATE Når du tilføjer et køb, trækkes penge fra sparegrisen.",
+  "child_deny_task_text": "PLZ_TRANSLATE Er du sikker på, at du vil nægte at udføre opgaven %1$d ? Det vil blive opført som \"ikke godkendt\"."
 }

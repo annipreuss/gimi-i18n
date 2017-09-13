@@ -1587,5 +1587,6 @@
   "transfer_to_piggybank": "PLZ_TRANSLATE Overstappen naar de spaarpot",
   "add_purchase": "PLZ_TRANSLATE Voeg aankoop toe",
   "add_purchase_title": "PLZ_TRANSLATE Geld wordt afgetrokken",
-  "add_purchase_desc": "PLZ_TRANSLATE Wanneer u een aankoop toevoegt, wordt het geld van de spaarpot afgetrokken."
+  "add_purchase_desc": "PLZ_TRANSLATE Wanneer u een aankoop toevoegt, wordt het geld van de spaarpot afgetrokken.",
+  "child_deny_task_text": "PLZ_TRANSLATE Weet u zeker dat u de taak %1$d wilt ontkennen? Het wordt genoteerd als \"unapproved\"."
 }

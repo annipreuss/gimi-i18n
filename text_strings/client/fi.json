@@ -1587,5 +1587,6 @@
   "transfer_to_piggybank": "PLZ_TRANSLATE Siirrä säästöpossuun",
   "add_purchase": "PLZ_TRANSLATE Lisää osto",
   "add_purchase_title": "PLZ_TRANSLATE Rahaa vähennetään",
-  "add_purchase_desc": "PLZ_TRANSLATE Kun lisäät ostoksen, rahaa vähennetään säästöpossuista."
+  "add_purchase_desc": "PLZ_TRANSLATE Kun lisäät ostoksen, rahaa vähennetään säästöpossuista.",
+  "child_deny_task_text": "PLZ_TRANSLATE Haluatko varmasti kieltää tehtävän suorittamisen %1$d ? Se näkyy \"hyväksymättä\"."
 }

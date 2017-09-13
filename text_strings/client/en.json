@@ -1587,5 +1587,6 @@
   "transfer_to_piggybank": "Transfer to the piggy bank",
   "add_purchase": "Add purchase",
   "add_purchase_title": "Money will be deducted",
-  "add_purchase_desc": "When you add a purchase, money is deducted from the piggy bank."
+  "add_purchase_desc": "When you add a purchase, money is deducted from the piggy bank.",
+  "child_deny_task_text": "Are you sure you want to deny performing the task %1$d? It will be listed as \"unapproved\"."
 }

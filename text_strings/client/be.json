@@ -1587,5 +1587,6 @@
   "transfer_to_piggybank": "PLZ_TRANSLATE Трансфер у скарбонку",
   "add_purchase": "PLZ_TRANSLATE дадаць куплю",
   "add_purchase_title": "PLZ_TRANSLATE Грошы будуць адымацца",
-  "add_purchase_desc": "PLZ_TRANSLATE Пры даданні пакупкі, грошы адымаюцца з скарбонкі."
+  "add_purchase_desc": "PLZ_TRANSLATE Пры даданні пакупкі, грошы адымаюцца з скарбонкі.",
+  "child_deny_task_text": "PLZ_TRANSLATE Вы ўпэўненыя , што жадаеце забараніць выкананне задачы %1$d ? Ён будзе адлюстроўвацца як «несанкцыянаваныя»."
 }

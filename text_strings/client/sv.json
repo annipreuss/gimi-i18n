@@ -1598,5 +1598,6 @@
   "transfer_to_piggybank": "Överför till spargrisen",
   "add_purchase": "Lägg till köp",
   "add_purchase_title": "PLZ_TRANSLATE Pengar kommer dras",
-  "add_purchase_desc": "PLZ_TRANSLATE När du lägger till ett köp dras pengar från spargrisen."
+  "add_purchase_desc": "PLZ_TRANSLATE När du lägger till ett köp dras pengar från spargrisen.",
+  "child_deny_task_text": "PLZ_TRANSLATE Är du säker på att du vill neka att utföra uppgiften %1$d? Den kommer att anges som \"icke godkänd\"."
 }
