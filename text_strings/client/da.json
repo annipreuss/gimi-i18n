@@ -1592,5 +1592,6 @@
   "deny_task": "PLZ_TRANSLATE Nægte opgaven",
   "error_loading_video": "PLZ_TRANSLATE Videofejl, prøv igen senere",
   "automatic_transfers": "PLZ_TRANSLATE Automatiske overførsler",
-  "simple_transfers": "PLZ_TRANSLATE Enkle overførsler"
+  "simple_transfers": "PLZ_TRANSLATE Enkle overførsler",
+  "delete": "PLZ_TRANSLATE Slet"
 }

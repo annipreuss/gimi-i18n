@@ -1603,5 +1603,6 @@
   "deny_task": "Neka uppgift",
   "error_loading_video": "Videofel, försök igen senare",
   "automatic_transfers": "Automatiska överföringar",
-  "simple_transfers": "Enkla överföringar"
+  "simple_transfers": "Enkla överföringar",
+  "delete": "Radera"
 }

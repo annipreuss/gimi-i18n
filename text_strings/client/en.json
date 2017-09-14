@@ -1592,5 +1592,6 @@
   "deny_task": "Deny task",
   "error_loading_video": "Video error, try again later",
   "automatic_transfers": "Automatic transfers",
-  "simple_transfers": "Simple transfers"
+  "simple_transfers": "Simple transfers",
+  "delete": "Delete"
 }

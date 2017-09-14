@@ -1592,5 +1592,6 @@
   "deny_task": "PLZ_TRANSLATE Negare l'attività",
   "error_loading_video": "PLZ_TRANSLATE Errore video, riprova più tardi",
   "automatic_transfers": "PLZ_TRANSLATE Trasferimenti automatici",
-  "simple_transfers": "PLZ_TRANSLATE Trasferimenti semplici"
+  "simple_transfers": "PLZ_TRANSLATE Trasferimenti semplici",
+  "delete": "PLZ_TRANSLATE Elimina"
 }

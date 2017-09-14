@@ -1592,5 +1592,6 @@
   "deny_task": "PLZ_TRANSLATE Keela ülesanne",
   "error_loading_video": "PLZ_TRANSLATE Video viga, proovige hiljem uuesti",
   "automatic_transfers": "PLZ_TRANSLATE Automaatkäibed",
-  "simple_transfers": "PLZ_TRANSLATE Lihtsad ülekanded"
+  "simple_transfers": "PLZ_TRANSLATE Lihtsad ülekanded",
+  "delete": "PLZ_TRANSLATE Kustuta"
 }

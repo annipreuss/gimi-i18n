@@ -1592,5 +1592,6 @@
   "deny_task": "PLZ_TRANSLATE Kieltää tehtävä",
   "error_loading_video": "PLZ_TRANSLATE Videovirhe, yritä myöhemmin uudelleen",
   "automatic_transfers": "PLZ_TRANSLATE Automaattiset siirrot",
-  "simple_transfers": "PLZ_TRANSLATE Yksinkertaiset siirrot"
+  "simple_transfers": "PLZ_TRANSLATE Yksinkertaiset siirrot",
+  "delete": "PLZ_TRANSLATE Poistaa"
 }

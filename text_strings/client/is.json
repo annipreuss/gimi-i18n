@@ -1592,5 +1592,6 @@
   "deny_task": "PLZ_TRANSLATE Neita verkefni",
   "error_loading_video": "PLZ_TRANSLATE Vídeó villa, reyndu aftur seinna",
   "automatic_transfers": "PLZ_TRANSLATE Sjálfvirk flytja",
-  "simple_transfers": "PLZ_TRANSLATE Einföld yfirfærsla"
+  "simple_transfers": "PLZ_TRANSLATE Einföld yfirfærsla",
+  "delete": "PLZ_TRANSLATE Eyða"
 }
