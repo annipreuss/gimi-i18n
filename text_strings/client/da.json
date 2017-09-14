@@ -1590,5 +1590,7 @@
   "add_purchase_desc": "PLZ_TRANSLATE Når du tilføjer et køb, trækkes penge fra sparegrisen.",
   "child_deny_task_text": "PLZ_TRANSLATE Er du sikker på, at du vil nægte at udføre opgaven %1$d ? Det vil blive opført som \"ikke godkendt\".",
   "deny_task": "PLZ_TRANSLATE Nægte opgaven",
-  "error_loading_video": "PLZ_TRANSLATE Videofejl, prøv igen senere"
+  "error_loading_video": "PLZ_TRANSLATE Videofejl, prøv igen senere",
+  "automatic_transfers": "PLZ_TRANSLATE Automatiske overførsler",
+  "simple_transfers": "PLZ_TRANSLATE Enkle overførsler"
 }

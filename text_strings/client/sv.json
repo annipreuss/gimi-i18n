@@ -1601,5 +1601,7 @@
   "add_purchase_desc": "När du lägger till ett köp dras pengar från spargrisen.",
   "child_deny_task_text": "Är du säker på att du vill neka att utföra uppgiften %1$d? Den kommer att anges som \"icke godkänd\".",
   "deny_task": "Neka uppgift",
-  "error_loading_video": "Videofel, försök igen senare"
+  "error_loading_video": "Videofel, försök igen senare",
+  "automatic_transfers": "Automatiska överföringar",
+  "simple_transfers": "Enkla överföringar"
 }

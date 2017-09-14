@@ -1590,5 +1590,7 @@
   "add_purchase_desc": "PLZ_TRANSLATE Lorsque vous ajoutez un achat, l'argent est déduit de la tirelire.",
   "child_deny_task_text": "PLZ_TRANSLATE Êtes-vous sûr de vouloir nier l&#39;exécution de la tâche %1$d ? Il sera répertorié comme \"non approuvé\".",
   "deny_task": "PLZ_TRANSLATE Tâche de refus",
-  "error_loading_video": "PLZ_TRANSLATE Erreur vidéo, essayez plus tard"
+  "error_loading_video": "PLZ_TRANSLATE Erreur vidéo, essayez plus tard",
+  "automatic_transfers": "PLZ_TRANSLATE Transferts automatiques",
+  "simple_transfers": "PLZ_TRANSLATE Transferts simples"
 }

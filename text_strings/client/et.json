@@ -1590,5 +1590,7 @@
   "add_purchase_desc": "PLZ_TRANSLATE Kui lisate ostu, arvatakse sigarist maha raha.",
   "child_deny_task_text": "PLZ_TRANSLATE Kas olete kindel, et soovite keelduda ülesande täitmisest %1$d ? See on loetletud kui \"kinnitamata\".",
   "deny_task": "PLZ_TRANSLATE Keela ülesanne",
-  "error_loading_video": "PLZ_TRANSLATE Video viga, proovige hiljem uuesti"
+  "error_loading_video": "PLZ_TRANSLATE Video viga, proovige hiljem uuesti",
+  "automatic_transfers": "PLZ_TRANSLATE Automaatkäibed",
+  "simple_transfers": "PLZ_TRANSLATE Lihtsad ülekanded"
 }

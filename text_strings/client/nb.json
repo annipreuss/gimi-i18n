@@ -1590,5 +1590,7 @@
   "add_purchase_desc": "PLZ_TRANSLATE Når du legger til et kjøp, blir penger trukket fra spargrisen.",
   "child_deny_task_text": "PLZ_TRANSLATE Er du sikker på at du vil nekte å utføre oppgaven %1$d ? Det vil bli oppført som \"ikke godkjent\".",
   "deny_task": "PLZ_TRANSLATE Nekte oppgaven",
-  "error_loading_video": "PLZ_TRANSLATE Videofeil, prøv igjen senere"
+  "error_loading_video": "PLZ_TRANSLATE Videofeil, prøv igjen senere",
+  "automatic_transfers": "PLZ_TRANSLATE Automatiske overføringer",
+  "simple_transfers": "PLZ_TRANSLATE Enkle overføringer"
 }
