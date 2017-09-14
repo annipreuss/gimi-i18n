@@ -42,7 +42,6 @@
   "dashboard_goal_created": "PLZ_TRANSLATE Savings goal {goal.title} set.",
   "dashboard_goal_completed": "PLZ_TRANSLATE Completed {goal.title}.",
   "dashboard_transfer_to_savings": "PLZ_TRANSLATE Saved {transaction.str_value}.",
-  "push_goal_updated": "PLZ_TRANSLATE {goal.updated_by.name} has an updated {goal.title}.",
   "push_task_updated": "PLZ_TRANSLATE {user} has an updated {task}.",
   "push_weekly_allowance_auto_transferred": "PLZ_TRANSLATE It's a new week and {amount} of your last weekly allowance has been auto saved!",
   "push_weekly_allowance_transferred_parent": "PLZ_TRANSLATE {name}'s weekly allowance of {amount} has been auto saved!",

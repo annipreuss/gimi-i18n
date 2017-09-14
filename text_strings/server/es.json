@@ -42,7 +42,6 @@
   "dashboard_goal_created": "Meta de ahorro {goal.title} establecida.",
   "dashboard_goal_completed": "{goal.title} completada.",
   "dashboard_transfer_to_savings": "{transaction.str_value} guardado.",
-  "push_goal_updated": "{goal.updated_by.name} tiene la actualización de {goal.title}.",
   "push_task_updated": "{user} tiene la actualización de {task}.",
   "push_weekly_allowance_auto_transferred": "¡Es una nueva semana y {amount} de su última asignación semanal fue guardada automáticamente!",
   "push_weekly_allowance_transferred_parent": "¡La asignación semanal de {name} por  {amount} fue guardada automáticamente!",

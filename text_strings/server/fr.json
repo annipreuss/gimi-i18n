@@ -42,7 +42,6 @@
   "dashboard_goal_created": "Objectif d'épargne {goal.title} fixé.",
   "dashboard_goal_completed": "{goal.title} complété.",
   "dashboard_transfer_to_savings": "{transaction.str_value} épargnés.",
-  "push_goal_updated": "{goal.updated_by.name} a une mise à jour pour{goal.title}.",
   "push_task_updated": "{user} a mis à jour la tâche: {task}.",
   "push_weekly_allowance_auto_transferred": "Nouvelle semaine! {amount} de votre dernière allocation hebdomadaire ont été automatiquement épargnés!",
   "push_weekly_allowance_transferred_parent": "L'allocation hebdomadaire de {name} valant {amount} a été automatiquement épargnée!",

@@ -42,7 +42,6 @@
   "dashboard_goal_created": "Savings goal {goal.title} set.",
   "dashboard_goal_completed": "Completed {goal.title}.",
   "dashboard_transfer_to_savings": "Saved {transaction.str_value}.",
-  "push_goal_updated": "{goal.updated_by.name} has an updated {goal.title}.",
   "push_task_updated": "{user} has an updated {task}.",
   "push_weekly_allowance_auto_transferred": "It's a new week and {amount} of your last weekly allowance has been auto saved!",
   "push_weekly_allowance_transferred_parent": "{name}'s weekly allowance of {amount} has been auto saved!",

@@ -42,7 +42,6 @@
   "dashboard_goal_created": "Opprettet sparemålet {goal.title}.",
   "dashboard_goal_completed": "Oppnådde sparemålet {goal.title}.",
   "dashboard_transfer_to_savings": "Spart {transaction.str_value}.",
-  "push_goal_updated": "{goal.updated_by.name} har endret sparemål {goal.title}.",
   "push_task_updated": "{user} har endret oppgaven {task}.",
   "push_weekly_allowance_auto_transferred": "Ny uke og {amount} av dine forrige ukepenger har automatisk blitt spart!",
   "push_weekly_allowance_transferred_parent": "{name}s ukepenger på {amount} har automatisk blitt spart!",

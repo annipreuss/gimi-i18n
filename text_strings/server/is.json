@@ -42,7 +42,6 @@
   "dashboard_goal_created": "PLZ_TRANSLATE Skapade sparmålet {goal.title}.",
   "dashboard_goal_completed": "PLZ_TRANSLATE Uppnådde sparmålet {goal.title}.",
   "dashboard_transfer_to_savings": "PLZ_TRANSLATE Sparade {transaction.str_value}.",
-  "push_goal_updated": "PLZ_TRANSLATE {goal.updated_by.name} har ändrat sparmål {goal.title}.",
   "push_task_updated": "PLZ_TRANSLATE {user} har ändrat uppgiften {task}.",
   "push_weekly_allowance_auto_transferred": "PLZ_TRANSLATE Ny vecka och {amount} av din förra veckopeng har autosparats!",
   "push_weekly_allowance_transferred_parent": "PLZ_TRANSLATE {name}s veckopeng på {amount} har autosparats!",
