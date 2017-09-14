@@ -23,5 +23,6 @@ export default {
   'ES': 'EUR', // Spain
   'DE': 'EUR', // Germany,
   'EE': 'EUR', // Estonia
-  'IS': 'ISK' // Iceland
+  'IS': 'ISK', // Iceland
+  'TH': 'THB'
 }

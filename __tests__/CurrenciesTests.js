@@ -30,4 +30,10 @@ describe('Currencies', () => {
       expect(ExchangeRates[DefaultCurrencies[key]]).toBeDefined()
     })
   })
+
+  Object.keys(getSupportedCurrencyInfos()).forEach(key => {
+    it(`All defined currencies should have conversion rate ${key} `, () => {
+      expect(ExchangeRates[getSupportedCurrencyInfos()[key].code]).toBeDefined()
+    })
+  })
 })
