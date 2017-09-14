@@ -42,5 +42,6 @@ export default {
   'HKD': 0.91,
   'SGD': 0.16,
   'CHF': 0.12,
-  'ISK': 12.68
+  'ISK': 12.68,
+  'THB': 0.24
 }
