@@ -1598,5 +1598,6 @@
   "accept_invite_popover_text_no_children": "PLZ_TRANSLATE %1$d hefur sent boð til að tengjast þér. Viltu tengjast %1$d ?",
   "accept_invite_popover_text_with_children": "PLZ_TRANSLATE %1$d hefur sent boð til að tengjast þér. Viltu tengjast með %1$d og börnunum %2$d ?",
   "yes_connect": "PLZ_TRANSLATE Já, tengdu",
-  "no_move_on": "PLZ_TRANSLATE Nei, farðu áfram"
+  "no_move_on": "PLZ_TRANSLATE Nei, farðu áfram",
+  "goal_popover_text_personal": "PLZ_TRANSLATE Þú náði markmiðinu %1$d í %2$d daga. Gott starf!"
 }

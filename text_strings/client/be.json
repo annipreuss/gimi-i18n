@@ -1598,5 +1598,6 @@
   "accept_invite_popover_text_no_children": "PLZ_TRANSLATE %1$d паслаў запрашэнне , каб звязацца з вамі. Жадаеце падлучыцца да %1$d ?",
   "accept_invite_popover_text_with_children": "PLZ_TRANSLATE %1$d паслаў запрашэнне , каб звязацца з вамі. Вы хочаце , каб злучыцца з %1$d і дзяцей %2$d ?",
   "yes_connect": "PLZ_TRANSLATE Так, падключэнне",
-  "no_move_on": "PLZ_TRANSLATE Не, рухацца далей"
+  "no_move_on": "PLZ_TRANSLATE Не, рухацца далей",
+  "goal_popover_text_personal": "PLZ_TRANSLATE Вы дасягнулі мэты %1$d у %2$d дні. Добрая праца!"
 }

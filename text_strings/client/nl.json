@@ -1598,5 +1598,6 @@
   "accept_invite_popover_text_no_children": "PLZ_TRANSLATE %1$d heeft een uitnodiging gestuurd om met u te verbinden. Wil je verbinding maken met %1$d ?",
   "accept_invite_popover_text_with_children": "PLZ_TRANSLATE %1$d heeft een uitnodiging gestuurd om met u te verbinden. Wilt u verbinding maken met %1$d en de kinderen %2$d ?",
   "yes_connect": "PLZ_TRANSLATE Ja, verbind",
-  "no_move_on": "PLZ_TRANSLATE Nee, ga verder"
+  "no_move_on": "PLZ_TRANSLATE Nee, ga verder",
+  "goal_popover_text_personal": "PLZ_TRANSLATE Je hebt het doel bereikt %1$d in %2$d dagen. Goed gedaan!"
 }

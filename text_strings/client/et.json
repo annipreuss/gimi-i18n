@@ -1598,5 +1598,6 @@
   "accept_invite_popover_text_no_children": "PLZ_TRANSLATE %1$d saatis teiega ühenduse loomise kutse. Kas soovite ühendada %1$d ?",
   "accept_invite_popover_text_with_children": "PLZ_TRANSLATE %1$d saatis teiega ühenduse loomise kutse. Kas soovite ühendada %1$d ja lastega %2$d ?",
   "yes_connect": "PLZ_TRANSLATE Jah, ühendage",
-  "no_move_on": "PLZ_TRANSLATE Ei, liikuge edasi"
+  "no_move_on": "PLZ_TRANSLATE Ei, liikuge edasi",
+  "goal_popover_text_personal": "PLZ_TRANSLATE Sa saavutasid eesmärgi %1$d %2$d päeva jooksul. Tubli töö!"
 }

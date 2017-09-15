@@ -1598,5 +1598,6 @@
   "accept_invite_popover_text_no_children": "PLZ_TRANSLATE %1$d ha enviado una invitación para conectarse contigo. ¿Desea conectarse a %1$d ?",
   "accept_invite_popover_text_with_children": "PLZ_TRANSLATE %1$d ha enviado una invitación para conectarse contigo. ¿Desea conectarse con %1$d y los niños %2$d ?",
   "yes_connect": "PLZ_TRANSLATE Sí, conecta",
-  "no_move_on": "PLZ_TRANSLATE No, adelante"
+  "no_move_on": "PLZ_TRANSLATE No, adelante",
+  "goal_popover_text_personal": "PLZ_TRANSLATE Has alcanzado la meta %1$d en %2$d días. ¡Buen trabajo!"
 }
