@@ -1593,5 +1593,10 @@
   "error_loading_video": "PLZ_TRANSLATE Video fout, probeer het later opnieuw",
   "automatic_transfers": "PLZ_TRANSLATE Automatische transfers",
   "simple_transfers": "PLZ_TRANSLATE Eenvoudige transfers",
-  "delete": "PLZ_TRANSLATE Verwijder"
+  "delete": "PLZ_TRANSLATE Verwijder",
+  "do_you_accept_invite": "PLZ_TRANSLATE Accepteer je de uitnodiging?",
+  "accept_invite_popover_text_no_children": "PLZ_TRANSLATE %1$d heeft een uitnodiging gestuurd om met u te verbinden. Wil je verbinding maken met %1$d ?",
+  "accept_invite_popover_text_with_children": "PLZ_TRANSLATE %1$d heeft een uitnodiging gestuurd om met u te verbinden. Wilt u verbinding maken met %1$d en de kinderen %2$d ?",
+  "yes_connect": "PLZ_TRANSLATE Ja, verbind",
+  "no_move_on": "PLZ_TRANSLATE Nee, ga verder"
 }

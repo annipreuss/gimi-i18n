@@ -1604,5 +1604,10 @@
   "error_loading_video": "Videofel, försök igen senare",
   "automatic_transfers": "Automatiska överföringar",
   "simple_transfers": "Enkla överföringar",
-  "delete": "Radera"
+  "delete": "Radera",
+  "do_you_accept_invite": "Accepterar du inbjudan?",
+  "accept_invite_popover_text_no_children": "%1$d har skickat en inbjudan om att få koppla ihop med dig. Vill du koppla ihop med %1$d?",
+  "accept_invite_popover_text_with_children": "%1$d har skickat en inbjudan om att få koppla ihop med dig. Vill du koppla ihop med %1$d och barnen %2$d?",
+  "yes_connect": "Ja, koppla ihop",
+  "no_move_on": "Nej, gå vidare"
 }

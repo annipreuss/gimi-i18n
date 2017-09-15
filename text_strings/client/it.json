@@ -1593,5 +1593,10 @@
   "error_loading_video": "PLZ_TRANSLATE Errore video, riprova più tardi",
   "automatic_transfers": "PLZ_TRANSLATE Trasferimenti automatici",
   "simple_transfers": "PLZ_TRANSLATE Trasferimenti semplici",
-  "delete": "PLZ_TRANSLATE Elimina"
+  "delete": "PLZ_TRANSLATE Elimina",
+  "do_you_accept_invite": "PLZ_TRANSLATE Accetti l'invito?",
+  "accept_invite_popover_text_no_children": "PLZ_TRANSLATE %1$d ha inviato un invito a connettersi con te. Vuoi collegarsi a %1$d ?",
+  "accept_invite_popover_text_with_children": "PLZ_TRANSLATE %1$d ha inviato un invito a connettersi con te. Vuoi connetterti con %1$d ei bambini %2$d ?",
+  "yes_connect": "PLZ_TRANSLATE Sì, connettiti",
+  "no_move_on": "PLZ_TRANSLATE No, vai avanti"
 }

@@ -1593,5 +1593,10 @@
   "error_loading_video": "Video error, try again later",
   "automatic_transfers": "Automatic transfers",
   "simple_transfers": "Simple transfers",
-  "delete": "Delete"
+  "delete": "Delete",
+  "do_you_accept_invite": "Do you accept the invitation?",
+  "accept_invite_popover_text_no_children": "%1$d has sent an invitation to connect with you. Do you want to connect to %1$d?",
+  "accept_invite_popover_text_with_children": "%1$d has sent an invitation to connect with you. Do you want to connect with %1$d and the children %2$d?",
+  "yes_connect": "Yes, connect",
+  "no_move_on": "No, move on"
 }

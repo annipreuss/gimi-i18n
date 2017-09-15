@@ -1593,5 +1593,10 @@
   "error_loading_video": "PLZ_TRANSLATE Video viga, proovige hiljem uuesti",
   "automatic_transfers": "PLZ_TRANSLATE Automaatkäibed",
   "simple_transfers": "PLZ_TRANSLATE Lihtsad ülekanded",
-  "delete": "PLZ_TRANSLATE Kustuta"
+  "delete": "PLZ_TRANSLATE Kustuta",
+  "do_you_accept_invite": "PLZ_TRANSLATE Kas nõustute kutsega?",
+  "accept_invite_popover_text_no_children": "PLZ_TRANSLATE %1$d saatis teiega ühenduse loomise kutse. Kas soovite ühendada %1$d ?",
+  "accept_invite_popover_text_with_children": "PLZ_TRANSLATE %1$d saatis teiega ühenduse loomise kutse. Kas soovite ühendada %1$d ja lastega %2$d ?",
+  "yes_connect": "PLZ_TRANSLATE Jah, ühendage",
+  "no_move_on": "PLZ_TRANSLATE Ei, liikuge edasi"
 }

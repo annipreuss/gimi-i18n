@@ -1593,5 +1593,10 @@
   "error_loading_video": "PLZ_TRANSLATE Videofeil, prøv igjen senere",
   "automatic_transfers": "PLZ_TRANSLATE Automatiske overføringer",
   "simple_transfers": "PLZ_TRANSLATE Enkle overføringer",
-  "delete": "PLZ_TRANSLATE Slett"
+  "delete": "PLZ_TRANSLATE Slett",
+  "do_you_accept_invite": "PLZ_TRANSLATE Godtar du invitasjonen?",
+  "accept_invite_popover_text_no_children": "PLZ_TRANSLATE %1$d har sendt en invitasjon til å koble deg til. Vil du koble til %1$d ?",
+  "accept_invite_popover_text_with_children": "PLZ_TRANSLATE %1$d har sendt en invitasjon til å koble deg til. Vil du koble til med %1$d og barna %2$d ?",
+  "yes_connect": "PLZ_TRANSLATE Ja, koble til",
+  "no_move_on": "PLZ_TRANSLATE Nei, gå videre"
 }
