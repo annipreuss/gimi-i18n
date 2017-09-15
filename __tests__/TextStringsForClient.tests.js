@@ -54,4 +54,24 @@ describe('TextStrings', () => {
     if (error.lenght > 0) console.warn(error)
     expect(error).toEqual([])
   })
+
+  xit('should have valid html tags', () => {
+    var error = []
+    supportedLanguageCodes.forEach(languageCode => {
+      var textString = JSON.stringify(getTextStrings(languageCode))
+
+      var valid = validateHTMLTag(textString)
+      console.log(textString, valid)
+      if (!valid) {
+        error.push(languageCode)
+      }
+    })
+    if (error.lenght > 0) console.warn(error)
+    expect(error).toEqual([])
+  })
 })
+var validateHTMLTag = (testString):* => {
+  // var re = /<(?:([a-zA-Z\?][\w:\-]*)(\s(?:\s*[a-zA-Z][\w:\-]*(?:\s*=(?:\s*"(?:\\"|[^"])*"|\s*'(?:\\'|[^'])*'|[^\s>]+))?)*)?(\s*[\/\?]?)|\/([a-zA-Z][\w:\-]*)\s*|!--((?:[^\-]|-(?!->))*)--|!\[CDATA\[((?:[^\]]|\](?!\]>))*)\]\])>/
+  var re
+  return re.test(testString)
+}
