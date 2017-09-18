@@ -19,7 +19,8 @@ var runAnna = (key: string) :* => {
 var removeAnna = (lang, key):* => {
 
   if (lang[key].includes(annaTranslationTag)) {
-    lang[key].replace('ANNA', '')
+    lang[key] = lang[key].replace('ANNA', '')
+      // console.warn(lang[key])
   }
 }
 var commitChanges = ():* => {
@@ -69,9 +70,7 @@ textStringsTypes.forEach(textStringsType => {
       removeAnna(lang, langKey)
       object.splice(index, 1)
     })
-
   })
-
 })
 if (changesMade) {
   commitChanges()
