@@ -49,18 +49,20 @@ textStringsTypes.forEach(textStringsType => {
       if (languageCode) {
         if (lang[key].includes(annaTranslationTag)) {
           lang[key] = lang[key].replace('ANNA', '')
+          exec('git add --all && git commit -m "rm anna"')
+          setTimeout(function () {
+            // if(languageCode ==='en') {
+            //   console.warn('running poli')
+            //   runPoli(key)
+            //   changesMade = true
+            // }
 
-          if(languageCode ==='en') {
-            console.warn('running poli')
-            runPoli(key)
-            changesMade = true
-          }
-
-          if (languageCode ==='sv') {
-            console.warn('running anna')
-            runAnna(key)
-            changesMade = true
-          }
+            if (languageCode ==='sv') {
+              console.warn('running anna')
+              runAnna(key)
+              changesMade = true
+            }
+          },300)
         }
       }
     })
