@@ -55,36 +55,46 @@ describe('TextStrings', () => {
     expect(error).toEqual([])
   })
 
-  xit('should have valid html tags', () => {
-    var error = []
+  it('should have valid html tags', () => {
+    var errors = []
     supportedLanguageCodes.forEach(languageCode => {
-      var textString = JSON.stringify(getTextStrings(languageCode))
+      var textStrings = getTextStrings(languageCode)
+      Object.keys(textStrings).forEach((key) => {
+        var text = textStrings[key]
+        var valid = validateHTMLTag(text)
 
-      var valid = validateHTMLTag(textString)
-
-      if (!valid) {
-        error.push(textString)
-      }
+        if (!valid) {
+          errors.push(`No valid tags (<b>, </b> etc) in text: ${text}`)
+        }
+      })
     })
     // console.warn(JSON.stringify(error[0], undefined, 2))
    // if (error.lenght > 0) console.warn(error, undefined, 2)
-    expect(error).toEqual()
+    expect(JSON.stringify(errors, undefined, 2)).toEqual('[]')
   })
 })
 
+it('should be able to validate tag', () => {
+  expect(validateHTMLTag('<b>iodfoi')).toEqual(false)
+  expect(validateHTMLTag('iodfoi')).toEqual(true)
+  expect(validateHTMLTag('iodfoi</b>')).toEqual(false)
+  expect(validateHTMLTag('<b>iodfoi< /b>')).toEqual(false)
+  expect(validateHTMLTag('<b >iodfoi</b>')).toEqual(false)
+  expect(validateHTMLTag('<underline >iodfoi</underline>')).toEqual(false)
+  expect(validateHTMLTag('< b>iodfoi</b>')).toEqual(false)
+  expect(validateHTMLTag('<b>iodfoi</b>')).toEqual(true)
+})
+
 var validateHTMLTag = (testString):boolean => {
-  var htmlTags = [
-    {open: '<b>', close: '</b>'},
-    {open: '<boldGreen>', close: '</boldGreen>'}
+  var htmlTagPairs = [
+    ['<b>', '</b>'],
+    ['<boldGreen>', '</boldGreen>'],
+    ['<boldRed>', '</boldRed>'],
+    ['<underline>', '</underline>'],
+    ['<boldBlueUnderline>', '</boldBlueUnderline>']
   ]
-  var valid = true
-  htmlTags.forEach((tag) => {
-    if (testString.includes(tag.open)) {
-      if (!testString.includes(tag.close)) {
-        valid = false
-        return valid
-      }
-    }
-    return valid
-  })
+
+  return !htmlTagPairs.some(pair =>
+            pair.some((tag) => testString.includes(tag)) &&
+            !pair.every((tag) => testString.includes(tag)))
 }

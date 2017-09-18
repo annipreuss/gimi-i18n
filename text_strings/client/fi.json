@@ -253,7 +253,7 @@
   "interest_rate": "%1$d säästökorko on <b>%2$d%</b>",
   "next_bonus": "Seuraava bonus on <b>%1$d</b>",
   "n_days_to_bonus": "<b>%1$d päivää</b> säästöbonukseen",
-  "bonus_today": "<b>Säästöbonus</b maksettiin tänään",
+  "bonus_today": "<b>Säästöbonus</b> maksettiin tänään",
   "popover_adult_slider_text1": "Säästöbonuksesi lasketaan näin",
   "popover_child_slider_text1": "on yhtä kuin",
   "new_calculated_savings_popover_parent_slide1": "%1$d x %2$d% = %3$d",
