@@ -24,9 +24,8 @@ var removeAnna = (lang, key):* => {
   }
 }
 var commitChanges = ():* => {
-  console.warn('Yeppp')
-  //return exec('git add --all && git commit -m "translationBot" && git push')
-  return true
+  console.warn('Changes have been commit from translation bot')
+  return exec('git add --all && git commit -m "translation Bot" && git push')
 }
 
 
