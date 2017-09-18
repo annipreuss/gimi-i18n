@@ -24,8 +24,9 @@ var removeAnna = (lang, key):* => {
   }
 }
 var commitChanges = ():* => {
-  console.warn('Changes have been commit from translation bot')
-  return exec('git add --all && git commit -m "translation Bot" && git push')
+  require('child_process').exec('git --rebase', function(err, stdout) {
+    exec('git add --all && git commit -m "translation Bot" && git push')
+  })
 }
 
 
