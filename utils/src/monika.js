@@ -58,10 +58,12 @@ textStringsTypes.forEach(textStringsType => {
           cleanUpAnnaStore.push(key)
           changesMade = true
           if(languageCode ==='en') {
+            console.warn('running poli')
             runPoli(key)
           }
 
           if (languageCode ==='sv') {
+            console.warn('running anna')
             runAnna(key)
           }
         }
@@ -76,6 +78,7 @@ textStringsTypes.forEach(textStringsType => {
 })
 if (changesMade) {
   setTimeout(function () {
+    console.warn('commited')
     commitChanges()
-  }, 300);
+  }, 500);
 }
