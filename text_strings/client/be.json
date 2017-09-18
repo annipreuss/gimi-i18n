@@ -1599,5 +1599,18 @@
   "accept_invite_popover_text_with_children": "PLZ_TRANSLATE %1$d паслаў запрашэнне , каб звязацца з вамі. Вы хочаце , каб злучыцца з %1$d і дзяцей %2$d ?",
   "yes_connect": "PLZ_TRANSLATE Так, падключэнне",
   "no_move_on": "PLZ_TRANSLATE Не, рухацца далей",
-  "goal_popover_text_personal": "PLZ_TRANSLATE Вы дасягнулі мэты %1$d у %2$d дні. Добрая праца!"
+  "goal_popover_text_personal": "PLZ_TRANSLATE Вы дасягнулі мэты %1$d у %2$d дні. Добрая праца!",
+  "veckopengen_loading_quote_1a": "PLZ_TRANSLATE Gimi",
+  "veckopengen_loading_quote_1b": "PLZ_TRANSLATE Надае значэнне грошай!",
+  "veckopengen_loading_quote_2": "PLZ_TRANSLATE Віншую, вы &#39; зноў дапамагаеце даць значэнне грошай",
+  "veckopengen_loading_quote_3a": "PLZ_TRANSLATE Стаць фінансава дасведчаныя, не заўважаючы магутны!",
+  "veckopengen_loading_quote_3b": "PLZ_TRANSLATE - Gimi",
+  "veckopengen_loading_quote_4a": "PLZ_TRANSLATE Віншуем, вы &#39; паўторна рабіць правільныя рэчы!",
+  "veckopengen_loading_quote_4b": "PLZ_TRANSLATE Кішэнныя грошы робіць эканамічна больш разумных дзяцей",
+  "veckopengen_loading_quote_4c": "PLZ_TRANSLATE Больш падрабязная інфармацыя аб gimitheapp.com",
+  "veckopengen_loading_quote_5a": "PLZ_TRANSLATE Gimi - Мы &#39; зноў расце",
+  "veckopengen_loading_quote_5b": "PLZ_TRANSLATE Дзякуй за тое, што адзін з нас!",
+  "veckopengen_loading_quote_6": "PLZ_TRANSLATE Мы вучым дзяцей, як быць добрымі перагаворшчыкі, нават калі гаворка ідзе пра кішэнных грошай. Асцярожна!",
+  "veckopengen_loading_quote_7": "PLZ_TRANSLATE З або без наяўных",
+  "veckopengen_loading_quote_8": "PLZ_TRANSLATE Вы заўважылі, што скарбонкі расце тым больш яна ўтрымлівае?"
 }

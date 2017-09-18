@@ -1599,5 +1599,18 @@
   "accept_invite_popover_text_with_children": "PLZ_TRANSLATE %1$d ha enviado una invitación para conectarse contigo. ¿Desea conectarse con %1$d y los niños %2$d ?",
   "yes_connect": "PLZ_TRANSLATE Sí, conecta",
   "no_move_on": "PLZ_TRANSLATE No, adelante",
-  "goal_popover_text_personal": "PLZ_TRANSLATE Has alcanzado la meta %1$d en %2$d días. ¡Buen trabajo!"
+  "goal_popover_text_personal": "PLZ_TRANSLATE Has alcanzado la meta %1$d en %2$d días. ¡Buen trabajo!",
+  "veckopengen_loading_quote_1a": "PLZ_TRANSLATE Gimi",
+  "veckopengen_loading_quote_1b": "PLZ_TRANSLATE Da valor al dinero!",
+  "veckopengen_loading_quote_2": "PLZ_TRANSLATE Felicitaciones, usted &#39; re ayudando a valorar al dinero",
+  "veckopengen_loading_quote_3a": "PLZ_TRANSLATE Ser financieramente conocedor sin notar es poderoso!",
+  "veckopengen_loading_quote_3b": "PLZ_TRANSLATE - Gimi",
+  "veckopengen_loading_quote_4a": "PLZ_TRANSLATE Felicitaciones, usted &#39; re haciendo lo correcto!",
+  "veckopengen_loading_quote_4b": "PLZ_TRANSLATE El dinero de bolsillo hace que los niños económicamente más inteligentes",
+  "veckopengen_loading_quote_4c": "PLZ_TRANSLATE Más información sobre gimitheapp.com",
+  "veckopengen_loading_quote_5a": "PLZ_TRANSLATE Gimi - Nos &#39; re crecimiento",
+  "veckopengen_loading_quote_5b": "PLZ_TRANSLATE ¡Gracias por ser uno de nosotros!",
+  "veckopengen_loading_quote_6": "PLZ_TRANSLATE Enseñamos a los niños cómo ser buenos negociadores, incluso cuando se trata de dinero de bolsillo. ¡Cuidado!",
+  "veckopengen_loading_quote_7": "PLZ_TRANSLATE Con o sin efectivo",
+  "veckopengen_loading_quote_8": "PLZ_TRANSLATE ¿Ha notado que la alcancía crece más contiene?"
 }

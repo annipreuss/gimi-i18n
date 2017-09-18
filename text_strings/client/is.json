@@ -1599,5 +1599,18 @@
   "accept_invite_popover_text_with_children": "PLZ_TRANSLATE %1$d hefur sent boð til að tengjast þér. Viltu tengjast með %1$d og börnunum %2$d ?",
   "yes_connect": "PLZ_TRANSLATE Já, tengdu",
   "no_move_on": "PLZ_TRANSLATE Nei, farðu áfram",
-  "goal_popover_text_personal": "PLZ_TRANSLATE Þú náði markmiðinu %1$d í %2$d daga. Gott starf!"
+  "goal_popover_text_personal": "PLZ_TRANSLATE Þú náði markmiðinu %1$d í %2$d daga. Gott starf!",
+  "veckopengen_loading_quote_1a": "PLZ_TRANSLATE Gimi",
+  "veckopengen_loading_quote_1b": "PLZ_TRANSLATE Gefðu gildi til peninga!",
+  "veckopengen_loading_quote_2": "PLZ_TRANSLATE Til hamingju, þú &#39; ert hjálpa gefa gildi til peningana",
+  "veckopengen_loading_quote_3a": "PLZ_TRANSLATE Að verða fjárhagslega kunnugt án þess að taka eftir er öflugur!",
+  "veckopengen_loading_quote_3b": "PLZ_TRANSLATE - Gimi",
+  "veckopengen_loading_quote_4a": "PLZ_TRANSLATE Til hamingju, þú &#39; ert að gera hlutina rétt!",
+  "veckopengen_loading_quote_4b": "PLZ_TRANSLATE Pocket peningar gera fyrir hagkvæmari börn",
+  "veckopengen_loading_quote_4c": "PLZ_TRANSLATE Nánari upplýsingar um gimitheapp.com",
+  "veckopengen_loading_quote_5a": "PLZ_TRANSLATE Gimi - Við &#39; erum að vaxa",
+  "veckopengen_loading_quote_5b": "PLZ_TRANSLATE Þakka þér fyrir að vera einn af okkur!",
+  "veckopengen_loading_quote_6": "PLZ_TRANSLATE Við kennum börnin hvernig á að vera góðir samningamenn, jafnvel þegar það kemur að vasapeningum. Passaðu þig!",
+  "veckopengen_loading_quote_7": "PLZ_TRANSLATE Með eða án reiðufé",
+  "veckopengen_loading_quote_8": "PLZ_TRANSLATE Hefur þú tekið eftir því að grís bankinn vex því meira sem hann inniheldur?"
 }

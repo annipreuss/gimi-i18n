@@ -1599,5 +1599,18 @@
   "accept_invite_popover_text_with_children": "PLZ_TRANSLATE %1$d heeft een uitnodiging gestuurd om met u te verbinden. Wilt u verbinding maken met %1$d en de kinderen %2$d ?",
   "yes_connect": "PLZ_TRANSLATE Ja, verbind",
   "no_move_on": "PLZ_TRANSLATE Nee, ga verder",
-  "goal_popover_text_personal": "PLZ_TRANSLATE Je hebt het doel bereikt %1$d in %2$d dagen. Goed gedaan!"
+  "goal_popover_text_personal": "PLZ_TRANSLATE Je hebt het doel bereikt %1$d in %2$d dagen. Goed gedaan!",
+  "veckopengen_loading_quote_1a": "PLZ_TRANSLATE Gimi",
+  "veckopengen_loading_quote_1b": "PLZ_TRANSLATE Geeft waarde aan geld!",
+  "veckopengen_loading_quote_2": "PLZ_TRANSLATE Gefeliciteerd, je &#39; re helpen waarde te geven om geld",
+  "veckopengen_loading_quote_3a": "PLZ_TRANSLATE Financieel kennisgevend worden zonder te merken is krachtig!",
+  "veckopengen_loading_quote_3b": "PLZ_TRANSLATE - Gimi",
+  "veckopengen_loading_quote_4a": "PLZ_TRANSLATE Gefeliciteerd, je &#39; re doet het juiste ding!",
+  "veckopengen_loading_quote_4b": "PLZ_TRANSLATE Zakgeld zorgt voor economisch slimmer kinderen",
+  "veckopengen_loading_quote_4c": "PLZ_TRANSLATE Meer info over gimitheapp.com",
+  "veckopengen_loading_quote_5a": "PLZ_TRANSLATE Gimi - We &#39; re groeien",
+  "veckopengen_loading_quote_5b": "PLZ_TRANSLATE Bedankt dat je een van ons bent!",
+  "veckopengen_loading_quote_6": "PLZ_TRANSLATE We leren kinderen hoe goede onderhandelaars zijn, zelfs als het gaat om zakgeld. Kijk uit!",
+  "veckopengen_loading_quote_7": "PLZ_TRANSLATE Met of zonder contant geld",
+  "veckopengen_loading_quote_8": "PLZ_TRANSLATE Heb je gemerkt dat de spaarvarken groeit hoe meer het bevat?"
 }

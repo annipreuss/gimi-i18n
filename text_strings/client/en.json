@@ -1599,5 +1599,18 @@
   "accept_invite_popover_text_with_children": "%1$d has sent an invitation to connect with you. Do you want to connect with %1$d and the children %2$d?",
   "yes_connect": "Yes, connect",
   "no_move_on": "No, move on",
-  "goal_popover_text_personal": "You reached the goal %1$d in %2$d days. Good job!"
+  "goal_popover_text_personal": "You reached the goal %1$d in %2$d days. Good job!",
+  "veckopengen_loading_quote_1a": "Gimi",
+  "veckopengen_loading_quote_1b": "Gives value to money!",
+  "veckopengen_loading_quote_2": "Congratulations, you're helping give value to money",
+  "veckopengen_loading_quote_3a": "Becoming financially knowledgable without noticing is powerful!",
+  "veckopengen_loading_quote_3b": "- Gimi",
+  "veckopengen_loading_quote_4a": "Congratulations, you're doing the right thing!",
+  "veckopengen_loading_quote_4b": "Pocket money makes for economically smarter children",
+  "veckopengen_loading_quote_4c": "More info on gimitheapp.com",
+  "veckopengen_loading_quote_5a": "Gimi - We're growing",
+  "veckopengen_loading_quote_5b": "Thank you for being one of us!",
+  "veckopengen_loading_quote_6": "We teach kids how to be good negotiators, even when it comes to pocket money. Watch out!",
+  "veckopengen_loading_quote_7": "With or without cash",
+  "veckopengen_loading_quote_8": "Have you noticed that the piggy bank grows the more it contains?"
 }

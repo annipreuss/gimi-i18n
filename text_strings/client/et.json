@@ -1599,5 +1599,18 @@
   "accept_invite_popover_text_with_children": "PLZ_TRANSLATE %1$d saatis teiega ühenduse loomise kutse. Kas soovite ühendada %1$d ja lastega %2$d ?",
   "yes_connect": "PLZ_TRANSLATE Jah, ühendage",
   "no_move_on": "PLZ_TRANSLATE Ei, liikuge edasi",
-  "goal_popover_text_personal": "PLZ_TRANSLATE Sa saavutasid eesmärgi %1$d %2$d päeva jooksul. Tubli töö!"
+  "goal_popover_text_personal": "PLZ_TRANSLATE Sa saavutasid eesmärgi %1$d %2$d päeva jooksul. Tubli töö!",
+  "veckopengen_loading_quote_1a": "PLZ_TRANSLATE Gimi",
+  "veckopengen_loading_quote_1b": "PLZ_TRANSLATE Annab raha väärtust!",
+  "veckopengen_loading_quote_2": "PLZ_TRANSLATE Palju õnne, olete &#39; re aidata väärtustada raha",
+  "veckopengen_loading_quote_3a": "PLZ_TRANSLATE Saades rahaliselt teadlikuks, ilma märganud, on võimas!",
+  "veckopengen_loading_quote_3b": "PLZ_TRANSLATE - Gimi",
+  "veckopengen_loading_quote_4a": "PLZ_TRANSLATE Palju õnne, olete &#39; re teeme õiget asja!",
+  "veckopengen_loading_quote_4b": "PLZ_TRANSLATE Taskuraha muudab majanduslikult targad lapsed",
+  "veckopengen_loading_quote_4c": "PLZ_TRANSLATE Lisateave gimitheapp.com kohta",
+  "veckopengen_loading_quote_5a": "PLZ_TRANSLATE Gimi - Me &#39; re kasvab",
+  "veckopengen_loading_quote_5b": "PLZ_TRANSLATE Täname, et olete üks meist!",
+  "veckopengen_loading_quote_6": "PLZ_TRANSLATE Me õpetame lastele, kuidas olla head läbirääkijad, isegi kui tegemist on taskuraha. Vaata ette!",
+  "veckopengen_loading_quote_7": "PLZ_TRANSLATE Kas sularahaga või ilma",
+  "veckopengen_loading_quote_8": "PLZ_TRANSLATE Kas olete märganud, et pori pank kasvab, seda rohkem see sisaldab?"
 }

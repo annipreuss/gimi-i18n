@@ -1599,5 +1599,18 @@
   "accept_invite_popover_text_with_children": "%1$d on lähettänyt kutsun kanssasi yhdistämiseen. Haluatko muodostaa yhteyden henkilöön %1$d ja lapsiin %2$d?",
   "yes_connect": "Kyllä, yhdistä",
   "no_move_on": "Ei, siirry eteenpäin",
-  "goal_popover_text_personal": "Olet saavuttanut tavoitteen %1$d %2$d päivässä. Hyvää työtä!"
+  "goal_popover_text_personal": "Olet saavuttanut tavoitteen %1$d %2$d päivässä. Hyvää työtä!",
+  "veckopengen_loading_quote_1a": "PLZ_TRANSLATE GIMI",
+  "veckopengen_loading_quote_1b": "PLZ_TRANSLATE Antaa rahan arvoa!",
+  "veckopengen_loading_quote_2": "PLZ_TRANSLATE Onneksi olkoon, olet &#39; uudelleen auttaa antaa arvoa rahaa",
+  "veckopengen_loading_quote_3a": "PLZ_TRANSLATE Tietääsi taloudellisesti tuntematonta ilman huomaamatta on tehokas!",
+  "veckopengen_loading_quote_3b": "PLZ_TRANSLATE - Gimi",
+  "veckopengen_loading_quote_4a": "PLZ_TRANSLATE Onneksi olkoon, olet &#39; uudelleen oikealla asialla!",
+  "veckopengen_loading_quote_4b": "PLZ_TRANSLATE Pocket rahaa tekee taloudellisesti älykkäämmistä lapsista",
+  "veckopengen_loading_quote_4c": "PLZ_TRANSLATE Lisätietoja gimitheapp.comista",
+  "veckopengen_loading_quote_5a": "PLZ_TRANSLATE Gimi - Me &#39; uudelleen kasvavaa",
+  "veckopengen_loading_quote_5b": "PLZ_TRANSLATE Kiitos, että olet yksi meistä!",
+  "veckopengen_loading_quote_6": "PLZ_TRANSLATE Opetamme lapsille, kuinka olla hyviä neuvottelijoita, jopa taskurahaa käytettäessä. Varo!",
+  "veckopengen_loading_quote_7": "PLZ_TRANSLATE Rahalla tai ilman",
+  "veckopengen_loading_quote_8": "PLZ_TRANSLATE Oletko huomannut, että säästöpossu kasvaa, mitä enemmän se sisältää?"
 }
