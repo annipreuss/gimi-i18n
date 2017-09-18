@@ -22,6 +22,14 @@ var removeAnna = (lang, key):* => {
     lang[key] = lang[key].replace('ANNA', '')
       // console.warn(lang[key])
   }
+
+}
+
+var cleanUpDelay = (arrayAnnas):* => {
+  arrayAnnas.forEach((obj, index, object) => {
+    removeAnna(obj.lang, obj.key)
+    object.splice(index, 1)
+  })
 }
 var commitChanges = ():* => {
   console.warn('Commit ')
@@ -55,30 +63,31 @@ textStringsTypes.forEach(textStringsType => {
     keys.forEach(key => {
       if (languageCode) {
         if (lang[key].includes(annaTranslationTag)) {
-          cleanUpAnnaStore.push(key)
-          changesMade = true
+          cleanUpAnnaStore.push({key: key, lang: lang})
+
           if(languageCode ==='en') {
             console.warn('running poli')
             runPoli(key)
+            changesMade = true
           }
 
           if (languageCode ==='sv') {
             console.warn('running anna')
             runAnna(key)
+            changesMade = true
           }
         }
       }
     })
 
-    cleanUpAnnaStore.forEach((langKey, index, object) => {
-      removeAnna(lang, langKey)
-      object.splice(index, 1)
-    })
+
   })
 })
 if (changesMade) {
+
   setTimeout(function () {
-    console.warn('commited')
+    cleanUpDelay(cleanUpAnnaStore)
+    console.warn('Commiting')
     commitChanges()
-  }, 500);
+  }, 900);
 }
