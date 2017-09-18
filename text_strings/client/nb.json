@@ -1600,7 +1600,6 @@
   "yes_connect": "PLZ_TRANSLATE Ja, koble til",
   "no_move_on": "PLZ_TRANSLATE Nei, gå videre",
   "goal_popover_text_personal": "PLZ_TRANSLATE Du nådde målet %1$d i %2$d dager. Godt jobbet!",
-<<<<<<< HEAD
   "veckopengen_loading_quote_1a": "PLZ_TRANSLATE Gimi",
   "veckopengen_loading_quote_1b": "PLZ_TRANSLATE Gir verdi til penger!",
   "veckopengen_loading_quote_2": "PLZ_TRANSLATE Gratulerer, du &#39; re å hjelpe gi verdi til pengene",
@@ -1613,9 +1612,6 @@
   "veckopengen_loading_quote_5b": "PLZ_TRANSLATE Takk for at du var en av oss!",
   "veckopengen_loading_quote_6": "PLZ_TRANSLATE Vi lærer barna hvordan å være gode forhandlere, selv når det gjelder lommepenger. Pass på!",
   "veckopengen_loading_quote_7": "PLZ_TRANSLATE Med eller uten kontanter",
-  "veckopengen_loading_quote_8": "PLZ_TRANSLATE Har du lagt merke til at spargrisen vokser jo mer den inneholder?"
-}
-=======
+  "veckopengen_loading_quote_8": "PLZ_TRANSLATE Har du lagt merke til at spargrisen vokser jo mer den inneholder?",
   "test_monika": "Hei d"
 }
->>>>>>> 9342181470fc0da56cd052f348c62258c9d7d15a
