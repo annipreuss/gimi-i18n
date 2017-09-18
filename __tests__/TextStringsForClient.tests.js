@@ -63,25 +63,28 @@ describe('TextStrings', () => {
       var valid = validateHTMLTag(textString)
 
       if (!valid) {
-        error.push({code: languageCode, string: textString})
+        error.push(textString)
       }
     })
-    if (error.lenght > 0) console.warn(error[0])
-    expect(error).toEqual([])
+    // console.warn(JSON.stringify(error[0], undefined, 2))
+   // if (error.lenght > 0) console.warn(error, undefined, 2)
+    expect(error).toEqual()
   })
 })
 
 var validateHTMLTag = (testString):boolean => {
   var htmlTags = [
     {open: '<b>', close: '</b>'},
-    {open: '<boldGreen>', close: '</boldGreen'}
+    {open: '<boldGreen>', close: '</boldGreen>'}
   ]
-  htmlTags.forEach(tag => {
-    if (testString.indexOf(tag.open) !== '-1') {
-      if (testString.indexOf(tag.close) === '-1') {
-        return false
+  var valid = true
+  htmlTags.forEach((tag) => {
+    if (testString.includes(tag.open)) {
+      if (!testString.includes(tag.close)) {
+        valid = false
+        return valid
       }
     }
-    return true
+    return valid
   })
 }
