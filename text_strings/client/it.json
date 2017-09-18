@@ -1600,6 +1600,7 @@
   "yes_connect": "PLZ_TRANSLATE Sì, connettiti",
   "no_move_on": "PLZ_TRANSLATE No, vai avanti",
   "goal_popover_text_personal": "PLZ_TRANSLATE Hai raggiunto l&#39;obiettivo %1$d in %2$d giorni. Buon lavoro!",
+<<<<<<< HEAD
   "veckopengen_loading_quote_1a": "PLZ_TRANSLATE Gimi",
   "veckopengen_loading_quote_1b": "PLZ_TRANSLATE Dà valore al denaro!",
   "veckopengen_loading_quote_2": "PLZ_TRANSLATE Congratulazioni, &#39; ri aiutando dare valore al denaro",
@@ -1613,4 +1614,7 @@
   "veckopengen_loading_quote_6": "PLZ_TRANSLATE Noi insegnamo ai ragazzi come essere buoni negoziatori, anche quando si tratta di tasse. Attento!",
   "veckopengen_loading_quote_7": "PLZ_TRANSLATE Con o senza contanti",
   "veckopengen_loading_quote_8": "PLZ_TRANSLATE Avete notato che la banca piggy cresce più contiene?"
+=======
+  "test_monika": "PLZ_TRANSLATE Ciao mondo"
+>>>>>>> 9342181470fc0da56cd052f348c62258c9d7d15a
 }

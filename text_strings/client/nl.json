@@ -1600,6 +1600,7 @@
   "yes_connect": "PLZ_TRANSLATE Ja, verbind",
   "no_move_on": "PLZ_TRANSLATE Nee, ga verder",
   "goal_popover_text_personal": "PLZ_TRANSLATE Je hebt het doel bereikt %1$d in %2$d dagen. Goed gedaan!",
+<<<<<<< HEAD
   "veckopengen_loading_quote_1a": "PLZ_TRANSLATE Gimi",
   "veckopengen_loading_quote_1b": "PLZ_TRANSLATE Geeft waarde aan geld!",
   "veckopengen_loading_quote_2": "PLZ_TRANSLATE Gefeliciteerd, je &#39; re helpen waarde te geven om geld",
@@ -1614,3 +1615,7 @@
   "veckopengen_loading_quote_7": "PLZ_TRANSLATE Met of zonder contant geld",
   "veckopengen_loading_quote_8": "PLZ_TRANSLATE Heb je gemerkt dat de spaarvarken groeit hoe meer het bevat?"
 }
+=======
+  "test_monika": "Hello "
+}
+>>>>>>> 9342181470fc0da56cd052f348c62258c9d7d15a
