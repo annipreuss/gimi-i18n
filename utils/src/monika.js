@@ -24,7 +24,9 @@ var removeAnna = (lang, key):* => {
   }
 }
 var commitChanges = ():* => {
-  require('child_process').exec('git --rebase', function(err, stdout) {
+  console.warn('Commit ')
+  require ('child_process').exec('git --rebase', function(err, stdout) {
+    console.warn('git pulled ')
     exec('git add --all && git commit -m "translation Bot" && git push')
   })
 }
