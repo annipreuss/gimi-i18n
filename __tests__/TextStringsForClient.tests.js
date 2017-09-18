@@ -55,7 +55,7 @@ describe('TextStrings', () => {
     expect(error).toEqual([])
   })
 
-  it('should have valid html tags', () => {
+  fit('should have valid html tags', () => {
     var error = []
     supportedLanguageCodes.forEach(languageCode => {
       var textString = JSON.stringify(getTextStrings(languageCode))
@@ -72,8 +72,8 @@ describe('TextStrings', () => {
 })
 
 var validateHTMLTag = (testString):boolean => {
-  if (testString.indexOf('<b>')) {
-    if (!testString.indexOf('</b>')) {
+  if (testString.indexOf('<b>') !== '-1') {
+    if (testString.indexOf('</b>') === '-1') {
       return false
     }
   }
