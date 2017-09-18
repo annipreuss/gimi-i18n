@@ -1599,5 +1599,6 @@
   "accept_invite_popover_text_with_children": "%1$d on lähettänyt kutsun kanssasi yhdistämiseen. Haluatko muodostaa yhteyden henkilöön %1$d ja lapsiin %2$d?",
   "yes_connect": "Kyllä, yhdistä",
   "no_move_on": "Ei, siirry eteenpäin",
-  "goal_popover_text_personal": "Olet saavuttanut tavoitteen %1$d %2$d päivässä. Hyvää työtä!"
+  "goal_popover_text_personal": "Olet saavuttanut tavoitteen %1$d %2$d päivässä. Hyvää työtä!",
+  "test_monika": "PLZ_TRANSLATE Hei maailma"
 }

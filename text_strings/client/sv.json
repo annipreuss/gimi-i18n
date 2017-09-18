@@ -1610,5 +1610,6 @@
   "accept_invite_popover_text_with_children": "%1$d har skickat en inbjudan om att få koppla ihop med dig. Vill du koppla ihop med %1$d och barnen %2$d?",
   "yes_connect": "Ja, koppla ihop",
   "no_move_on": "Nej, gå vidare",
-  "goal_popover_text_personal": "PLZ_TRANSLATE Du nådde sparmålet %1$d på %2$d dagar. Bra jobbat!"
+  "goal_popover_text_personal": "PLZ_TRANSLATE Du nådde sparmålet %1$d på %2$d dagar. Bra jobbat!",
+  "test_monika": "Hej"
 }

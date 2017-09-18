@@ -1599,5 +1599,6 @@
   "accept_invite_popover_text_with_children": "PLZ_TRANSLATE %1$d a envoyé une invitation à vous connecter. Voulez-vous vous connecter avec %1$d et les enfants %2$d ?",
   "yes_connect": "PLZ_TRANSLATE Oui, connectez-vous",
   "no_move_on": "PLZ_TRANSLATE Non, avancez",
-  "goal_popover_text_personal": "PLZ_TRANSLATE Vous avez atteint le but %1$d en %2$d jours. Bon travail!"
+  "goal_popover_text_personal": "PLZ_TRANSLATE Vous avez atteint le but %1$d en %2$d jours. Bon travail!",
+  "test_monika": "PLZ_TRANSLATE Bonjour le monde"
 }
