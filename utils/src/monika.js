@@ -75,5 +75,7 @@ textStringsTypes.forEach(textStringsType => {
   })
 })
 if (changesMade) {
-  commitChanges()
+  setTimeout(function () {
+    commitChanges()
+  }, 300);
 }
