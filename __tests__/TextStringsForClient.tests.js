@@ -72,10 +72,16 @@ describe('TextStrings', () => {
 })
 
 var validateHTMLTag = (testString):boolean => {
-  if (testString.indexOf('<b>') !== '-1') {
-    if (testString.indexOf('</b>') === '-1') {
-      return false
+  var htmlTags = [
+    {open: '<b>', close: '</b>'},
+    {open: '<boldGreen>', close: '</boldGreen'}
+  ]
+  htmlTags.forEach(tag => {
+    if (testString.indexOf(tag.open) !== '-1') {
+      if (testString.indexOf(tag.close) === '-1') {
+        return false
+      }
     }
-  }
-  return true
+    return true
+  })
 }
