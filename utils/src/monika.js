@@ -40,7 +40,7 @@ var info = templateDir.reduce((a,b) => a.concat(files.map((file) => getTranslate
 info = info.filter((x) => x.textIds.length > 0)
 
 info.forEach(x => removeANNAStringFromFile(x.path))
-console.log(info)
+console.log('info', info)
 
 info.forEach((x) => {
   var {path, textIds} = x
@@ -49,6 +49,8 @@ info.forEach((x) => {
   if(path.includes('en.json')) textIds.map((key) => execSync(`npm run --silent poli ${key}`))
 })
 
-
-if(TRAVIS) execSync('git add --all && git commit -m "translation Bot" && git push --no-verify --set-upstream origin-with-push-access')
-else execSync('git add --all && git commit -m "translation Bot" && git push')
+if(info.length > 0) {
+  if(TRAVIS) execSync('git add --all && git commit -m "translation Bot" && git push --no-verify --set-upstream origin-with-push-access')
+  else execSync('git add --all && git commit -m "translation Bot" && git push')
+}
+else console.log('No ANNA found in any textids for all en and sv json files')
