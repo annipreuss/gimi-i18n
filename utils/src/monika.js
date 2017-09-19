@@ -28,49 +28,57 @@ var commitChanges = ():* => {
   })
 }
 
+let transalteANNAString = (file, getPath) => {
+    if (file === 'default.json') { return Promise.resolve() }
+    if (file.indexOf('.json') === -1) { return Promise.resolve() }
+
+   var path = getPath(file)
+   var TextStrings = fs.readFileSync(path, {encoding: 'utf8'})
+
+   TextStrings = JSON.parse(TextStrings)
+
+   var keys = Object.keys(TextStrings)
+
+   keys.forEach(key => {
+
+     if (!TextStrings[key]) {
+       //console.warn(`Cant find textid: ${key} in file: ${path}`)
+       return void 0
+     }
+     if (TextStrings[key].includes(annaTranslationTag)) {
+       //TODO: do regex or something smarter
+       if (TextStrings[key].includes(annaTranslationTag+ ' ')){
+         TextStrings[key] = TextStrings[key].replace('ANNA ', '')
+       }
+
+       if (TextStrings[key].includes(' '+ annaTranslationTag)){
+        TextStrings[key] = TextStrings[key].replace(' ANNA', '')
+       }
+
+       multipleAnnaSupport.push(key)
+       console.log(key)
+       changesMade = true
+     }
+
+   })
+   // Remove Anna from text string and save file
+   TextStrings = JSON.stringify(TextStrings, undefined, 2)
+   fs.unlinkSync(path)
+   fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
+
+   //Add lang files in where we make changes
+   if (languageCodesHolder.indexOf(file.replace('TextStrings_', '').replace('.json', '')) == -1) {
+     languageCodesHolder.push(file.replace('TextStrings_', '').replace('.json', ''))
+   }
+ }
+
 let RunMonika = ():* => {
   templateDir.forEach((filePath) => {
     let getPath = (file) => `${filePath}/${file}`
 
-    let transalteANNAString = (file) => {
-        if (file === 'default.json') { return Promise.resolve() }
-        if (file.indexOf('.json') === -1) { return Promise.resolve() }
 
-       var path = getPath(file)
-       var TextStrings = fs.readFileSync(path, {encoding: 'utf8'})
 
-       TextStrings = JSON.parse(TextStrings)
-
-       var keys = Object.keys(TextStrings)
-
-       keys.forEach(key => {
-
-         if (!TextStrings[key]) {
-           //console.warn(`Cant find textid: ${key} in file: ${path}`)
-           return void 0
-         }
-         if (TextStrings[key].includes(annaTranslationTag)) {
-
-           TextStrings[key] = TextStrings[key].replace('ANNA ', '')
-
-           multipleAnnaSupport.push(key)
-           console.log(key)
-           changesMade = true
-         }
-
-       })
-       // Remove Anna from text string and save file
-       TextStrings = JSON.stringify(TextStrings, undefined, 2)
-       fs.unlinkSync(path)
-       fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
-
-       //Add lang files in where we make changes
-       if (languageCodesHolder.indexOf(file.replace('TextStrings_', '').replace('.json', '')) == -1) {
-         languageCodesHolder.push(file.replace('TextStrings_', '').replace('.json', ''))
-       }
-     }
-
-    return Promise.all(fs.readdirSync(filePath).map((file) => transalteANNAString(file)))
+    return Promise.all(fs.readdirSync(filePath).map((file) => transalteANNAString(file, getPath)))
       .then(() => {
         if(!changesMade) {
           console.log(`Found no strings to translate for ${filePath}`)
@@ -111,7 +119,7 @@ runAnnaAndPoli = () => {
       if(changesMade) {
         setTimeout(function () {
           console.warn('Started git commit')
-          //commitChanges()
+          commitChanges()
         }, 900);
       }
 
