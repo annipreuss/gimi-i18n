@@ -66,11 +66,7 @@ let RunMonika = ():* => {
        if (languageCodesHolder.indexOf(file.replace('TextStrings_', '').replace('.json', '')) == -1) {
          languageCodesHolder.push(file.replace('TextStrings_', '').replace('.json', ''))
        }
-
      }
-
-
-
 
     return Promise.all(fs.readdirSync(filePath).map((file) => transalteANNAString(file)))
       .then(() => {
