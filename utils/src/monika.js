@@ -72,7 +72,7 @@ let RunMonika = (filePath):* => {
 
                TextStrings = JSON.stringify(TextStrings, undefined, 2)
                fs.unlinkSync(path)
-               return fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
+               fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
 
                setTimeout(function () {
                  if(languageCode ==='en') {
@@ -81,11 +81,11 @@ let RunMonika = (filePath):* => {
                    changesMade = true
                  }
 
-                //  if (languageCode ==='sv') {
-                //    console.warn('running anna')
-                //    runAnna(key)
-                //    changesMade = true
-                //  }
+                 if (languageCode ==='sv') {
+                   console.warn('running anna')
+                   runAnna(key)
+                   changesMade = true
+                 }
                },300)
              }
            }
