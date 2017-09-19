@@ -1616,5 +1616,8 @@
   "test_monika": "PLZ_TRANSLATE Hello World",
   "add_email": "Add email address",
   "add_phone": "Add phone number",
-  "phone_in_use": "This phone number is already in use, you want to log in?"
+  "phone_in_use": "This phone number is already in use, you want to log in?",
+  "connection_succeeded": "Connection succeeded",
+  "parent_connected_popover_description": "You have been connected with <b>%1$d</b>, %2$d can now provide money, tasks, and support to achieve savings goals.",
+  "child_connected_popover_description": "You have been connected to <b>%1$d</b> whom can now give you money, tasks, and support to achieve savings goals."
 }

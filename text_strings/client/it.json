@@ -1616,5 +1616,8 @@
   "test_monika": "PLZ_TRANSLATE Ciao mondo",
   "add_email": "PLZ_TRANSLATE Aggiungi indirizzo e-mail",
   "add_phone": "PLZ_TRANSLATE Aggiungi il numero di telefono",
-  "phone_in_use": "PLZ_TRANSLATE Questo numero di telefono è già in uso, si desidera effettuare l'accesso?"
+  "phone_in_use": "PLZ_TRANSLATE Questo numero di telefono è già in uso, si desidera effettuare l'accesso?",
+  "connection_succeeded": "PLZ_TRANSLATE Il collegamento è riuscito",
+  "parent_connected_popover_description": "PLZ_TRANSLATE Sei stato connesso con <b>%1$d</b> , %2$d ora può fornire soldi, attività e supporto per raggiungere obiettivi di risparmio.",
+  "child_connected_popover_description": "PLZ_TRANSLATE Sei stato connesso a <b>%1$d</b> che ora ti può dare soldi, attività e supporto per raggiungere obiettivi di risparmio."
 }

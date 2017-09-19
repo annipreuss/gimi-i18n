@@ -1616,5 +1616,8 @@
   "test_monika": "PLZ_TRANSLATE Hej Verden",
   "add_email": "PLZ_TRANSLATE Tilføj e-mail-adresse",
   "add_phone": "PLZ_TRANSLATE Tilføj telefonnummer",
-  "phone_in_use": "PLZ_TRANSLATE Dette telefonnummer er allerede i brug, du vil logge ind?"
+  "phone_in_use": "PLZ_TRANSLATE Dette telefonnummer er allerede i brug, du vil logge ind?",
+  "connection_succeeded": "PLZ_TRANSLATE Forbindelse lykkedes",
+  "parent_connected_popover_description": "PLZ_TRANSLATE Du har været forbundet med <b>%1$d</b> , %2$d kan nu give penge, opgaver og support for at opnå besparelsesmål.",
+  "child_connected_popover_description": "PLZ_TRANSLATE Du har været forbundet til <b>%1$d</b> som nu kan give dig penge, opgaver og support for at opnå besparelsesmål."
 }

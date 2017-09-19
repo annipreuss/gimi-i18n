@@ -1616,5 +1616,8 @@
   "test_monika": "PLZ_TRANSLATE Hei maailma",
   "add_email": "PLZ_TRANSLATE Lisää sähköpostiosoite",
   "add_phone": "PLZ_TRANSLATE Lisää puhelinnumero",
-  "phone_in_use": "PLZ_TRANSLATE Tämä puhelinnumero on jo käytössä, haluat kirjautua sisään?"
+  "phone_in_use": "PLZ_TRANSLATE Tämä puhelinnumero on jo käytössä, haluat kirjautua sisään?",
+  "connection_succeeded": "PLZ_TRANSLATE Yhteys onnistui",
+  "parent_connected_popover_description": "PLZ_TRANSLATE Olet liittynyt <b>%1$d</b> , %2$d voi nyt tarjota rahaa, tehtäviä ja tukea tavoitteiden saavuttamiseksi.",
+  "child_connected_popover_description": "PLZ_TRANSLATE Olet ollut yhteydessä <b>%1$d</b> jolle voit nyt antaa sinulle rahaa, tehtäviä ja tukea säästöjen tavoitteiden saavuttamiseksi."
 }

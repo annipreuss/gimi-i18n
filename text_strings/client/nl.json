@@ -1616,5 +1616,8 @@
   "test_monika": "Hello ",
   "add_email": "PLZ_TRANSLATE Voeg e-mailadres toe",
   "add_phone": "PLZ_TRANSLATE Voeg telefoonnummer toe",
-  "phone_in_use": "PLZ_TRANSLATE Dit telefoonnummer is al in gebruik, u wilt inloggen?"
+  "phone_in_use": "PLZ_TRANSLATE Dit telefoonnummer is al in gebruik, u wilt inloggen?",
+  "connection_succeeded": "PLZ_TRANSLATE Verbinding is geslaagd",
+  "parent_connected_popover_description": "PLZ_TRANSLATE Je bent verbonden met <b>%1$d</b> , %2$d kan nu geld, taken en ondersteuning leveren om besparingsdoelen te bereiken.",
+  "child_connected_popover_description": "PLZ_TRANSLATE Je bent verbonden met <b>%1$d</b> die nu geld, taken en ondersteuning kan geven om besparingsdoelstellingen te behalen."
 }

@@ -1616,5 +1616,8 @@
   "test_monika": "PLZ_TRANSLATE Halló heimur",
   "add_email": "PLZ_TRANSLATE Bæta við netfangi",
   "add_phone": "PLZ_TRANSLATE Bæta við símanúmeri",
-  "phone_in_use": "PLZ_TRANSLATE Þetta símanúmer er þegar í notkun, þú vilt skrá þig inn?"
+  "phone_in_use": "PLZ_TRANSLATE Þetta símanúmer er þegar í notkun, þú vilt skrá þig inn?",
+  "connection_succeeded": "PLZ_TRANSLATE Tenging tókst",
+  "parent_connected_popover_description": "PLZ_TRANSLATE Þú hefur verið tengdur við <b>%1$d</b> , %2$d getur nú veitt peninga, verkefni og stuðning til að ná markmiðum um sparnað.",
+  "child_connected_popover_description": "PLZ_TRANSLATE Þú hefur verið tengdur við <b>%1$d</b> sem getur nú gefið þér peninga, verkefni og stuðning til að ná markmiðum um sparnað."
 }

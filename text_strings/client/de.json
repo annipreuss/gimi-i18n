@@ -1616,5 +1616,8 @@
   "test_monika": "PLZ_TRANSLATE Hallo",
   "add_email": "PLZ_TRANSLATE E-Mail-Adresse hinzufügen",
   "add_phone": "PLZ_TRANSLATE Telefonnummer hinzufügen",
-  "phone_in_use": "PLZ_TRANSLATE Diese Telefonnummer ist bereits im Einsatz, die Sie sich anmelden möchten?"
+  "phone_in_use": "PLZ_TRANSLATE Diese Telefonnummer ist bereits im Einsatz, die Sie sich anmelden möchten?",
+  "connection_succeeded": "PLZ_TRANSLATE Verbindung gelang",
+  "parent_connected_popover_description": "PLZ_TRANSLATE Sie wurden mit <b>%1$d</b> , %2$d kann jetzt Geld, Aufgaben und Unterstützung liefern, um Einsparungsziele zu erzielen.",
+  "child_connected_popover_description": "PLZ_TRANSLATE Sie wurden mit <b>%1$d</b> verbunden, die Ihnen jetzt Geld, Aufgaben und Unterstützung geben können, um Einsparungsziele zu erzielen."
 }

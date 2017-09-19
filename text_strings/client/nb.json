@@ -1616,5 +1616,8 @@
   "test_monika": "Hei d",
   "add_email": "PLZ_TRANSLATE Legg til e-postadresse",
   "add_phone": "PLZ_TRANSLATE Legg til telefonnummer",
-  "phone_in_use": "PLZ_TRANSLATE Dette telefonnummeret er allerede i bruk, du vil logge inn?"
+  "phone_in_use": "PLZ_TRANSLATE Dette telefonnummeret er allerede i bruk, du vil logge inn?",
+  "connection_succeeded": "PLZ_TRANSLATE Forbindelse lyktes",
+  "parent_connected_popover_description": "PLZ_TRANSLATE Du har vært koblet til <b>%1$d</b> , %2$d kan nå gi penger, oppgaver og støtte for å oppnå besparingsmål.",
+  "child_connected_popover_description": "PLZ_TRANSLATE Du har blitt koblet til <b>%1$d</b> som nå kan gi deg penger, oppgaver og støtte for å oppnå besparingsmål."
 }

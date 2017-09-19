@@ -1616,5 +1616,8 @@
   "test_monika": "PLZ_TRANSLATE Tere, Maailm",
   "add_email": "PLZ_TRANSLATE Lisa e-posti aadress",
   "add_phone": "PLZ_TRANSLATE Lisage telefoninumber",
-  "phone_in_use": "PLZ_TRANSLATE See telefoninumber on juba kasutusel ja soovite sisse logida?"
+  "phone_in_use": "PLZ_TRANSLATE See telefoninumber on juba kasutusel ja soovite sisse logida?",
+  "connection_succeeded": "PLZ_TRANSLATE Ühendus õnnestus",
+  "parent_connected_popover_description": "PLZ_TRANSLATE Olete <b>%1$d</b> , %2$d saavad nüüd kokkuhoiu eesmärkide saavutamiseks raha, ülesandeid ja toetust pakkuda.",
+  "child_connected_popover_description": "PLZ_TRANSLATE Olete ühendatud <b>%1$d</b> kes saavad nüüd säästa eesmärkide saavutamiseks raha, ülesandeid ja toetust."
 }

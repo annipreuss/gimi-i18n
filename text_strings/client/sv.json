@@ -1627,5 +1627,8 @@
   "test_monika": "Hej",
   "add_email": "Lägg till e-postaddress",
   "add_phone": "Lägg till telefonnummer",
-  "phone_in_use": "PLZ_TRANSLATE Detta telefonnummer används redan, vill du logga in?"
+  "phone_in_use": "PLZ_TRANSLATE Detta telefonnummer används redan, vill du logga in?",
+  "connection_succeeded": "Ihopkoppling lyckades",
+  "parent_connected_popover_description": "Du har kopplats ihop med <b>%1$d</b>, %2$d kan nu ge pengar, uppgifter och stöd för att sparmål ska uppnås.",
+  "child_connected_popover_description": "Du har kopplats ihop med <b>%1$d</b> som nu kan ge dig pengar, uppgifter och stöd för att du ska uppnå sparmål."
 }
