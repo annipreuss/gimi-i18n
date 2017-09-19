@@ -1,127 +1,54 @@
-
-const { exec } = require('child_process')
+// @flow
+const { execSync } = require('child_process')
 var fs = require('fs')
 var {TRAVIS} = process.env
 
 var languageCodesHolder = []
 let templateDir = ['./text_strings/client', './text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/share-image-generator']
+let files = ['sv.json', 'en.json']
 
-var annaTranslationTag = 'ANNA'
-var changesMade = false
-var multipleAnnaSupport =[]
+var ANNA = 'ANNA'
 
-var runPoli = (key: string):* => {
-  console.log(key)
-  return exec(`npm run poli ${key}`)
-}
-
-var runAnna = (key: string) :* => {
-  console.log(key)
-  return exec(`npm run anna ${key}`)
-}
-
-var commitChanges = ():* => {
-  require ('child_process').exec('git --rebase', function(err, stdout) {
-    console.warn('git pulled ')
-    if(TRAVIS) exec('git add --all && git commit -m "translation Bot" && git push --no-verify --set-upstream origin-with-push-access')
-    else exec('git add --all && git commit -m "translation Bot" && git push')
-  })
-}
-
-let transalteANNAString = (file, getPath) => {
-    if (file === 'default.json') { return Promise.resolve() }
-    if (file.indexOf('.json') === -1) { return Promise.resolve() }
-
-   var path = getPath(file)
-   var TextStrings = fs.readFileSync(path, {encoding: 'utf8'})
-
-   TextStrings = JSON.parse(TextStrings)
-
+let getTranslateInfoFrom = (path) => {
+   var TextStringsStr = fs.readFileSync(path, {encoding: 'utf8'})
+   var TextStrings = JSON.parse(TextStringsStr)
    var keys = Object.keys(TextStrings)
+   let textIds = []
 
    keys.forEach(key => {
-
-     if (!TextStrings[key]) {
-       //console.warn(`Cant find textid: ${key} in file: ${path}`)
-       return void 0
-     }
-     if (TextStrings[key].includes(annaTranslationTag)) {
-       //TODO: do regex or something smarter
-       if (TextStrings[key].includes(annaTranslationTag+ ' ')){
-         TextStrings[key] = TextStrings[key].replace('ANNA ', '')
-       }
-
-       if (TextStrings[key].includes(' '+ annaTranslationTag)){
-        TextStrings[key] = TextStrings[key].replace(' ANNA', '')
-       }
-
-       multipleAnnaSupport.push(key)
-       console.log(key)
-       changesMade = true
-     }
-
+     var text = TextStrings[key]
+     if (!text || !TextStrings[key].includes(ANNA)) return void 0
+     textIds.push(key)
+     console.log(`Found ANNA in key: ${key}`)
    })
-   // Remove Anna from text string and save file
-   TextStrings = JSON.stringify(TextStrings, undefined, 2)
-   fs.unlinkSync(path)
-   fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
 
-   //Add lang files in where we make changes
-   if (languageCodesHolder.indexOf(file.replace('TextStrings_', '').replace('.json', '')) == -1) {
-     languageCodesHolder.push(file.replace('TextStrings_', '').replace('.json', ''))
-   }
+   return {textIds, path}
  }
 
-let RunMonika = ():* => {
-  templateDir.forEach((filePath) => {
-    let getPath = (file) => `${filePath}/${file}`
+let removeANNAStringFromFile = (path) => {
+  var json = fs.readFileSync(path, {encoding: 'utf8'})
+  json = json.replace(`${ANNA} `, '')
+  json = json.replace(` ${ANNA}`, '')
+  json = json.replace(`${ANNA}`, '')
 
-
-
-    return Promise.all(fs.readdirSync(filePath).map((file) => transalteANNAString(file, getPath)))
-      .then(() => {
-        if(!changesMade) {
-          console.log(`Found no strings to translate for ${filePath}`)
-        }
-      })
-      .catch((err) => console.error(err.message))
-
-  })
-   return Promise.resolve()
+  fs.unlinkSync(path)
+  fs.writeFileSync(path, json, {encoding: 'utf8'})
+  console.log(`Removed ${ANNA} from path: ${path}`)
 }
 
-//Run anna and poli from promise
-runAnnaAndPoli = () => {
+var info = templateDir.reduce((a,b) => a.concat(files.map((file) => getTranslateInfoFrom(`${b}/${file}`))), [])
+info = info.filter((x) => x.textIds.length > 0)
 
-  // Anna and poli require text string separeted with commas
-  var multipleAnnaSupportStr = multipleAnnaSupport.join(',')
+info.forEach(x => removeANNAStringFromFile(x.path))
+console.log(info)
 
-  languageCodesHolder.forEach((lang)=> {
+info.forEach((x) => {
+  var {path, textIds} = x
 
-   if (lang === 'sv') {
-     console.warn('running anna')
-     changesMade = true
-     return Promise.resolve(runAnna(multipleAnnaSupportStr))
+  if(path.includes('sv.json')) textIds.map((key) => execSync(`npm run --silent anna ${key}`))
+  if(path.includes('en.json')) textIds.map((key) => execSync(`npm run --silent poli ${key}`))
+})
 
-   }
 
-   if(lang === 'en') {
-     console.warn('running poli')
-     changesMade = true
-     return Promise.resolve(runPoli(multipleAnnaSupportStr))
-    }
- })
-  return Promise.resolve()
-}
-
-  RunMonika().then(() => {
-    runAnnaAndPoli().then(()=> {
-      if(changesMade) {
-        setTimeout(function () {
-          console.warn('Started git commit')
-          commitChanges()
-        }, 900);
-      }
-
-    })
-  })
+if(TRAVIS) execSync('git add --all && git commit -m "translation Bot" && git push --no-verify --set-upstream origin-with-push-access')
+else execSync('git add --all && git commit -m "translation Bot" && git push')
