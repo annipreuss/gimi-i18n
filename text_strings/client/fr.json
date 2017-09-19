@@ -1615,5 +1615,6 @@
   "veckopengen_loading_quote_8": "PLZ_TRANSLATE Avez-vous remarqué que la tirelire augmente, plus elle contient?",
   "test_monika": "PLZ_TRANSLATE Bonjour le monde",
   "add_email": "PLZ_TRANSLATE Ajouter une adresse email",
-  "add_phone": "PLZ_TRANSLATE Ajouter un numéro de téléphone"
+  "add_phone": "PLZ_TRANSLATE Ajouter un numéro de téléphone",
+  "phone_in_use": "PLZ_TRANSLATE Ce numéro de téléphone est déjà utilisé, vous souhaitez vous connecter?"
 }

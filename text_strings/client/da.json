@@ -1615,5 +1615,6 @@
   "veckopengen_loading_quote_8": "PLZ_TRANSLATE Har du bemærket, at spargrisen vokser jo mere den indeholder?",
   "test_monika": "PLZ_TRANSLATE Hej Verden",
   "add_email": "PLZ_TRANSLATE Tilføj e-mail-adresse",
-  "add_phone": "PLZ_TRANSLATE Tilføj telefonnummer"
+  "add_phone": "PLZ_TRANSLATE Tilføj telefonnummer",
+  "phone_in_use": "PLZ_TRANSLATE Dette telefonnummer er allerede i brug, du vil logge ind?"
 }

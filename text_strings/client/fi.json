@@ -1615,5 +1615,6 @@
   "veckopengen_loading_quote_8": "PLZ_TRANSLATE Oletko huomannut, että säästöpossu kasvaa, mitä enemmän se sisältää?",
   "test_monika": "PLZ_TRANSLATE Hei maailma",
   "add_email": "PLZ_TRANSLATE Lisää sähköpostiosoite",
-  "add_phone": "PLZ_TRANSLATE Lisää puhelinnumero"
+  "add_phone": "PLZ_TRANSLATE Lisää puhelinnumero",
+  "phone_in_use": "PLZ_TRANSLATE Tämä puhelinnumero on jo käytössä, haluat kirjautua sisään?"
 }

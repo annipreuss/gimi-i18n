@@ -1626,5 +1626,6 @@
   "veckopengen_loading_quote_8": "Har du sett att spargrisen blir större och gladare ju mer den innehåller?",
   "test_monika": "Hej",
   "add_email": "Lägg till e-postaddress",
-  "add_phone": "Lägg till telefonnummer"
+  "add_phone": "Lägg till telefonnummer",
+  "phone_in_use": "PLZ_TRANSLATE Detta telefonnummer används redan, vill du logga in?"
 }

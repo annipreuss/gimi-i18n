@@ -1615,5 +1615,6 @@
   "veckopengen_loading_quote_8": "PLZ_TRANSLATE Haben Sie bemerkt, dass das Sparschwein wächst, desto mehr enthält es?",
   "test_monika": "PLZ_TRANSLATE Hallo",
   "add_email": "PLZ_TRANSLATE E-Mail-Adresse hinzufügen",
-  "add_phone": "PLZ_TRANSLATE Telefonnummer hinzufügen"
+  "add_phone": "PLZ_TRANSLATE Telefonnummer hinzufügen",
+  "phone_in_use": "PLZ_TRANSLATE Diese Telefonnummer ist bereits im Einsatz, die Sie sich anmelden möchten?"
 }

@@ -1615,5 +1615,6 @@
   "veckopengen_loading_quote_8": "PLZ_TRANSLATE Hefur þú tekið eftir því að grís bankinn vex því meira sem hann inniheldur?",
   "test_monika": "PLZ_TRANSLATE Halló heimur",
   "add_email": "PLZ_TRANSLATE Bæta við netfangi",
-  "add_phone": "PLZ_TRANSLATE Bæta við símanúmeri"
+  "add_phone": "PLZ_TRANSLATE Bæta við símanúmeri",
+  "phone_in_use": "PLZ_TRANSLATE Þetta símanúmer er þegar í notkun, þú vilt skrá þig inn?"
 }

@@ -1615,5 +1615,6 @@
   "veckopengen_loading_quote_8": "PLZ_TRANSLATE ¿Ha notado que la alcancía crece más contiene?",
   "test_monika": "PLZ_TRANSLATE Hola Mundo",
   "add_email": "PLZ_TRANSLATE agregar dirección de correo electrónico",
-  "add_phone": "PLZ_TRANSLATE Agregar el número de teléfono"
+  "add_phone": "PLZ_TRANSLATE Agregar el número de teléfono",
+  "phone_in_use": "PLZ_TRANSLATE Este número de teléfono ya está en uso, desea iniciar sesión?"
 }

@@ -1615,5 +1615,6 @@
   "veckopengen_loading_quote_8": "PLZ_TRANSLATE Heb je gemerkt dat de spaarvarken groeit hoe meer het bevat?",
   "test_monika": "Hello ",
   "add_email": "PLZ_TRANSLATE Voeg e-mailadres toe",
-  "add_phone": "PLZ_TRANSLATE Voeg telefoonnummer toe"
+  "add_phone": "PLZ_TRANSLATE Voeg telefoonnummer toe",
+  "phone_in_use": "PLZ_TRANSLATE Dit telefoonnummer is al in gebruik, u wilt inloggen?"
 }

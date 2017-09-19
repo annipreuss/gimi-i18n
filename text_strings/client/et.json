@@ -1615,5 +1615,6 @@
   "veckopengen_loading_quote_8": "PLZ_TRANSLATE Kas olete märganud, et pori pank kasvab, seda rohkem see sisaldab?",
   "test_monika": "PLZ_TRANSLATE Tere, Maailm",
   "add_email": "PLZ_TRANSLATE Lisa e-posti aadress",
-  "add_phone": "PLZ_TRANSLATE Lisage telefoninumber"
+  "add_phone": "PLZ_TRANSLATE Lisage telefoninumber",
+  "phone_in_use": "PLZ_TRANSLATE See telefoninumber on juba kasutusel ja soovite sisse logida?"
 }

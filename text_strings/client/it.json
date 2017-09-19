@@ -1615,5 +1615,6 @@
   "veckopengen_loading_quote_8": "PLZ_TRANSLATE Avete notato che la banca piggy cresce più contiene?",
   "test_monika": "PLZ_TRANSLATE Ciao mondo",
   "add_email": "PLZ_TRANSLATE Aggiungi indirizzo e-mail",
-  "add_phone": "PLZ_TRANSLATE Aggiungi il numero di telefono"
+  "add_phone": "PLZ_TRANSLATE Aggiungi il numero di telefono",
+  "phone_in_use": "PLZ_TRANSLATE Questo numero di telefono è già in uso, si desidera effettuare l'accesso?"
 }

@@ -1615,5 +1615,6 @@
   "veckopengen_loading_quote_8": "Have you noticed that the piggy bank grows the more it contains?",
   "test_monika": "PLZ_TRANSLATE Hello World",
   "add_email": "Add email address",
-  "add_phone": "Add phone number"
+  "add_phone": "Add phone number",
+  "phone_in_use": "This phone number is already in use, you want to log in?"
 }
