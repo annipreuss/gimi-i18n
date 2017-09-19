@@ -1,6 +1,7 @@
 
 const { exec } = require('child_process')
 var fs = require('fs')
+var {TRAVIS} = process.env
 
 var languageCodesHolder = ['sv', 'en']
 var cleanUpAnnaStore = []
