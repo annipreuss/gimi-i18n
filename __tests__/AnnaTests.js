@@ -11,7 +11,7 @@ describe('AnnaHelper', () => {
     expect(translateFrom).toEqual('en.json')
   })
 
-  xit('it should not have ANNA in en or sv', () => {
+  it('it should not have ANNA in en or sv', () => {
     var annaError = []
     var textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator']
     var languageCodesHolder = ['en', 'sv']

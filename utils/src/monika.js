@@ -23,7 +23,7 @@ var commitChanges = ():* => {
   console.warn('Commit ')
   require ('child_process').exec('git --rebase', function(err, stdout) {
     console.warn('git pulled ')
-    exec('git add --all && git commit -m "translation Bot"')
+    exec('git add --all && git commit -m "translation Bot" && git push')
   })
 }
 
@@ -49,8 +49,6 @@ let RunMonika = (filePath):* => {
          return void 0
        }
        if (TextStrings[key].includes(annaTranslationTag)) {
-
-
 
          TextStrings[key] = TextStrings[key].replace('ANNA ', '')
 
@@ -88,7 +86,7 @@ let RunMonika = (filePath):* => {
         setTimeout(function () {
 
           console.warn('Commiting')
-        //  commitChanges()
+          commitChanges()
         }, 900);
       }
       console.log('saved Successfully :)')
