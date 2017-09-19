@@ -20,10 +20,9 @@ var runAnna = (key: string) :* => {
 }
 
 var commitChanges = ():* => {
-  console.warn('Commit ')
   require ('child_process').exec('git --rebase', function(err, stdout) {
-    console.warn('git pulled ')
-    exec('git add --all && git commit -m "translation Bot" && git push')
+    console.warn('git pulled and pushing changes ')
+    //exec('git add --all && git commit -m "translation Bot" && git push')
   })
 }
 
@@ -72,6 +71,8 @@ let RunMonika = (filePath):* => {
 
          }
 
+       } else {
+         return Promise.resolve()
        }
      })
    }
@@ -85,11 +86,12 @@ let RunMonika = (filePath):* => {
 
         setTimeout(function () {
 
-          console.warn('Commiting')
+          console.warn('Started git commit')
           commitChanges()
         }, 900);
       }
-      console.log('saved Successfully :)')
+
+      console.log(`Found no strings to translate for ${filePath}`)
     })
     .catch((err) => console.error(err.message))
 
