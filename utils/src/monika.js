@@ -44,7 +44,7 @@ let RunMonika = (filePath):* => {
      keys.forEach(key => {
 
        if (!TextStrings[key]) {
-         console.warn(`Cant find textid: ${key} in file: ${path}`)
+         //console.warn(`Cant find textid: ${key} in file: ${path}`)
          return void 0
        }
        if (TextStrings[key].includes(annaTranslationTag)) {
