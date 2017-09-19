@@ -1613,5 +1613,7 @@
   "veckopengen_loading_quote_6": "PLZ_TRANSLATE Enseñamos a los niños cómo ser buenos negociadores, incluso cuando se trata de dinero de bolsillo. ¡Cuidado!",
   "veckopengen_loading_quote_7": "PLZ_TRANSLATE Con o sin efectivo",
   "veckopengen_loading_quote_8": "PLZ_TRANSLATE ¿Ha notado que la alcancía crece más contiene?",
-  "test_monika": "PLZ_TRANSLATE Hola Mundo"
+  "test_monika": "PLZ_TRANSLATE Hola Mundo",
+  "add_email": "PLZ_TRANSLATE agregar dirección de correo electrónico",
+  "add_phone": "PLZ_TRANSLATE Agregar el número de teléfono"
 }

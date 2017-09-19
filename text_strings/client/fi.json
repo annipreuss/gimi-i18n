@@ -1613,5 +1613,7 @@
   "veckopengen_loading_quote_6": "PLZ_TRANSLATE Opetamme lapsille, kuinka olla hyviä neuvottelijoita, jopa taskurahaa käytettäessä. Varo!",
   "veckopengen_loading_quote_7": "PLZ_TRANSLATE Rahalla tai ilman",
   "veckopengen_loading_quote_8": "PLZ_TRANSLATE Oletko huomannut, että säästöpossu kasvaa, mitä enemmän se sisältää?",
-  "test_monika": "PLZ_TRANSLATE Hei maailma"
+  "test_monika": "PLZ_TRANSLATE Hei maailma",
+  "add_email": "PLZ_TRANSLATE Lisää sähköpostiosoite",
+  "add_phone": "PLZ_TRANSLATE Lisää puhelinnumero"
 }
