@@ -31,76 +31,87 @@ let RunMonika = (filePath):* => {
 
   let getPath = (file) => `${filePath}/${file}`
 
-  if (file.indexOf('.json') === -1) { return void 0 }
+  let transalteANNAString = (file) => {
+     if (file.indexOf('.json') === -1) { return void 0 }
 
-  var path = getPath(file)
-  var TextStrings = fs.readFileSync(path, {encoding: 'utf8'})
+     var path = getPath(file)
+     var TextStrings = fs.readFileSync(path, {encoding: 'utf8'})
 
-  TextStrings = JSON.parse(TextStrings)
+     TextStrings = JSON.parse(TextStrings)
 
+     textStringsTypes.forEach(textStringsType => {
+       textStrings[textStringsType] = {}
+     })
+     textStringsTypes.forEach(textStringsType => {
 
-  textStringsTypes.forEach(textStringsType => {
-    textStrings[textStringsType] = {}
-  })
-  textStringsTypes.forEach(textStringsType => {
+       languageCodesHolder.forEach(lang => {
+         try {
+           textStrings[textStringsType][lang] = require(`../../text_strings/${textStringsType}/${lang}`)
+         } catch (e) {
+           console.warn(`Cant parse ${textStringsType}/${lang} ${e.message}`)
+         }
+       })
+     })
 
-    languageCodesHolder.forEach(lang => {
-      try {
-        textStrings[textStringsType][lang] = require(`../../text_strings/${textStringsType}/${lang}`)
-      } catch (e) {
-        console.warn(`Cant parse ${textStringsType}/${lang} ${e.message}`)
+     textStringsTypes.forEach(textStringsType => {
+
+       languageCodesHolder.forEach(languageCode => {
+         var lang = textStrings[textStringsType][languageCode]
+         var keys = Object.keys(lang)
+
+         keys.forEach(key => {
+           if (languageCode) {
+             if (lang[key].includes(annaTranslationTag)) {
+
+               if (!TextStrings[key]) {
+                 console.warn(`Cant find textid: ${key} in file: ${path}`)
+                 return void 0
+               }
+
+               TextStrings[key] = lang[key].replace('ANNA', '')
+
+               TextStrings = JSON.stringify(TextStrings, undefined, 2)
+               fs.unlinkSync(path)
+               return fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
+
+               setTimeout(function () {
+                 if(languageCode ==='en') {
+                   console.warn('running poli')
+                   runPoli(key)
+                   changesMade = true
+                 }
+
+                //  if (languageCode ==='sv') {
+                //    console.warn('running anna')
+                //    runAnna(key)
+                //    changesMade = true
+                //  }
+               },300)
+             }
+           }
+         })
+       })
+     })
+   }
+
+  Promise.all(fs.readdirSync(filePath).map((file) => transalteANNAString(file)))
+    .then(() => {
+      if (changesMade) {
+
+        setTimeout(function () {
+
+          console.warn('Commiting')
+          commitChanges()
+        }, 900);
       }
+      console.log('saved Successfully :)')
     })
-  })
-
-  textStringsTypes.forEach(textStringsType => {
-
-    languageCodesHolder.forEach(languageCode => {
-      var lang = textStrings[textStringsType][languageCode]
-      var keys = Object.keys(lang)
-
-      keys.forEach(key => {
-        if (languageCode) {
-          if (lang[key].includes(annaTranslationTag)) {
-
-            TextStrings[key]lang[key].replace('ANNA', '')
-            if (!stringRemoveAnna) {
-              console.warn(`Cant find textid: ${textId} in file: ${path}`)
-              return void 0
-            }
-            TextStrings = JSON.stringify(TextStrings, undefined, 2)
-            fs.unlinkSync(path)
-            return fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
-            
-            setTimeout(function () {
-              if(languageCode ==='en') {
-                console.warn('running poli')
-                runPoli(key)
-                changesMade = true
-              }
-
-              if (languageCode ==='sv') {
-                console.warn('running anna')
-                runAnna(key)
-                changesMade = true
-              }
-            },300)
-          }
-        }
-      })
+    .catch((err) => console.error(err.message))
 
 
-    })
-  })
-  if (changesMade) {
-
-    setTimeout(function () {
-
-      console.warn('Commiting')
-      commitChanges()
-    }, 900);
-  }
 }
+
+
 templateDir.forEach((filePath) => {
   RunMonika(filePath)
 })
