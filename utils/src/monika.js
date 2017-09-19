@@ -59,10 +59,12 @@ let RunMonika = ():* => {
          }
 
        })
+       // Remove Anna from text string and save file
        TextStrings = JSON.stringify(TextStrings, undefined, 2)
        fs.unlinkSync(path)
        fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
 
+       //Add lang files in where we make changes
        if (languageCodesHolder.indexOf(file.replace('TextStrings_', '').replace('.json', '')) == -1) {
          languageCodesHolder.push(file.replace('TextStrings_', '').replace('.json', ''))
        }
@@ -79,15 +81,14 @@ let RunMonika = ():* => {
   })
    return Promise.resolve()
 }
+
+//Run anna and poli from promise
 runAnnaAndPoli = () => {
+
+  // Anna and poli require text string separeted with commas
   var multipleAnnaSupportStr = multipleAnnaSupport.join(',')
 
   languageCodesHolder.forEach((lang)=> {
-    if(lang === 'en') {
-      console.warn('running poli')
-      changesMade = true
-      return Promise.resolve(runPoli(multipleAnnaSupportStr))
-     }
 
    if (lang === 'sv') {
      console.warn('running anna')
@@ -95,6 +96,12 @@ runAnnaAndPoli = () => {
      return Promise.resolve(runAnna(multipleAnnaSupportStr))
 
    }
+
+   if(lang === 'en') {
+     console.warn('running poli')
+     changesMade = true
+     return Promise.resolve(runPoli(multipleAnnaSupportStr))
+    }
  })
   return Promise.resolve()
 }
@@ -104,8 +111,8 @@ runAnnaAndPoli = () => {
       if(changesMade) {
         setTimeout(function () {
           console.warn('Started git commit')
-          commitChanges()
-        }, 400);
+          //commitChanges()
+        }, 900);
       }
 
     })
