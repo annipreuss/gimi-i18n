@@ -32,67 +32,54 @@ let RunMonika = (filePath):* => {
   let getPath = (file) => `${filePath}/${file}`
 
   let transalteANNAString = (file) => {
-     if (file.indexOf('.json') === -1) { return void 0 }
+      if (file === 'default.json') { return Promise.resolve() }
+      if (file.indexOf('.json') === -1) { return Promise.resolve() }
 
      var path = getPath(file)
      var TextStrings = fs.readFileSync(path, {encoding: 'utf8'})
 
      TextStrings = JSON.parse(TextStrings)
 
-     textStringsTypes.forEach(textStringsType => {
-       textStrings[textStringsType] = {}
-     })
-     textStringsTypes.forEach(textStringsType => {
+     var keys = Object.keys(TextStrings)
 
-       languageCodesHolder.forEach(lang => {
-         try {
-           textStrings[textStringsType][lang] = require(`../../text_strings/${textStringsType}/${lang}`)
-         } catch (e) {
-           console.warn(`Cant parse ${textStringsType}/${lang} ${e.message}`)
-         }
-       })
-     })
+     keys.forEach(key => {
 
-     textStringsTypes.forEach(textStringsType => {
+       if (!TextStrings[key]) {
+         console.warn(`Cant find textid: ${key} in file: ${path}`)
+         return void 0
+       }
+       if (TextStrings[key].includes(annaTranslationTag)) {
 
-       languageCodesHolder.forEach(languageCode => {
-         var lang = textStrings[textStringsType][languageCode]
-         var keys = Object.keys(lang)
 
-         keys.forEach(key => {
-           if (languageCode) {
-             if (lang[key].includes(annaTranslationTag)) {
 
-               if (!TextStrings[key]) {
-                 console.warn(`Cant find textid: ${key} in file: ${path}`)
-                 return void 0
-               }
+         TextStrings[key] = TextStrings[key].replace('ANNA ', '')
 
-               TextStrings[key] = lang[key].replace('ANNA', '')
+         TextStrings = JSON.stringify(TextStrings, undefined, 2)
+         fs.unlinkSync(path)
+         fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
 
-               TextStrings = JSON.stringify(TextStrings, undefined, 2)
-               fs.unlinkSync(path)
-               fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
 
-               setTimeout(function () {
-                 if(languageCode ==='en') {
-                   console.warn('running poli')
-                   runPoli(key)
-                   changesMade = true
-                 }
-
-                 if (languageCode ==='sv') {
-                   console.warn('running anna')
-                   runAnna(key)
-                   changesMade = true
-                 }
-               },300)
-             }
+         var lang = file.replace('TextStrings_', '').replace('.json', '')
+         console.warn(lang)
+          if(lang === 'en') {
+            console.warn('running poli')
+            changesMade = true
+            return Promise.resolve(runPoli(key))
            }
-         })
-       })
+
+         if (lang === 'sv') {
+           console.warn('running anna')
+           changesMade = true
+           return Promise.resolve(runAnna(key))
+
+         }
+
+       }
      })
    }
+
+
+
 
   Promise.all(fs.readdirSync(filePath).map((file) => transalteANNAString(file)))
     .then(() => {
@@ -101,16 +88,14 @@ let RunMonika = (filePath):* => {
         setTimeout(function () {
 
           console.warn('Commiting')
-          commitChanges()
+        //  commitChanges()
         }, 900);
       }
       console.log('saved Successfully :)')
     })
     .catch((err) => console.error(err.message))
 
-
 }
-
 
 templateDir.forEach((filePath) => {
   RunMonika(filePath)
