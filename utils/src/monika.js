@@ -53,21 +53,20 @@ let RunMonika = ():* => {
 
            TextStrings[key] = TextStrings[key].replace('ANNA ', '')
 
-           TextStrings = JSON.stringify(TextStrings, undefined, 2)
-
            multipleAnnaSupport.push(key)
            console.log(key)
            changesMade = true
          }
 
        })
+       TextStrings = JSON.stringify(TextStrings, undefined, 2)
        fs.unlinkSync(path)
        fs.writeFileSync(path, TextStrings, {encoding: 'utf8'})
-       
+
        if (languageCodesHolder.indexOf(file.replace('TextStrings_', '').replace('.json', '')) == -1) {
          languageCodesHolder.push(file.replace('TextStrings_', '').replace('.json', ''))
        }
-       return Promise.resolve()
+
      }
 
 
@@ -86,7 +85,7 @@ let RunMonika = ():* => {
 }
 runAnnaAndPoli = () => {
   var multipleAnnaSupportStr = multipleAnnaSupport.join(',')
-  console.log(languageCodesHolder)
+
   languageCodesHolder.forEach((lang)=> {
     if(lang === 'en') {
       console.warn('running poli')
