@@ -10,7 +10,6 @@ cache:
 
 script:
   - git remote add origin-with-push-access https://${GH_TOKEN}@github.com/gimi-org/gimi-i18n.git > /dev/null 2>&1
-  - npm run monika
   - npm test
 
 
