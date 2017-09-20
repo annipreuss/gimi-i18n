@@ -1624,5 +1624,7 @@
   "auto_approval_title": "PLZ_TRANSLATE Abilita l'approvazione automatica?",
   "auto_approval_desc": "PLZ_TRANSLATE Vuoi abilitare l&#39;autorizzazione automatica degli oggetti di lavoro per %1$d ?",
   "goal_share_popover_parent_desc": "PLZ_TRANSLATE Condividi questo con i tuoi amici per renderli utili a salvare come %1$d .",
-  "auto_task_approval": "PLZ_TRANSLATE Approvazione automatica delle faccende"
+  "auto_task_approval": "PLZ_TRANSLATE Approvazione automatica delle faccende",
+  "reset_my_children": "PLZ_TRANSLATE Resettate i miei figli",
+  "delete_my_children": "PLZ_TRANSLATE Elimina i miei figli"
 }

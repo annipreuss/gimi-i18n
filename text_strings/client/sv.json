@@ -1635,5 +1635,7 @@
   "auto_approval_title": "Aktivera autogodkännande?",
   "auto_approval_desc": "Vill du aktivera autogodkännande för uppgifter som utförs av %1$d?",
   "goal_share_popover_parent_desc": "Dela det här med dina vänner för att dom ska bli lika bra som %1$d på att spara.",
-  "auto_task_approval": "Automatiskt godkännande av uppgifter"
+  "auto_task_approval": "Automatiskt godkännande av uppgifter",
+  "reset_my_children": "Nollställ mina barn",
+  "delete_my_children": "Radera mina barn"
 }

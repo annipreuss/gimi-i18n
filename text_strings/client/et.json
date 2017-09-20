@@ -1624,5 +1624,7 @@
   "auto_approval_title": "PLZ_TRANSLATE Kas lubada automaatne kinnitamine?",
   "auto_approval_desc": "PLZ_TRANSLATE Kas soovite lubade automaatse kinnitamise %1$d ?",
   "goal_share_popover_parent_desc": "PLZ_TRANSLATE Jagage seda oma sõpradega, et need saaksid säästa näiteks %1$d .",
-  "auto_task_approval": "PLZ_TRANSLATE Tööülesannete automaatne heakskiitmine"
+  "auto_task_approval": "PLZ_TRANSLATE Tööülesannete automaatne heakskiitmine",
+  "reset_my_children": "PLZ_TRANSLATE Lähtestage oma lapsed",
+  "delete_my_children": "PLZ_TRANSLATE Kustuta mu lapsed"
 }

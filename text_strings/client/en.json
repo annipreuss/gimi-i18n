@@ -1624,5 +1624,7 @@
   "auto_approval_title": "Enable Auto approval?",
   "auto_approval_desc": "Do you want to enable auto approval of chores for %1$d?",
   "goal_share_popover_parent_desc": "Share this with your friends to make them good at saving like %1$d.",
-  "auto_task_approval": "Auto approval of chores"
+  "auto_task_approval": "Auto approval of chores",
+  "reset_my_children": "Reset my children",
+  "delete_my_children": "Delete my children"
 }

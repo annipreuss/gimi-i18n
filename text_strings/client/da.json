@@ -1624,5 +1624,7 @@
   "auto_approval_title": "PLZ_TRANSLATE Aktivér automatisk godkendelse?",
   "auto_approval_desc": "PLZ_TRANSLATE Vil du aktivere automatisk godkendelse af opgaver for %1$d ?",
   "goal_share_popover_parent_desc": "PLZ_TRANSLATE Del dette med dine venner for at gøre dem gode til at gemme som %1$d .",
-  "auto_task_approval": "PLZ_TRANSLATE Automatisk godkendelse af pligter"
+  "auto_task_approval": "PLZ_TRANSLATE Automatisk godkendelse af pligter",
+  "reset_my_children": "PLZ_TRANSLATE Nulstil mine børn",
+  "delete_my_children": "PLZ_TRANSLATE Slet mine børn"
 }
