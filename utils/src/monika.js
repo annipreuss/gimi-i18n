@@ -49,8 +49,13 @@ info.forEach((x) => {
   if(path.includes('en.json')) textIds.map((key) => execSync(`npm run --silent poli ${key}`))
 })
 
-if(info.length > 0) {
-  if(TRAVIS) execSync('git add --all && git commit -m "translation Bot" && git push --no-verify --set-upstream origin-with-push-access')
-  else execSync('git add --all && git commit -m "translation Bot" && git push')
-}
-else console.log('No ANNA found in any textids for all en and sv json files')
+if(info.length === 0) {console.log('Found no textstrings to translate'); process.exit()}
+// git remote add origin-with-push-access https://${GH_TOKEN}@github.com/gimi-org/gimi-i18n.git > /dev/null 2>&1
+
+console.log('process.argv.join()', process.argv.join())
+if(!process.argv.join().includes('--push-changes')) process.exit()
+
+execSync('git add --all')
+execSync(`git commit -m "Google Translated ${info[0].textIds.join(' ')}"`)
+if(TRAVIS) execSync('git push --no-verify --set-upstream origin-with-push-access')
+else execSync('kjdfslkdf')
