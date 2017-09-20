@@ -1618,5 +1618,7 @@
   "phone_in_use": "PLZ_TRANSLATE Þetta símanúmer er þegar í notkun, þú vilt skrá þig inn?",
   "connection_succeeded": "PLZ_TRANSLATE Tenging tókst",
   "parent_connected_popover_description": "PLZ_TRANSLATE Þú hefur verið tengdur við <b>%1$d</b> , %2$d getur nú veitt peninga, verkefni og stuðning til að ná markmiðum um sparnað.",
-  "child_connected_popover_description": "PLZ_TRANSLATE Þú hefur verið tengdur við <b>%1$d</b> sem getur nú gefið þér peninga, verkefni og stuðning til að ná markmiðum um sparnað."
+  "child_connected_popover_description": "PLZ_TRANSLATE Þú hefur verið tengdur við <b>%1$d</b> sem getur nú gefið þér peninga, verkefni og stuðning til að ná markmiðum um sparnað.",
+  "auto_approval_title": "PLZ_TRANSLATE Virkja sjálfvirkt samþykki?",
+  "auto_approval_desc": "PLZ_TRANSLATE Viltu virkja sjálfvirkt samþykki húsverk fyrir %1$d ?"
 }

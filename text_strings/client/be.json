@@ -1618,5 +1618,7 @@
   "phone_in_use": "PLZ_TRANSLATE Гэты нумар тэлефона ўжо выкарыстоўваецца, вы хочаце, каб увайсці?",
   "connection_succeeded": "PLZ_TRANSLATE падключэнне ўдалося",
   "parent_connected_popover_description": "PLZ_TRANSLATE Вы былі звязаны з <b>%1$d</b> , %2$d зараз можа даць грошы, задачу і падтрымку для дасягнення мэтаў эканоміі.",
-  "child_connected_popover_description": "PLZ_TRANSLATE Вы падлучаныя да <b>%1$d</b> якога зараз можа даць вам грошы, задачы і падтрымку для дасягнення эканоміі мэтаў."
+  "child_connected_popover_description": "PLZ_TRANSLATE Вы падлучаныя да <b>%1$d</b> якога зараз можа даць вам грошы, задачы і падтрымку для дасягнення эканоміі мэтаў.",
+  "auto_approval_title": "PLZ_TRANSLATE Дазволіць аўтаматычнае адабрэнне?",
+  "auto_approval_desc": "PLZ_TRANSLATE Вы хочаце , каб дазволіць аўтаматычнае адабрэнне спраў на %1$d ?"
 }

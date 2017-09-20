@@ -1618,5 +1618,7 @@
   "phone_in_use": "PLZ_TRANSLATE Tämä puhelinnumero on jo käytössä, haluat kirjautua sisään?",
   "connection_succeeded": "PLZ_TRANSLATE Yhteys onnistui",
   "parent_connected_popover_description": "PLZ_TRANSLATE Olet liittynyt <b>%1$d</b> , %2$d voi nyt tarjota rahaa, tehtäviä ja tukea tavoitteiden saavuttamiseksi.",
-  "child_connected_popover_description": "PLZ_TRANSLATE Olet ollut yhteydessä <b>%1$d</b> jolle voit nyt antaa sinulle rahaa, tehtäviä ja tukea säästöjen tavoitteiden saavuttamiseksi."
+  "child_connected_popover_description": "PLZ_TRANSLATE Olet ollut yhteydessä <b>%1$d</b> jolle voit nyt antaa sinulle rahaa, tehtäviä ja tukea säästöjen tavoitteiden saavuttamiseksi.",
+  "auto_approval_title": "PLZ_TRANSLATE Ota automaattinen hyväksyntä käyttöön?",
+  "auto_approval_desc": "PLZ_TRANSLATE Haluatko ottaa käyttöön %1$d autokoodin?"
 }

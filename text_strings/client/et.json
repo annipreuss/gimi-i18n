@@ -1618,5 +1618,7 @@
   "phone_in_use": "PLZ_TRANSLATE See telefoninumber on juba kasutusel ja soovite sisse logida?",
   "connection_succeeded": "PLZ_TRANSLATE Ühendus õnnestus",
   "parent_connected_popover_description": "PLZ_TRANSLATE Olete <b>%1$d</b> , %2$d saavad nüüd kokkuhoiu eesmärkide saavutamiseks raha, ülesandeid ja toetust pakkuda.",
-  "child_connected_popover_description": "PLZ_TRANSLATE Olete ühendatud <b>%1$d</b> kes saavad nüüd säästa eesmärkide saavutamiseks raha, ülesandeid ja toetust."
+  "child_connected_popover_description": "PLZ_TRANSLATE Olete ühendatud <b>%1$d</b> kes saavad nüüd säästa eesmärkide saavutamiseks raha, ülesandeid ja toetust.",
+  "auto_approval_title": "PLZ_TRANSLATE Kas lubada automaatne kinnitamine?",
+  "auto_approval_desc": "PLZ_TRANSLATE Kas soovite lubade automaatse kinnitamise %1$d ?"
 }

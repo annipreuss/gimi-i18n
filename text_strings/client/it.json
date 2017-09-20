@@ -1618,5 +1618,7 @@
   "phone_in_use": "PLZ_TRANSLATE Questo numero di telefono è già in uso, si desidera effettuare l'accesso?",
   "connection_succeeded": "PLZ_TRANSLATE Il collegamento è riuscito",
   "parent_connected_popover_description": "PLZ_TRANSLATE Sei stato connesso con <b>%1$d</b> , %2$d ora può fornire soldi, attività e supporto per raggiungere obiettivi di risparmio.",
-  "child_connected_popover_description": "PLZ_TRANSLATE Sei stato connesso a <b>%1$d</b> che ora ti può dare soldi, attività e supporto per raggiungere obiettivi di risparmio."
+  "child_connected_popover_description": "PLZ_TRANSLATE Sei stato connesso a <b>%1$d</b> che ora ti può dare soldi, attività e supporto per raggiungere obiettivi di risparmio.",
+  "auto_approval_title": "PLZ_TRANSLATE Abilita l'approvazione automatica?",
+  "auto_approval_desc": "PLZ_TRANSLATE Vuoi abilitare l&#39;autorizzazione automatica degli oggetti di lavoro per %1$d ?"
 }

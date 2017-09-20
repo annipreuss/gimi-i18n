@@ -1618,5 +1618,7 @@
   "phone_in_use": "PLZ_TRANSLATE Dit telefoonnummer is al in gebruik, u wilt inloggen?",
   "connection_succeeded": "PLZ_TRANSLATE Verbinding is geslaagd",
   "parent_connected_popover_description": "PLZ_TRANSLATE Je bent verbonden met <b>%1$d</b> , %2$d kan nu geld, taken en ondersteuning leveren om besparingsdoelen te bereiken.",
-  "child_connected_popover_description": "PLZ_TRANSLATE Je bent verbonden met <b>%1$d</b> die nu geld, taken en ondersteuning kan geven om besparingsdoelstellingen te behalen."
+  "child_connected_popover_description": "PLZ_TRANSLATE Je bent verbonden met <b>%1$d</b> die nu geld, taken en ondersteuning kan geven om besparingsdoelstellingen te behalen.",
+  "auto_approval_title": "PLZ_TRANSLATE Automatische goedkeuring inschakelen?",
+  "auto_approval_desc": "PLZ_TRANSLATE Wilt u automatische goedkeuring van taken voor %1$d inschakelen?"
 }
