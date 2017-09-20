@@ -163,5 +163,6 @@
   "push_monthly_allowance_pre_payout_1": "PLZ_TRANSLATE {child} a reçu son argent mensuel aujourd&#39;hui!",
   "push_monthly_allowance_pre_payout_2": "PLZ_TRANSLATE {child} argent mensuel de chaque {child} a été placé dans la tirelire, klirr!",
   "push_monthly_allowance_pre_payout_3": "PLZ_TRANSLATE Jour de paye! {child} a eu la pointe de la lune dans sa tirelire!",
-  "push_monthly_allowance_pre_payout_4": "PLZ_TRANSLATE Månadspengsdag! {child} argent mensuel de l&#39; {child} a été placé dans la tirelire!"
+  "push_monthly_allowance_pre_payout_4": "PLZ_TRANSLATE Månadspengsdag! {child} argent mensuel de l&#39; {child} a été placé dans la tirelire!",
+  "push_remind_parent_child_weekly_money": "Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du har kontakt med dem. Varje vecka"
 }

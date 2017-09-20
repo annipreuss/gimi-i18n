@@ -163,5 +163,6 @@
   "push_monthly_allowance_pre_payout_1": "PLZ_TRANSLATE {child} атрымалі іх штомесячная дапамога сёння!",
   "push_monthly_allowance_pre_payout_2": "PLZ_TRANSLATE {child} «s штомесячная дапамога было ўкладзена ў скарбонку, чокаются!",
   "push_monthly_allowance_pre_payout_3": "PLZ_TRANSLATE Pay Day! {child} быў захоплены прыпускам ў іх скарбонцы!",
-  "push_monthly_allowance_pre_payout_4": "PLZ_TRANSLATE Månadspengsdag! {child} «s штомесячная дапамога было ўкладзена ў скарбонку!"
+  "push_monthly_allowance_pre_payout_4": "PLZ_TRANSLATE Månadspengsdag! {child} «s штомесячная дапамога было ўкладзена ў скарбонку!",
+  "push_remind_parent_child_weekly_money": "Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du har kontakt med dem. Varje vecka"
 }
