@@ -43,8 +43,6 @@
   "dashboard_goal_completed": "Completed {goal.title}",
   "dashboard_transfer_to_savings": "Saved {transaction.str_value}",
   "push_task_updated": "{user} has an updated {task}",
-  "push_weekly_allowance_transferred_parent": "{name}'s weekly allowance of {amount} has been auto saved",
-  "push_monthly_allowance_transferred_parent": "{name}'s monthly allowance of {amount} has been auto saved",
   "dashboard_child_not_connected": "Connect to a family member",
   "dashboard_child_setup": "Set up a profile",
   "dashboard_weekly_allowance_over_trustly_limit": "The allowance is over the transfer limit",

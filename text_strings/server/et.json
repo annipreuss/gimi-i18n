@@ -43,8 +43,6 @@
   "dashboard_goal_completed": "PLZ_TRANSLATE Completed {goal.title}",
   "dashboard_transfer_to_savings": "PLZ_TRANSLATE Saved {transaction.str_value}",
   "push_task_updated": "PLZ_TRANSLATE {user} has an updated {task}",
-  "push_weekly_allowance_transferred_parent": "PLZ_TRANSLATE {name}'s weekly allowance of {amount} has been auto saved",
-  "push_monthly_allowance_transferred_parent": "PLZ_TRANSLATE {name}'s monthly allowance of {amount} has been auto saved",
   "dashboard_child_not_connected": "PLZ_TRANSLATE Connect to a family member",
   "dashboard_child_setup": "PLZ_TRANSLATE Set up a profile",
   "dashboard_weekly_allowance_over_trustly_limit": "PLZ_TRANSLATE The allowance is over the transfer limit",

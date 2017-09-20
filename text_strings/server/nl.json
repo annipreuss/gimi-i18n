@@ -43,8 +43,6 @@
   "dashboard_goal_completed": "Voltooide {goal.title}",
   "dashboard_transfer_to_savings": "Spaarde {transaction.str_value}",
   "push_task_updated": "{user} heeft een upgedate {task}",
-  "push_weekly_allowance_transferred_parent": "{name}s zakgeld van {amount} is automatisch overgezet",
-  "push_monthly_allowance_transferred_parent": "{name}s maandloon van {amount} is automatisch gespaard",
   "dashboard_child_not_connected": "Verbind met een familielid",
   "dashboard_child_setup": "Maak een profiel",
   "dashboard_weekly_allowance_over_trustly_limit": "Het zakgeld is groter dan het overgeschreven bedrag",

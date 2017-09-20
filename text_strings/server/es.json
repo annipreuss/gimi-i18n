@@ -43,8 +43,6 @@
   "dashboard_goal_completed": "{goal.title} completada",
   "dashboard_transfer_to_savings": "{transaction.str_value} guardado",
   "push_task_updated": "{user} tiene la actualización de {task}",
-  "push_weekly_allowance_transferred_parent": "¡La asignación semanal de {name} por  {amount} fue guardada automáticamente",
-  "push_monthly_allowance_transferred_parent": "¡La asignación mensual de {name} por {amount} fue guardada automáticamente",
   "dashboard_child_not_connected": "Conectar a un miembro de la familia",
   "dashboard_child_setup": "¡Configurar un perfil",
   "dashboard_weekly_allowance_over_trustly_limit": "La asignación es mayor al límite de transferencia",

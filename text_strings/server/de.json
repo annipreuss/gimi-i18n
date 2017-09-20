@@ -43,8 +43,6 @@
   "dashboard_goal_completed": "{goal.title} erreicht",
   "dashboard_transfer_to_savings": "{transaction.str_value} gespart",
   "push_task_updated": "{user} hat {task} aktualisiert",
-  "push_weekly_allowance_transferred_parent": " {name}s wöchentliches Taschengeld in Höhe von {amount} wurde automatisch gespart",
-  "push_monthly_allowance_transferred_parent": "{name}s monatliches Taschengeld in Höhe von  {amount} wurde automatisch gespart",
   "dashboard_child_not_connected": "Bitte verbinde Dich mit einem Familienmitglied",
   "dashboard_child_setup": "Erstelle ein Profil",
   "dashboard_weekly_allowance_over_trustly_limit": "Das Taschengeld überschreitet die Überweisungsgrenze",

@@ -43,8 +43,6 @@
   "dashboard_goal_completed": "Oppnådde sparemålet {goal.title}",
   "dashboard_transfer_to_savings": "Spart {transaction.str_value}",
   "push_task_updated": "{user} har endret oppgaven {task}",
-  "push_weekly_allowance_transferred_parent": "{name}s ukepenger på {amount} har automatisk blitt spart",
-  "push_monthly_allowance_transferred_parent": "{name}s månedspenger på {amount} har automatisk blitt spart",
   "dashboard_child_not_connected": "Koble sammen",
   "dashboard_child_setup": "Er ikke ferdigskapt enda",
   "dashboard_weekly_allowance_over_trustly_limit": "Ukepengene har gått over beløpsgrensen",

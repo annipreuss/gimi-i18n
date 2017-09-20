@@ -43,8 +43,6 @@
   "dashboard_goal_completed": "Opsparingsmålet er opnået {goal.title}",
   "dashboard_transfer_to_savings": "Opsparet {transaction.str_value}",
   "push_task_updated": "{user} har ændret opgaven {task}",
-  "push_weekly_allowance_transferred_parent": "{name}s ugentlig lommepenge på {amount} er automatisk opsparet",
-  "push_monthly_allowance_transferred_parent": "{name}s månedlig lommepenge på {amount} er automatisk opsparet",
   "dashboard_child_not_connected": "Glem ikke at tilslutte dig",
   "dashboard_child_setup": "Er ikke færdigoprettet endnu",
   "dashboard_weekly_allowance_over_trustly_limit": "Ugentlig lommepenge er over beløbsgrænsen",

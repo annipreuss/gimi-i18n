@@ -43,8 +43,6 @@
   "dashboard_goal_completed": "Completato {goal.title}",
   "dashboard_transfer_to_savings": "{transaction.str_value} risparmiati",
   "push_task_updated": "{user} ha aggiornato il compito {task}",
-  "push_weekly_allowance_transferred_parent": "PLZ_CHECK I {amount} della paghetta settimanale di {name} si sono auto risparmiati",
-  "push_monthly_allowance_transferred_parent": "I {amount} della paghetta mensile di {name} si sono auto risparmiati",
   "dashboard_child_not_connected": "Connettiti ad un membro della famiglia",
   "dashboard_child_setup": "Crea un profilo",
   "dashboard_weekly_allowance_over_trustly_limit": "La paghetta supera il valore limite di un versamento",

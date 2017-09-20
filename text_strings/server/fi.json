@@ -43,8 +43,6 @@
   "dashboard_goal_completed": "Säästötavoite {goal.title} saavutettu",
   "dashboard_transfer_to_savings": "Säästetty summa {transaction.str_value}",
   "push_task_updated": "{user} on muuttanut askaretta {task}",
-  "push_weekly_allowance_transferred_parent": "{name}:n viikkorahoista on säästetty automaattisesti {amount}",
-  "push_monthly_allowance_transferred_parent": "{name}:n kuukausirahoista on säästetty automaattisesti {amount}",
   "dashboard_child_not_connected": "Älä unohda yhdistää perheenjäseniisi",
   "dashboard_child_setup": "Luo profiili",
   "dashboard_weekly_allowance_over_trustly_limit": "Viikkoraha ylittää siirtorajan",
