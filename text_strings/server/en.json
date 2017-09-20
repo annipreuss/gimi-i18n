@@ -159,5 +159,9 @@
   "push_intro_make_deposit": "It’s time to make your children’s cash digital. Make a deposit into the piggy bank to make your kids grow intellectually",
   "push_reminder_give_chores": "Don’t forget to give your children chores so that they can make extra money while learning how money works. Find example tasks in the app",
   "push_suggest_task": "You can now suggest tasks to your parents. Select Tasks in the app, then Suggest Task. This way you can get some extra money",
-  "push_exchange_cash": "Do you have cash? Exchange your cash with your parents and ask for a deposit into your piggy bank"
+  "push_exchange_cash": "Do you have cash? Exchange your cash with your parents and ask for a deposit into your piggy bank",
+  "event_allowance_transfer_weekly": "Weekly money on {text} has been placed in the piggy bank",
+  "event_allowance_transfer_weekly_trustly": "Weekly allowance {text} has been paid to bank account",
+  "event_allowance_transfer_monthly": "Monthly allowance {text} has been added to the piggy bank",
+  "event_allowance_transfer_monthly_trustly": "Monthly allowance {text} has been paid to bank account"
 }

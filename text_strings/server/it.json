@@ -159,5 +159,9 @@
   "push_intro_make_deposit": "PLZ_TRANSLATE È tempo di rendere digitali i tuoi soldi per i tuoi figli. Fai un deposito nella salvadanaio per rendere i tuoi figli crescere intellettualmente",
   "push_reminder_give_chores": "PLZ_TRANSLATE Non dimenticare di dare i propri figli per fare soldi extra mentre imparate come funzionano i soldi. Trova attività di esempio nell'applicazione",
   "push_suggest_task": "PLZ_TRANSLATE Ora puoi suggerire dei compiti ai tuoi genitori. Seleziona Attività nell'applicazione, quindi suggerisci Attività. In questo modo puoi ottenere qualche soldo extra",
-  "push_exchange_cash": "PLZ_TRANSLATE Hai soldi? Scambia i tuoi soldi con i tuoi genitori e chieda un deposito nella tua banca salvadanaio"
+  "push_exchange_cash": "PLZ_TRANSLATE Hai soldi? Scambia i tuoi soldi con i tuoi genitori e chieda un deposito nella tua banca salvadanaio",
+  "event_allowance_transfer_weekly": "PLZ_TRANSLATE Il denaro settimanale su {text} è stato inserito nella banca piggy",
+  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Il pagamento settimanale su {text} è stato versato sul conto bancario",
+  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Il denaro mensile su {text} è stato aggiunto alla banca salvadana",
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Il pagamento mensile su {text} è stato versato sul conto bancario"
 }

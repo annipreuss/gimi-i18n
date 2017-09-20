@@ -159,5 +159,9 @@
   "push_intro_make_deposit": "PLZ_TRANSLATE On aika tehdä lapsesi käteistä digitaalinen. Tee talletus säästöpossuun, jotta lapsesi kasvaisivat älyllisesti",
   "push_reminder_give_chores": "PLZ_TRANSLATE Älä unohda antaa lapsillesi asioita, jotta he voisivat tehdä ylimääräistä rahaa oppimalla kuinka rahat toimivat. Etsi esimerkkitoimintoja sovelluksessa",
   "push_suggest_task": "PLZ_TRANSLATE Voit nyt ehdottaa tehtäviä vanhemmille. Valitse Tehtävät sovelluksessa ja sitten Ehdota tehtävä. Näin voit saada ylimääräistä rahaa",
-  "push_exchange_cash": "PLZ_TRANSLATE Onko sinulla käteistä? Vaihda käteesi vanhempiesi kanssa ja pyydä talletus säästöpossuisi"
+  "push_exchange_cash": "PLZ_TRANSLATE Onko sinulla käteistä? Vaihda käteesi vanhempiesi kanssa ja pyydä talletus säästöpossuisi",
+  "event_allowance_transfer_weekly": "PLZ_TRANSLATE Weekly money on {text} on sijoitettu säästöpossuun",
+  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Viikottainen maksu {text} on maksettu pankkitilille",
+  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Kuitukerä {text} on lisätty säästöpostiin",
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Kuukausimaksu {text} on maksettu pankkitilille"
 }

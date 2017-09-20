@@ -159,5 +159,9 @@
   "push_intro_make_deposit": "Es hora de que el dinero de tus hijos sea digital. Haz un depósito en la alcancía para que tus hijos crezcan intelectualmente",
   "push_reminder_give_chores": "No olvides darle tareas a tus hijos para que puedan ganar dinero extra mientras aprenden cómo funciona el dinero. ¡Encuentra ejemplos de tareas en la aplicación",
   "push_suggest_task": "Ahora puedes sugerir tareas a tus padres. Selecciona Tareas en la aplicación y a continuación, Sugiere la tarea. De esta manera puedes obtener algo de dinero extra",
-  "push_exchange_cash": "¿Tienes efectivo? Intercambia tu dinero con tus padres y solicita un depósito en tu alcancía"
+  "push_exchange_cash": "¿Tienes efectivo? Intercambia tu dinero con tus padres y solicita un depósito en tu alcancía",
+  "event_allowance_transfer_weekly": "PLZ_TRANSLATE El dinero semanal en {text} se ha colocado en la alcancía",
+  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE El pago semanal en {text} se ha pagado a la cuenta bancaria",
+  "event_allowance_transfer_monthly": "PLZ_TRANSLATE El dinero mensual en {text} se ha añadido a la alcancía",
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE El pago mensual en {text} se ha pagado a la cuenta bancaria"
 }

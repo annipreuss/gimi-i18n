@@ -159,5 +159,9 @@
   "push_intro_make_deposit": "PLZ_TRANSLATE Það er kominn tími til að gera stafrænt börn barnanna þína. Gakktu inn í grís bankann til að gera börnin þín vaxandi vitsmunalega",
   "push_reminder_give_chores": "PLZ_TRANSLATE Ekki gleyma að gefa börnum þínum húsverk svo að þeir geti aukið peninga á meðan að læra hvernig peningar virka. Finndu dæmi um verkefni í appinu",
   "push_suggest_task": "PLZ_TRANSLATE Þú getur nú lagt fyrir verkefni fyrir foreldra þína. Veldu Verkefni í appinu, þá Leggja fram verkefni. Þannig geturðu fengið auka peninga",
-  "push_exchange_cash": "PLZ_TRANSLATE Hefur þú peninga? Skiptu peningum þínum með foreldrum þínum og biðja um innborgun í grís bankann þinn"
+  "push_exchange_cash": "PLZ_TRANSLATE Hefur þú peninga? Skiptu peningum þínum með foreldrum þínum og biðja um innborgun í grís bankann þinn",
+  "event_allowance_transfer_weekly": "PLZ_TRANSLATE Vikuleg peningar á {text} hafa verið settar í grísabankann",
+  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Vikuleg greiðslu á {text} hefur verið greiddur á bankareikning",
+  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Mánaðarleg peninga á {text} hefur verið bætt við grís bankann",
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Mánaðarleg greiðsla á {text} hefur verið greidd á bankareikning"
 }

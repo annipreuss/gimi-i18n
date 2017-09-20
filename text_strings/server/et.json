@@ -159,5 +159,9 @@
   "push_intro_make_deposit": "PLZ_TRANSLATE On aeg teha oma laste raha digitaalseks. Tehke tagatisraha säärepangale, et oma lapsed intellektuaalselt areneda",
   "push_reminder_give_chores": "PLZ_TRANSLATE Ärge unustage anda oma lastele tööd, et nad saaksid lisaraha õppida, kuidas raha töötab. Rakenduses näiteülesannete leidmine",
   "push_suggest_task": "PLZ_TRANSLATE Nüüd saate oma vanematele ülesandeid teha. Valige rakenduses ülesanded ja seejärel soovita ülesanne. Nii saate lisaraha",
-  "push_exchange_cash": "PLZ_TRANSLATE Kas sul on raha? Vaheta sinu raha oma vanematega ja küsige tagatisraha oma säärane pank"
+  "push_exchange_cash": "PLZ_TRANSLATE Kas sul on raha? Vaheta sinu raha oma vanematega ja küsige tagatisraha oma säärane pank",
+  "event_allowance_transfer_weekly": "PLZ_TRANSLATE Nädala raha {text} -le on paigutatud silepangale",
+  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE {text} iganädalane makse on tasutud pangakontole",
+  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Sulepangale on lisatud {text} kuu raha",
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE {text} igakuine makse on tasutud pangakontole"
 }

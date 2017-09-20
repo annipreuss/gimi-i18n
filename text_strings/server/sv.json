@@ -159,5 +159,9 @@
   "push_intro_make_deposit": "Det är dags att göra dina barns kontanter digitala. Gör en insättning i spargrisen för att hjälpa dina barn växa intellektuellt",
   "push_reminder_give_chores": "Glöm inte att ge dina barn sysslor så att de kan tjäna extra pengar samtidigt som de lär sig hur pengar fungerar. Hitta exempeluppgifter i appen",
   "push_suggest_task": "Du kan nu föreslå uppgifter till dina föräldrar. Välj Uppgifter i appen, sedan Föreslå Uppgift. Så kan du få lite extra pengar",
-  "push_exchange_cash": "Har du kontanter? Byt ut dina kontanter med dina föräldrar och be om en insättning i din nya spargris"
+  "push_exchange_cash": "Har du kontanter? Byt ut dina kontanter med dina föräldrar och be om en insättning i din nya spargris",
+  "event_allowance_transfer_weekly": "PLZ_TRANSLATE Veckopeng på {text} har lagts i spargrisen",
+  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Veckopeng på {text} har betalats ut till bankkonto",
+  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Månadspeng på {text} har lagts i spargrisen",
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Månadspeng på {text} har betalats ut till bankkonto"
 }

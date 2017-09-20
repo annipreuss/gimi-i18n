@@ -159,5 +159,9 @@
   "push_intro_make_deposit": "PLZ_TRANSLATE Det er tid til at gøre dine børns kontanter digital. Lav et depositum i spargrisen for at få dine børn til at vokse intellektuelt",
   "push_reminder_give_chores": "PLZ_TRANSLATE Glem ikke at give dine børn pligter, så de kan tjene ekstra penge, mens de lærer, hvordan pengene fungerer. Find eksempelopgaver i appen",
   "push_suggest_task": "PLZ_TRANSLATE Du kan nu foreslå opgaver til dine forældre. Vælg Opgaver i appen, og giv derefter forslag til opgave. På denne måde kan du få nogle ekstra penge",
-  "push_exchange_cash": "PLZ_TRANSLATE Har du kontanter? Udveksle dine penge med dine forældre og bede om et depositum i din spargebog"
+  "push_exchange_cash": "PLZ_TRANSLATE Har du kontanter? Udveksle dine penge med dine forældre og bede om et depositum i din spargebog",
+  "event_allowance_transfer_weekly": "PLZ_TRANSLATE Ugentlige penge på {text} er placeret i sparegrisen",
+  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Ugentlig betaling på {text} er blevet betalt til bankkonto",
+  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Månedlige penge på {text} er blevet tilføjet til spargrisen",
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Månedlig betaling på {text} er blevet betalt til bankkonto"
 }

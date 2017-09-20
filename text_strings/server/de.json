@@ -159,5 +159,9 @@
   "push_intro_make_deposit": "PLZ_TRANSLATE Es ist Zeit, das Geld deiner Kinder digital zu machen. Machen Sie eine Einzahlung in die Sparschwein, damit Ihre Kinder intellektuell wachsen",
   "push_reminder_give_chores": "PLZ_TRANSLATE Vergessen Sie nicht, Ihren Kindern die Arbeit zu geben, damit sie extra Geld verdienen können, während sie lernen, wie Geld funktioniert. Finden Sie Beispielaufgaben in der App",
   "push_suggest_task": "PLZ_TRANSLATE Sie können jetzt Ihren Eltern Aufgaben vorschlagen. Wählen Sie Aufgaben in der App aus, und klicken Sie dann auf Task. Auf diese Weise können Sie etwas Geld bekommen",
-  "push_exchange_cash": "PLZ_TRANSLATE Hast du bargeld? Tauschen Sie Ihr Geld mit Ihren Eltern und bitten um eine Einzahlung in Ihr Sparschwein"
+  "push_exchange_cash": "PLZ_TRANSLATE Hast du bargeld? Tauschen Sie Ihr Geld mit Ihren Eltern und bitten um eine Einzahlung in Ihr Sparschwein",
+  "event_allowance_transfer_weekly": "PLZ_TRANSLATE Wöchentliches Geld auf {text} wurde in das Sparschwein gelegt",
+  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Wöchentliche Zahlung auf {text} wurde auf Bankkonto bezahlt",
+  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Monatliches Geld auf {text} wurde dem Sparschwein hinzugefügt",
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Die monatliche Zahlung auf {text} wurde auf das Bankkonto überwiesen"
 }

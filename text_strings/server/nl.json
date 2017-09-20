@@ -159,5 +159,9 @@
   "push_intro_make_deposit": "PLZ_TRANSLATE Het is tijd om je cash digitaal te maken. Maak een borg in de spaarpot om je kinderen intellectueel te laten groeien",
   "push_reminder_give_chores": "PLZ_TRANSLATE Vergeet niet om je kinderen opdrachten te geven zodat ze extra geld kunnen verdienen, terwijl ze leren hoe het geld werkt. Zoek voorbeeldtaken in de app",
   "push_suggest_task": "PLZ_TRANSLATE U kunt nu taken voorstellen aan uw ouders. Selecteer taken in de app, en stel vervolgens taak voor. Op deze manier kunt u wat extra geld krijgen",
-  "push_exchange_cash": "PLZ_TRANSLATE Heb je contant geld? Wissel je geld uit met je ouders en vraag om een ​​borg in je spaarpot"
+  "push_exchange_cash": "PLZ_TRANSLATE Heb je contant geld? Wissel je geld uit met je ouders en vraag om een ​​borg in je spaarpot",
+  "event_allowance_transfer_weekly": "PLZ_TRANSLATE Wekelijks geld op {text} is in de spaarpot geplaatst",
+  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE De wekelijkse betaling op {text} is aan het bankrekening betaald",
+  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Maandelijks geld op {text} is toegevoegd aan de spaarpot",
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Maandelijkse betaling op {text} is aan bankrekening betaald"
 }
