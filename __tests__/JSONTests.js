@@ -1,17 +1,17 @@
+import fs from 'fs'
+import jsonValidator from 'json-dup-key-validator'
 jest.disableAutomock()
 
+let templateDirs = ['./text_strings/client', './text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/share-image-generator']
+
 describe('TextStrings', () => {
-  ['da', 'fi', 'sv', 'nb', 'en', 'nl', 'fr', 'it', 'es', 'de'].forEach(lang => {
-    it(`it should have valid JSON for client/${lang}.json`, () => {
-      require(`../text_strings/client/${lang}`)
-    })
-
-    it(`it should have valid JSON for server/${lang}.json`, () => {
-      require(`../text_strings/server/${lang}`)
-    })
-
-    it(`it should have valid JSON for templates/${lang}.json`, () => {
-      require(`../text_strings/templates/${lang}`)
+  templateDirs.forEach((dir) => {
+    fs.readdirSync(dir).forEach((file) => {
+      let path = `${dir}/${file}`
+      it(`it should have valid JSON for ${path}`, () => {
+        let json = fs.readFileSync(path, {encoding: 'utf8'})
+        jsonValidator.parse(json, false)
+      })
     })
   })
 })
