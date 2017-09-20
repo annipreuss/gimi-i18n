@@ -27,9 +27,9 @@ let getTranslateInfoFrom = (path) => {
 
 let removeANNAStringFromFile = (path) => {
   var json = fs.readFileSync(path, {encoding: 'utf8'})
-  json = json.replace(`${ANNA} `, '')
-  json = json.replace(` ${ANNA}`, '')
-  json = json.replace(`${ANNA}`, '')
+  json = json.replace(new RegExp(`${ANNA} `, 'g'), '')
+  json = json.replace(new RegExp(` ${ANNA}`, 'g'), '')
+  json = json.replace(new RegExp(`${ANNA}`, 'g'), '')
 
   fs.unlinkSync(path)
   fs.writeFileSync(path, json, {encoding: 'utf8'})
