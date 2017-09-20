@@ -162,5 +162,6 @@
   "push_monthly_allowance_pre_payout_2": "PLZ_TRANSLATE {child} s monatliches Geld wurde in das Sparschwein gelegt, klirr!",
   "push_monthly_allowance_pre_payout_3": "PLZ_TRANSLATE Zahltag! {child} hat die Mondspitze in seinem Sparschwein!",
   "push_monthly_allowance_pre_payout_4": "PLZ_TRANSLATE Månadspengsdag! {child} s monatliches Geld wurde in das Sparschwein gelegt!",
-  "push_remind_parent_child_weekly_money": "Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du har kontakt med dem. Varje vecka"
+  "push_remind_parent_child_weekly_money": "Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du har kontakt med dem. Varje vecka",
+  "push_connect_child_help_develop_economical_skills": "När du ansluter till ditt barn hjälper du ditt barn att utveckla sina ekonomiska färdigheter"
 }
