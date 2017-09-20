@@ -9,7 +9,7 @@ cache:
     - .nvm
 
 script:
-  - npm run monika --push-changes
+  - npm run monika -- --push-changes
   - npm test
 
 
