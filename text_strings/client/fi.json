@@ -1621,5 +1621,6 @@
   "child_connected_popover_description": "PLZ_TRANSLATE Olet ollut yhteydessä <b>%1$d</b> jolle voit nyt antaa sinulle rahaa, tehtäviä ja tukea säästöjen tavoitteiden saavuttamiseksi.",
   "auto_approval_title": "PLZ_TRANSLATE Ota automaattinen hyväksyntä käyttöön?",
   "auto_approval_desc": "PLZ_TRANSLATE Haluatko ottaa käyttöön %1$d autokoodin?",
-  "goal_share_popover_parent_desc": "PLZ_TRANSLATE Jaa tämä ystävillesi, jotta heidät olisi hyvä tallentaa, kuten %1$d ."
+  "goal_share_popover_parent_desc": "PLZ_TRANSLATE Jaa tämä ystävillesi, jotta heidät olisi hyvä tallentaa, kuten %1$d .",
+  "auto_task_approval": "PLZ_TRANSLATE Autojen hyväksyntä"
 }

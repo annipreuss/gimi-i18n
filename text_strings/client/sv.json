@@ -1632,5 +1632,6 @@
   "child_connected_popover_description": "Du har kopplats ihop med <b>%1$d</b> som nu kan ge dig pengar, uppgifter och stöd för att du ska uppnå sparmål.",
   "auto_approval_title": "Aktivera autogodkännande?",
   "auto_approval_desc": "Vill du aktivera autogodkännande för uppgifter som utförs av %1$d?",
-  "goal_share_popover_parent_desc": "Dela det här med dina vänner för att dom ska bli lika bra som %1$d på att spara."
+  "goal_share_popover_parent_desc": "Dela det här med dina vänner för att dom ska bli lika bra som %1$d på att spara.",
+  "auto_task_approval": "Automatiskt godkännande av uppgifter"
 }
