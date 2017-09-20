@@ -1620,5 +1620,6 @@
   "parent_connected_popover_description": "PLZ_TRANSLATE Sie wurden mit <b>%1$d</b> , %2$d kann jetzt Geld, Aufgaben und Unterstützung liefern, um Einsparungsziele zu erzielen.",
   "child_connected_popover_description": "PLZ_TRANSLATE Sie wurden mit <b>%1$d</b> verbunden, die Ihnen jetzt Geld, Aufgaben und Unterstützung geben können, um Einsparungsziele zu erzielen.",
   "auto_approval_title": "PLZ_TRANSLATE Automatische Genehmigung aktivieren?",
-  "auto_approval_desc": "PLZ_TRANSLATE Möchten Sie die automatische Genehmigung von Aufgaben für %1$d aktivieren?"
+  "auto_approval_desc": "PLZ_TRANSLATE Möchten Sie die automatische Genehmigung von Aufgaben für %1$d aktivieren?",
+  "goal_share_popover_parent_desc": "PLZ_TRANSLATE Teilen Sie dies mit Ihren Freunden, um sie gut zu sparen wie %1$d ."
 }

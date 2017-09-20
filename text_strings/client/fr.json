@@ -1620,5 +1620,6 @@
   "parent_connected_popover_description": "PLZ_TRANSLATE Vous avez été connecté avec <b>%1$d</b> , %2$d peut maintenant fournir de l&#39;argent, des tâches et du soutien pour atteindre les objectifs d&#39;épargne.",
   "child_connected_popover_description": "PLZ_TRANSLATE Vous avez été connecté à <b>%1$d</b> qui peut maintenant vous donner de l&#39;argent, des tâches et du soutien pour atteindre les objectifs d&#39;épargne.",
   "auto_approval_title": "PLZ_TRANSLATE Activer l'approbation automatique?",
-  "auto_approval_desc": "PLZ_TRANSLATE Voulez-vous activer l&#39;approbation automatique des tâches pour %1$d ?"
+  "auto_approval_desc": "PLZ_TRANSLATE Voulez-vous activer l&#39;approbation automatique des tâches pour %1$d ?",
+  "goal_share_popover_parent_desc": "PLZ_TRANSLATE Partagez ceci avec vos amis pour les rendre bons à enregistrer comme %1$d ."
 }

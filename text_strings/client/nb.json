@@ -1620,5 +1620,6 @@
   "parent_connected_popover_description": "PLZ_TRANSLATE Du har vært koblet til <b>%1$d</b> , %2$d kan nå gi penger, oppgaver og støtte for å oppnå besparingsmål.",
   "child_connected_popover_description": "PLZ_TRANSLATE Du har blitt koblet til <b>%1$d</b> som nå kan gi deg penger, oppgaver og støtte for å oppnå besparingsmål.",
   "auto_approval_title": "PLZ_TRANSLATE Aktiver automatisk godkjenning?",
-  "auto_approval_desc": "PLZ_TRANSLATE Vil du aktivere automatisk godkjenning av oppgaver for %1$d ?"
+  "auto_approval_desc": "PLZ_TRANSLATE Vil du aktivere automatisk godkjenning av oppgaver for %1$d ?",
+  "goal_share_popover_parent_desc": "PLZ_TRANSLATE Del dette med vennene dine for å gjøre dem gode til å spare som %1$d ."
 }

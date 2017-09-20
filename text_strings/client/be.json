@@ -1620,5 +1620,6 @@
   "parent_connected_popover_description": "PLZ_TRANSLATE Вы былі звязаны з <b>%1$d</b> , %2$d зараз можа даць грошы, задачу і падтрымку для дасягнення мэтаў эканоміі.",
   "child_connected_popover_description": "PLZ_TRANSLATE Вы падлучаныя да <b>%1$d</b> якога зараз можа даць вам грошы, задачы і падтрымку для дасягнення эканоміі мэтаў.",
   "auto_approval_title": "PLZ_TRANSLATE Дазволіць аўтаматычнае адабрэнне?",
-  "auto_approval_desc": "PLZ_TRANSLATE Вы хочаце , каб дазволіць аўтаматычнае адабрэнне спраў на %1$d ?"
+  "auto_approval_desc": "PLZ_TRANSLATE Вы хочаце , каб дазволіць аўтаматычнае адабрэнне спраў на %1$d ?",
+  "goal_share_popover_parent_desc": "PLZ_TRANSLATE Падзяліцеся гэтым са сваімі сябрамі , каб зрабіць іх добра эканоміць як %1$d ."
 }

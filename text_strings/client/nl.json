@@ -1620,5 +1620,6 @@
   "parent_connected_popover_description": "PLZ_TRANSLATE Je bent verbonden met <b>%1$d</b> , %2$d kan nu geld, taken en ondersteuning leveren om besparingsdoelen te bereiken.",
   "child_connected_popover_description": "PLZ_TRANSLATE Je bent verbonden met <b>%1$d</b> die nu geld, taken en ondersteuning kan geven om besparingsdoelstellingen te behalen.",
   "auto_approval_title": "PLZ_TRANSLATE Automatische goedkeuring inschakelen?",
-  "auto_approval_desc": "PLZ_TRANSLATE Wilt u automatische goedkeuring van taken voor %1$d inschakelen?"
+  "auto_approval_desc": "PLZ_TRANSLATE Wilt u automatische goedkeuring van taken voor %1$d inschakelen?",
+  "goal_share_popover_parent_desc": "PLZ_TRANSLATE Deel dit met je vrienden om ze goed te maken om op te slaan als %1$d ."
 }

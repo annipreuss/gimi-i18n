@@ -1620,5 +1620,6 @@
   "parent_connected_popover_description": "PLZ_TRANSLATE Olete <b>%1$d</b> , %2$d saavad nüüd kokkuhoiu eesmärkide saavutamiseks raha, ülesandeid ja toetust pakkuda.",
   "child_connected_popover_description": "PLZ_TRANSLATE Olete ühendatud <b>%1$d</b> kes saavad nüüd säästa eesmärkide saavutamiseks raha, ülesandeid ja toetust.",
   "auto_approval_title": "PLZ_TRANSLATE Kas lubada automaatne kinnitamine?",
-  "auto_approval_desc": "PLZ_TRANSLATE Kas soovite lubade automaatse kinnitamise %1$d ?"
+  "auto_approval_desc": "PLZ_TRANSLATE Kas soovite lubade automaatse kinnitamise %1$d ?",
+  "goal_share_popover_parent_desc": "PLZ_TRANSLATE Jagage seda oma sõpradega, et need saaksid säästa näiteks %1$d ."
 }
