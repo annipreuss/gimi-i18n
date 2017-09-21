@@ -12,10 +12,11 @@
     "babelize": "./node_modules/.bin/babel ./utils/src -d ./utils/dest",
     "lint": "eslint . --ignore-pattern=/utils/dest/",
     "sara": "npm run babelize && node ./utils/dest/sara.js",
-    "anna": "npm run babelize && node ./utils/dest/anna.js",
+    "gimi-translation-service": "npm run babelize && node ./utils/dest/gimi-translation-service.js",
+    "anna": "npm run gimi-translation-service en xx sv",
+    "poli": "npm run gimi-translation-service sv en xx",
+    "krisi": "npm run gimi-translation-service en sv xx",
     "jenny": "npm run babelize && node ./utils/dest/jenny.js",
-    "poli": "npm run babelize && node ./utils/dest/polina.js",
-    "krisi": "npm run babelize && node ./utils/dest/krisi.js",
     "eli": "npm run babelize && node ./utils/dest/eli.js"
   },
   "repository": {
@@ -44,11 +45,11 @@
     "eslint-plugin-react-native": "2.3.2",
     "eslint-plugin-standard": "3.0.1",
     "jest": "20.0.4",
+    "json-dup-key-validator": "^1.0.2",
     "json-loader": "0.5.4",
     "moment": "2.18.1",
     "node-slack": "0.0.7",
-    "pre-push": "0.1.1",
-    "json-dup-key-validator": "^1.0.2"
+    "pre-push": "0.1.1"
   },
   "dependencies": {
     "@google-cloud/translate": "0.8.2",
