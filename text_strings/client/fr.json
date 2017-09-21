@@ -1637,5 +1637,6 @@
   "goal_share_popover_parent_desc": "PLZ_TRANSLATE Partagez ceci avec vos amis pour les rendre bons à enregistrer comme %1$d .",
   "auto_task_approval": "PLZ_TRANSLATE Approbation automatique des corvées",
   "reset_my_children": "PLZ_TRANSLATE Réinitialiser mes enfants",
-  "delete_my_children": "PLZ_TRANSLATE Supprime mes enfants"
+  "delete_my_children": "PLZ_TRANSLATE Supprime mes enfants",
+  "error_notification_feed": "PLZ_TRANSLATE Quelque chose s'est mal passé à recevoir des notifications"
 }

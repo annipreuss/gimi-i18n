@@ -1637,5 +1637,6 @@
   "goal_share_popover_parent_desc": "PLZ_TRANSLATE Deila þessu með vinum þínum til að gera þeim góða í að spara eins og %1$d .",
   "auto_task_approval": "PLZ_TRANSLATE Sjálfvirk samþykki húsverka",
   "reset_my_children": "PLZ_TRANSLATE Endurstilla börnin mín",
-  "delete_my_children": "PLZ_TRANSLATE Eyða börnum mínum"
+  "delete_my_children": "PLZ_TRANSLATE Eyða börnum mínum",
+  "error_notification_feed": "PLZ_TRANSLATE Eitthvað fór úrskeiðis að fá tilkynningar"
 }

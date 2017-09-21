@@ -1637,5 +1637,6 @@
   "goal_share_popover_parent_desc": "PLZ_TRANSLATE Jagage seda oma sõpradega, et need saaksid säästa näiteks %1$d .",
   "auto_task_approval": "PLZ_TRANSLATE Tööülesannete automaatne heakskiitmine",
   "reset_my_children": "PLZ_TRANSLATE Lähtestage oma lapsed",
-  "delete_my_children": "PLZ_TRANSLATE Kustuta mu lapsed"
+  "delete_my_children": "PLZ_TRANSLATE Kustuta mu lapsed",
+  "error_notification_feed": "PLZ_TRANSLATE Märguande saamiseks läks midagi valesti"
 }

@@ -1637,5 +1637,6 @@
   "goal_share_popover_parent_desc": "Share this with your friends to make them good at saving like %1$d.",
   "auto_task_approval": "Auto approval of chores",
   "reset_my_children": "Reset my children",
-  "delete_my_children": "Delete my children"
+  "delete_my_children": "Delete my children",
+  "error_notification_feed": "Something went wrong getting notifications"
 }

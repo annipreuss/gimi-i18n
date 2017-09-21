@@ -1637,5 +1637,6 @@
   "goal_share_popover_parent_desc": "PLZ_TRANSLATE Jaa tämä ystävillesi, jotta heidät olisi hyvä tallentaa, kuten %1$d .",
   "auto_task_approval": "PLZ_TRANSLATE Autojen hyväksyntä",
   "reset_my_children": "PLZ_TRANSLATE Nollaa lapseni",
-  "delete_my_children": "PLZ_TRANSLATE Poista lapset"
+  "delete_my_children": "PLZ_TRANSLATE Poista lapset",
+  "error_notification_feed": "PLZ_TRANSLATE Jotain meni vikaan saada ilmoituksia"
 }

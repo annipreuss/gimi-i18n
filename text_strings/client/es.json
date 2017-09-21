@@ -1637,5 +1637,6 @@
   "goal_share_popover_parent_desc": "PLZ_TRANSLATE Comparte esto con tus amigos para que sean buenos ahorrando como %1$d .",
   "auto_task_approval": "PLZ_TRANSLATE Auto aprobación de las tareas",
   "reset_my_children": "PLZ_TRANSLATE Restablecer a mis hijos",
-  "delete_my_children": "PLZ_TRANSLATE Eliminar a mis hijos"
+  "delete_my_children": "PLZ_TRANSLATE Eliminar a mis hijos",
+  "error_notification_feed": "PLZ_TRANSLATE Se ha producido un error al obtener notificaciones"
 }

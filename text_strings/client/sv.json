@@ -1648,5 +1648,6 @@
   "goal_share_popover_parent_desc": "Dela det här med dina vänner för att dom ska bli lika bra som %1$d på att spara.",
   "auto_task_approval": "Automatiskt godkännande av uppgifter",
   "reset_my_children": "Nollställ mina barn",
-  "delete_my_children": "Radera mina barn"
+  "delete_my_children": "Radera mina barn",
+  "error_notification_feed": "Något gick fel att få meddelanden"
 }

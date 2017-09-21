@@ -1637,5 +1637,6 @@
   "goal_share_popover_parent_desc": "PLZ_TRANSLATE Teilen Sie dies mit Ihren Freunden, um sie gut zu sparen wie %1$d .",
   "auto_task_approval": "PLZ_TRANSLATE Automatische Genehmigung von Aufgaben",
   "reset_my_children": "PLZ_TRANSLATE Meine Kinder zurücksetzen",
-  "delete_my_children": "PLZ_TRANSLATE Löschen Sie meine Kinder"
+  "delete_my_children": "PLZ_TRANSLATE Löschen Sie meine Kinder",
+  "error_notification_feed": "PLZ_TRANSLATE Etwas ging falsch, Benachrichtigungen zu benachrichtigen"
 }
