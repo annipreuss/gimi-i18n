@@ -1638,5 +1638,6 @@
   "auto_task_approval": "Auto approval of chores",
   "reset_my_children": "Reset my children",
   "delete_my_children": "Delete my children",
-  "error_notification_feed": "Something went wrong getting notifications"
+  "error_notification_feed": "Something went wrong getting notifications",
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Do you want to turn on auto-approval so that completed tasks are automatically approved after 24 hours?"
 }

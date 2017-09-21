@@ -1638,5 +1638,6 @@
   "auto_task_approval": "PLZ_TRANSLATE Automatisk godkendelse af pligter",
   "reset_my_children": "PLZ_TRANSLATE Nulstil mine børn",
   "delete_my_children": "PLZ_TRANSLATE Slet mine børn",
-  "error_notification_feed": "PLZ_TRANSLATE Noget gik galt med at få underretninger"
+  "error_notification_feed": "PLZ_TRANSLATE Noget gik galt med at få underretninger",
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Vil du tænde automatisk godkendelse, så de udførte opgaver godkendes automatisk efter 24 timer?"
 }

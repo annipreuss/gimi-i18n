@@ -1638,5 +1638,6 @@
   "auto_task_approval": "PLZ_TRANSLATE Tööülesannete automaatne heakskiitmine",
   "reset_my_children": "PLZ_TRANSLATE Lähtestage oma lapsed",
   "delete_my_children": "PLZ_TRANSLATE Kustuta mu lapsed",
-  "error_notification_feed": "PLZ_TRANSLATE Märguande saamiseks läks midagi valesti"
+  "error_notification_feed": "PLZ_TRANSLATE Märguande saamiseks läks midagi valesti",
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Kas soovite automaatse kinnitamise sisse lülitada, et lõpetatud ülesanded kinnitataks automaatselt pärast 24 tundi?"
 }

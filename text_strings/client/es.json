@@ -1638,5 +1638,6 @@
   "auto_task_approval": "PLZ_TRANSLATE Auto aprobación de las tareas",
   "reset_my_children": "PLZ_TRANSLATE Restablecer a mis hijos",
   "delete_my_children": "PLZ_TRANSLATE Eliminar a mis hijos",
-  "error_notification_feed": "PLZ_TRANSLATE Se ha producido un error al obtener notificaciones"
+  "error_notification_feed": "PLZ_TRANSLATE Se ha producido un error al obtener notificaciones",
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE ¿Desea activar la aprobación automática para que las tareas realizadas se aprueben automáticamente transcurridas 24 horas?"
 }

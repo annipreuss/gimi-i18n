@@ -1638,5 +1638,6 @@
   "auto_task_approval": "PLZ_TRANSLATE Аўтаматычнае адабрэнне спраў",
   "reset_my_children": "PLZ_TRANSLATE Скід маіх дзяцей",
   "delete_my_children": "PLZ_TRANSLATE Выдаліць мае дзеці",
-  "error_notification_feed": "PLZ_TRANSLATE Нешта пайшло не так атрымліваць паведамлення"
+  "error_notification_feed": "PLZ_TRANSLATE Нешта пайшло не так атрымліваць паведамлення",
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Калі вы хочаце, каб уключыць аўтаматычнае зацвярджэнне завершаныя задачы аўтаматычна, зацверджаныя пасля 24 гадзін?"
 }

@@ -1649,5 +1649,6 @@
   "auto_task_approval": "Automatiskt godkännande av uppgifter",
   "reset_my_children": "Nollställ mina barn",
   "delete_my_children": "Radera mina barn",
-  "error_notification_feed": "Något gick fel att få meddelanden"
+  "error_notification_feed": "Något gick fel att få meddelanden",
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Vill du slå på auto-godkännande så att utförda uppgifter automatiskt godkänns efter 24 timmar?"
 }

@@ -1638,5 +1638,6 @@
   "auto_task_approval": "PLZ_TRANSLATE Automatisk godkjenning av oppgaver",
   "reset_my_children": "PLZ_TRANSLATE Tilbakestill barna mine",
   "delete_my_children": "PLZ_TRANSLATE Slett barna mine",
-  "error_notification_feed": "PLZ_TRANSLATE Noe gikk galt å få varsler"
+  "error_notification_feed": "PLZ_TRANSLATE Noe gikk galt å få varsler",
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Vil du slå på automatisk godkjenning, slik at utførte oppgaver godkjennes automatisk etter 24 timer?"
 }

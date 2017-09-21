@@ -1638,5 +1638,6 @@
   "auto_task_approval": "PLZ_TRANSLATE Approvazione automatica delle faccende",
   "reset_my_children": "PLZ_TRANSLATE Resettate i miei figli",
   "delete_my_children": "PLZ_TRANSLATE Elimina i miei figli",
-  "error_notification_feed": "PLZ_TRANSLATE Qualcosa ha sbagliato ottenere notifiche"
+  "error_notification_feed": "PLZ_TRANSLATE Qualcosa ha sbagliato ottenere notifiche",
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Vuoi attivare l'approvazione automatica in modo che le attività completate siano automaticamente approvate dopo 24 ore?"
 }

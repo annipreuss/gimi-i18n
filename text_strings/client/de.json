@@ -1638,5 +1638,6 @@
   "auto_task_approval": "PLZ_TRANSLATE Automatische Genehmigung von Aufgaben",
   "reset_my_children": "PLZ_TRANSLATE Meine Kinder zurücksetzen",
   "delete_my_children": "PLZ_TRANSLATE Löschen Sie meine Kinder",
-  "error_notification_feed": "PLZ_TRANSLATE Etwas ging falsch, Benachrichtigungen zu benachrichtigen"
+  "error_notification_feed": "PLZ_TRANSLATE Etwas ging falsch, Benachrichtigungen zu benachrichtigen",
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Möchten Sie die automatische Genehmigung einschalten, damit die ausgeführten Aufgaben nach 24 Stunden automatisch genehmigt werden?"
 }

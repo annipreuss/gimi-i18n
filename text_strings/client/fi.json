@@ -1638,5 +1638,6 @@
   "auto_task_approval": "PLZ_TRANSLATE Autojen hyväksyntä",
   "reset_my_children": "PLZ_TRANSLATE Nollaa lapseni",
   "delete_my_children": "PLZ_TRANSLATE Poista lapset",
-  "error_notification_feed": "PLZ_TRANSLATE Jotain meni vikaan saada ilmoituksia"
+  "error_notification_feed": "PLZ_TRANSLATE Jotain meni vikaan saada ilmoituksia",
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Haluatko ottaa automaattisen hyväksynnän käyttöön, jotta valmiit tehtävät hyväksytään automaattisesti 24 tunnin kuluttua?"
 }

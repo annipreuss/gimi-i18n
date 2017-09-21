@@ -1638,5 +1638,6 @@
   "auto_task_approval": "PLZ_TRANSLATE Automatische goedkeuring van taken",
   "reset_my_children": "PLZ_TRANSLATE Stel mijn kinderen terug",
   "delete_my_children": "PLZ_TRANSLATE Verwijder mijn kinderen",
-  "error_notification_feed": "PLZ_TRANSLATE Er is iets fout gegaan om kennisgevingen te krijgen"
+  "error_notification_feed": "PLZ_TRANSLATE Er is iets fout gegaan om kennisgevingen te krijgen",
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Wilt u automatische goedkeuring inschakelen, zodat de uitgevoerde taken automatisch na 24 uur worden goedgekeurd?"
 }
