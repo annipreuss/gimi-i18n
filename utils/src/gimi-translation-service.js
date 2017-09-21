@@ -8,8 +8,8 @@ var translate = require('@google-cloud/translate')({
 
 var AnnaHelper = require('./AnnaHelper')
 let templateDir = ['./text_strings/client', './text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/share-image-generator']
-let DEFAULT_FROM_FILE = 'en.json'
 let DEFAULT_JSON = 'default.json'
+let DEFAULT_FROM_FILE = AnnaHelper.DEFAULT_FROM_FILE
 
 let getFiles = (dir: string, fromFileName, toFileName, excludeFileName) =>
   fs.readdirSync(dir)
@@ -74,5 +74,3 @@ templateDir.forEach((dir) => {
     .catch((err) => console.error(err.message))
 
 })
-
-module.exports = {DEFAULT_FROM_FILE}

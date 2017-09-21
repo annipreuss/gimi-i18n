@@ -23,4 +23,5 @@ let fromHash = (text: string) => {
 
 let translationHelpTemplate = 'PLZ_TRANSLATE'
 let translationTravisHelper = 'ANNA'
-module.exports = {toHash, fromHash, translationHelpTemplate, translationTravisHelper}
+let DEFAULT_FROM_FILE = 'en.json'
+module.exports = {toHash, fromHash, translationHelpTemplate, translationTravisHelper, DEFAULT_FROM_FILE}
