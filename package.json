@@ -12,6 +12,7 @@
     "babelize": "./node_modules/.bin/babel ./utils/src -d ./utils/dest",
     "lint": "eslint . --ignore-pattern=/utils/dest/",
     "sara": "npm run babelize && node ./utils/dest/sara.js",
+    "ida ": "npm run babelize && node ./utils/dest/ida.js",
     "gimi-translation-service": "npm run babelize && node ./utils/dest/gimi-translation-service.js",
     "anna": "npm run gimi-translation-service en xx sv",
     "poli": "npm run gimi-translation-service sv en xx",
