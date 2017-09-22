@@ -1,6 +1,6 @@
 {
   "name": "INR",
-  "incrementInterval" : 10,
+  "incrementInterval" : 50,
   "cheeseburgerValue" : 50,
   "spotifyValue" : 1000,
   "barcelonaValue" : 7000,
