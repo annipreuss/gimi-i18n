@@ -24,10 +24,7 @@ let getTranslateInfoFrom = (path) => {
      if(!text) return void 0
 
      Object.keys(LADIES).forEach((lady) => {
-       if(TextStrings[textid].includes(LADIES[lady])) {
-         textIds.push({textid, lady})
-         console.log(`Found ANNA in key: ${textid}`)
-       }
+       if(TextStrings[textid].includes(LADIES[lady])) textIds.push({textid, lady})
      })
    })
 
