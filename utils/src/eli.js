@@ -51,7 +51,6 @@ var info = templateDir.reduce((a,b) => a.concat(files.map((file) => getTranslate
 info = info.filter((x) => x.textIds.length > 0)
 
 info.forEach(x => removeANNAStringFromFile(x.path))
-// console.log('info', JSON.stringify(info, undefined, 2))
 
 info.forEach((x) => {
   var {path, textIds} = x
@@ -69,4 +68,3 @@ execSync('git remote add origin-with-push-access https://${GH_TOKEN}@github.com/
 execSync('git add --all')
 execSync(`git commit -m "Google Translated ${info[0].textIds.join(' ')}"`)
 if(TRAVIS) execSync('git push --no-verify --set-upstream origin-with-push-access')
-else execSync('kjdfslkdf')
