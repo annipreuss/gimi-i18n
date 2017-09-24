@@ -162,5 +162,6 @@
   "push_monthly_allowance_pre_payout_4": "PLZ_TRANSLATE Månadspengsdag! {child} dinero mensual de {child} ha sido puesto en la alcancía!",
   "push_remind_parent_child_weekly_money": "Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du har kontakt med dem. Varje vecka",
   "push_connect_child_help_develop_economical_skills": "Cuando te conectas con tu hijo, lo ayudas a desarrollar sus habilidades económicas",
-  "push_children_financial_smarter": "¿Sabías que los niños pueden llegar a ser financieramente más inteligentes? ¿Cómo están haciendo eso?"
+  "push_children_financial_smarter": "¿Sabías que los niños pueden llegar a ser financieramente más inteligentes? ¿Cómo están haciendo eso?",
+  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} retiró {transaction.str_value} de la alcancía"
 }

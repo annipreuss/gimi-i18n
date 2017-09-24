@@ -162,5 +162,6 @@
   "push_monthly_allowance_pre_payout_4": "PLZ_TRANSLATE Månadspengsdag! {child} s igakuine raha on paigutatud säärepangale!",
   "push_remind_parent_child_weekly_money": "Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du har kontakt med dem. Varje vecka",
   "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Kui loote oma lapsega ühendust, aitate oma lapsel arendada oma majanduslikke oskusi",
-  "push_children_financial_smarter": "PLZ_TRANSLATE Kas teadsite, et lapsed saavad kergesti majanduslikult targemaks saada! Kuidas nad seda teevad"
+  "push_children_financial_smarter": "PLZ_TRANSLATE Kas teadsite, et lapsed saavad kergesti majanduslikult targemaks saada! Kuidas nad seda teevad",
+  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} võttis {user.name} tagasi {transaction.str_value}"
 }

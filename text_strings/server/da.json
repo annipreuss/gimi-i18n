@@ -162,5 +162,6 @@
   "push_monthly_allowance_pre_payout_4": "PLZ_TRANSLATE Månadspengsdag! {child} s månedlige penge er blevet placeret i spargrisen!",
   "push_remind_parent_child_weekly_money": "Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du har kontakt med dem. Varje vecka",
   "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Når du opretter forbindelse til dit barn, hjælper du dit barn med at udvikle sine økonomiske evner",
-  "push_children_financial_smarter": "PLZ_TRANSLATE Vidste du, at børn nemt kan blive økonomisk smartere! Hvordan har de det"
+  "push_children_financial_smarter": "PLZ_TRANSLATE Vidste du, at børn nemt kan blive økonomisk smartere! Hvordan har de det",
+  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} trak {transaction.str_value} fra {user.name} tilbage"
 }

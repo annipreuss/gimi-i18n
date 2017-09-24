@@ -162,5 +162,6 @@
   "push_monthly_allowance_pre_payout_4": "PLZ_TRANSLATE Månadspengsdag! {child} «s штомесячная дапамога было ўкладзена ў скарбонку!",
   "push_remind_parent_child_weekly_money": "Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du har kontakt med dem. Varje vecka",
   "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Пры падключэнні да вашага дзіцяці дапамагчы дзіцяці развіць свае навыкі эканамічных",
-  "push_children_financial_smarter": "PLZ_TRANSLATE Ці ведаеце вы, што дзеці могуць лёгка стаць фінансава разумнейшы! Як яны гэта робяць"
+  "push_children_financial_smarter": "PLZ_TRANSLATE Ці ведаеце вы, што дзеці могуць лёгка стаць фінансава разумнейшы! Як яны гэта робяць",
+  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} адклікала {transaction.str_value} з скарбонкі"
 }
