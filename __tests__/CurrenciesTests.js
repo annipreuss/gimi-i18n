@@ -1,3 +1,4 @@
+/* eslint flow-header/flow-header: 0 */
 import {getSupportedCurrencyInfos, getDefaultCurrencyCode} from '../index'
 import DefaultCurrencies from '../DefaultCurrencies'
 import ExchangeRates from '../ExchangeRates'

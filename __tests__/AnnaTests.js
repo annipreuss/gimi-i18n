@@ -1,3 +1,4 @@
+/* eslint flow-header/flow-header: 0 */
 import {translationHelpTemplate, DEFAULT_FROM_FILE, translationTravisHelper} from '../utils/src/AnnaHelper'
 
 jest.unmock('../utils/src/AnnaHelper') // we need thos in order to run "jest" from gimi project

@@ -1,3 +1,4 @@
+/* eslint flow-header/flow-header: 0 */
 /* eslint no-console:0 */
 import {compareKeys, compareKeysWithinTextStrings} from '../TestUtil'
 var langCodes = ['da', 'en', 'fi', 'fr', 'nl', 'no', 'sv', 'it', 'es', 'de']

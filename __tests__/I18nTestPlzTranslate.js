@@ -1,7 +1,8 @@
+/* eslint flow-header/flow-header: 0 */
 
 import {searchPlzTranslate} from '../TestUtil'
 
-xit('it should not have PLZ_TRANSLATE in sv and en', () => {
+it('it should not have PLZ_TRANSLATE in sv and en', () => {
   var stringTagData = []
   var jsonDataTranslate = []
 
