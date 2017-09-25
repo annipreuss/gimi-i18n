@@ -1,7 +1,7 @@
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 var fs = require('fs')
 
-let RunIda = () :* => {
+let RunIda = ():* => {
   var files = ['config_AUD.json', 'config_CAD.json', 'config_DEF.json', 'config_DKK.json', 'config_EUR.json', 'config_GBP.json', 'config_INR.json', 'config_ISK.json', 'config_NOK.json', 'config_NZD.json', 'config_SEK.json', 'config_THB.json', 'config_USD.json']
   files.forEach((file) => {
     syncConfigKeys(file)

@@ -19,7 +19,7 @@ let getTranslateInfoFrom = (path) => {
 
   keys.forEach(textid => {
     var text = TextStrings[textid]
-    if (!text) return void 0
+    if (!text) text = ''
 
     Object.keys(LADIES).forEach((lady) => {
       if (TextStrings[textid].includes(LADIES[lady])) textIds.push({textid, lady})
