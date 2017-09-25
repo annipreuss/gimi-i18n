@@ -1650,5 +1650,7 @@
   "reset_my_children": "Nollställ mina barn",
   "delete_my_children": "Radera mina barn",
   "error_notification_feed": "Något gick fel att få meddelanden",
-  "first_time_auto_approval_desc": "PLZ_TRANSLATE Vill du slå på auto-godkännande så att utförda uppgifter automatiskt godkänns efter 24 timmar?"
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Vill du slå på auto-godkännande så att utförda uppgifter automatiskt godkänns efter 24 timmar?",
+  "keep_family_together": "Håll ihop familjen",
+  "onboarding_parent_4_desc": "När familjen är ihopkopplad och hanterar pengar tillsammans blir familjefinanserna både enklare och roligare!"
 }

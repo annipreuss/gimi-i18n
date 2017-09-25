@@ -1639,5 +1639,7 @@
   "reset_my_children": "PLZ_TRANSLATE Lähtestage oma lapsed",
   "delete_my_children": "PLZ_TRANSLATE Kustuta mu lapsed",
   "error_notification_feed": "PLZ_TRANSLATE Märguande saamiseks läks midagi valesti",
-  "first_time_auto_approval_desc": "PLZ_TRANSLATE Kas soovite automaatse kinnitamise sisse lülitada, et lõpetatud ülesanded kinnitataks automaatselt pärast 24 tundi?"
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Kas soovite automaatse kinnitamise sisse lülitada, et lõpetatud ülesanded kinnitataks automaatselt pärast 24 tundi?",
+  "keep_family_together": "PLZ_TRANSLATE Hoidke perekonda koos",
+  "onboarding_parent_4_desc": "PLZ_TRANSLATE Kui perekond on ühendatud ja raha kokku käib, on pere rahastamine lihtsam ja lõbus!"
 }

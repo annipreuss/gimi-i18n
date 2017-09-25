@@ -1639,5 +1639,7 @@
   "reset_my_children": "PLZ_TRANSLATE Resettate i miei figli",
   "delete_my_children": "PLZ_TRANSLATE Elimina i miei figli",
   "error_notification_feed": "PLZ_TRANSLATE Qualcosa ha sbagliato ottenere notifiche",
-  "first_time_auto_approval_desc": "PLZ_TRANSLATE Vuoi attivare l'approvazione automatica in modo che le attività completate siano automaticamente approvate dopo 24 ore?"
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Vuoi attivare l'approvazione automatica in modo che le attività completate siano automaticamente approvate dopo 24 ore?",
+  "keep_family_together": "PLZ_TRANSLATE Mantenere insieme la famiglia",
+  "onboarding_parent_4_desc": "PLZ_TRANSLATE Quando la famiglia è collegata e gestisce i soldi insieme, la finanza familiare sarà più semplice e divertente!"
 }

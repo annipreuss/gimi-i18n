@@ -1639,5 +1639,7 @@
   "reset_my_children": "PLZ_TRANSLATE Réinitialiser mes enfants",
   "delete_my_children": "PLZ_TRANSLATE Supprime mes enfants",
   "error_notification_feed": "PLZ_TRANSLATE Quelque chose s'est mal passé à recevoir des notifications",
-  "first_time_auto_approval_desc": "PLZ_TRANSLATE Voulez-vous allumer l'auto-approbation pour que les tâches exécutées soient automatiquement approuvées après 24 heures?"
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Voulez-vous allumer l'auto-approbation pour que les tâches exécutées soient automatiquement approuvées après 24 heures?",
+  "keep_family_together": "PLZ_TRANSLATE Gardez la famille ensemble",
+  "onboarding_parent_4_desc": "PLZ_TRANSLATE Lorsque la famille est connectée et gagne de l'argent, la finance familiale sera plus simple et amusante!"
 }

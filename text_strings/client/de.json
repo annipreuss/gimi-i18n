@@ -1639,5 +1639,7 @@
   "reset_my_children": "PLZ_TRANSLATE Meine Kinder zurücksetzen",
   "delete_my_children": "PLZ_TRANSLATE Löschen Sie meine Kinder",
   "error_notification_feed": "PLZ_TRANSLATE Etwas ging falsch, Benachrichtigungen zu benachrichtigen",
-  "first_time_auto_approval_desc": "PLZ_TRANSLATE Möchten Sie die automatische Genehmigung einschalten, damit die ausgeführten Aufgaben nach 24 Stunden automatisch genehmigt werden?"
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Möchten Sie die automatische Genehmigung einschalten, damit die ausgeführten Aufgaben nach 24 Stunden automatisch genehmigt werden?",
+  "keep_family_together": "PLZ_TRANSLATE Halten Sie die Familie zusammen",
+  "onboarding_parent_4_desc": "PLZ_TRANSLATE Wenn die Familie verbunden ist und Geld zusammen Geld, wird die Familie Finanzen einfacher und macht Spaß!"
 }

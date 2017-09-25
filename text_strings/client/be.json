@@ -1639,5 +1639,7 @@
   "reset_my_children": "PLZ_TRANSLATE Скід маіх дзяцей",
   "delete_my_children": "PLZ_TRANSLATE Выдаліць мае дзеці",
   "error_notification_feed": "PLZ_TRANSLATE Нешта пайшло не так атрымліваць паведамлення",
-  "first_time_auto_approval_desc": "PLZ_TRANSLATE Калі вы хочаце, каб уключыць аўтаматычнае зацвярджэнне завершаныя задачы аўтаматычна, зацверджаныя пасля 24 гадзін?"
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Калі вы хочаце, каб уключыць аўтаматычнае зацвярджэнне завершаныя задачы аўтаматычна, зацверджаныя пасля 24 гадзін?",
+  "keep_family_together": "PLZ_TRANSLATE трымаеце сям'ю",
+  "onboarding_parent_4_desc": "PLZ_TRANSLATE Калі сям'я падключана і звяртацца з грашыма разам, сям'я фінансы будуць больш проста і весела!"
 }

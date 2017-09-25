@@ -1639,5 +1639,7 @@
   "reset_my_children": "Restablecer a mis hijos",
   "delete_my_children": "Eliminar a mis hijos",
   "error_notification_feed": "Se ha producido un error al obtener las notificaciones",
-  "first_time_auto_approval_desc": "¿Deseas activar la aprobación automática para que las tareas realizadas se aprueben automáticamente transcurridas 24 horas?"
+  "first_time_auto_approval_desc": "¿Deseas activar la aprobación automática para que las tareas realizadas se aprueben automáticamente transcurridas 24 horas?",
+  "keep_family_together": "PLZ_TRANSLATE Mantener a la familia unida",
+  "onboarding_parent_4_desc": "PLZ_TRANSLATE Cuando la familia está conectada y manejar dinero juntos, la financiación familiar será más simple y divertido!"
 }

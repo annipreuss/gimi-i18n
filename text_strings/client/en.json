@@ -1639,5 +1639,7 @@
   "reset_my_children": "Reset my children",
   "delete_my_children": "Delete my children",
   "error_notification_feed": "Something went wrong getting notifications",
-  "first_time_auto_approval_desc": "PLZ_TRANSLATE Do you want to turn on auto-approval so that completed tasks are automatically approved after 24 hours?"
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Do you want to turn on auto-approval so that completed tasks are automatically approved after 24 hours?",
+  "keep_family_together": "Keep the family together",
+  "onboarding_parent_4_desc": "When the family is connected and handle money together, the family finance will be more simple and fun!"
 }

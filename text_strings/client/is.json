@@ -1639,5 +1639,7 @@
   "reset_my_children": "PLZ_TRANSLATE Endurstilla börnin mín",
   "delete_my_children": "PLZ_TRANSLATE Eyða börnum mínum",
   "error_notification_feed": "PLZ_TRANSLATE Eitthvað fór úrskeiðis að fá tilkynningar",
-  "first_time_auto_approval_desc": "PLZ_TRANSLATE Viltu kveikja á sjálfvirkri samþykki þannig að verkefnin sem framkvæma eru samþykkt sjálfkrafa eftir 24 klukkustundir?"
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Viltu kveikja á sjálfvirkri samþykki þannig að verkefnin sem framkvæma eru samþykkt sjálfkrafa eftir 24 klukkustundir?",
+  "keep_family_together": "PLZ_TRANSLATE Haltu fjölskyldunni saman",
+  "onboarding_parent_4_desc": "PLZ_TRANSLATE Þegar fjölskyldan er tengdur og annast peninga saman verður fjölskyldan fjármálin einfaldari og skemmtilegri!"
 }

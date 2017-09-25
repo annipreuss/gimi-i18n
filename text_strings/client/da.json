@@ -1639,5 +1639,7 @@
   "reset_my_children": "PLZ_TRANSLATE Nulstil mine børn",
   "delete_my_children": "PLZ_TRANSLATE Slet mine børn",
   "error_notification_feed": "PLZ_TRANSLATE Noget gik galt med at få underretninger",
-  "first_time_auto_approval_desc": "PLZ_TRANSLATE Vil du tænde automatisk godkendelse, så de udførte opgaver godkendes automatisk efter 24 timer?"
+  "first_time_auto_approval_desc": "PLZ_TRANSLATE Vil du tænde automatisk godkendelse, så de udførte opgaver godkendes automatisk efter 24 timer?",
+  "keep_family_together": "PLZ_TRANSLATE Hold familien sammen",
+  "onboarding_parent_4_desc": "PLZ_TRANSLATE Når familien er forbundet og håndterer penge sammen, bliver familiefinansiering mere enkel og sjov!"
 }
