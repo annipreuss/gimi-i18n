@@ -1652,5 +1652,7 @@
   "error_notification_feed": "Något gick fel att få meddelanden",
   "first_time_auto_approval_desc": "PLZ_TRANSLATE Vill du slå på auto-godkännande så att utförda uppgifter automatiskt godkänns efter 24 timmar?",
   "keep_family_together": "Håll ihop familjen",
-  "onboarding_parent_4_desc": "När familjen är ihopkopplad och hanterar pengar tillsammans blir familjefinanserna både enklare och roligare!"
+  "onboarding_parent_4_desc": "När familjen är ihopkopplad och hanterar pengar tillsammans blir familjefinanserna både enklare och roligare!",
+  "use_the_money": "Använd pengarna!",
+  "onboarding_parent_3_desc": "När du köper något som dina föräldrar betalar drar ni av pengarna från spargrisen. Koppla ihop med en förälder så är du igång!"
 }

@@ -1641,5 +1641,7 @@
   "error_notification_feed": "Jotain meni vikaan ilmoitusten saamisessa",
   "first_time_auto_approval_desc": "Haluatko ottaa automaattisen hyväksynnän käyttöön, jotta valmiit tehtävät hyväksytään automaattisesti 24 tunnin kuluttua?",
   "keep_family_together": "PLZ_TRANSLATE Pidä perhe yhdessä",
-  "onboarding_parent_4_desc": "PLZ_TRANSLATE Kun perhe on yhteydessä ja käsittelemään rahaa yhdessä, perherahoitus on yksinkertaisempaa ja hauskaa!"
+  "onboarding_parent_4_desc": "PLZ_TRANSLATE Kun perhe on yhteydessä ja käsittelemään rahaa yhdessä, perherahoitus on yksinkertaisempaa ja hauskaa!",
+  "use_the_money": "PLZ_TRANSLATE Käytä rahaa!",
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE Kun ostat vanhempiesi maksamaan jotain, sinä vähennät rahasi säästöpossuilta. Yhdistä vanhemman kanssa aloittaaksesi!"
 }

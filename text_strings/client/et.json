@@ -1641,5 +1641,7 @@
   "error_notification_feed": "PLZ_TRANSLATE Märguande saamiseks läks midagi valesti",
   "first_time_auto_approval_desc": "PLZ_TRANSLATE Kas soovite automaatse kinnitamise sisse lülitada, et lõpetatud ülesanded kinnitataks automaatselt pärast 24 tundi?",
   "keep_family_together": "PLZ_TRANSLATE Hoidke perekonda koos",
-  "onboarding_parent_4_desc": "PLZ_TRANSLATE Kui perekond on ühendatud ja raha kokku käib, on pere rahastamine lihtsam ja lõbus!"
+  "onboarding_parent_4_desc": "PLZ_TRANSLATE Kui perekond on ühendatud ja raha kokku käib, on pere rahastamine lihtsam ja lõbus!",
+  "use_the_money": "PLZ_TRANSLATE Kasutage raha!",
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE Kui ostate midagi, mida teie vanemad maksavad, siis võite maha raha varrepangast. Alusta ühendust vanemaga!"
 }

@@ -1641,5 +1641,7 @@
   "error_notification_feed": "Something went wrong getting notifications",
   "first_time_auto_approval_desc": "PLZ_TRANSLATE Do you want to turn on auto-approval so that completed tasks are automatically approved after 24 hours?",
   "keep_family_together": "Keep the family together",
-  "onboarding_parent_4_desc": "When the family is connected and handle money together, the family finance will be more simple and fun!"
+  "onboarding_parent_4_desc": "When the family is connected and handle money together, the family finance will be more simple and fun!",
+  "use_the_money": "Use the money!",
+  "onboarding_parent_3_desc": "When you buy something that your parents pay, you deduct the money from the piggy bank. Connect with a parent to start!"
 }

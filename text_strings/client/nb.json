@@ -1641,5 +1641,7 @@
   "error_notification_feed": "PLZ_TRANSLATE Noe gikk galt å få varsler",
   "first_time_auto_approval_desc": "PLZ_TRANSLATE Vil du slå på automatisk godkjenning, slik at utførte oppgaver godkjennes automatisk etter 24 timer?",
   "keep_family_together": "PLZ_TRANSLATE Hold familien sammen",
-  "onboarding_parent_4_desc": "PLZ_TRANSLATE Når familien er tilkoblet og håndterer penger sammen, blir familiefinansen enklere og morsom!"
+  "onboarding_parent_4_desc": "PLZ_TRANSLATE Når familien er tilkoblet og håndterer penger sammen, blir familiefinansen enklere og morsom!",
+  "use_the_money": "PLZ_TRANSLATE Bruk pengene!",
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE Når du kjøper noe som foreldrene dine betaler, trekker du pengene fra spargrisen. Koble til en forelder for å starte!"
 }
