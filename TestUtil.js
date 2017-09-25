@@ -185,3 +185,18 @@ export let stringTranslationTags = (lang: Object, languageCode: string, textStri
   })
   return { plzCheck: numberPlzCheck, plzTrans: numberPlzTransalte, lang: languageCode, path: textStringsType, annaTag: numberAnnaTranslation }
 }
+
+export let searchPlzTranslate = (lang: Object, languageCode: string, textStringsType: string): Object => {
+  var keys = Object.keys(lang)
+  var arrayPlzTranslate = []
+  var numberPlzTransalte = 0
+  keys.forEach(key => {
+    if (languageCode) {
+      if (lang[key].includes(plzTranslateTemplate)) {
+        numberPlzTransalte++
+        arrayPlzTranslate.push({key: key, lang: languageCode, path: textStringsType})
+      }
+    }
+  })
+  return {data: arrayPlzTranslate, plzTrans: numberPlzTransalte}
+}
