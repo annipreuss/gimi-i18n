@@ -1,5 +1,5 @@
 
-import { searchPlzTranslate } from '../TestUtil'
+import {searchPlzTranslate} from '../TestUtil'
 
 xit('it should not have PLZ_TRANSLATE in sv and en', () => {
   var stringTagData = []

@@ -1,6 +1,6 @@
 // @flow
 import IgnoredTextStrings from './IgnoredTextStrings.json'
-import { supportedLanguageCodes } from './index.js'
+import {supportedLanguageCodes} from './index.js'
 import defaultTextStrings from './text_strings/client/default.json'
 
 export let birgittaTemplate = 'PLZ_CHECK'
@@ -119,7 +119,7 @@ export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLang
       if (Math.abs(differencePerc) >= 0.20) {
         var actIncr = Math.abs(differencePerc)
         longTextWarning.push(`Lang: ${firstLangName}, Key: ${key} is 20% longer than: ${secondLangName} -> ${actIncr}`)
-        longTextSlackData.push({ lang: firstLangName, title: key, secLang: secondLangName, value: differencePerc, short: true })
+        longTextSlackData.push({lang: firstLangName, title: key, secLang: secondLangName, value: differencePerc, short: true})
       }
     }
     return true
@@ -145,7 +145,7 @@ export let countTranslationTemplates = (lang: Object, langName: string): Object 
       countUsesCheck.push(`Lang: ${langName}, Key: ${key}`)
     }
   })
-  return { lang: langName, countTranslate: countUsesTranslate.length, countCheck: countUsesCheck.length }
+  return {lang: langName, countTranslate: countUsesTranslate.length, countCheck: countUsesCheck.length}
 }
 
 export let stringLenghtStatistic = (firstLang: Object, secondLang: Object, firstLangName: string, secondLangName: string): Object => {
@@ -164,11 +164,11 @@ export let stringLenghtStatistic = (firstLang: Object, secondLang: Object, first
         differencePerc = differencePerc * 100
         var actIncr = Math.abs(differencePerc) + '%'
         longTextWarning.push(`Lang: ${firstLangName}, Key: ${key} is 20% longer than: ${secondLangName} -> ${actIncr}`)
-        longTextSlackData.push({ title: key, value: actIncr, short: true })
+        longTextSlackData.push({title: key, value: actIncr, short: true})
       }
     }
   })
-  return { data: longTextSlackData, status: veryLongText }
+  return {data: longTextSlackData, status: veryLongText}
 }
 
 export let stringTranslationTags = (lang: Object, languageCode: string, textStringsType: string): Object => {
@@ -183,7 +183,7 @@ export let stringTranslationTags = (lang: Object, languageCode: string, textStri
       if (lang[key].includes(annaTranslationTag)) numberAnnaTranslation++
     }
   })
-  return { plzCheck: numberPlzCheck, plzTrans: numberPlzTransalte, lang: languageCode, path: textStringsType, annaTag: numberAnnaTranslation }
+  return {plzCheck: numberPlzCheck, plzTrans: numberPlzTransalte, lang: languageCode, path: textStringsType, annaTag: numberAnnaTranslation}
 }
 
 export let searchPlzTranslate = (lang: Object, languageCode: string, textStringsType: string): Object => {

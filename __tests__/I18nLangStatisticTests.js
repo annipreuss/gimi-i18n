@@ -1,5 +1,5 @@
-import { getTextStrings, languageCodes, languageCodesForTranslation } from '../index'
-import { stringLenghtStatistic, stringTranslationTags } from '../TestUtil'
+import {getTextStrings, languageCodes, languageCodesForTranslation} from '../index'
+import {stringLenghtStatistic, stringTranslationTags} from '../TestUtil'
 var languageCodesHolder = languageCodes
 var Slack = require('node-slack')
 

@@ -7,7 +7,7 @@
  describe('JSON files', () => {
    it('LOL')
    templateDirs.forEach((dir) => {
-     if(!fs.existsSync(dir)) return
+     if (!fs.existsSync(dir)) return
      fs.readdirSync(dir).forEach((file) => {
        let path = `${dir}/${file}`
        it(`it should have valid JSON for ${path}`, () => {
