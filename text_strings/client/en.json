@@ -1643,5 +1643,9 @@
   "keep_family_together": "Keep the family together",
   "onboarding_parent_4_desc": "When the family is connected and handle money together, the family finance will be more simple and fun!",
   "use_the_money": "Use the money!",
-  "onboarding_child_3_desc": "When you buy something that your parents pay, you deduct the money from the piggy bank. Connect with a parent to start!"
+  "onboarding_child_3_desc": "When you buy something that your parents pay, you deduct the money from the piggy bank. Connect with a parent to start!",
+  "onboarding_child_1_title": "Your own piggy bank",
+  "onboarding_child_1_desc": "With Gimi you have a piggy bank that shows how much money your parents owe you. Your pocket money is added to your piggy bank. Automagically 😊",
+  "onboarding_parent_1_title": "Forget cash",
+  "onboarding_parent_1_desc": "With Gimi every child gets their own piggy bank. It allows them to begin understanding money better. Meanwhile you no longer have to give them cash."
 }

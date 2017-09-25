@@ -1654,5 +1654,9 @@
   "keep_family_together": "Håll ihop familjen",
   "onboarding_parent_4_desc": "När familjen är ihopkopplad och hanterar pengar tillsammans blir familjefinanserna både enklare och roligare!",
   "use_the_money": "Använd pengarna!",
-  "onboarding_child_3_desc": "När du köper något som dina föräldrar betalar drar ni av pengarna från spargrisen. Koppla ihop med en förälder så är du igång!"
+  "onboarding_child_3_desc": "När du köper något som dina föräldrar betalar drar ni av pengarna från spargrisen. Koppla ihop med en förälder så är du igång!",
+  "onboarding_child_1_title": "Din egna spargris",
+  "onboarding_child_1_desc": "Med Gimi har du en spargris som visar hur mycket pengar dina päron är skyldiga dig. I spargrisen läggs din vecko- eller månadspeng. Helt automagiskt 😊",
+  "onboarding_parent_1_title": "Glöm kontanterna",
+  "onboarding_parent_1_desc": "Med Gimi får alla barn en egen spargris. Den gör att de börjar förstå pengar bättre och du slipper hålla reda på kontanter."
 }
