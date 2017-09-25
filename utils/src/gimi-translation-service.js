@@ -1,4 +1,3 @@
-// @flow
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 var fs = require('fs')
 var translate = require('@google-cloud/translate')({
@@ -19,10 +18,9 @@ let getFiles = (dir: string, fromFileName, toFileName, excludeFileName) =>
     .map((fileName) => `${dir}/${fileName}`)
 
 let translateTextStringInFile = (path: string, textId, fromFilePath: string) => {
-
   var lang = path.replace('.json', '').split('/').pop()
   if (lang === 'nb') lang = 'no'
-  if (fromFilePath === './text_strings/gimi-web/nb.json') fromFilePath = './text_strings/gimi-web/no.json' //ugle gimi-web support
+  if (fromFilePath === './text_strings/gimi-web/nb.json') fromFilePath = './text_strings/gimi-web/no.json' // ugle gimi-web support
 
   // Translate To
   let TextStringsJSON = fs.readFileSync(path, {encoding: 'utf8'})
@@ -33,10 +31,10 @@ let translateTextStringInFile = (path: string, textId, fromFilePath: string) => 
   TranslationString = JSON.parse(TranslationString)
 
   var stringToTranslate = TranslationString[textId]
-  if(!stringToTranslate) return console.log(`Cant find ${textId} in ${path}`)
+  if (!stringToTranslate) return console.log(`Cant find ${textId} in ${path}`)
 
   // hash %1$d to num evals to work with google translate
-  var stringToTranslate = AnnaHelper.toHash(stringToTranslate)
+  stringToTranslate = AnnaHelper.toHash(stringToTranslate)
 
   return translate.translate(stringToTranslate, lang, (err, translation) => {
     if (err) return console.log(`Error on textId ${textId}. message: ${err}. file: ${path}`)
@@ -65,12 +63,10 @@ let textIdToTranslate = process.argv[5]
 console.log({textIdToTranslate, fromFileName, toFileName, excludeFileName})
 
 templateDir.forEach((dir) => {
-  var {toHash, fromHash, translationHelpTemplate} = AnnaHelper
   var paths = getFiles(dir, fromFileName, toFileName, excludeFileName)
   console.log('paths', paths)
 
-  Promise.resolve(paths.forEach((path) => translateTextStringInFile(path, textIdToTranslate, `${dir}/${fromFileName}`,)))
+  Promise.resolve(paths.forEach((path) => translateTextStringInFile(path, textIdToTranslate, `${dir}/${fromFileName}`)))
     .then(() => console.log('saved Successfully :)'))
     .catch((err) => console.error(err.message))
-
 })

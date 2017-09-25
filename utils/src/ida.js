@@ -29,7 +29,7 @@ let syncConfigKeys = (file: string) => {
     })
 
   // Save changes
-  newConf = JSON.stringify(config, undefined, 2)
+  var newConf = JSON.stringify(config, undefined, 2)
   fs.unlinkSync('./config/' + file)
   fs.writeFileSync('./config/' + file, newConf, {encoding: 'utf8'})
 }
