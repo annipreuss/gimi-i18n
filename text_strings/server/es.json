@@ -154,14 +154,14 @@
   "push_weekly_allowance_pre_payout_1": "¡{child} tiene un descanso semanal hoy!",
   "push_weekly_allowance_pre_payout_2": "{child} El fin de semana de {child} ha sido colocado en la alcancía, ¡klinn!",
   "push_weekly_allowance_pre_payout_3": "Día de pago, ¡{child} tiene el dinero semanal en su alcancía!",
-  "push_weekly_allowance_pre_payout_4": "PLZ_TRANSLATE Veckopengsdag! {child} La tasa semanal de {child} ha sido colocada en la alcancía!",
-  "push_monthly_allowance_pre_payout_0": "¡{child} consiguó hoy el dinero mensual en su alcancía!",
+  "push_weekly_allowance_pre_payout_4": "¡Día para la asignación semanal! {child}, ¡la tasa semanal de {child} se ha colocado en la alcancía!",
+  "push_monthly_allowance_pre_payout_0": "¡{child} recibió hoy el dinero mensual en su alcancía!",
   "push_monthly_allowance_pre_payout_1": "¡{child} recibió su dinero mensual hoy!",
-  "push_monthly_allowance_pre_payout_2": "¡{child} el dinero mensual de {child} ha sido puesto en la alcancía, klirr!",
+  "push_monthly_allowance_pre_payout_2": "¡{child}, el dinero mensual de {child} se ha colocado en la alcancía, klinn!",
   "push_monthly_allowance_pre_payout_3": "PLZ_TRANSLATE Día de pago {child} tiene el pico de la luna en su alcancía!",
-  "push_monthly_allowance_pre_payout_4": "PLZ_TRANSLATE Månadspengsdag! {child} dinero mensual de {child} ha sido puesto en la alcancía!",
-  "push_remind_parent_child_weekly_money": "Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du har kontakt med dem. Varje vecka",
+  "push_monthly_allowance_pre_payout_4": "¡Día para la asignación mensual! {child}, ¡el dinero mensual de {child} se ha colocado en la alcancía!",
+  "push_remind_parent_child_weekly_money": "¿Sabes que a tus padres se les recordará realizar tu aporte semanal si estás en contacto con ellos?. Cada semana",
   "push_connect_child_help_develop_economical_skills": "Cuando te conectas con tu hijo, lo ayudas a desarrollar sus habilidades económicas",
   "push_children_financial_smarter": "¿Sabías que los niños pueden llegar a ser financieramente más inteligentes? ¿Cómo están haciendo eso?",
-  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} retiró {transaction.str_value} de la alcancía"
+  "event_withdrawal_child": "{user.name} retiró {transaction.str_value} de la alcancía"
 }
