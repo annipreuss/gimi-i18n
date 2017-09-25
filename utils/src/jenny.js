@@ -1,3 +1,4 @@
+/* eslint flow-header/flow-header: 0 */
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 var keysToIgnore = [
   'child_about_data_tracking_title',

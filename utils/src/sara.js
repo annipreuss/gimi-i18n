@@ -1,3 +1,4 @@
+/* eslint flow-header/flow-header: 0 */
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 var fs = require('fs')
 let templateDir = ['./text_strings/client', './text_strings/server', './text_strings/templates', './text_strings/gimi-web']

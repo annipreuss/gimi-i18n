@@ -1,3 +1,4 @@
+/* eslint flow-header/flow-header: 0 */
 const {execSync} = require('child_process')
 var fs = require('fs')
 var {TRAVIS} = process.env
