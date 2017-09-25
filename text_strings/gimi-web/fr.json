@@ -275,7 +275,7 @@
   "seo.news.h3": "actuel",
   "seo.news.title": "actuel",
   "seo.news.description": "actuel",
-  "footer.acceptCookies": "PLZ_TRANSLATE J'accepte",
-  "page.not.found.title": "PLZ_TRANSLATE 404, oops!",
-  "page.not.found.text": "PLZ_TRANSLATE nous avons essayé de chercher votre page ... mais nous ne pouvions pas &#39; trouver"
+  "footer.acceptCookies": "J'accepte",
+  "page.not.found.title": "404, oups!",
+  "page.not.found.text": "nous avons essayé de chercher votre page...\nmais nous n'avons pas pu la trouver"
 }
