@@ -31,10 +31,12 @@ it('it should not have PLZ_TRANSLATE in sv and en', () => {
   })
   // get plzTransalte
   stringTagData.forEach(data => {
-    if (data.plzTrans > 0) {
-      let foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
-      jsonDataTranslate.push(foo)
+    if (data) {
+      if (data.plzTrans > 0) {
+        let foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+        jsonDataTranslate.push(foo)
       // jsonDataTranslate.push(`key: ${key}, path: ${path}, lang: ${lang}`)
+      }
     }
   })
   expect(jsonDataTranslate).toEqual([])
