@@ -1643,5 +1643,9 @@
   "keep_family_together": "PLZ_TRANSLATE Haltu fjölskyldunni saman",
   "onboarding_parent_4_desc": "PLZ_TRANSLATE Þegar fjölskyldan er tengdur og annast peninga saman verður fjölskyldan fjármálin einfaldari og skemmtilegri!",
   "use_the_money": "PLZ_TRANSLATE Notaðu peningana!",
-  "onboarding_child_3_desc": "PLZ_TRANSLATE Þegar þú kaupir eitthvað sem foreldrar þínir greiða, dragaðu peningana úr grísinni. Tengstu foreldri til að byrja!"
+  "onboarding_child_3_desc": "PLZ_TRANSLATE Þegar þú kaupir eitthvað sem foreldrar þínir greiða, dragaðu peningana úr grísinni. Tengstu foreldri til að byrja!",
+  "onboarding_child_1_title": "PLZ_TRANSLATE Eigin grís banki",
+  "onboarding_child_1_desc": "PLZ_TRANSLATE Með Gimi þú ert með grís banka sem sýnir hversu mikið fé foreldrar þínar skulda þér. Vasapeninginn þinn er bætt við grísabankann þinn. Sjálfvirkur 😊",
+  "onboarding_parent_1_title": "PLZ_TRANSLATE Gleymdu peningum",
+  "onboarding_parent_1_desc": "PLZ_TRANSLATE Með Gimi fær hvert barn sér grís banka sína. Það gerir þeim kleift að byrja að skilja peningana betur. Á meðan þú þarft ekki lengur að gefa þeim peninga."
 }

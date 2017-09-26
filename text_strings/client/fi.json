@@ -1643,5 +1643,9 @@
   "keep_family_together": "Pidä perhe yhdessä",
   "onboarding_parent_4_desc": "Kun perhe on yhdistetty ja käsittelee rahaa yhdessä, perheen talous on yksinkertaisempaa ja hauskempaa!",
   "use_the_money": "Käytä rahaa!",
-  "onboarding_child_3_desc": "Kun ostat jotain, jonka vanhempasi maksavat, vähennät rahat säästöpossustasi. Yhdistä vanhemman kanssa aloittaaksesi!"
+  "onboarding_child_3_desc": "Kun ostat jotain, jonka vanhempasi maksavat, vähennät rahat säästöpossustasi. Yhdistä vanhemman kanssa aloittaaksesi!",
+  "onboarding_child_1_title": "PLZ_TRANSLATE Oma säästösi",
+  "onboarding_child_1_desc": "PLZ_TRANSLATE Gimin kanssa sinulla on säästöpossu, joka osoittaa, kuinka paljon rahaa vanhempasi ovat velkaa. Taskuvarasi lisätään säästöposseesi. Automagically 😊",
+  "onboarding_parent_1_title": "PLZ_TRANSLATE Unohda käteistä",
+  "onboarding_parent_1_desc": "PLZ_TRANSLATE Gimin kanssa jokaisella lapsella on oma säästöpossu. Sen avulla he voivat alkaa ymmärtää rahaa paremmin. Sillä välin ei enää tarvitse antaa rahaa."
 }

@@ -1643,5 +1643,9 @@
   "keep_family_together": "PLZ_TRANSLATE Hold familien sammen",
   "onboarding_parent_4_desc": "PLZ_TRANSLATE Når familien er tilkoblet og håndterer penger sammen, blir familiefinansen enklere og morsom!",
   "use_the_money": "PLZ_TRANSLATE Bruk pengene!",
-  "onboarding_child_3_desc": "PLZ_TRANSLATE Når du kjøper noe som foreldrene dine betaler, trekker du pengene fra spargrisen. Koble til en forelder for å starte!"
+  "onboarding_child_3_desc": "PLZ_TRANSLATE Når du kjøper noe som foreldrene dine betaler, trekker du pengene fra spargrisen. Koble til en forelder for å starte!",
+  "onboarding_child_1_title": "PLZ_TRANSLATE Din egen spargebyrå",
+  "onboarding_child_1_desc": "PLZ_TRANSLATE Med Gimi har du en spargris som viser hvor mye penger foreldrene dine skylder deg. Lommepenger legges til spargrisen din. Automagisk 😊",
+  "onboarding_parent_1_title": "PLZ_TRANSLATE Glem penger",
+  "onboarding_parent_1_desc": "PLZ_TRANSLATE Med Gimi får hvert barn sin egen spargebyr. Det gjør at de kan begynne å forstå penger bedre. I mellomtiden trenger du ikke lenger å gi dem penger."
 }

@@ -1643,5 +1643,9 @@
   "keep_family_together": "PLZ_TRANSLATE Halten Sie die Familie zusammen",
   "onboarding_parent_4_desc": "PLZ_TRANSLATE Wenn die Familie verbunden ist und Geld zusammen Geld, wird die Familie Finanzen einfacher und macht Spaß!",
   "use_the_money": "PLZ_TRANSLATE Benutze das Geld!",
-  "onboarding_child_3_desc": "PLZ_TRANSLATE Wenn du etwas kaufst, das deine Eltern zahlen, ziehst du das Geld vom Sparschwein ab. Verbinden Sie mit einem Elternteil zu starten!"
+  "onboarding_child_3_desc": "PLZ_TRANSLATE Wenn du etwas kaufst, das deine Eltern zahlen, ziehst du das Geld vom Sparschwein ab. Verbinden Sie mit einem Elternteil zu starten!",
+  "onboarding_child_1_title": "PLZ_TRANSLATE Ihr eigenes Sparschwein",
+  "onboarding_child_1_desc": "PLZ_TRANSLATE Mit Gimi hast du eine Sparschwein, die zeigt, wie viel Geld deine Eltern dir schuldig sind. Dein Taschengeld wird deinem Sparschwein hinzugefügt. Automatisch 😊",
+  "onboarding_parent_1_title": "PLZ_TRANSLATE Geld vergessen",
+  "onboarding_parent_1_desc": "PLZ_TRANSLATE Mit Gimi bekommt jedes Kind ihr eigenes Sparschwein. Es erlaubt ihnen, besser Geld zu verstehen. Mittlerweile muss man ihnen nicht mehr Geld geben."
 }

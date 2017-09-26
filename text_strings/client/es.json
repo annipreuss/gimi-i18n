@@ -1643,5 +1643,9 @@
   "keep_family_together": "PLZ_TRANSLATE Mantener a la familia unida",
   "onboarding_parent_4_desc": "PLZ_TRANSLATE Cuando la familia está conectada y manejar dinero juntos, la financiación familiar será más simple y divertido!",
   "use_the_money": "PLZ_TRANSLATE ¡Usa el dinero!",
-  "onboarding_child_3_desc": "PLZ_TRANSLATE Cuando usted compra algo que sus padres pagan, usted deduce el dinero de la alcancía. ¡Conéctese con un padre para comenzar!"
+  "onboarding_child_3_desc": "PLZ_TRANSLATE Cuando usted compra algo que sus padres pagan, usted deduce el dinero de la alcancía. ¡Conéctese con un padre para comenzar!",
+  "onboarding_child_1_title": "PLZ_TRANSLATE Su propia alcancía",
+  "onboarding_child_1_desc": "PLZ_TRANSLATE Con Gimi tienes una alcancía que muestra cuánto dinero te deben tus padres. Su dinero de bolsillo se agrega a su alcancía. Automagicamente",
+  "onboarding_parent_1_title": "PLZ_TRANSLATE Olvidar efectivo",
+  "onboarding_parent_1_desc": "PLZ_TRANSLATE Con Gimi cada niño tiene su propia alcancía. Les permite comenzar a entender mejor el dinero. Mientras tanto, ya no tendrás que darles dinero en efectivo."
 }

@@ -1643,5 +1643,9 @@
   "keep_family_together": "PLZ_TRANSLATE Hoidke perekonda koos",
   "onboarding_parent_4_desc": "PLZ_TRANSLATE Kui perekond on ühendatud ja raha kokku käib, on pere rahastamine lihtsam ja lõbus!",
   "use_the_money": "PLZ_TRANSLATE Kasutage raha!",
-  "onboarding_child_3_desc": "PLZ_TRANSLATE Kui ostate midagi, mida teie vanemad maksavad, siis võite maha raha varrepangast. Alusta ühendust vanemaga!"
+  "onboarding_child_3_desc": "PLZ_TRANSLATE Kui ostate midagi, mida teie vanemad maksavad, siis võite maha raha varrepangast. Alusta ühendust vanemaga!",
+  "onboarding_child_1_title": "PLZ_TRANSLATE Sinu enda segasupank",
+  "onboarding_child_1_desc": "PLZ_TRANSLATE Mis Gimi sul on säärane pank, mis näitab, kui palju raha teie vanemad võlgnevad. Teie taskuraha lisandub silepangale. Automaatselt ėm",
+  "onboarding_parent_1_title": "PLZ_TRANSLATE Unustage raha",
+  "onboarding_parent_1_desc": "PLZ_TRANSLATE Mis Gimi iga laps saab oma räpane. See võimaldab neil paremini mõista raha mõistmist. Vahepeal ei pea te enam raha neile andma."
 }

@@ -1643,5 +1643,9 @@
   "keep_family_together": "PLZ_TRANSLATE Hold familien sammen",
   "onboarding_parent_4_desc": "PLZ_TRANSLATE Når familien er forbundet og håndterer penge sammen, bliver familiefinansiering mere enkel og sjov!",
   "use_the_money": "PLZ_TRANSLATE Brug pengene!",
-  "onboarding_child_3_desc": "PLZ_TRANSLATE Når du køber noget, som dine forældre betaler, trækker du pengene fra spargrisen. Forbind med en forælder for at starte!"
+  "onboarding_child_3_desc": "PLZ_TRANSLATE Når du køber noget, som dine forældre betaler, trækker du pengene fra spargrisen. Forbind med en forælder for at starte!",
+  "onboarding_child_1_title": "PLZ_TRANSLATE Din egen sparegris",
+  "onboarding_child_1_desc": "PLZ_TRANSLATE Med Gimi har du en sparegris, der viser, hvor mange penge dine forældre skylder dig. Dine lommepenge tilføjes til din sparegris. Automagisk 😊",
+  "onboarding_parent_1_title": "PLZ_TRANSLATE Glem kontant",
+  "onboarding_parent_1_desc": "PLZ_TRANSLATE Med Gimi får hvert barn sin egen sparegris. Det giver dem mulighed for at begynde at forstå penge bedre. I mellemtiden er du ikke længere nødt til at give dem penge."
 }

@@ -1643,5 +1643,9 @@
   "keep_family_together": "PLZ_TRANSLATE Mantenere insieme la famiglia",
   "onboarding_parent_4_desc": "PLZ_TRANSLATE Quando la famiglia è collegata e gestisce i soldi insieme, la finanza familiare sarà più semplice e divertente!",
   "use_the_money": "PLZ_TRANSLATE Utilizza i soldi!",
-  "onboarding_child_3_desc": "PLZ_TRANSLATE Quando si acquista qualcosa che paga i tuoi genitori, dedichi i soldi dalla banca salvadana. Connetti con un genitore per iniziare!"
+  "onboarding_child_3_desc": "PLZ_TRANSLATE Quando si acquista qualcosa che paga i tuoi genitori, dedichi i soldi dalla banca salvadana. Connetti con un genitore per iniziare!",
+  "onboarding_child_1_title": "PLZ_TRANSLATE La tua banca salvadanaio",
+  "onboarding_child_1_desc": "PLZ_TRANSLATE Con Gimi hai una banca salvadana che mostra quanto denaro i tuoi genitori ti debbano. Il tuo denaro in tasca viene aggiunto alla tua banca salvadanaio. Automagicamente 😊",
+  "onboarding_parent_1_title": "PLZ_TRANSLATE Dimenticate i soldi",
+  "onboarding_parent_1_desc": "PLZ_TRANSLATE Con Gimi ogni bambino ottiene la propria banca piggy. Permette loro di iniziare a capire meglio i soldi. Nel frattempo non devi più dare loro denaro."
 }
