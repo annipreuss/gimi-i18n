@@ -163,5 +163,5 @@
   "push_remind_parent_child_weekly_money": "PLS_CHECK Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du har kontakt med dem. Varje vecka",
   "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Wenn du dich mit deinem Kind verbindest, hilf dein Kind, seine ökonomischen Fähigkeiten zu entwickeln",
   "push_children_financial_smarter": "PLZ_CHECK Wusstest Du, dass Kinder leicht über Finanzen lernen! Wie funktioniert das?",
-  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} zog {transaction.str_value} aus dem Sparschwein zurück"
+  "event_withdrawal_child": "{user.name} hat {transaction.str_value} aus dem Sparschwein abgebucht"
 }
