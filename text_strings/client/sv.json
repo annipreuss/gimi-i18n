@@ -918,7 +918,7 @@
   "notifications_task_done_text": "%1$d blev godkänd och du har inkasserat %2$d!",
   "task_done_state": "Utförd",
   "complete_task_state": "Utför",
-  "task_pending_state": "Granskas...",
+  "task_pending_state": "Väntar på godkännande",
   "edit_wish_navbar": "Önskning %1$d",
   "mark_not_purchased": "Avmarkera köpt",
   "create_wishlist": "Skapa önskelista",
