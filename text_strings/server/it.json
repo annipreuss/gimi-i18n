@@ -161,7 +161,7 @@
   "push_monthly_allowance_pre_payout_3": "PLZ_TRANSLATE Pagare giorno! {child} ha il picco della luna nella sua banca piggy!",
   "push_monthly_allowance_pre_payout_4": "PLZ_TRANSLATE Månadspengsdag! i soldi mensili di {child} sono stati posti nella banca salvadana!",
   "push_remind_parent_child_weekly_money": "Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du har kontakt med dem. Varje vecka",
-  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Quando si connette al tuo bambino, aiuta il bambino a sviluppare le proprie abilità econimiche",
+  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Quando si connette al tuo bambino, aiuta il bambino a sviluppare le sue capacità economiche",
   "push_children_financial_smarter": "PLZ_TRANSLATE Lo sapevate che i bambini possono diventare facilmente finanziariamente più intelligenti! Come lo fanno?",
   "event_withdrawal_child": "PLZ_TRANSLATE {user.name} ritirato {transaction.str_value} dalla banca piggy"
 }

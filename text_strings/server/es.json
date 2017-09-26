@@ -161,7 +161,7 @@
   "push_monthly_allowance_pre_payout_3": "PLZ_TRANSLATE Día de pago {child} tiene el pico de la luna en su alcancía!",
   "push_monthly_allowance_pre_payout_4": "¡Día para la asignación mensual! {child}, ¡el dinero mensual de {child} se ha colocado en la alcancía!",
   "push_remind_parent_child_weekly_money": "¿Sabes que a tus padres se les recordará realizar tu aporte semanal si estás en contacto con ellos?. Cada semana",
-  "push_connect_child_help_develop_economical_skills": "Cuando te conectas con tu hijo, lo ayudas a desarrollar sus habilidades económicas",
+  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Cuando usted se conecta con su hijo, usted ayuda a su hijo a desarrollar sus habilidades económicas",
   "push_children_financial_smarter": "¿Sabías que los niños pueden llegar a ser financieramente más inteligentes? ¿Cómo están haciendo eso?",
   "event_withdrawal_child": "{user.name} retiró {transaction.str_value} de la alcancía"
 }

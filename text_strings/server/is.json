@@ -161,7 +161,7 @@
   "push_monthly_allowance_pre_payout_3": "PLZ_TRANSLATE Borga dagur! {child} hefur fengið tunglspikinn í grís bankanum sínum!",
   "push_monthly_allowance_pre_payout_4": "PLZ_TRANSLATE Månadspengsdag! {child} s mánaðarlega peninga hefur verið sett í grís bankanum!",
   "push_remind_parent_child_weekly_money": "Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du har kontakt med dem. Varje vecka",
-  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Þegar þú tengist barninu þínu hjálpar þú barninu þínu að þróa eðlisfræðilegan hæfileika sína",
+  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Þegar þú tengist barninu þínu hjálpar þú barninu þínu að þróa hagkvæmni sína",
   "push_children_financial_smarter": "PLZ_TRANSLATE Vissir þú að börn geta auðveldlega orðið fjárhagslega betri! Hvernig eru þeir að gera það",
   "event_withdrawal_child": "PLZ_TRANSLATE {user.name} dregur {transaction.str_value} úr {user.name}"
 }

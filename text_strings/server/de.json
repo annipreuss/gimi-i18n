@@ -161,7 +161,7 @@
   "push_monthly_allowance_pre_payout_3": "Zahltag! {child} hat das Taschengeld in seinem Sparschwein erhalten!",
   "push_monthly_allowance_pre_payout_4": "PLZ_CHECK Månadspengsdag! {child} s monatliches Taschengeld wurde in das Sparschwein eingezahlt!",
   "push_remind_parent_child_weekly_money": "PLS_CHECK Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du har kontakt med dem. Varje vecka",
-  "push_connect_child_help_develop_economical_skills": "Wenn Du Dich mit Deinem Kind verbindest, kannst Du Deinem Kind helfen, seine ökonomischen Fähigkeiten zu verbessern",
+  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Wenn du dich mit deinem Kind verbindest, hilf dein Kind, seine ökonomischen Fähigkeiten zu entwickeln",
   "push_children_financial_smarter": "PLZ_CHECK Wusstest Du, dass Kinder leicht über Finanzen lernen! Wie funktioniert das?",
   "event_withdrawal_child": "PLZ_TRANSLATE {user.name} zog {transaction.str_value} aus dem Sparschwein zurück"
 }
