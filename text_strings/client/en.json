@@ -907,7 +907,7 @@
   "notifications_task_done_text": "%1$d was approved and you have received %2$d!",
   "task_done_state": "Complete",
   "complete_task_state": "Completed",
-  "task_pending_state": "In review...",
+  "task_pending_state": "EMMA Waiting for approval...",
   "edit_wish_navbar": "Wish %1$d",
   "mark_not_purchased": "Un-mark as bought",
   "create_wishlist": "Create wishlist",
