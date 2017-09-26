@@ -4,7 +4,7 @@
   "header_goal_duration": "ABGELAUFEN",
   "header_assignment_completed_at": "Vervollständigt am",
   "header_assignment_task_title": "AUFGABE",
-  "header_assignment_completed_by": "PVERVOLLSTÄNDIGT VON",
+  "header_assignment_completed_by": "VERVOLLSTÄNDIGT DURCH",
   "header_assignment_approved_by": "GENEHMIGT DURCH",
   "goal_duration_day_singular": "{days} Tag",
   "goal_duration_day_plural": "{days} Tage"
