@@ -1311,7 +1311,7 @@
   "are_you_sure_popover_title": "Är du säker?",
   "are_you_sure_popover_yes": "Ja, jag är säker",
   "delete_child_history_desc": "Vid klick på Ja nedan kommer all historik (transaktioner, sparmål och uppgifter) försvinna samt veckopengen och sparkontot kommer återställas till ursprungliga värden. Länkade föräldrar och bankkonton kommer inte att försvinna.",
-  "delete_child_history": "Radera historik",
+  "delete_child_history": "Nollställ barnet",
   "task_history_iterations_multiple": "Utförd %1$d gånger förut",
   "task_history_iterations_once": "Utförd %1$d gång förut",
   "boost": "Boost",
