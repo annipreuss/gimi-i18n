@@ -1647,5 +1647,7 @@
   "onboarding_child_1_title": "PLZ_TRANSLATE Din egen sparegris",
   "onboarding_child_1_desc": "PLZ_TRANSLATE Med Gimi har du en sparegris, der viser, hvor mange penge dine forældre skylder dig. Dine lommepenge tilføjes til din sparegris. Automagisk 😊",
   "onboarding_parent_1_title": "PLZ_TRANSLATE Glem kontant",
-  "onboarding_parent_1_desc": "PLZ_TRANSLATE Med Gimi får hvert barn sin egen sparegris. Det giver dem mulighed for at begynde at forstå penge bedre. I mellemtiden er du ikke længere nødt til at give dem penge."
+  "onboarding_parent_1_desc": "PLZ_TRANSLATE Med Gimi får hvert barn sin egen sparegris. Det giver dem mulighed for at begynde at forstå penge bedre. I mellemtiden er du ikke længere nødt til at give dem penge.",
+  "onboarding_child_2_title": "PLZ_TRANSLATE Drøm stor og tjen penge",
+  "onboarding_child_2_desc": "PLZ_TRANSLATE Lav et besparelsesmål og start med at spare på det, du har råd til at købe. Du kan få flere penge i spargrisen ved at udføre opgaver, du får fra dine forældre."
 }

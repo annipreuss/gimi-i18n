@@ -1647,5 +1647,7 @@
   "onboarding_child_1_title": "PLZ_TRANSLATE Din egen spargebyrå",
   "onboarding_child_1_desc": "PLZ_TRANSLATE Med Gimi har du en spargris som viser hvor mye penger foreldrene dine skylder deg. Lommepenger legges til spargrisen din. Automagisk 😊",
   "onboarding_parent_1_title": "PLZ_TRANSLATE Glem penger",
-  "onboarding_parent_1_desc": "PLZ_TRANSLATE Med Gimi får hvert barn sin egen spargebyr. Det gjør at de kan begynne å forstå penger bedre. I mellomtiden trenger du ikke lenger å gi dem penger."
+  "onboarding_parent_1_desc": "PLZ_TRANSLATE Med Gimi får hvert barn sin egen spargebyr. Det gjør at de kan begynne å forstå penger bedre. I mellomtiden trenger du ikke lenger å gi dem penger.",
+  "onboarding_child_2_title": "PLZ_TRANSLATE Drøm stort og tjene penger",
+  "onboarding_child_2_desc": "PLZ_TRANSLATE Lag et sparemål og begynn å spare på det du vil ha råd til å kjøpe. Du kan få mer penger i spargrisen ved å utføre oppgaver du får fra foreldrene dine."
 }

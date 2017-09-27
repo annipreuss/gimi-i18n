@@ -1647,5 +1647,7 @@
   "onboarding_child_1_title": "PLZ_TRANSLATE Sinu enda segasupank",
   "onboarding_child_1_desc": "PLZ_TRANSLATE Mis Gimi sul on säärane pank, mis näitab, kui palju raha teie vanemad võlgnevad. Teie taskuraha lisandub silepangale. Automaatselt ėm",
   "onboarding_parent_1_title": "PLZ_TRANSLATE Unustage raha",
-  "onboarding_parent_1_desc": "PLZ_TRANSLATE Mis Gimi iga laps saab oma räpane. See võimaldab neil paremini mõista raha mõistmist. Vahepeal ei pea te enam raha neile andma."
+  "onboarding_parent_1_desc": "PLZ_TRANSLATE Mis Gimi iga laps saab oma räpane. See võimaldab neil paremini mõista raha mõistmist. Vahepeal ei pea te enam raha neile andma.",
+  "onboarding_child_2_title": "PLZ_TRANSLATE Dream suur ja PLZ_TRANSLATE raha",
+  "onboarding_child_2_desc": "PLZ_TRANSLATE Looge kokkuhoiu eesmärk ja hakake säästma selle, mida soovite endale osta. Võite saada rohkem raha varitsuspank, täites ülesandeid, mida saate oma vanematelt."
 }

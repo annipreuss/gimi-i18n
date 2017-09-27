@@ -1611,7 +1611,7 @@
   "veckopengen_loading_quote_4b": "Durch Taschengeld zu wirtschaftlich intelligenteren Kindern",
   "veckopengen_loading_quote_4c": "Mehr Infos auf gimitheapp.com",
   "veckopengen_loading_quote_5a": "PLZ_CHECK Gimi - Wir &#39; wächst wieder",
-  "veckopengen_loading_quote_5b":  "Danke, dass Du einer von uns bist!",
+  "veckopengen_loading_quote_5b": "Danke, dass Du einer von uns bist!",
   "veckopengen_loading_quote_6": "Wir bringen Kindern bei, wie man erfolgreich verhandelt, auch wenn es um Taschengeld geht. Achtung!",
   "veckopengen_loading_quote_7": "Mit oder ohne Bargeld",
   "veckopengen_loading_quote_8": "Hast Du bemerkt, dass das Sparschwein desto mehr wächst, je mehr es enthält?",
@@ -1647,5 +1647,7 @@
   "onboarding_child_1_title": "Dein eigenes Sparschwein",
   "onboarding_child_1_desc": "Mit Gimi hast Du eine Sparschwein, das Dir zeigt, wie viel Taschengeld Deine Eltern Dir schulden. Dein Taschengeld wird Deinem Sparschwein hinzugefügt. Automatisch 😊",
   "onboarding_parent_1_title": "Taschengeld vergessen",
-  "onboarding_parent_1_desc": "Mit Gimi bekommt jedes Kind sein eigenes Sparschwein.  Das Geldverständnis der Kinder wird gefördert. Sie sparen ganz eigenständig."
+  "onboarding_parent_1_desc": "Mit Gimi bekommt jedes Kind sein eigenes Sparschwein.  Das Geldverständnis der Kinder wird gefördert. Sie sparen ganz eigenständig.",
+  "onboarding_child_2_title": "PLZ_TRANSLATE Traum groß und Geld verdienen",
+  "onboarding_child_2_desc": "PLZ_TRANSLATE Erstellen Sie ein Sparziel und beginnen Sie zu sparen, was Sie sich leisten möchten, zu kaufen. Sie können mehr Geld in der Sparschwein bekommen, indem Sie Aufgaben ausführen, die Sie von Ihren Eltern erhalten."
 }
