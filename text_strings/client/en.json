@@ -1310,7 +1310,7 @@
   "are_you_sure_popover_title": "Are you sure?",
   "are_you_sure_popover_yes": "Yes, I'm sure",
   "delete_child_history_desc": "When clicking Yes below, all history (transactions, savings goals and tasks) will disappear as well as the allowance and the savings account will be restored to its original values. Linked parents and bank accounts will not disappear.",
-  "delete_child_history": "Delete history",
+  "delete_child_history": "EMMA Delete child history",
   "task_history_iterations_multiple": "Performed %1$d times before",
   "task_history_iterations_once": "Performed %1$d once before",
   "boost": "Boost",
