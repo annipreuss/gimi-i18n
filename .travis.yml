@@ -9,7 +9,7 @@ cache:
     - .nvm
 
 script:
-  - npm run eli -- --push-changes
+  - npm run emma -- --push-changes
   - npm test
 
 
