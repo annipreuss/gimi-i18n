@@ -1515,5 +1515,7 @@
   "onboarding_parent_1_title": "PLZ_TRANSLATE Olvidar efectivo",
   "onboarding_parent_1_desc": "PLZ_TRANSLATE Con Gimi cada niño tiene su propia alcancía. Les permite comenzar a entender mejor el dinero. Mientras tanto, ya no tendrás que darles dinero en efectivo.",
   "onboarding_child_2_title": "PLZ_TRANSLATE Sueño grande y gana dinero",
-  "onboarding_child_2_desc": "PLZ_TRANSLATE Cree una meta de ahorro y empiece a ahorrar lo que quiere comprar. Usted puede conseguir más dinero en la alcancía realizando las tareas que usted consigue de sus padres."
+  "onboarding_child_2_desc": "PLZ_TRANSLATE Cree una meta de ahorro y empiece a ahorrar lo que quiere comprar. Usted puede conseguir más dinero en la alcancía realizando las tareas que usted consigue de sus padres.",
+  "onboarding_parent_2_title": "PLZ_TRANSLATE La alcancía muestra la deuda",
+  "onboarding_parent_2_desc": "PLZ_TRANSLATE La alcancía agrega automáticamente la asignación semanal o mensual y recompensas por las tareas. Muestra cuánto le debe a su hijo. ¡Usted puede decir que usted es el banco!"
 }

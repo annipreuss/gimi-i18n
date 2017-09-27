@@ -1515,5 +1515,7 @@
   "onboarding_parent_1_title": "PLZ_TRANSLATE Dimenticate i soldi",
   "onboarding_parent_1_desc": "PLZ_TRANSLATE Con Gimi ogni bambino ottiene la propria banca piggy. Permette loro di iniziare a capire meglio i soldi. Nel frattempo non devi più dare loro denaro.",
   "onboarding_child_2_title": "PLZ_TRANSLATE Sogno grande e guadagna",
-  "onboarding_child_2_desc": "PLZ_TRANSLATE Crea un obiettivo di risparmio e inizia a salvare quello che vuoi permettersi di acquistare. È possibile ottenere più soldi nella salvadanaio eseguendo compiti che si ottiene dai tuoi genitori."
+  "onboarding_child_2_desc": "PLZ_TRANSLATE Crea un obiettivo di risparmio e inizia a salvare quello che vuoi permettersi di acquistare. È possibile ottenere più soldi nella salvadanaio eseguendo compiti che si ottiene dai tuoi genitori.",
+  "onboarding_parent_2_title": "PLZ_TRANSLATE La banca piggy mostra il debito",
+  "onboarding_parent_2_desc": "PLZ_TRANSLATE La banca piggy aggiunge automaticamente l'indennità settimanale o mensile e le ricompense per i compiti. Mostra quanto sei debitore a tuo figlio. Puoi dire che sei la banca!"
 }

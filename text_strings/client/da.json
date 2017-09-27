@@ -1515,5 +1515,7 @@
   "onboarding_parent_1_title": "PLZ_TRANSLATE Glem kontant",
   "onboarding_parent_1_desc": "PLZ_TRANSLATE Med Gimi får hvert barn sin egen sparegris. Det giver dem mulighed for at begynde at forstå penge bedre. I mellemtiden er du ikke længere nødt til at give dem penge.",
   "onboarding_child_2_title": "PLZ_TRANSLATE Drøm stor og tjen penge",
-  "onboarding_child_2_desc": "PLZ_TRANSLATE Lav et besparelsesmål og start med at spare på det, du har råd til at købe. Du kan få flere penge i spargrisen ved at udføre opgaver, du får fra dine forældre."
+  "onboarding_child_2_desc": "PLZ_TRANSLATE Lav et besparelsesmål og start med at spare på det, du har råd til at købe. Du kan få flere penge i spargrisen ved at udføre opgaver, du får fra dine forældre.",
+  "onboarding_parent_2_title": "PLZ_TRANSLATE Sparegrisen viser gælden",
+  "onboarding_parent_2_desc": "PLZ_TRANSLATE Sparegrisen tilføjer automatisk ugentlige eller månedlige tillæg og belønninger for opgaver. Det viser, hvor meget du skylder dit barn. Du kan sige, at du er banken!"
 }

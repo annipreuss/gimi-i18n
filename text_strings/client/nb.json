@@ -1515,5 +1515,7 @@
   "onboarding_parent_1_title": "PLZ_TRANSLATE Glem penger",
   "onboarding_parent_1_desc": "PLZ_TRANSLATE Med Gimi får hvert barn sin egen spargebyr. Det gjør at de kan begynne å forstå penger bedre. I mellomtiden trenger du ikke lenger å gi dem penger.",
   "onboarding_child_2_title": "PLZ_TRANSLATE Drøm stort og tjene penger",
-  "onboarding_child_2_desc": "PLZ_TRANSLATE Lag et sparemål og begynn å spare på det du vil ha råd til å kjøpe. Du kan få mer penger i spargrisen ved å utføre oppgaver du får fra foreldrene dine."
+  "onboarding_child_2_desc": "PLZ_TRANSLATE Lag et sparemål og begynn å spare på det du vil ha råd til å kjøpe. Du kan få mer penger i spargrisen ved å utføre oppgaver du får fra foreldrene dine.",
+  "onboarding_parent_2_title": "PLZ_TRANSLATE Sparegruppen viser gjelden",
+  "onboarding_parent_2_desc": "PLZ_TRANSLATE Sparegruppen legger automatisk til ukentlig eller månedlig godtgjørelse og belønning for oppgaver. Det viser hvor mye du skylder barnet ditt. Du kan si at du er banken!"
 }

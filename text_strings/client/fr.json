@@ -1515,5 +1515,7 @@
   "onboarding_parent_1_title": "PLZ_TRANSLATE Oubliez de l'argent",
   "onboarding_parent_1_desc": "PLZ_TRANSLATE Avec Gimi, chaque enfant obtient sa propre tirelire. Cela leur permet de mieux comprendre l'argent. Pendant ce temps, vous n'avez plus à leur donner de l'argent.",
   "onboarding_child_2_title": "PLZ_TRANSLATE grand et PLZ_TRANSLATE argent",
-  "onboarding_child_2_desc": "PLZ_TRANSLATE Créez un objectif d'économie et commencez à économiser sur ce que vous voulez acheter. Vous pouvez obtenir plus d'argent dans la tirelire en effectuant des tâches que vous obtenez de vos parents."
+  "onboarding_child_2_desc": "PLZ_TRANSLATE Créez un objectif d'économie et commencez à économiser sur ce que vous voulez acheter. Vous pouvez obtenir plus d'argent dans la tirelire en effectuant des tâches que vous obtenez de vos parents.",
+  "onboarding_parent_2_title": "PLZ_TRANSLATE La tirelire montre la dette",
+  "onboarding_parent_2_desc": "PLZ_TRANSLATE La tirelire ajoute automatiquement l'allocation hebdomadaire ou mensuelle et les récompenses pour les tâches. Cela montre combien vous devez votre enfant. Vous pouvez dire que vous êtes la banque!"
 }

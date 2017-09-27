@@ -1515,5 +1515,7 @@
   "onboarding_parent_1_title": "PLZ_TRANSLATE Unohda käteistä",
   "onboarding_parent_1_desc": "PLZ_TRANSLATE Gimin kanssa jokaisella lapsella on oma säästöpossu. Sen avulla he voivat alkaa ymmärtää rahaa paremmin. Sillä välin ei enää tarvitse antaa rahaa.",
   "onboarding_child_2_title": "PLZ_TRANSLATE Unelma iso ja ansaita rahaa",
-  "onboarding_child_2_desc": "PLZ_TRANSLATE Luo säästötavoitteet ja aloita tallentaminen siihen, mitä haluat ostaa. Saat enemmän rahaa säästöpossuun suorittamalla tehtäviä, joita saat vanhemmilta."
+  "onboarding_child_2_desc": "PLZ_TRANSLATE Luo säästötavoitteet ja aloita tallentaminen siihen, mitä haluat ostaa. Saat enemmän rahaa säästöpossuun suorittamalla tehtäviä, joita saat vanhemmilta.",
+  "onboarding_parent_2_title": "PLZ_TRANSLATE Säästöpossu näyttää velan",
+  "onboarding_parent_2_desc": "PLZ_TRANSLATE Säästöpossu lisää automaattisesti viikoittaiset tai kuukausittaiset korvaukset ja palkkiot tehtävistä. Se osoittaa, kuinka paljon velkaa lapsesi. Voit sanoa, että olet pankki!"
 }
