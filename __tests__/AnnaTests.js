@@ -1,5 +1,5 @@
 /* eslint flow-header/flow-header: 0 */
-import {translationHelpTemplate, DEFAULT_FROM_FILE, translationTravisHelper} from '../utils/src/AnnaHelper'
+import {translationHelpTemplate, DEFAULT_FROM_FILE, translationTravisHelper, translationHelperEMMA} from '../utils/src/AnnaHelper'
 
 jest.unmock('../utils/src/AnnaHelper') // we need thos in order to run "jest" from gimi project
 jest.unmock('../utils/src/gimi-translation-service.js')
@@ -7,6 +7,10 @@ jest.unmock('../utils/src/gimi-translation-service.js')
 describe('AnnaHelper', () => {
   it('it should not have chaned translation helper template ', () => {
     expect(translationHelpTemplate).toEqual('PLZ_TRANSLATE')
+  })
+
+  it('it should not have chaned translation helper template ', () => {
+    expect(translationHelperEMMA).toEqual('EMMA')
   })
 
   it('it should translate from en instead of sv', () => {
