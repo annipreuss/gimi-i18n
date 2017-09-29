@@ -150,6 +150,10 @@ describe('TextStrings', () => {
     //eslint-disable-next-line
 
     text = text.replace(/['"]+/g, '')
+
+    if (jsonEmmaTag.length > 0) {
+      // SendToNonTech(text)
+    }
     SendToSlackTagStats(text)
   })
 })
@@ -174,6 +178,19 @@ export let SendToSlackTagStats = (text: Array<Object>, languageCode: string) => 
     username: 'I18nLangStatistics',
     icon_emoji: ':ramen:',
     attachments: [],
+    unfurl_links: true,
+    link_names: 1
+  })
+}
+
+export let SendToNonTech = (attachmentPayload: Array<Object>, languageCode: string) => {
+  var slack = new Slack('https://hooks.slack.com/services/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')
+  slack.send({
+    text: 'i18n Language files with languageCode "' + languageCode + '" are more than 25% longer then their English counter parts',
+    channel: '#TravisNonTech',
+    username: 'I18nLangStatistics',
+    icon_emoji: ':bread:',
+    attachments: attachmentPayload,
     unfurl_links: true,
     link_names: 1
   })
