@@ -1493,7 +1493,7 @@
   "parent_connected_popover_description": "Olet yhdistänyt henkilöön <b>%1$d</b>, %2$d voi nyt tarjota rahaa, askareita ja tukea säästötavoitteiden saavuttamiseksi.",
   "child_connected_popover_description": "Olet yhdistänyt henkilöön <b>%1$d</b>, joka voi nyt tarjota sinulle rahaa, askareita ja tukea säästötavoitteiden saavuttamiseksi.",
   "auto_approval_title": "Ota automaattinen hyväksyntä käyttöön?",
-  "auto_approval_desc": "Haluatko ottaa käyttöön askareiden automaattisen hyväksynnän henkilölle %1$d?",
+  "auto_approval_desc": "PLZ_TRANSLATE Haluatko ottaa automaattisen todentamisen käyttöön %1$d jotta valmiit tehtävät hyväksytään automaattisesti 24 tunnin kuluttua?",
   "goal_share_popover_parent_desc": "Jaa tämä ystävillesi, jotta heistä voi tulla yhtä hyviä säästäjiä kuin %1$d .",
   "auto_task_approval": "Askareiden automaattinen hyväksyntä",
   "reset_my_children": "Resetoi lapseni",

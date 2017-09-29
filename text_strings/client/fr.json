@@ -1493,7 +1493,7 @@
   "parent_connected_popover_description": "Vous avez été connecté à <b>%1$d</b> , %2$d peut maintenant vous donner de l'argent, des tâches et du soutien pour atteindre les objectifs d'épargne.",
   "child_connected_popover_description": "Vous avez été connecté à <b>%1$d</b> qui peut maintenant vous donner de l'argent, des tâches et du soutien pour atteindre les objectifs d'épargne.",
   "auto_approval_title": "Activer l'autorisation automatique?",
-  "auto_approval_desc": "Voulez-vous activer l'autorisation automatique des tâches pour %1$d ?",
+  "auto_approval_desc": "PLZ_TRANSLATE Voulez-vous activer l&#39;authentification automatique pour %1$d afin que les tâches complétées soient automatiquement approuvées après 24 heures?",
   "goal_share_popover_parent_desc": "Partagez ceci avec vos amis pour qu'ils apprennent à épargner comme %1$d .",
   "auto_task_approval": "Autorisation automatique des tâches",
   "reset_my_children": "Réinitialiser mes enfants",

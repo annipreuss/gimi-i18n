@@ -1493,7 +1493,7 @@
   "parent_connected_popover_description": "PLZ_TRANSLATE Sei stato connesso con <b>%1$d</b> , %2$d ora può fornire soldi, attività e supporto per raggiungere obiettivi di risparmio.",
   "child_connected_popover_description": "PLZ_TRANSLATE Sei stato connesso a <b>%1$d</b> che ora ti può dare soldi, attività e supporto per raggiungere obiettivi di risparmio.",
   "auto_approval_title": "PLZ_TRANSLATE Abilita l'approvazione automatica?",
-  "auto_approval_desc": "PLZ_TRANSLATE Vuoi abilitare l&#39;autorizzazione automatica degli oggetti di lavoro per %1$d ?",
+  "auto_approval_desc": "PLZ_TRANSLATE Vuoi attivare l&#39;autenticazione automatica per %1$d modo che le attività completate siano automaticamente approvate dopo 24 ore?",
   "goal_share_popover_parent_desc": "PLZ_TRANSLATE Condividi questo con i tuoi amici per renderli utili a salvare come %1$d .",
   "auto_task_approval": "PLZ_TRANSLATE Approvazione automatica delle faccende",
   "reset_my_children": "PLZ_TRANSLATE Resettate i miei figli",

@@ -1493,7 +1493,7 @@
   "parent_connected_popover_description": "Du bist jetzt mit <b>%1$d</b> verbunden, %2$d kann jetzt Geld einzahlen, Aufgaben stellen oder Dich bei Sparzielen unterstützen kann.",
   "child_connected_popover_description": "Du bist jetzt mit <b>%1$d</b> verbunden, der Dir jetzt Geld einzaheln, Aufgaben stellen oder Dich bei Sparzielen unterstützen kann.",
   "auto_approval_title": "Automatische Genehmigung aktivieren?",
-  "auto_approval_desc": "Möchtest Du die automatische Genehmigung von Aufgaben für %1$d aktivieren?",
+  "auto_approval_desc": "PLZ_TRANSLATE Möchten Sie die automatische Authentifizierung für %1$d aktivieren, damit die abgeschlossenen Aufgaben nach 24 Stunden automatisch genehmigt werden?",
   "goal_share_popover_parent_desc": "Teile dies mit Deinen Freunden, damit sie genauso gut wie %1$d sparen können .",
   "auto_task_approval": "Automatische Genehmigung von Aufgaben",
   "reset_my_children": "Meine Kinder zurücksetzen",

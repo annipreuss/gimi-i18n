@@ -1493,7 +1493,7 @@
   "parent_connected_popover_description": "You have been connected with <b>%1$d</b>, %2$d can now provide money, tasks, and support to achieve savings goals.",
   "child_connected_popover_description": "You have been connected to <b>%1$d</b> whom can now give you money, tasks, and support to achieve savings goals.",
   "auto_approval_title": "Enable Auto approval?",
-  "auto_approval_desc": "Do you want to enable auto approval of chores for %1$d?",
+  "auto_approval_desc": "Do you want to enable auto-authentication for %1$d so that completed tasks are automatically approved after 24 hours?",
   "goal_share_popover_parent_desc": "Share this with your friends to make them good at saving like %1$d.",
   "auto_task_approval": "Auto approval of chores",
   "reset_my_children": "Reset my children",
