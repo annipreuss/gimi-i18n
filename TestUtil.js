@@ -183,7 +183,7 @@ export let stringTranslationTags = (lang: Object, languageCode: string, textStri
       if (lang[key].includes(birgittaTemplate)) numberPlzCheck++
       if (lang[key].includes(plzTranslateTemplate)) numberPlzTransalte++
       if (lang[key].includes(annaTranslationTag)) numberAnnaTranslation++
-      if (lang[key].includes(annaTranslationTag)) numberEmmaStrings++
+      if (lang[key].includes(emmaTranslationTag)) numberEmmaStrings++
     }
   })
   return {plzCheck: numberPlzCheck, plzTrans: numberPlzTransalte, lang: languageCode, path: textStringsType, annaTag: numberAnnaTranslation, emmaTag: numberEmmaStrings}

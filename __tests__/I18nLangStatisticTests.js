@@ -143,16 +143,14 @@ describe('TextStrings', () => {
     var text = `PLZ_CHECK
     ${jsonDataCheck.map((i) => JSON.stringify(i)).join('\n')}
     PLZ_TRANSLATE
-    ${jsonDataTranslate.map((i) => JSON.stringify(i)).join('\n')}
-    EMMA
-    ${jsonEmmaTag.map((i) => JSON.stringify(i)).join('\n')}`
-
+    ${jsonDataTranslate.map((i) => JSON.stringify(i)).join('\n')}`
+    var textEmma = `Found Emma ${jsonEmmaTag.map((i) => JSON.stringify(i)).join('\n')}`
     //eslint-disable-next-line
 
     text = text.replace(/['"]+/g, '')
 
     if (jsonEmmaTag.length > 0) {
-      // SendToNonTech(text)
+      SendToNonTech(textEmma)
     }
     SendToSlackTagStats(text)
   })
@@ -183,14 +181,14 @@ export let SendToSlackTagStats = (text: Array<Object>, languageCode: string) => 
   })
 }
 
-export let SendToNonTech = (attachmentPayload: Array<Object>, languageCode: string) => {
-  var slack = new Slack('https://hooks.slack.com/services/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')
+export let SendToNonTech = (text: Array<Object>, languageCode: string) => {
+  var slack = new Slack('https://hooks.slack.com/services/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')
   slack.send({
-    text: 'i18n Language files with languageCode "' + languageCode + '" are more than 25% longer then their English counter parts',
-    channel: '#TravisNonTech',
+    text,
+    channel: '#travis-non-tech',
     username: 'I18nLangStatistics',
-    icon_emoji: ':bread:',
-    attachments: attachmentPayload,
+    icon_emoji: ':robot_face:',
+    attachments: [],
     unfurl_links: true,
     link_names: 1
   })
