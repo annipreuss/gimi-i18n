@@ -30,6 +30,7 @@ describe('TextStrings', () => {
     var stringTagData = []
     var jsonDataCheck = []
     var jsonDataTranslate = []
+    var jsonEmmaTag = []
 
     var textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator']
 
@@ -111,11 +112,41 @@ describe('TextStrings', () => {
         }
       }
     })
-
+    // get plz EMMA
+    stringTagData.forEach(data => {
+      var path = data.path ? data.path : 'client'
+      var isAdded = false
+      if (data.emmaTag > 0) {
+        for (var i = 0; i < jsonEmmaTag.length; i++) {
+          if (jsonEmmaTag[i].lang === data.lang) {
+            jsonEmmaTag[i].path.push(path)
+            jsonEmmaTag[i].count.push(data.emmaTag)
+            jsonEmmaTag[i].link.push('<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+            isAdded = true
+          }
+        }
+        if (!isAdded) {
+          var displayObject: Object = {
+            lang: '',
+            path: [],
+            count: [],
+            link: []
+          }
+          displayObject.lang = data.lang
+          displayObject.path.push(path)
+          displayObject.count.push(data.emmaTag)
+          displayObject.link.push('<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+          jsonEmmaTag.push(displayObject)
+        }
+      }
+    })
     var text = `PLZ_CHECK
     ${jsonDataCheck.map((i) => JSON.stringify(i)).join('\n')}
     PLZ_TRANSLATE
-    ${jsonDataTranslate.map((i) => JSON.stringify(i)).join('\n')}`
+    ${jsonDataTranslate.map((i) => JSON.stringify(i)).join('\n')}
+    EMMA
+    ${jsonEmmaTag.map((i) => JSON.stringify(i)).join('\n')}`
+
     //eslint-disable-next-line
 
     text = text.replace(/['"]+/g, '')

@@ -6,6 +6,7 @@ import defaultTextStrings from './text_strings/client/default.json'
 export let birgittaTemplate = 'PLZ_CHECK'
 export let plzTranslateTemplate = 'PLZ_TRANSLATE'
 export let annaTranslationTag = 'ANNA'
+export let emmaTranslationTag = 'EMMA'
 var ignoredKeys = ['currency', 'currencyMinus', 'currencyPlus', 'aint_no_money_desc', 'no_money_pig_parent_text']
 
 export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
@@ -176,14 +177,16 @@ export let stringTranslationTags = (lang: Object, languageCode: string, textStri
   var numberPlzCheck = 0
   var numberPlzTransalte = 0
   var numberAnnaTranslation = 0
+  var numberEmmaStrings = 0
   keys.forEach(key => {
     if (languageCode) {
       if (lang[key].includes(birgittaTemplate)) numberPlzCheck++
       if (lang[key].includes(plzTranslateTemplate)) numberPlzTransalte++
       if (lang[key].includes(annaTranslationTag)) numberAnnaTranslation++
+      if (lang[key].includes(annaTranslationTag)) numberEmmaStrings++
     }
   })
-  return {plzCheck: numberPlzCheck, plzTrans: numberPlzTransalte, lang: languageCode, path: textStringsType, annaTag: numberAnnaTranslation}
+  return {plzCheck: numberPlzCheck, plzTrans: numberPlzTransalte, lang: languageCode, path: textStringsType, annaTag: numberAnnaTranslation, emmaTag: numberEmmaStrings}
 }
 
 export let searchPlzTranslate = (lang: Object, languageCode: string, textStringsType: string): Object => {
