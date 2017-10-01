@@ -6,6 +6,6 @@
   "header_assignment_task_title": "ASKARE",
   "header_assignment_completed_by": "TÄYDENTÄNYT",
   "header_assignment_approved_by": "HYVÄKSYNYT",
-  "goal_duration_day_singular": "PLZ_TRANSLATE {days} päivä",
-  "goal_duration_day_plural": "PLZ_TRANSLATE {days} päivää"
+  "goal_duration_day_singular": "{days} päivä",
+  "goal_duration_day_plural": "{days} päivää"
 }
