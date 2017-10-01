@@ -1,5 +1,5 @@
 {
-  "title.home": "PLZ_TRANSLATE Gimi",
+  "title.home": "Gimi",
   "title.family": "Gimi >> Fælleskab",
   "title.coaching": "Gimi >> Coaching",
   "title.news": "Gimi >> Nyheder",
@@ -53,10 +53,10 @@
   "home.quote1": "“Nem at bruge og en fantastisk måde at motivere børnene!”",
   "home.quote1_sub": "37 år og mor til to",
   "home.quote1_name": "Anna",
-  "home.quote2": "PLZ_TRANSLATE \"Jeg kunne endelig spare på en scooter! Tak Gimi! \"",
+  "home.quote2": "\"Jeg kunne endelig spare op til en scooter! Tak Gimi! \"",
   "home.quote2_name": "Leon",
   "home.quote2_sub": "10 år",
-  "home.quote3": "PLZ_TRANSLATE \"Gennemførelsen har aldrig været så sjovt! Eller givende :) \"",
+  "home.quote3": " \"Gennemførelsen har aldrig været så sjovt! Eller givende :) \"",
   "home.quote3_sub": "8 år",
   "home.quote3_name": "Benny",
   "home.quote4": "“Tommel op for Gimi! Det er en fantastisk måde at holde styr på ens løfter til børnene and og motivere dem til at hjælpe til i hjemmet!”",
@@ -274,6 +274,6 @@
   "seo.news.title": "Nuværende",
   "seo.news.description": "Nuværende",
   "footer.acceptCookies": "Jeg accepterer",
-  "page.not.found.title": "PLZ_TRANSLATE 404, oops!",
-  "page.not.found.text": "PLZ_TRANSLATE vi prøvede på udkig efter din side ... men vi kan ikke &#39; t finde det"
+  "page.not.found.title": "Fejl 404, oops!",
+  "page.not.found.text": "vi var på udkig efter din side ... men vi kunne ikke &#39; finde den"
 }
