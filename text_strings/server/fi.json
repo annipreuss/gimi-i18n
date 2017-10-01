@@ -161,7 +161,7 @@
   "push_monthly_allowance_pre_payout_3": "Maksupäivä! {child} sai kuukausirahan säästöpossuunsa!",
   "push_monthly_allowance_pre_payout_4": "Kuukausirahapäivä! {child}n kuukausiraha laitettiin hänen säästöpossuunsa!",
   "push_remind_parent_child_weekly_money": "Tiesitkö, että vanhempiasi muistutetaan antamaan viikkorahaa, jos yhdistät heihin. Joka viikko",
-  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Kun muodostat yhteyden lapsiin, autat lapsellesi taloudellisia taitoja",
+  "push_connect_child_help_develop_economical_skills": "Kun muodostat yhteyden lapsiisi, autat heitä kehittämään taloudellisia taitojaan",
   "push_children_financial_smarter": "Tiesitkö, että lapsista voi helposti tulla taloudellisesti älykkäämpiä! Miten he tekevät sen",
   "event_withdrawal_child": "{user.name} nosti {transaction.str_value} säästöpossustaan"
 }
