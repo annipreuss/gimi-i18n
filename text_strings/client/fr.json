@@ -1198,7 +1198,7 @@
   "savings_goal_payout_desc": "Choisissez le versement de l'objectif d'épargne pour pouvoir retirer l'argent de la tirelire et pour que vous puissiez par la suite commencer à épargner pour l'objectif suivant.",
   "disable_sound_setting": "Son",
   "reward_per_hour": "Récompense par heure",
-  "news_popover_headline": "Nouvelle mise à jour dans l'application!",
+  "news_popover_headline": "PLZ_TRANSLATE Nouvelles dans cette version!",
   "news_popover_sub_headline": "Récompenser directement dans la tirelire",
   "news_popover_first": "1. Les récompenses pour les tâches effectuées vont <b>à la tirelire</b> au lieu d'une allocation hebdomadaire ou mensuelle.",
   "news_popover_last": "2. Ils existent maintenant des catégories dédiées aux dépenses et aux dépôts dans le but de voir si l'argent va aux bonbons ou aux applications!",

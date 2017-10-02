@@ -1198,7 +1198,7 @@
   "savings_goal_payout_desc": "Valitse Säästötavoitteen maksu säästöpossusta, jotta voit aloittaa seuraavaan tavoitteeseen säästämisen",
   "disable_sound_setting": "Ääni",
   "reward_per_hour": "Palkkio tunnissa",
-  "news_popover_headline": "Uusi päivitys sovellukseen!",
+  "news_popover_headline": "PLZ_TRANSLATE Uutiset tässä versiossa!",
   "news_popover_sub_headline": "Palkkio suoraan säästöpossuun",
   "news_popover_first": "1. Palkkiot suoritetuista askareista menevät <b>suoraan säästöpossuun</b> viikko- tai kuukausirahoihin lisäämisen sijasta.",
   "news_popover_last": " 2. Nyt menoilla ja talletuksilla on luokat - niin näet jos rahat menevät karkkiin tai sovelluksiin!",
