@@ -1511,5 +1511,7 @@
   "onboarding_child_2_title": "Drøm stort og tjen penge",
   "onboarding_child_2_desc": "Opret et besparelsesmål og begynd med at spare op til det som du har råd til at købe. Du kan få flere penge i spargrisen ved at udføre opgaver du får fra dine forældre.",
   "onboarding_parent_2_title": "Sparegrisen viser dit underskud",
-  "onboarding_parent_2_desc": "Sparegrisen tilføjer automatisk ugentlige eller månedlige ydelser og belønninger for udførte opgaver. Den viser hvor meget du skylder dit barn. Man kan sige, at du er banken!"
+  "onboarding_parent_2_desc": "Sparegrisen tilføjer automatisk ugentlige eller månedlige ydelser og belønninger for udførte opgaver. Den viser hvor meget du skylder dit barn. Man kan sige, at du er banken!",
+  "register_purchases": "PLZ_TRANSLATE Registrer købene",
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... når du giver penge ud eller betaler for dit barn. Du kan også foretage indskud, f.eks. Når dit barn har genbrugt flasker eller for at få penge fra tandlægen."
 }

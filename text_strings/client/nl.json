@@ -1511,5 +1511,7 @@
   "onboarding_child_2_title": "PLZ_TRANSLATE Droom groot en maak geld",
   "onboarding_child_2_desc": "PLZ_TRANSLATE Maak een besparingsdoel en begin met besparing op wat u wilt veroorloven om te kopen. Je kan meer geld verdienen in de spaarpot door de taken uit je ouders uit te voeren.",
   "onboarding_parent_2_title": "PLZ_TRANSLATE De spaarvarken laat de schuld zien",
-  "onboarding_parent_2_desc": "PLZ_TRANSLATE De spaarpot voegt automatisch de wekelijkse of maandelijkse toeslag en beloningen toe voor taken. Het laat zien hoeveel je je kind verschuldigd bent. U kunt zeggen dat u de bank bent!"
+  "onboarding_parent_2_desc": "PLZ_TRANSLATE De spaarpot voegt automatisch de wekelijkse of maandelijkse toeslag en beloningen toe voor taken. Het laat zien hoeveel je je kind verschuldigd bent. U kunt zeggen dat u de bank bent!",
+  "register_purchases": "PLZ_TRANSLATE Registreer de aankopen",
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... als je geld uitbetaalt of betaalt voor je kind. U kunt ook deposito's maken, zoals wanneer uw kind flessen heeft gerecycleerd of geld van de tandarts krijgt."
 }

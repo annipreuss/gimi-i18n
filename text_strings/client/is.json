@@ -1511,5 +1511,7 @@
   "onboarding_child_2_title": "PLZ_TRANSLATE Draumur stór og græða peninga",
   "onboarding_child_2_desc": "PLZ_TRANSLATE Búðu til sparnaðarmark og byrjaðu að vista það sem þú vilt hafa efni á að kaupa. Þú getur fengið meiri pening í grísinni með því að sinna verkefnum sem þú færð frá foreldrum þínum.",
   "onboarding_parent_2_title": "PLZ_TRANSLATE Grísabankinn sýnir skuldina",
-  "onboarding_parent_2_desc": "PLZ_TRANSLATE Grísabankinn bætir sjálfkrafa við vikulega eða mánaðarlega hlunnindi og verðlaun fyrir verkefni. Það sýnir hversu mikið þú skuldar barninu þínu. Þú getur sagt að þú sért bankinn!"
+  "onboarding_parent_2_desc": "PLZ_TRANSLATE Grísabankinn bætir sjálfkrafa við vikulega eða mánaðarlega hlunnindi og verðlaun fyrir verkefni. Það sýnir hversu mikið þú skuldar barninu þínu. Þú getur sagt að þú sért bankinn!",
+  "register_purchases": "PLZ_TRANSLATE Skráðu kaupin",
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... þegar þú gefur út peninga eða borgar fyrir barnið þitt. Þú getur einnig gert innlán, td þegar barnið þitt hefur endurunnið flöskur eða fengið peninga frá tannlækni."
 }

@@ -1511,5 +1511,7 @@
   "onboarding_child_2_title": "Rêvez grand! et gagnez de l'argent",
   "onboarding_child_2_desc": "Créez un objectif d'épargne et commencez à économiser pour ce que vous désirez acheter. Vous pouvez recevoir plus d'argent dans la tirelire si vous décidez de compléter les tâches demandées par vos parents.",
   "onboarding_parent_2_title": "La tirelire montre les dettes",
-  "onboarding_parent_2_desc": "La tirelire ajoute automatiquement l'allocation hebdomadaire ou mensuelle ainsi que les récompenses pour les tâches complétées. Cela montre combien d'argent vous devez à votre enfant. On peut dire que vous êtes la banque!"
+  "onboarding_parent_2_desc": "La tirelire ajoute automatiquement l'allocation hebdomadaire ou mensuelle ainsi que les récompenses pour les tâches complétées. Cela montre combien d'argent vous devez à votre enfant. On peut dire que vous êtes la banque!",
+  "register_purchases": "PLZ_TRANSLATE Enregistrez les achats",
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... lorsque vous donnez de l'argent comptant ou payez votre enfant. Vous pouvez également faire des dépôts, par exemple lorsque votre enfant a recyclé des bouteilles ou pour obtenir de l'argent auprès du dentiste."
 }

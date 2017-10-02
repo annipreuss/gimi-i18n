@@ -1511,5 +1511,7 @@
   "onboarding_child_2_title": "PLZ_TRANSLATE Drøm stort og tjene penger",
   "onboarding_child_2_desc": "PLZ_TRANSLATE Lag et sparemål og begynn å spare på det du vil ha råd til å kjøpe. Du kan få mer penger i spargrisen ved å utføre oppgaver du får fra foreldrene dine.",
   "onboarding_parent_2_title": "PLZ_TRANSLATE Sparegruppen viser gjelden",
-  "onboarding_parent_2_desc": "PLZ_TRANSLATE Sparegruppen legger automatisk til ukentlig eller månedlig godtgjørelse og belønning for oppgaver. Det viser hvor mye du skylder barnet ditt. Du kan si at du er banken!"
+  "onboarding_parent_2_desc": "PLZ_TRANSLATE Sparegruppen legger automatisk til ukentlig eller månedlig godtgjørelse og belønning for oppgaver. Det viser hvor mye du skylder barnet ditt. Du kan si at du er banken!",
+  "register_purchases": "PLZ_TRANSLATE Registrer kjøpene",
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... når du gir ut penger eller betaler for barnet ditt. Du kan også gjøre innskudd, for eksempel når barnet ditt har resirkulert flasker eller for å få penger fra tannlegen."
 }

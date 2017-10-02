@@ -1511,5 +1511,7 @@
   "onboarding_child_2_title": "PLZ_TRANSLATE Dream suur ja PLZ_TRANSLATE raha",
   "onboarding_child_2_desc": "PLZ_TRANSLATE Looge kokkuhoiu eesmärk ja hakake säästma selle, mida soovite endale osta. Võite saada rohkem raha varitsuspank, täites ülesandeid, mida saate oma vanematelt.",
   "onboarding_parent_2_title": "PLZ_TRANSLATE Varasem pank näitab võlga",
-  "onboarding_parent_2_desc": "PLZ_TRANSLATE Seksupank lisab automaatselt iganädalase või igakuise hüvitise ja ülesandeid. See näitab, kui palju sa oma lapsele võlgu oled. Võite öelda, et oled pank!"
+  "onboarding_parent_2_desc": "PLZ_TRANSLATE Seksupank lisab automaatselt iganädalase või igakuise hüvitise ja ülesandeid. See näitab, kui palju sa oma lapsele võlgu oled. Võite öelda, et oled pank!",
+  "register_purchases": "PLZ_TRANSLATE Registreerige ostud",
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... kui annate raha või maksate oma lapse eest. Samuti saate teha hoiuseid, näiteks kui teie lapsel on ringlussevõetud pudelid või hambaarstile raha saamiseks."
 }

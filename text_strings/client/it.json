@@ -1511,5 +1511,7 @@
   "onboarding_child_2_title": "PLZ_TRANSLATE Sogno grande e guadagna",
   "onboarding_child_2_desc": "PLZ_TRANSLATE Crea un obiettivo di risparmio e inizia a salvare quello che vuoi permettersi di acquistare. È possibile ottenere più soldi nella salvadanaio eseguendo compiti che si ottiene dai tuoi genitori.",
   "onboarding_parent_2_title": "PLZ_TRANSLATE La banca piggy mostra il debito",
-  "onboarding_parent_2_desc": "PLZ_TRANSLATE La banca piggy aggiunge automaticamente l'indennità settimanale o mensile e le ricompense per i compiti. Mostra quanto sei debitore a tuo figlio. Puoi dire che sei la banca!"
+  "onboarding_parent_2_desc": "PLZ_TRANSLATE La banca piggy aggiunge automaticamente l'indennità settimanale o mensile e le ricompense per i compiti. Mostra quanto sei debitore a tuo figlio. Puoi dire che sei la banca!",
+  "register_purchases": "PLZ_TRANSLATE Registra gli acquisti",
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... quando si dà in contanti o paga per tuo figlio. È anche possibile effettuare depositi, come quando il bambino ha le bottiglie riciclate o per ottenere denaro dal dentista."
 }

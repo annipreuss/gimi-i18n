@@ -1512,5 +1512,7 @@
   "onboarding_child_2_title": "Dröm stort & tjäna pengar",
   "onboarding_child_2_desc": "Skapa ett sparmål och börja spara till det du vill ha råd att köpa. Du kan få mer pengar i spargrisen genom att utföra uppgifter som du får av dina föräldrar.",
   "onboarding_parent_2_title": "Spargrisen visar skulden",
-  "onboarding_parent_2_desc": "I spargrisen läggs automatiskt vecko- eller månadspengarna och belöningar för uppgifter. Den visar hur mycket du är skyldig ditt barn. Man kan säga att du är banken!"
+  "onboarding_parent_2_desc": "I spargrisen läggs automatiskt vecko- eller månadspengarna och belöningar för uppgifter. Den visar hur mycket du är skyldig ditt barn. Man kan säga att du är banken!",
+  "register_purchases": "Registrera köpen",
+  "onboarding_parent_3_desc": "… när du ger ut kontanter eller betalar åt ditt barn. Du kan också göra insättningar, som när ditt barn har pantat flaskor eller ska få pengar från tandfén."
 }
