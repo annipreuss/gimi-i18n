@@ -121,7 +121,7 @@
    "trustly":{
       "id":48,
       "titleId":"category_name_48",
-      "image":"/static/categories/generellt_utlagg.png",
+      "image":"/static/categories/card_payment.png",
       "color":"#A5A5A5",
       "categoryGroup":"general"
    }
