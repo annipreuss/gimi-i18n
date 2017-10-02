@@ -924,7 +924,7 @@
   "periodic_task_error": "Select at least 1 day",
   "add_account_child_title": "Who owns %1$d bank account?",
   "me": "Me",
-  "add_account_child_sign_me": "%1$d the bank account is in my name and I have the authority to sign.",
+  "add_account_child_sign_me": "%1$d bank account is in my name and I have the authority to sign.",
   "add_account_child_sign_child": "%1$d is with me and signs with bank card reader or mobilt bank ID",
   "trustly_info_list_1_parent": "Automatic payouts on the day for \n weekly or monthly allowance",
   "trustly_info_list_2_parent": "Straight to your kid's bank account",
