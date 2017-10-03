@@ -1518,5 +1518,6 @@
   "pay_out_cash": "PLZ_TRANSLATE Auszahlung in bar",
   "allowance": "PLZ_TRANSLATE Beihilfe",
   "allowance_overview": "PLZ_TRANSLATE Die Vergütung von %1$d wurde automatisch dem Sparschwein hinzugefügt. Wenn Sie &#39; es habe abgegolten können Sie ‚Pay - out in bar‘ wählen",
-  "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> wird hinzugefügt, wenn %2$d einen der 9 Meilensteine ​​übergibt. Dies bedeutet , dass Sie &#39; re Unterstützung %2$d mit einer Gesamtsumme von %3$d für dieses Ziel."
+  "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> wird hinzugefügt, wenn %2$d einen der 9 Meilensteine ​​übergibt. Dies bedeutet , dass Sie &#39; re Unterstützung %2$d mit einer Gesamtsumme von %3$d für dieses Ziel.",
+  "trustly_choose_bank_title": "PLZ_TRANSLATE An welcher Bank ist dein Konto, dass du mit %1$d verbinden willst?"
 }

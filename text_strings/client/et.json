@@ -1518,5 +1518,6 @@
   "pay_out_cash": "PLZ_TRANSLATE Maksta välja sularahas",
   "allowance": "PLZ_TRANSLATE Toetus",
   "allowance_overview": "PLZ_TRANSLATE %1$d toetus on automaatselt lisatud silepangale. Kui te &#39; ve makstud seda välja saab valida &quot;välja maksma raha&quot;",
-  "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> lisatakse, kui %2$d läbib mis tahes 9 verstaposti. See tähendab, et sa &#39; re toetamine %2$d kokku summa %3$d selle eesmärki."
+  "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> lisatakse, kui %2$d läbib mis tahes 9 verstaposti. See tähendab, et sa &#39; re toetamine %2$d kokku summa %3$d selle eesmärki.",
+  "trustly_choose_bank_title": "PLZ_TRANSLATE Millises pangas on teie konto, kuhu soovite %1$d ?"
 }

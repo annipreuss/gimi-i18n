@@ -1518,5 +1518,6 @@
   "pay_out_cash": "PLZ_TRANSLATE Greiða út í reiðufé",
   "allowance": "PLZ_TRANSLATE Laun",
   "allowance_overview": "PLZ_TRANSLATE Greiðslan af %1$d hefur sjálfkrafa verið bætt við grís bankann. Ef þú &#39; ve greiddu það sem þú getur valið &quot;Pay út í peningum&quot;",
-  "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> er bætt við þegar %2$d fer yfir einhverja 9 áfanga. Þetta þýðir að þú &#39; ert að styðja %2$d með samtals summu %3$d fyrir þessu markmiði."
+  "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> er bætt við þegar %2$d fer yfir einhverja 9 áfanga. Þetta þýðir að þú &#39; ert að styðja %2$d með samtals summu %3$d fyrir þessu markmiði.",
+  "trustly_choose_bank_title": "PLZ_TRANSLATE Á hvaða banka er reikningurinn þinn sem þú vilt tengjast með %1$d ?"
 }

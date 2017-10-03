@@ -1518,5 +1518,6 @@
   "pay_out_cash": "Pay out in cash",
   "allowance": "Allowance",
   "allowance_overview": "The allowance of %1$d has automatically been added to the piggy bank. If you've paid it out you can choose \"Pay out in cash\"",
-  "edit_boost_totalsum": "<b>%1$d</b> is added when %2$d passes any of the 9 milestones. This means that you're supporting %2$d with a total sum of %3$d for this goal."
+  "edit_boost_totalsum": "<b>%1$d</b> is added when %2$d passes any of the 9 milestones. This means that you're supporting %2$d with a total sum of %3$d for this goal.",
+  "trustly_choose_bank_title": "At which bank is your account that you want to connect with %1$d?"
 }

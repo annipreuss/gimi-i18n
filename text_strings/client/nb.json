@@ -1518,5 +1518,6 @@
   "pay_out_cash": "PLZ_TRANSLATE Betal i kontanter",
   "allowance": "PLZ_TRANSLATE Godtgjørelse",
   "allowance_overview": "PLZ_TRANSLATE Tillatelsen av %1$d er automatisk lagt til spargrisen. Hvis du &#39; har betalt det ut kan du velge &#39;Betale i kontanter&#39;",
-  "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> legges til når %2$d passerer noen av de 9 milepælene. Dette betyr at du &#39; re støtter %2$d med en samlet sum av %3$d for dette målet."
+  "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> legges til når %2$d passerer noen av de 9 milepælene. Dette betyr at du &#39; re støtter %2$d med en samlet sum av %3$d for dette målet.",
+  "trustly_choose_bank_title": "PLZ_TRANSLATE Ved hvilken bank er kontoen din du vil koble til med %1$d ?"
 }
