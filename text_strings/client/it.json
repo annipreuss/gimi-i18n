@@ -1517,5 +1517,5 @@
   "date_the": "PLZ_TRANSLATE il",
   "pay_out_cash": "PLZ_TRANSLATE Pagare in contanti",
   "allowance": "PLZ_TRANSLATE indennità",
-  "allowance_overview": "PLZ_TRANSLATE L&#39;indennità di %1$d %2$d è stata automaticamente aggiunta alla banca salvadana. Se si &#39; ve pagato fuori è possibile scegliere &#39;pagare in contanti&#39;"
+  "allowance_overview": "PLZ_TRANSLATE L&#39;indennità di %1$d è stata automaticamente aggiunta alla banca salvadana. Se si &#39; ve pagato fuori è possibile scegliere &#39;pagare in contanti&#39;"
 }

@@ -1517,5 +1517,5 @@
   "date_the": "PLZ_TRANSLATE el",
   "pay_out_cash": "PLZ_TRANSLATE Pagar en efectivo",
   "allowance": "PLZ_TRANSLATE Tolerancia",
-  "allowance_overview": "PLZ_TRANSLATE La asignación de %1$d %2$d se ha añadido automáticamente a la alcancía. Si &#39; has pagado hacia fuera se puede elegir &#39;Pagar en efectivo&#39;"
+  "allowance_overview": "PLZ_TRANSLATE La asignación de %1$d se ha añadido automáticamente a la alcancía. Si &#39; has pagado hacia fuera se puede elegir &#39;Pagar en efectivo&#39;"
 }

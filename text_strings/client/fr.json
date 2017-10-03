@@ -1517,5 +1517,5 @@
   "date_the": "PLZ_TRANSLATE la",
   "pay_out_cash": "PLZ_TRANSLATE Payer en espèces",
   "allowance": "PLZ_TRANSLATE Allocation",
-  "allowance_overview": "PLZ_TRANSLATE L&#39;allocation de %1$d %2$d a été automatiquement ajoutée à la tirelire. Si vous &#39; avez payé, vous pouvez choisir &quot;Pay out in cash&quot;"
+  "allowance_overview": "PLZ_TRANSLATE L&#39;allocation de %1$d a été automatiquement ajoutée à la tirelire. Si vous &#39; avez payé, vous pouvez choisir &quot;Pay out in cash&quot;"
 }

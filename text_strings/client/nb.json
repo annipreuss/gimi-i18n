@@ -1517,5 +1517,5 @@
   "date_the": "PLZ_TRANSLATE de",
   "pay_out_cash": "PLZ_TRANSLATE Betal i kontanter",
   "allowance": "PLZ_TRANSLATE Godtgjørelse",
-  "allowance_overview": "PLZ_TRANSLATE Tillatelsen av %1$d %2$d er automatisk lagt til spargrisen. Hvis du &#39; har betalt det ut kan du velge &#39;Betale i kontanter&#39;"
+  "allowance_overview": "PLZ_TRANSLATE Tillatelsen av %1$d er automatisk lagt til spargrisen. Hvis du &#39; har betalt det ut kan du velge &#39;Betale i kontanter&#39;"
 }

@@ -1517,5 +1517,5 @@
   "date_the": "PLZ_TRANSLATE det",
   "pay_out_cash": "PLZ_TRANSLATE Udbetale kontant",
   "allowance": "PLZ_TRANSLATE godtgørelse",
-  "allowance_overview": "PLZ_TRANSLATE Tillægget til %1$d %2$d er automatisk tilføjet til sparegrisen. Hvis du &#39; betalt det, kan du vælge &quot;Udbetale kontant&quot;"
+  "allowance_overview": "PLZ_TRANSLATE Tillægget til %1$d er automatisk tilføjet til sparegrisen. Hvis du &#39; betalt det, kan du vælge &quot;Udbetale kontant&quot;"
 }

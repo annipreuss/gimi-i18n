@@ -1517,5 +1517,5 @@
   "date_the": "PLZ_TRANSLATE de",
   "pay_out_cash": "PLZ_TRANSLATE Betalen in contanten",
   "allowance": "PLZ_TRANSLATE Toelage",
-  "allowance_overview": "PLZ_TRANSLATE De vergoeding van %1$d %2$d is automatisch toegevoegd aan de spaarpot. Als je &#39; hebt betaald uit kunt u kiezen &#39;Pay out in contanten&#39;"
+  "allowance_overview": "PLZ_TRANSLATE De vergoeding van %1$d is automatisch toegevoegd aan de spaarpot. Als je &#39; hebt betaald uit kunt u kiezen &#39;Pay out in contanten&#39;"
 }

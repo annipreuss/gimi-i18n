@@ -1517,5 +1517,5 @@
   "date_the": "PLZ_TRANSLATE ",
   "pay_out_cash": "PLZ_TRANSLATE Maksa käteisellä",
   "allowance": "PLZ_TRANSLATE avustus",
-  "allowance_overview": "PLZ_TRANSLATE %1$d %2$d korvaus on automaattisesti lisätty säästöpostiin. Jos &#39; ve maksanut sitä voit valita &#39;Maksaa käteisellä&#39;"
+  "allowance_overview": "PLZ_TRANSLATE %1$d korvaus on automaattisesti lisätty säästöpostiin. Jos &#39; ve maksanut sitä voit valita &#39;Maksaa käteisellä&#39;"
 }
