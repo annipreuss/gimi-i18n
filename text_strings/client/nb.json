@@ -1513,5 +1513,9 @@
   "onboarding_parent_2_title": "PLZ_TRANSLATE Sparegruppen viser gjelden",
   "onboarding_parent_2_desc": "PLZ_TRANSLATE Sparegruppen legger automatisk til ukentlig eller månedlig godtgjørelse og belønning for oppgaver. Det viser hvor mye du skylder barnet ditt. Du kan si at du er banken!",
   "register_purchases": "PLZ_TRANSLATE Registrer kjøpene",
-  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... når du gir ut penger eller betaler for barnet ditt. Du kan også gjøre innskudd, for eksempel når barnet ditt har resirkulert flasker eller for å få penger fra tannlegen."
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... når du gir ut penger eller betaler for barnet ditt. Du kan også gjøre innskudd, for eksempel når barnet ditt har resirkulert flasker eller for å få penger fra tannlegen.",
+  "date_the": "PLZ_TRANSLATE de",
+  "pay_out_cash": "PLZ_TRANSLATE Betal i kontanter",
+  "allowance": "PLZ_TRANSLATE Godtgjørelse",
+  "allowance_overview": "PLZ_TRANSLATE Tillatelsen av %1$d %2$d er automatisk lagt til spargrisen. Hvis du &#39; har betalt det ut kan du velge &#39;Betale i kontanter&#39;"
 }

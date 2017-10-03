@@ -1513,5 +1513,9 @@
   "onboarding_parent_2_title": "PLZ_TRANSLATE Grísabankinn sýnir skuldina",
   "onboarding_parent_2_desc": "PLZ_TRANSLATE Grísabankinn bætir sjálfkrafa við vikulega eða mánaðarlega hlunnindi og verðlaun fyrir verkefni. Það sýnir hversu mikið þú skuldar barninu þínu. Þú getur sagt að þú sért bankinn!",
   "register_purchases": "PLZ_TRANSLATE Skráðu kaupin",
-  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... þegar þú gefur út peninga eða borgar fyrir barnið þitt. Þú getur einnig gert innlán, td þegar barnið þitt hefur endurunnið flöskur eða fengið peninga frá tannlækni."
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... þegar þú gefur út peninga eða borgar fyrir barnið þitt. Þú getur einnig gert innlán, td þegar barnið þitt hefur endurunnið flöskur eða fengið peninga frá tannlækni.",
+  "date_the": "PLZ_TRANSLATE the",
+  "pay_out_cash": "PLZ_TRANSLATE Greiða út í reiðufé",
+  "allowance": "PLZ_TRANSLATE Laun",
+  "allowance_overview": "PLZ_TRANSLATE Greiðslan af %1$d %2$d hefur sjálfkrafa verið bætt við sparisjóðinn. Ef þú &#39; ve greiddu það sem þú getur valið &quot;Pay út í peningum&quot;"
 }

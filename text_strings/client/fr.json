@@ -1513,5 +1513,9 @@
   "onboarding_parent_2_title": "La tirelire montre les dettes",
   "onboarding_parent_2_desc": "La tirelire ajoute automatiquement l'allocation hebdomadaire ou mensuelle ainsi que les récompenses pour les tâches complétées. Cela montre combien d'argent vous devez à votre enfant. On peut dire que vous êtes la banque!",
   "register_purchases": "PLZ_TRANSLATE Enregistrez les achats",
-  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... lorsque vous donnez de l'argent comptant ou payez votre enfant. Vous pouvez également faire des dépôts, par exemple lorsque votre enfant a recyclé des bouteilles ou pour obtenir de l'argent auprès du dentiste."
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... lorsque vous donnez de l'argent comptant ou payez votre enfant. Vous pouvez également faire des dépôts, par exemple lorsque votre enfant a recyclé des bouteilles ou pour obtenir de l'argent auprès du dentiste.",
+  "date_the": "PLZ_TRANSLATE la",
+  "pay_out_cash": "PLZ_TRANSLATE Payer en espèces",
+  "allowance": "PLZ_TRANSLATE Allocation",
+  "allowance_overview": "PLZ_TRANSLATE L&#39;allocation de %1$d %2$d a été automatiquement ajoutée à la tirelire. Si vous &#39; avez payé, vous pouvez choisir &quot;Pay out in cash&quot;"
 }

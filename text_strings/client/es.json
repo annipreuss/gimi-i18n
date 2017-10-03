@@ -1513,5 +1513,9 @@
   "onboarding_parent_2_title": "PLZ_TRANSLATE La alcancía muestra la deuda",
   "onboarding_parent_2_desc": "PLZ_TRANSLATE La alcancía agrega automáticamente la asignación semanal o mensual y recompensas por las tareas. Muestra cuánto le debe a su hijo. ¡Usted puede decir que usted es el banco!",
   "register_purchases": "PLZ_TRANSLATE Registrar las compras",
-  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... cuando da dinero en efectivo o paga por su hijo. También puede hacer depósitos, como cuando su hijo ha reciclado botellas o para obtener dinero del dentista."
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... cuando da dinero en efectivo o paga por su hijo. También puede hacer depósitos, como cuando su hijo ha reciclado botellas o para obtener dinero del dentista.",
+  "date_the": "PLZ_TRANSLATE el",
+  "pay_out_cash": "PLZ_TRANSLATE Pagar en efectivo",
+  "allowance": "PLZ_TRANSLATE Tolerancia",
+  "allowance_overview": "PLZ_TRANSLATE La asignación de %1$d %2$d se ha añadido automáticamente a la alcancía. Si &#39; has pagado hacia fuera se puede elegir &#39;Pagar en efectivo&#39;"
 }

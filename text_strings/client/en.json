@@ -1513,5 +1513,9 @@
   "onboarding_parent_2_title": "The piggy bank shows the debt",
   "onboarding_parent_2_desc": "The piggy bank automatically adds the weekly or monthly allowance and rewards for tasks. It shows how much you owe your child. You can say that you are the bank!",
   "register_purchases": "Register the purchases",
-  "onboarding_parent_3_desc": "...when you give out cash or pay for your child. You can also make deposits, such as when your child has recycled bottles or to get money from the dentist."
+  "onboarding_parent_3_desc": "...when you give out cash or pay for your child. You can also make deposits, such as when your child has recycled bottles or to get money from the dentist.",
+  "date_the": "the",
+  "pay_out_cash": "Pay out in cash",
+  "allowance": "Allowance",
+  "allowance_overview": "The allowance of %1$d %2$d has automatically been added to the piggy bank. If you've paid it out you can choose \"Pay out in cash\""
 }

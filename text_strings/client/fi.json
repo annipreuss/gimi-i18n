@@ -1513,5 +1513,9 @@
   "onboarding_parent_2_title": "Säästöpossu näyttää velan",
   "onboarding_parent_2_desc": "Säästöpossu lisää automaattisesti viikko- tai kuukausirahat, sekä palkkiot tehtävistä. Näet siitä, kuinka paljon velkaa olet lapsellesi. Olet kuin pankki!",
   "register_purchases": "PLZ_TRANSLATE Rekisteröi ostot",
-  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... kun annat rahaa tai maksat lapsellesi. Voit myös tehdä talletuksia, kuten silloin, kun lapsellasi on kierrätettyjä pulloja tai saada rahaa hammaslääkäriltä."
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... kun annat rahaa tai maksat lapsellesi. Voit myös tehdä talletuksia, kuten silloin, kun lapsellasi on kierrätettyjä pulloja tai saada rahaa hammaslääkäriltä.",
+  "date_the": "PLZ_TRANSLATE ",
+  "pay_out_cash": "PLZ_TRANSLATE Maksa käteisellä",
+  "allowance": "PLZ_TRANSLATE avustus",
+  "allowance_overview": "PLZ_TRANSLATE %1$d %2$d korvaus on automaattisesti lisätty säästöpostiin. Jos &#39; ve maksanut sitä voit valita &#39;Maksaa käteisellä&#39;"
 }

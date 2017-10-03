@@ -1513,5 +1513,9 @@
   "onboarding_parent_2_title": "Het spaarvarken laat de schuld zien",
   "onboarding_parent_2_desc": "De spaarpot voegt automatisch de wekelijkse of maandelijkse toeslag en beloningen toe voor taken. Het laat zien hoeveel je je kind verschuldigd bent. U kunt zeggen dat u de bank bent!",
   "register_purchases": "Registreer de aankopen",
-  "onboarding_parent_3_desc": "... als je geld uitbetaalt of betaalt voor je kind. U kunt ook deposito's maken, zoals wanneer uw kind flessen heeft gerecycleerd of geld van de tandarts krijgt."
+  "onboarding_parent_3_desc": "... als je geld uitbetaalt of betaalt voor je kind. U kunt ook deposito's maken, zoals wanneer uw kind flessen heeft gerecycleerd of geld van de tandarts krijgt.",
+  "date_the": "PLZ_TRANSLATE de",
+  "pay_out_cash": "PLZ_TRANSLATE Betalen in contanten",
+  "allowance": "PLZ_TRANSLATE Toelage",
+  "allowance_overview": "PLZ_TRANSLATE De vergoeding van %1$d %2$d is automatisch toegevoegd aan de spaarpot. Als je &#39; hebt betaald uit kunt u kiezen &#39;Pay out in contanten&#39;"
 }

@@ -1513,5 +1513,9 @@
   "onboarding_parent_2_title": "PLZ_TRANSLATE Varasem pank näitab võlga",
   "onboarding_parent_2_desc": "PLZ_TRANSLATE Seksupank lisab automaatselt iganädalase või igakuise hüvitise ja ülesandeid. See näitab, kui palju sa oma lapsele võlgu oled. Võite öelda, et oled pank!",
   "register_purchases": "PLZ_TRANSLATE Registreerige ostud",
-  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... kui annate raha või maksate oma lapse eest. Samuti saate teha hoiuseid, näiteks kui teie lapsel on ringlussevõetud pudelid või hambaarstile raha saamiseks."
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... kui annate raha või maksate oma lapse eest. Samuti saate teha hoiuseid, näiteks kui teie lapsel on ringlussevõetud pudelid või hambaarstile raha saamiseks.",
+  "date_the": "PLZ_TRANSLATE a",
+  "pay_out_cash": "PLZ_TRANSLATE Maksta välja sularahas",
+  "allowance": "PLZ_TRANSLATE Toetus",
+  "allowance_overview": "PLZ_TRANSLATE %1$d %2$d toetus on automaatselt lisatud silepangale. Kui te &#39; ve makstud seda välja saab valida &quot;välja maksma raha&quot;"
 }

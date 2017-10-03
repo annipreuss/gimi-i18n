@@ -1513,5 +1513,9 @@
   "onboarding_parent_2_title": "Sparegrisen viser dit underskud",
   "onboarding_parent_2_desc": "Sparegrisen tilføjer automatisk ugentlige eller månedlige ydelser og belønninger for udførte opgaver. Den viser hvor meget du skylder dit barn. Man kan sige, at du er banken!",
   "register_purchases": "PLZ_TRANSLATE Registrer købene",
-  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... når du giver penge ud eller betaler for dit barn. Du kan også foretage indskud, f.eks. Når dit barn har genbrugt flasker eller for at få penge fra tandlægen."
+  "onboarding_parent_3_desc": "PLZ_TRANSLATE ... når du giver penge ud eller betaler for dit barn. Du kan også foretage indskud, f.eks. Når dit barn har genbrugt flasker eller for at få penge fra tandlægen.",
+  "date_the": "PLZ_TRANSLATE det",
+  "pay_out_cash": "PLZ_TRANSLATE Udbetale kontant",
+  "allowance": "PLZ_TRANSLATE godtgørelse",
+  "allowance_overview": "PLZ_TRANSLATE Tillægget til %1$d %2$d er automatisk tilføjet til sparegrisen. Hvis du &#39; betalt det, kan du vælge &quot;Udbetale kontant&quot;"
 }
