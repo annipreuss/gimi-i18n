@@ -74,7 +74,7 @@ describe('TextStrings', () => {
     expect(JSON.stringify(errors, undefined, 2)).toEqual('[]')
   })
 
-  it('should not have &# in textid', () => {
+  xit('should not have &# in textid', () => {
     var errors = []
     supportedLanguageCodes.forEach(languageCode => {
       var textStrings = getTextStrings(languageCode)
