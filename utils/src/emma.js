@@ -8,6 +8,7 @@ let files = ['sv.json', 'en.json']
 
 var LADIES = {
   anna: 'ANNA',
+  anna: 'EMMA',
   poli: 'POLI',
   krisi: 'KRISI'
 }
@@ -51,7 +52,7 @@ info.forEach(x => removeANNAStringFromFile(x.path))
 info.forEach((x) => {
   var {textIds} = x
   textIds.map(({textid, lady}) => {
-    let cmd = `npm run ${lady} ${textid}`
+    let cmd = `npm run ${lady}-d ${textid}`
     // eslint-disable-next-line
     console.log(cmd)
     execSync(cmd)
