@@ -1200,7 +1200,7 @@
   "reward_per_hour": "Palkkio tunnissa",
   "news_popover_headline": "PLZ_TRANSLATE Uutiset tässä versiossa!",
   "news_popover_sub_headline": "Palkkio suoraan säästöpossuun",
-  "news_popover_first": "PLZ_TRANSLATE Aiemmin korvaus talletettiin automaattisesti päivämäärän maksupäivänä. Nyt &#39; n lisätään <b>automaattisesti</b> säästöpossu perusteella maksupäivän. Jos olet ottanut tilisiirrot, korvaus siirretään lapsen &#39; pankkitilille.",
+  "news_popover_first": "PLZ_TRANSLATE Aiemmin korvaus talletettiin automaattisesti päivämäärän maksupäivänä. Nyt  n lisätään <b>automaattisesti</b> säästöpossu perusteella maksupäivän. Jos olet ottanut tilisiirrot, korvaus siirretään lapsen  pankkitilille.",
   "news_popover_last": "PLZ_TRANSLATE Jos vanhempi maksaa korvauksen käteisenä, se olisi kirjattava <b>vetäytymiseltä</b> säästöpossuilta.",
   "news_popover_button": "Hienoa, sitten olen valmis!",
   "lost_boost_popover_title": "Olet menettänyt Boostin",
@@ -1517,7 +1517,7 @@
   "date_the": "PLZ_TRANSLATE ",
   "pay_out_cash": "PLZ_TRANSLATE Maksa käteisellä",
   "allowance": "PLZ_TRANSLATE avustus",
-  "allowance_overview": "PLZ_TRANSLATE %1$d korvaus on automaattisesti lisätty säästöpostiin. Jos &#39; ve maksanut sitä voit valita &#39;Maksaa käteisellä&#39;",
-  "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> lisätään, kun %2$d ylittää yhdeksän välitavoitetta. Tämä tarkoittaa sitä, että &#39; uudelleen tukemalla %2$d , joiden kokonaissumma %3$d tämän tavoitteen.",
+  "allowance_overview": "PLZ_TRANSLATE %1$d korvaus on automaattisesti lisätty säästöpostiin. Jos  ve maksanut sitä voit valita Maksaa käteisellä",
+  "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> lisätään, kun %2$d ylittää yhdeksän välitavoitetta. Tämä tarkoittaa sitä, että  uudelleen tukemalla %2$d , joiden kokonaissumma %3$d tämän tavoitteen.",
   "trustly_choose_bank_title": "PLZ_TRANSLATE Missä pankissa tilisi haluat muodostaa yhteyden %1$d ?"
 }
