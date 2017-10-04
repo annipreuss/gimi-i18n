@@ -924,7 +924,7 @@
   "periodic_task_error": "Seleziona al minimo 1 giorno ",
   "add_account_child_title": "Chi possiede il conto bancario di %1$d?",
   "me": "Io",
-  "add_account_child_sign_me": "PLZ_TRANSLATE %1$d conto corrente di %1$d è nel mio nome e ho l&#39;autorità di firmare.",
+  "add_account_child_sign_me": "PLZ_TRANSLATE %1$d conto corrente di è nel mio nome e ho l&#39;autorità di firmare.",
   "add_account_child_sign_child": "%1$d è con me e is with me and signs with bank card reader or mobilt bank ID",
   "trustly_info_list_1_parent": "Pagamenti automatici durante il giorno della \n paghetta settimanale/mensile ",
   "trustly_info_list_2_parent": "Direttamente verso il conto bancario dei tuoi figli",
