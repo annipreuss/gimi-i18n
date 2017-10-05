@@ -203,3 +203,18 @@ export let searchPlzTranslate = (lang: Object, languageCode: string, textStrings
   })
   return {data: arrayPlzTranslate, plzTrans: numberPlzTransalte}
 }
+
+export let searchBreakingSymbols = (lang: Object, languageCode: string, textStringsType: string): Object => {
+  var keys = Object.keys(lang)
+  var arrayBreakingSymbols = []
+  var numberBreakingSymbols = 0
+  keys.forEach(key => {
+    if (languageCode) {
+      if (lang[key].includes('&#')) {
+        numberBreakingSymbols++
+        arrayBreakingSymbols.push({key: key, lang: languageCode, path: textStringsType})
+      }
+    }
+  })
+  return {data: arrayBreakingSymbols, count: numberBreakingSymbols}
+}
