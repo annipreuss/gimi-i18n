@@ -1529,5 +1529,8 @@
   "about_connecting_trustly_bullet_1": "Easily transfer money between connected accounts.",
   "about_connecting_trustly_bullet_2": "Automatic transfers of pocket money, that you can pause whenever you want.",
   "about_connecting_trustly_bullet_3": "It's not possible to send money to other accounts, and you can disable the connection whenever you want.",
-  "about_connecting_trustly_bullet_4": "It's free of course."
+  "about_connecting_trustly_bullet_4": "It's free of course.",
+  "search_result": "Search results",
+  "no_results": "No results",
+  "search": "Search"
 }

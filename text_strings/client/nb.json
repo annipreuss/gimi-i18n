@@ -1529,5 +1529,8 @@
   "about_connecting_trustly_bullet_1": "PLZ_TRANSLATE Overfør enkelt penger mellom tilkoblede kontoer.",
   "about_connecting_trustly_bullet_2": "PLZ_TRANSLATE Automatiske overføringer av lommepenger, som du kan sette pause når du vil.",
   "about_connecting_trustly_bullet_3": "PLZ_TRANSLATE Det &#39; er ikke mulig å sende penger til andre kontoer, og du kan deaktivere tilkoblingen når du vil.",
-  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Det &#39; s gratis selvfølgelig."
+  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Det &#39; s gratis selvfølgelig.",
+  "search_result": "PLZ_TRANSLATE Søkeresultater",
+  "no_results": "PLZ_TRANSLATE Ingen resultater",
+  "search": "PLZ_TRANSLATE Søke"
 }

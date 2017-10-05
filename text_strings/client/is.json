@@ -1529,5 +1529,8 @@
   "about_connecting_trustly_bullet_1": "PLZ_TRANSLATE Flytja peninga auðveldlega á milli tengdra reikninga.",
   "about_connecting_trustly_bullet_2": "PLZ_TRANSLATE Sjálfvirk flytja vasa peninga, sem þú getur gert hlé þegar þú vilt.",
   "about_connecting_trustly_bullet_3": "PLZ_TRANSLATE Það &#39; er ekki hægt að senda peninga til annarra reikninga, og þú getur slökkt á tengingunni þegar þú vilt.",
-  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Það &#39; er ókeypis að sjálfsögðu."
+  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Það &#39; er ókeypis að sjálfsögðu.",
+  "search_result": "PLZ_TRANSLATE Leitarniðurstöður",
+  "no_results": "PLZ_TRANSLATE Engar niðurstöður",
+  "search": "PLZ_TRANSLATE Leita"
 }

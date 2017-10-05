@@ -1529,5 +1529,8 @@
   "about_connecting_trustly_bullet_1": "PLZ_TRANSLATE Verplaats gemakkelijk geld tussen aangesloten accounts.",
   "about_connecting_trustly_bullet_2": "PLZ_TRANSLATE Automatische overboekingen van zakgeld, dat u kunt stoppen wanneer u maar wilt.",
   "about_connecting_trustly_bullet_3": "PLZ_TRANSLATE Het &#39; s niet mogelijk om geld te sturen naar andere accounts, en u kunt de verbinding wanneer u maar wilt uitschakelen.",
-  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Het &#39; s vrij natuurlijk."
+  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Het &#39; s vrij natuurlijk.",
+  "search_result": "PLZ_TRANSLATE Zoekresultaten",
+  "no_results": "PLZ_TRANSLATE Geen resultaten",
+  "search": "PLZ_TRANSLATE Zoeken"
 }

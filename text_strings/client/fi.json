@@ -1529,5 +1529,8 @@
   "about_connecting_trustly_bullet_1": "PLZ_TRANSLATE Siirrä helposti rahaa yhdistettyjen tilien välillä.",
   "about_connecting_trustly_bullet_2": "PLZ_TRANSLATE Taskuvarojen automaattiset siirrot, joiden avulla voit pysähtyä milloin haluat.",
   "about_connecting_trustly_bullet_3": "PLZ_TRANSLATE Se &#39; ei ole mahdollista lähettää rahaa toisille tileille ja voit poistaa yhteyden milloin haluat.",
-  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Se &#39; s ilmaiseksi tietenkin."
+  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Se &#39; s ilmaiseksi tietenkin.",
+  "search_result": "PLZ_TRANSLATE Hakutulokset",
+  "no_results": "PLZ_TRANSLATE Ei tuloksia",
+  "search": "PLZ_TRANSLATE Hae"
 }

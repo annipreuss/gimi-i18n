@@ -1529,5 +1529,8 @@
   "about_connecting_trustly_bullet_1": "PLZ_TRANSLATE Лёгка пераводзіць грошы паміж рахункамі звязаных.",
   "about_connecting_trustly_bullet_2": "PLZ_TRANSLATE Аўтаматычныя пераклады грошай на кішэнныя выдаткі, якія вы можаце зрабіць паўзу кожны раз, калі вы хочаце.",
   "about_connecting_trustly_bullet_3": "PLZ_TRANSLATE Гэта &#39; не возможно адправіць грошы на іншыя рахункі, і вы можаце адключыць злучэнне кожны раз , калі вы хочаце.",
-  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Гэта &#39; S бясплатна, вядома."
+  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Гэта &#39; S бясплатна, вядома.",
+  "search_result": "PLZ_TRANSLATE вынікі пошуку",
+  "no_results": "PLZ_TRANSLATE няма вынікаў",
+  "search": "PLZ_TRANSLATE пошук"
 }

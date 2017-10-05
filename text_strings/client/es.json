@@ -1529,5 +1529,8 @@
   "about_connecting_trustly_bullet_1": "PLZ_TRANSLATE Transferir dinero fácilmente entre cuentas conectadas.",
   "about_connecting_trustly_bullet_2": "PLZ_TRANSLATE Transferencias automáticas de dinero de bolsillo, que puedes pausar cuando quieras.",
   "about_connecting_trustly_bullet_3": "PLZ_TRANSLATE Es &#39; No es posible enviar dinero a otras cuentas, y se puede desactivar la conexión siempre que lo desee.",
-  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Es &#39; s gratis, por supuesto."
+  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Es &#39; s gratis, por supuesto.",
+  "search_result": "PLZ_TRANSLATE Resultados de la búsqueda",
+  "no_results": "PLZ_TRANSLATE No hay resultados",
+  "search": "PLZ_TRANSLATE Buscar"
 }

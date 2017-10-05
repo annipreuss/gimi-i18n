@@ -1529,5 +1529,8 @@
   "about_connecting_trustly_bullet_1": "PLZ_TRANSLATE Leichtes Übertragen von Geld zwischen verbundenen Konten.",
   "about_connecting_trustly_bullet_2": "PLZ_TRANSLATE Automatische Transfers von Taschengeld, die Sie pausieren können, wann immer Sie wollen.",
   "about_connecting_trustly_bullet_3": "PLZ_TRANSLATE Es &#39; s nicht möglich , Geld auf andere Konten zu senden, und Sie können die Verbindung deaktivieren , wenn Sie wollen.",
-  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Es &#39; s natürlich kostenlos."
+  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Es &#39; s natürlich kostenlos.",
+  "search_result": "PLZ_TRANSLATE Suchergebnisse",
+  "no_results": "PLZ_TRANSLATE Keine Ergebnisse",
+  "search": "PLZ_TRANSLATE Suche"
 }

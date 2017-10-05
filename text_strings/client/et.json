@@ -1529,5 +1529,8 @@
   "about_connecting_trustly_bullet_1": "PLZ_TRANSLATE Lihtne raha üle kanda ühendatud kontode vahel.",
   "about_connecting_trustly_bullet_2": "PLZ_TRANSLATE Taskuraha automaatne ülekanne, mida saate igal ajal peatada.",
   "about_connecting_trustly_bullet_3": "PLZ_TRANSLATE See &#39; pole võimalik saata raha teistele kontodele saate keelata ühendus, kui soovite.",
-  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE See &#39; tasuta muidugi."
+  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE See &#39; tasuta muidugi.",
+  "search_result": "PLZ_TRANSLATE Otsingu tulemused",
+  "no_results": "PLZ_TRANSLATE Tulemused puuduvad",
+  "search": "PLZ_TRANSLATE Otsing"
 }
