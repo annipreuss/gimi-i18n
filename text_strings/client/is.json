@@ -1524,5 +1524,10 @@
   "trustly_transfer_duration_text": "PLZ_TRANSLATE Bankastarfsemi tekur tíma. Við PLZ_TRANSLATE erum að draga %1$d frá Grís banka núna, en það mun taka allt að 3 daga að ná bankareikning.",
   "how_do_you_want_to_pay_out": "PLZ_TRANSLATE Hvernig viltu borga út?",
   "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Veldu hvernig %1$d sparnaðarmarkmiðið af %2$d verður greitt út",
-  "cash": "PLZ_TRANSLATE reiðufé"
+  "cash": "PLZ_TRANSLATE reiðufé",
+  "about_connecting_trustly": "PLZ_TRANSLATE Að tengja reikninga við Traust",
+  "about_connecting_trustly_bullet_1": "PLZ_TRANSLATE Flytja peninga auðveldlega á milli tengdra reikninga.",
+  "about_connecting_trustly_bullet_2": "PLZ_TRANSLATE Sjálfvirk flytja vasa peninga, sem þú getur gert hlé þegar þú vilt.",
+  "about_connecting_trustly_bullet_3": "PLZ_TRANSLATE Það &#39; er ekki hægt að senda peninga til annarra reikninga, og þú getur slökkt á tengingunni þegar þú vilt.",
+  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Það &#39; er ókeypis að sjálfsögðu."
 }

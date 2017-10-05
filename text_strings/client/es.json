@@ -1524,5 +1524,10 @@
   "trustly_transfer_duration_text": "PLZ_TRANSLATE Las transferencias bancarias llevan tiempo. Nos PLZ_TRANSLATE re retirar %1$d de la alcancía ahora, pero va a tardar hasta 3 días para llegar a la cuenta bancaria.",
   "how_do_you_want_to_pay_out": "PLZ_TRANSLATE ¿Cómo quieres pagar?",
   "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Elija cómo se pagará la meta de ahorro de %1$d de %2$d",
-  "cash": "PLZ_TRANSLATE efectivo"
+  "cash": "PLZ_TRANSLATE efectivo",
+  "about_connecting_trustly": "PLZ_TRANSLATE Al conectar cuentas con Trustly",
+  "about_connecting_trustly_bullet_1": "PLZ_TRANSLATE Transferir dinero fácilmente entre cuentas conectadas.",
+  "about_connecting_trustly_bullet_2": "PLZ_TRANSLATE Transferencias automáticas de dinero de bolsillo, que puedes pausar cuando quieras.",
+  "about_connecting_trustly_bullet_3": "PLZ_TRANSLATE Es &#39; No es posible enviar dinero a otras cuentas, y se puede desactivar la conexión siempre que lo desee.",
+  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Es &#39; s gratis, por supuesto."
 }

@@ -1524,5 +1524,10 @@
   "trustly_transfer_duration_text": "PLZ_TRANSLATE Bankoverførsler tager tid. Vi PLZ_TRANSLATE re tilbagetrækning %1$d fra sparegris nu, men det vil tage op til 3 dage for at nå bankkonto.",
   "how_do_you_want_to_pay_out": "PLZ_TRANSLATE Hvordan vil du betale?",
   "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Vælg, hvordan %1$d besparelsesmål for %2$d udbetales",
-  "cash": "PLZ_TRANSLATE kontanter"
+  "cash": "PLZ_TRANSLATE kontanter",
+  "about_connecting_trustly": "PLZ_TRANSLATE Ved tilslutning af konti med tillid",
+  "about_connecting_trustly_bullet_1": "PLZ_TRANSLATE Overfør nemt penge mellem tilsluttede konti.",
+  "about_connecting_trustly_bullet_2": "PLZ_TRANSLATE Automatiske overførsler af lommepenge, som du kan holde pause, når du vil.",
+  "about_connecting_trustly_bullet_3": "PLZ_TRANSLATE Det &#39; s ikke muligt at sende penge til andre konti, og du kan deaktivere forbindelsen når du vil.",
+  "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Det &#39; s gratis selvfølgelig."
 }
