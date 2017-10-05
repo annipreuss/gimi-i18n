@@ -41,17 +41,15 @@ stringTagData.forEach(data => {
     if (data.plzTrans > 0) {
       let foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
       jsonDataTranslate.push(foo)
-    // jsonDataTranslate.push(`key: ${key}, path: ${path}, lang: ${lang}`)
     }
     if (data.count > 0) {
       let foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
       jsonBreakingSumbols.push(foo)
-    // jsonDataTranslate.push(`key: ${key}, path: ${path}, lang: ${lang}`)
     }
   }
 })
 
-xit('it should not have breaking sumbols', () => {
+it('it should not have breaking sumbols', () => {
   expect(jsonBreakingSumbols).toEqual([])
 })
 
