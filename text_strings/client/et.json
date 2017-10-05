@@ -1523,5 +1523,6 @@
   "trustly_transfer_duration": "PLZ_TRANSLATE Valmis. Varsti ...",
   "trustly_transfer_duration_text": "PLZ_TRANSLATE Pangaülekanded vajavad aega. Me PLZ_TRANSLATE re äravõtmise %1$d alates notsu panga nüüd, kuid see võtab aega kuni 3 päeva jõuda pangakontole.",
   "how_do_you_want_to_pay_out": "PLZ_TRANSLATE Kuidas soovite välja maksta?",
-  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Valige, kuidas %1$d säästmise eesmärk on %2$d välja maksta"
+  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Valige, kuidas %1$d säästmise eesmärk on %2$d välja maksta",
+  "cash": "PLZ_TRANSLATE sularahas"
 }

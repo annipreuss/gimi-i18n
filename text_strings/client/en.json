@@ -1523,5 +1523,6 @@
   "trustly_transfer_duration": "Done. Soon...",
   "trustly_transfer_duration_text": "Bank transfers take time. We're withdrawing %1$d from the piggy bank now, but it will take up to 3 days to reach the bank account.",
   "how_do_you_want_to_pay_out": "How do you want to pay out?",
-  "goal_choose_how_to_pay_out": "Choose how the %1$d savings goal of %2$d will be paid out"
+  "goal_choose_how_to_pay_out": "Choose how the %1$d savings goal of %2$d will be paid out",
+  "cash": "cash"
 }

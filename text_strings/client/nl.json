@@ -1523,5 +1523,6 @@
   "trustly_transfer_duration": "PLZ_TRANSLATE Gedaan. Spoedig...",
   "trustly_transfer_duration_text": "PLZ_TRANSLATE Bankoverschrijvingen maken tijd. We PLZ_TRANSLATE re onttrekken %1$d van de spaarpot nu, maar het zal duren tot 3 dagen op de bankrekening te bereiken.",
   "how_do_you_want_to_pay_out": "PLZ_TRANSLATE Hoe wil je uitbetalen?",
-  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Geef aan hoe het %1$d besparing doel van %2$d wordt uitgekeerd"
+  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Geef aan hoe het %1$d besparing doel van %2$d wordt uitgekeerd",
+  "cash": "PLZ_TRANSLATE contant"
 }

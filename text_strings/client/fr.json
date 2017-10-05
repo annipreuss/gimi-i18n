@@ -1523,5 +1523,6 @@
   "trustly_transfer_duration": "PLZ_TRANSLATE Terminé. Bientôt...",
   "trustly_transfer_duration_text": "PLZ_TRANSLATE Les transferts bancaires prennent du temps. Nous PLZ_TRANSLATE Conséquences du retrait %1$d de la tirelire maintenant, mais cela prendra jusquPLZ_TRANSLATEà 3 jours pour atteindre le compte bancaire.",
   "how_do_you_want_to_pay_out": "PLZ_TRANSLATE Comment voulez-vous payer?",
-  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Choisissez comment l&#39;objectif d&#39;économie %1$d de %2$d sera versé"
+  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Choisissez comment l&#39;objectif d&#39;économie %1$d de %2$d sera versé",
+  "cash": "PLZ_TRANSLATE en espèces"
 }

@@ -1523,5 +1523,6 @@
   "trustly_transfer_duration": "PLZ_TRANSLATE Færdig. Snart...",
   "trustly_transfer_duration_text": "PLZ_TRANSLATE Bankoverførsler tager tid. Vi PLZ_TRANSLATE re tilbagetrækning %1$d fra sparegris nu, men det vil tage op til 3 dage for at nå bankkonto.",
   "how_do_you_want_to_pay_out": "PLZ_TRANSLATE Hvordan vil du betale?",
-  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Vælg, hvordan %1$d besparelsesmål for %2$d udbetales"
+  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Vælg, hvordan %1$d besparelsesmål for %2$d udbetales",
+  "cash": "PLZ_TRANSLATE kontanter"
 }

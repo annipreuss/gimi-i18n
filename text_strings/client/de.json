@@ -1523,5 +1523,6 @@
   "trustly_transfer_duration": "PLZ_TRANSLATE Erledigt. Bald...",
   "trustly_transfer_duration_text": "PLZ_TRANSLATE Überweisungen brauchen Zeit. Wir PLZ_TRANSLATE re Rückzug %1$d von der Piggy Bank jetzt, aber es wird bis zu 3 Tage dauern , bis das Bankkonto zu erreichen.",
   "how_do_you_want_to_pay_out": "PLZ_TRANSLATE Wie wollen Sie auszahlen?",
-  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Wählen Sie aus, wie das %1$d Sparziel von %2$d ausgezahlt wird"
+  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Wählen Sie aus, wie das %1$d Sparziel von %2$d ausgezahlt wird",
+  "cash": "PLZ_TRANSLATE Kasse"
 }

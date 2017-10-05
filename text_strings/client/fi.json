@@ -1523,5 +1523,6 @@
   "trustly_transfer_duration": "PLZ_TRANSLATE Tehty. Pian...",
   "trustly_transfer_duration_text": "PLZ_TRANSLATE Pankkisiirto vie aikaa. Me PLZ_TRANSLATE uudelleen peruuttamista %1$d päässä säästöpossu nyt, mutta se kestää jopa 3 päivää päästä pankkitilille.",
   "how_do_you_want_to_pay_out": "PLZ_TRANSLATE Kuinka haluat maksaa?",
-  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Valitse, kuinka %1$d säästötavoite on %2$d"
+  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Valitse, kuinka %1$d säästötavoite on %2$d",
+  "cash": "PLZ_TRANSLATE Käteinen raha"
 }

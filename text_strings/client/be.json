@@ -1523,5 +1523,6 @@
   "trustly_transfer_duration": "PLZ_TRANSLATE Гатова. Хутка ...",
   "trustly_transfer_duration_text": "PLZ_TRANSLATE Банкаўскія пераклады заняць некаторы час. Мы PLZ_TRANSLATE рэ зняцця %1$d з скарбонкі цяпер, але гэта можа заняць да 3 -х дзён , каб дасягнуць банкаўскага рахунку.",
   "how_do_you_want_to_pay_out": "PLZ_TRANSLATE Як вы хочаце плаціць за?",
-  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Выберыце , як %1$d эканомія мэта %2$d будуць выплачаныя"
+  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Выберыце , як %1$d эканомія мэта %2$d будуць выплачаныя",
+  "cash": "PLZ_TRANSLATE наяўныя грошы"
 }

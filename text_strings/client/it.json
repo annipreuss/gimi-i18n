@@ -1523,5 +1523,6 @@
   "trustly_transfer_duration": "PLZ_TRANSLATE Fatto. Presto...",
   "trustly_transfer_duration_text": "PLZ_TRANSLATE I trasferimenti bancari richiedono tempo. Noi PLZ_TRANSLATE stiamo ritirando %1$d dal salvadanaio ora, ma ci vorrà fino a 3 giorni per raggiungere il conto bancario.",
   "how_do_you_want_to_pay_out": "PLZ_TRANSLATE Come vuoi pagare?",
-  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Scegli come verrà rimborsato l&#39;obiettivo di risparmio %1$d di %2$d"
+  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Scegli come verrà rimborsato l&#39;obiettivo di risparmio %1$d di %2$d",
+  "cash": "PLZ_TRANSLATE Contanti"
 }
