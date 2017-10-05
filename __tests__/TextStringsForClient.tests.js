@@ -73,24 +73,6 @@ describe('TextStrings', () => {
    // if (error.lenght > 0) console.warn(error, undefined, 2)
     expect(JSON.stringify(errors, undefined, 2)).toEqual('[]')
   })
-
-  xit('should not have &# in textid', () => {
-    var errors = []
-    supportedLanguageCodes.forEach(languageCode => {
-      var textStrings = getTextStrings(languageCode)
-      Object.keys(textStrings).forEach((key) => {
-        var text = textStrings[key]
-        var valid = text.indexOf('&#') === -1
-
-        if (!valid) {
-          errors.push(`Found &# ${key}`)
-        }
-      })
-    })
-    // console.warn(JSON.stringify(error[0], undefined, 2))
-   // if (error.lenght > 0) console.warn(error, undefined, 2)
-    expect(JSON.stringify(errors, undefined, 2)).toEqual('[]')
-  })
 })
 
 it('should be able to validate tag', () => {
