@@ -1520,5 +1520,7 @@
   "allowance": "Veckopeng",
   "allowance_overview": "Veckopengen på %1$d har automatiskt lagts i spargrisen. Har du betalat ut den kan du klicka på \"Betala ut kontant\"",
   "edit_boost_totalsum": "<b>%1$d</b> läggs till när %2$d passerar någon av de 9 milstolparna. Det betyder att du totalt stödjer %2$d med %3$d för det här sparmålet.",
-  "trustly_choose_bank_title": "På vilken bank är ditt konto som du vill koppla till %1$d?"
+  "trustly_choose_bank_title": "På vilken bank är ditt konto som du vill koppla till %1$d?",
+  "trustly_transfer_duration": "Klart. Snart...",
+  "trustly_transfer_duration_text": "Banköverföringar tar tid. Vi drar %1$d från spargrisen nu, men pengarna kommer finnas på bankkontot om max 3 dagar."
 }

@@ -1519,5 +1519,7 @@
   "allowance": "PLZ_TRANSLATE Beihilfe",
   "allowance_overview": "PLZ_TRANSLATE Die Vergütung von %1$d wurde automatisch dem Sparschwein hinzugefügt. Wenn Sie &#39; es habe abgegolten können Sie ‚Pay - out in bar‘ wählen",
   "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> wird hinzugefügt, wenn %2$d einen der 9 Meilensteine ​​übergibt. Dies bedeutet , dass Sie &#39; re Unterstützung %2$d mit einer Gesamtsumme von %3$d für dieses Ziel.",
-  "trustly_choose_bank_title": "PLZ_TRANSLATE An welcher Bank ist dein Konto, dass du mit %1$d verbinden willst?"
+  "trustly_choose_bank_title": "PLZ_TRANSLATE An welcher Bank ist dein Konto, dass du mit %1$d verbinden willst?",
+  "trustly_transfer_duration": "PLZ_TRANSLATE Erledigt. Bald...",
+  "trustly_transfer_duration_text": "PLZ_TRANSLATE Überweisungen brauchen Zeit. Wir &#39; re Rückzug %1$d von der Piggy Bank jetzt, aber es wird bis zu 3 Tage dauern , bis das Bankkonto zu erreichen."
 }

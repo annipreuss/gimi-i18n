@@ -1519,5 +1519,7 @@
   "allowance": "Godtgjørelse",
   "allowance_overview": "Godtgjørelsen av %1$d er automatisk lagt til i sparegrisen. Hvis du &#39; har betalt det ut kan du velge &#39;Betale i kontanter&#39;",
   "edit_boost_totalsum": "<b>%1$d</b> legges til når %2$d passerer noen av de 9 milepælene. Dette betyr at du &#39; re støtter %2$d med en samlet sum av %3$d for dette målet.",
-  "trustly_choose_bank_title": "Hos hvilken bank fins kontoen din du vil koble til med %1$d ?"
+  "trustly_choose_bank_title": "Hos hvilken bank fins kontoen din du vil koble til med %1$d ?",
+  "trustly_transfer_duration": "PLZ_TRANSLATE Ferdig. Snart...",
+  "trustly_transfer_duration_text": "PLZ_TRANSLATE Bankoverføringer tar tid. Vi &#39; re uttak %1$d fra sparegrisen nå, men det vil ta opp til 3 dager å nå bankkonto."
 }

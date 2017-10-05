@@ -1519,5 +1519,7 @@
   "allowance": "PLZ_TRANSLATE godtgørelse",
   "allowance_overview": "PLZ_TRANSLATE Tillægget til %1$d er automatisk tilføjet til sparegrisen. Hvis du &#39; betalt det, kan du vælge &quot;Udbetale kontant&quot;",
   "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> tilføjes, når %2$d passerer nogen af ​​de 9 milepæle. Det betyder, at du &#39; re støtter %2$d med en samlet sum af %3$d til dette mål.",
-  "trustly_choose_bank_title": "PLZ_TRANSLATE Ved hvilken bank er din konto, som du vil oprette forbindelse til %1$d ?"
+  "trustly_choose_bank_title": "PLZ_TRANSLATE Ved hvilken bank er din konto, som du vil oprette forbindelse til %1$d ?",
+  "trustly_transfer_duration": "PLZ_TRANSLATE Færdig. Snart...",
+  "trustly_transfer_duration_text": "PLZ_TRANSLATE Bankoverførsler tager tid. Vi &#39; re tilbagetrækning %1$d fra sparegris nu, men det vil tage op til 3 dage for at nå bankkonto."
 }

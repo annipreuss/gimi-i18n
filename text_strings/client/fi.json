@@ -1519,5 +1519,7 @@
   "allowance": "PLZ_TRANSLATE avustus",
   "allowance_overview": "PLZ_TRANSLATE %1$d korvaus on automaattisesti lisätty säästöpostiin. Jos &#39; ve maksanut sitä voit valita &#39;Maksaa käteisellä&#39;",
   "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> lisätään, kun %2$d ylittää yhdeksän välitavoitetta. Tämä tarkoittaa sitä, että &#39; uudelleen tukemalla %2$d , joiden kokonaissumma %3$d tämän tavoitteen.",
-  "trustly_choose_bank_title": "PLZ_TRANSLATE Missä pankissa tilisi haluat muodostaa yhteyden %1$d ?"
+  "trustly_choose_bank_title": "PLZ_TRANSLATE Missä pankissa tilisi haluat muodostaa yhteyden %1$d ?",
+  "trustly_transfer_duration": "PLZ_TRANSLATE Tehty. Pian...",
+  "trustly_transfer_duration_text": "PLZ_TRANSLATE Pankkisiirto vie aikaa. Me &#39; uudelleen peruuttamista %1$d päässä säästöpossu nyt, mutta se kestää jopa 3 päivää päästä pankkitilille."
 }

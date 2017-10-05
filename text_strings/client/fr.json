@@ -1519,5 +1519,7 @@
   "allowance": "PLZ_TRANSLATE Allocation",
   "allowance_overview": "PLZ_TRANSLATE L&#39;allocation de %1$d a été automatiquement ajoutée à la tirelire. Si vous &#39; avez payé, vous pouvez choisir &quot;Pay out in cash&quot;",
   "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> est ajouté lorsque %2$d passe l&#39;un des 9 jalons. Cela signifie que vous &#39; êtes soutenir %2$d une somme totale de %3$d pour atteindre cet objectif.",
-  "trustly_choose_bank_title": "PLZ_TRANSLATE À quelle banque est votre compte auquel vous souhaitez vous connecter avec %1$d ?"
+  "trustly_choose_bank_title": "PLZ_TRANSLATE À quelle banque est votre compte auquel vous souhaitez vous connecter avec %1$d ?",
+  "trustly_transfer_duration": "PLZ_TRANSLATE Terminé. Bientôt...",
+  "trustly_transfer_duration_text": "PLZ_TRANSLATE Les transferts bancaires prennent du temps. Nous &#39; Conséquences du retrait %1$d de la tirelire maintenant, mais cela prendra jusqu&#39;à 3 jours pour atteindre le compte bancaire."
 }

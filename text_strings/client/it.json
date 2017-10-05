@@ -1519,5 +1519,7 @@
   "allowance": "PLZ_TRANSLATE indennità",
   "allowance_overview": "PLZ_TRANSLATE L&#39;indennità di %1$d è stata automaticamente aggiunta alla banca salvadana. Se si &#39; ve pagato fuori è possibile scegliere &#39;pagare in contanti&#39;",
   "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> viene aggiunto quando %2$d passa a una delle 9 pietre miliari. Questo significa che si &#39; ri di supporto %2$d con una somma totale di %3$d per questo obiettivo.",
-  "trustly_choose_bank_title": "PLZ_TRANSLATE A quale banca è il tuo account con cui desideri connettersi con %1$d ?"
+  "trustly_choose_bank_title": "PLZ_TRANSLATE A quale banca è il tuo account con cui desideri connettersi con %1$d ?",
+  "trustly_transfer_duration": "PLZ_TRANSLATE Fatto. Presto...",
+  "trustly_transfer_duration_text": "PLZ_TRANSLATE I trasferimenti bancari richiedono tempo. Noi &#39; stiamo ritirando %1$d dal salvadanaio ora, ma ci vorrà fino a 3 giorni per raggiungere il conto bancario."
 }
