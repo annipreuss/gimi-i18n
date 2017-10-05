@@ -1521,5 +1521,7 @@
   "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> se agrega cuando %2$d pasa alguno de los 9 hitos. Esto significa que usted PLZ_TRANSLATE re apoyar %2$d con una suma total de %3$d para este objetivo.",
   "trustly_choose_bank_title": "PLZ_TRANSLATE ¿En qué banco está su cuenta con la que desea conectarse con %1$d ?",
   "trustly_transfer_duration": "PLZ_TRANSLATE Hecho. Pronto...",
-  "trustly_transfer_duration_text": "PLZ_TRANSLATE Las transferencias bancarias llevan tiempo. Nos PLZ_TRANSLATE re retirar %1$d de la alcancía ahora, pero va a tardar hasta 3 días para llegar a la cuenta bancaria."
+  "trustly_transfer_duration_text": "PLZ_TRANSLATE Las transferencias bancarias llevan tiempo. Nos PLZ_TRANSLATE re retirar %1$d de la alcancía ahora, pero va a tardar hasta 3 días para llegar a la cuenta bancaria.",
+  "how_do_you_want_to_pay_out": "PLZ_TRANSLATE ¿Cómo quieres pagar?",
+  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Elija cómo se pagará la meta de ahorro de %1$d de %2$d"
 }

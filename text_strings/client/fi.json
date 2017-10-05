@@ -1521,5 +1521,7 @@
   "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> lisätään, kun %2$d ylittää yhdeksän välitavoitetta. Tämä tarkoittaa sitä, että PLZ_TRANSLATE uudelleen tukemalla %2$d , joiden kokonaissumma %3$d tämän tavoitteen.",
   "trustly_choose_bank_title": "PLZ_TRANSLATE Missä pankissa tilisi haluat muodostaa yhteyden %1$d ?",
   "trustly_transfer_duration": "PLZ_TRANSLATE Tehty. Pian...",
-  "trustly_transfer_duration_text": "PLZ_TRANSLATE Pankkisiirto vie aikaa. Me PLZ_TRANSLATE uudelleen peruuttamista %1$d päässä säästöpossu nyt, mutta se kestää jopa 3 päivää päästä pankkitilille."
+  "trustly_transfer_duration_text": "PLZ_TRANSLATE Pankkisiirto vie aikaa. Me PLZ_TRANSLATE uudelleen peruuttamista %1$d päässä säästöpossu nyt, mutta se kestää jopa 3 päivää päästä pankkitilille.",
+  "how_do_you_want_to_pay_out": "PLZ_TRANSLATE Kuinka haluat maksaa?",
+  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Valitse, kuinka %1$d säästötavoite on %2$d"
 }

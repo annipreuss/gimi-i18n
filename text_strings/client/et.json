@@ -1521,5 +1521,7 @@
   "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> lisatakse, kui %2$d läbib mis tahes 9 verstaposti. See tähendab, et sa PLZ_TRANSLATE re toetamine %2$d kokku summa %3$d selle eesmärki.",
   "trustly_choose_bank_title": "PLZ_TRANSLATE Millises pangas on teie konto, kuhu soovite %1$d ?",
   "trustly_transfer_duration": "PLZ_TRANSLATE Valmis. Varsti ...",
-  "trustly_transfer_duration_text": "PLZ_TRANSLATE Pangaülekanded vajavad aega. Me PLZ_TRANSLATE re äravõtmise %1$d alates notsu panga nüüd, kuid see võtab aega kuni 3 päeva jõuda pangakontole."
+  "trustly_transfer_duration_text": "PLZ_TRANSLATE Pangaülekanded vajavad aega. Me PLZ_TRANSLATE re äravõtmise %1$d alates notsu panga nüüd, kuid see võtab aega kuni 3 päeva jõuda pangakontole.",
+  "how_do_you_want_to_pay_out": "PLZ_TRANSLATE Kuidas soovite välja maksta?",
+  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Valige, kuidas %1$d säästmise eesmärk on %2$d välja maksta"
 }

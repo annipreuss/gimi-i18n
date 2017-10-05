@@ -1521,5 +1521,7 @@
   "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> wird hinzugefügt, wenn %2$d einen der 9 Meilensteine ​​übergibt. Dies bedeutet , dass Sie PLZ_TRANSLATE re Unterstützung %2$d mit einer Gesamtsumme von %3$d für dieses Ziel.",
   "trustly_choose_bank_title": "PLZ_TRANSLATE An welcher Bank ist dein Konto, dass du mit %1$d verbinden willst?",
   "trustly_transfer_duration": "PLZ_TRANSLATE Erledigt. Bald...",
-  "trustly_transfer_duration_text": "PLZ_TRANSLATE Überweisungen brauchen Zeit. Wir PLZ_TRANSLATE re Rückzug %1$d von der Piggy Bank jetzt, aber es wird bis zu 3 Tage dauern , bis das Bankkonto zu erreichen."
+  "trustly_transfer_duration_text": "PLZ_TRANSLATE Überweisungen brauchen Zeit. Wir PLZ_TRANSLATE re Rückzug %1$d von der Piggy Bank jetzt, aber es wird bis zu 3 Tage dauern , bis das Bankkonto zu erreichen.",
+  "how_do_you_want_to_pay_out": "PLZ_TRANSLATE Wie wollen Sie auszahlen?",
+  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Wählen Sie aus, wie das %1$d Sparziel von %2$d ausgezahlt wird"
 }

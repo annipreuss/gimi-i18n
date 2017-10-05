@@ -1521,5 +1521,7 @@
   "edit_boost_totalsum": "<b>%1$d</b> legges til når %2$d passerer noen av de 9 milepælene. Dette betyr at du PLZ_TRANSLATE re støtter %2$d med en samlet sum av %3$d for dette målet.",
   "trustly_choose_bank_title": "Hos hvilken bank fins kontoen din du vil koble til med %1$d ?",
   "trustly_transfer_duration": "PLZ_TRANSLATE Ferdig. Snart...",
-  "trustly_transfer_duration_text": "PLZ_TRANSLATE Bankoverføringer tar tid. Vi PLZ_TRANSLATE re uttak %1$d fra sparegrisen nå, men det vil ta opp til 3 dager å nå bankkonto."
+  "trustly_transfer_duration_text": "PLZ_TRANSLATE Bankoverføringer tar tid. Vi PLZ_TRANSLATE re uttak %1$d fra sparegrisen nå, men det vil ta opp til 3 dager å nå bankkonto.",
+  "how_do_you_want_to_pay_out": "PLZ_TRANSLATE Hvordan vil du betale ut?",
+  "goal_choose_how_to_pay_out": "PLZ_TRANSLATE Velg hvordan %1$d besparingsmål for %2$d vil bli utbetalt"
 }
