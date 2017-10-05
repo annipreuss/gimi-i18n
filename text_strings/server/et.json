@@ -159,5 +159,9 @@
   "event_allowance_transfer_weekly": "PLZ_TRANSLATE Nädala raha {text} -le on paigutatud silepangale",
   "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE {text} iganädalane makse on tasutud pangakontole",
   "event_allowance_transfer_monthly": "PLZ_TRANSLATE Sulepangale on lisatud {text} kuu raha",
-  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE {text} igakuine makse on tasutud pangakontole"
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE {text} igakuine makse on tasutud pangakontole",
+  "push_remind_parent_child_weekly_money": "PLZ_TRANSLATE Kas teate, et teie vanematele tuleb meelde tuletada oma iganädalast raha, kui te nendega ühendate. Iga nädal",
+  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Kui loote oma lapsega ühendust, aitate oma lapsel arendada oma rahalisi oskusi",
+  "push_children_financial_smarter": "PLZ_TRANSLATE Kas teadsite, et lapsed saavad kergesti rahaliselt arukamaks saada! Kuidas lapsed seda saavad?",
+  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} tagasitõmbatud {transaction.str_value} {user.name}"
 }

@@ -159,5 +159,9 @@
   "event_allowance_transfer_weekly": "PLZ_TRANSLATE Ugentlige penge på {text} er placeret i sparegrisen",
   "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Ugentlig betaling på {text} er blevet betalt til bankkonto",
   "event_allowance_transfer_monthly": "PLZ_TRANSLATE Månedlige penge på {text} er blevet tilføjet til spargrisen",
-  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Månedlig betaling på {text} er blevet betalt til bankkonto"
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Månedlig betaling på {text} er blevet betalt til bankkonto",
+  "push_remind_parent_child_weekly_money": "PLZ_TRANSLATE Ved du, at dine forældre bliver mindet om at give dine ugentlige penge, hvis du forbinder dem. Hver uge",
+  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Når du forbinder dit barn, hjælper du dit barn med at udvikle sine økonomiske evner",
+  "push_children_financial_smarter": "PLZ_TRANSLATE Vidste du, at børn nemt kan blive økonomisk smartere! Hvordan får børn det",
+  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} tilbagekaldt {transaction.str_value} fra sparegrisen"
 }

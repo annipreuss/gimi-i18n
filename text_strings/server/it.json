@@ -159,5 +159,9 @@
   "event_allowance_transfer_weekly": "PLZ_TRANSLATE Il denaro settimanale su {text} è stato inserito nella banca piggy",
   "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Il pagamento settimanale su {text} è stato versato sul conto bancario",
   "event_allowance_transfer_monthly": "PLZ_TRANSLATE Il denaro mensile su {text} è stato aggiunto alla banca salvadana",
-  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Il pagamento mensile su {text} è stato versato sul conto bancario"
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Il pagamento mensile su {text} è stato versato sul conto bancario",
+  "push_remind_parent_child_weekly_money": "PLZ_TRANSLATE Sai che i tuoi genitori saranno ricordati di dare il tuo denaro settimanale se ti connetti a loro. Ogni settimana",
+  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Quando si connette con il tuo bambino, aiuti il ​​tuo bambino a sviluppare le sue capacità finanziarie",
+  "push_children_financial_smarter": "PLZ_TRANSLATE Sapevate che i bambini possono facilmente diventare finanziariamente più intelligenti! Come i bambini ottengono",
+  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} ritirato {transaction.str_value} dalla banca piggy"
 }

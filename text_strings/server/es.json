@@ -159,5 +159,9 @@
   "event_allowance_transfer_weekly": "PLZ_TRANSLATE El dinero semanal en {text} se ha colocado en la alcancía",
   "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE El pago semanal en {text} se ha pagado a la cuenta bancaria",
   "event_allowance_transfer_monthly": "PLZ_TRANSLATE El dinero mensual en {text} se ha añadido a la alcancía",
-  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE El pago mensual en {text} se ha pagado a la cuenta bancaria"
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE El pago mensual en {text} se ha pagado a la cuenta bancaria",
+  "push_remind_parent_child_weekly_money": "PLZ_TRANSLATE ¿Sabe que a sus padres se les recordará que debe dar su dinero semanal si se conecta con ellos. Cada semana",
+  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Cuando se conecta con su hijo, usted ayuda a su hijo a desarrollar sus habilidades financieras",
+  "push_children_financial_smarter": "PLZ_TRANSLATE ¿Sabías que los niños pueden llegar a ser financieramente más inteligentes? ¿Cómo los niños lo consiguen",
+  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} retraído {transaction.str_value} de la alcancía"
 }

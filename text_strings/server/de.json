@@ -159,5 +159,9 @@
   "event_allowance_transfer_weekly": "PLZ_TRANSLATE Wöchentliches Geld auf {text} wurde in das Sparschwein gelegt",
   "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Wöchentliche Zahlung auf {text} wurde auf Bankkonto bezahlt",
   "event_allowance_transfer_monthly": "PLZ_TRANSLATE Monatliches Geld auf {text} wurde dem Sparschwein hinzugefügt",
-  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Die monatliche Zahlung auf {text} wurde auf das Bankkonto überwiesen"
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Die monatliche Zahlung auf {text} wurde auf das Bankkonto überwiesen",
+  "push_remind_parent_child_weekly_money": "PLZ_TRANSLATE Wissen Sie, dass Ihre Eltern daran erinnert werden, Ihr wöchentliches Geld zu geben, wenn Sie mit ihnen verbinden. Jede Woche",
+  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Wenn du dich mit deinem Kind verbindest, hilfst du deinem Kind, seine finanziellen Fähigkeiten zu entwickeln",
+  "push_children_financial_smarter": "PLZ_TRANSLATE Wussten Sie, dass Kinder finanziell schlauer werden können PLZ_TRANSLATE Wie bekommen Kinder es?",
+  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} {transaction.str_value} vom Sparschwein zurückgezogen"
 }

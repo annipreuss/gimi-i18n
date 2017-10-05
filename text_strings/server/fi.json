@@ -159,5 +159,9 @@
   "event_allowance_transfer_weekly": "PLZ_TRANSLATE Weekly money on {text} on sijoitettu säästöpossuun",
   "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Viikottainen maksu {text} on maksettu pankkitilille",
   "event_allowance_transfer_monthly": "PLZ_TRANSLATE Kuitukerä {text} on lisätty säästöpostiin",
-  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Kuukausimaksu {text} on maksettu pankkitilille"
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Kuukausimaksu {text} on maksettu pankkitilille",
+  "push_remind_parent_child_weekly_money": "PLZ_TRANSLATE Tiedätkö, että vanhempiesi muistutetaan antavan viikoittaisen rahan, jos muodostat yhteyden heihin. Joka viikko",
+  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Kun yhdistät lapsesi kanssa, autat lapsesi kehittämään taloudellisia taitojaan",
+  "push_children_financial_smarter": "PLZ_TRANSLATE Tiesitkö, että lapset voivat helposti taloudellisesti älykkäämpiä! Miten lapset saavat sen",
+  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} vetäytyi {transaction.str_value} säästöpossuista"
 }

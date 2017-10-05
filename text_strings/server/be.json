@@ -159,5 +159,9 @@
   "event_allowance_transfer_weekly": "PLZ_TRANSLATE Дапаможнік па {text} было пастаўлена ў скарбонцы",
   "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Дапаможнік па {text} выплачваецца на банкаўскі рахунак",
   "event_allowance_transfer_monthly": "PLZ_TRANSLATE Штомесячная дапамога {text} было пастаўлена ў скарбонцы",
-  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Штомесячная дапамога {text} выплачваецца на банкаўскі рахунак"
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Штомесячная дапамога {text} выплачваецца на банкаўскі рахунак",
+  "push_remind_parent_child_weekly_money": "PLZ_TRANSLATE Ці ведаеце вы , што вашы бацькі будуць нагадваць , каб даць штотыднёвыя грошы , калі вы падлучаецеся да іх. Кожны тыдзень",
+  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Падчас падлучэння з вашым дзіцём, вы можаце дапамагчы свайму дзіцяці развіць свае фінансавыя навыкі",
+  "push_children_financial_smarter": "PLZ_TRANSLATE Ці ведаеце вы , што дзеці могуць лёгка стаць фінансава разумнейшы! Як дзеці атрымліваюць яго",
+  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} убіраецца {transaction.str_value} з скарбонкі"
 }

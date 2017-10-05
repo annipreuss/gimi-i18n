@@ -159,5 +159,9 @@
   "event_allowance_transfer_weekly": "PLZ_TRANSLATE Vikuleg peningar á {text} hafa verið settar í grísabankann",
   "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Vikuleg greiðslu á {text} hefur verið greiddur á bankareikning",
   "event_allowance_transfer_monthly": "PLZ_TRANSLATE Mánaðarleg peninga á {text} hefur verið bætt við grís bankann",
-  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Mánaðarleg greiðsla á {text} hefur verið greidd á bankareikning"
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Mánaðarleg greiðsla á {text} hefur verið greidd á bankareikning",
+  "push_remind_parent_child_weekly_money": "PLZ_TRANSLATE Veistu að foreldrar þínir verði minntir á að gefa vikulega peningana þína ef þú tengist þeim. Í hverri viku",
+  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Þegar þú tengist barninu þínu, hjálpar þú barninu þínu að þróa fjárhagslega hæfileika sína",
+  "push_children_financial_smarter": "PLZ_TRANSLATE Vissirðu að börn geta auðveldlega orðið fjárhagslega betri! Hvernig fá börn það",
+  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} dregið inn {transaction.str_value} frá {user.name}"
 }

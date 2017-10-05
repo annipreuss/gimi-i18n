@@ -159,5 +159,9 @@
   "event_allowance_transfer_weekly": "Veckopeng på {text} har lagts i spargrisen",
   "event_allowance_transfer_weekly_trustly": "Veckopeng på {text} har betalats ut till bankkonto",
   "event_allowance_transfer_monthly": "Månadspeng på {text} har lagts i spargrisen",
-  "event_allowance_transfer_monthly_trustly": "Månadspeng på {text} har betalats ut till bankkonto"
+  "event_allowance_transfer_monthly_trustly": "Månadspeng på {text} har betalats ut till bankkonto",
+  "push_remind_parent_child_weekly_money": "Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du ansluter dem till dem. Varje vecka",
+  "push_connect_child_help_develop_economical_skills": "När du ansluter till ditt barn hjälper du ditt barn att utveckla sina ekonomiska färdigheter",
+  "push_children_financial_smarter": "Visste du att barn enkelt kan bli ekonomiskt smartare! Hur blir barn det",
+  "event_withdrawal_child": "{user.name} återtog {transaction.str_value} från spargrisen"
 }

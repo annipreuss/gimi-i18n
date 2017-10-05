@@ -159,5 +159,9 @@
   "event_allowance_transfer_weekly": "PLZ_TRANSLATE Wekelijks geld op {text} is in de spaarpot geplaatst",
   "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE De wekelijkse betaling op {text} is aan het bankrekening betaald",
   "event_allowance_transfer_monthly": "PLZ_TRANSLATE Maandelijks geld op {text} is toegevoegd aan de spaarpot",
-  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Maandelijkse betaling op {text} is aan bankrekening betaald"
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Maandelijkse betaling op {text} is aan bankrekening betaald",
+  "push_remind_parent_child_weekly_money": "PLZ_TRANSLATE Weet je dat je ouders herinnerd worden om je wekelijkse geld te geven als je er verbinding mee maakt. Elke week",
+  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Wanneer u contact maakt met uw kind, helpt u uw kind om zijn financiële vaardigheden te ontwikkelen",
+  "push_children_financial_smarter": "PLZ_TRANSLATE Wist je dat kinderen makkelijk financierder kunnen worden! Hoe krijgen kinderen het",
+  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} ingetrokken {transaction.str_value} van de spaarpot"
 }

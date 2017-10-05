@@ -159,5 +159,9 @@
   "event_allowance_transfer_weekly": "PLZ_TRANSLATE L&#39;argent hebdomadaire sur {text} a été placé dans la tirelire",
   "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Le paiement hebdomadaire sur {text} a été payé au compte bancaire",
   "event_allowance_transfer_monthly": "PLZ_TRANSLATE L&#39;argent mensuel sur {text} a été ajouté à la tirelire",
-  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Le paiement mensuel sur {text} a été payé au compte bancaire"
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Le paiement mensuel sur {text} a été payé au compte bancaire",
+  "push_remind_parent_child_weekly_money": "PLZ_TRANSLATE Savez-vous que vos parents seront rappelés pour donner votre argent hebdomadaire si vous vous connectez. Toutes les semaines",
+  "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Lorsque vous vous connectez avec votre enfant, vous aidez votre enfant à développer ses compétences financières",
+  "push_children_financial_smarter": "PLZ_TRANSLATE Saviez-vous que les enfants peuvent facilement devenir plus intelligemment sur le plan financier? Comment les enfants l&#39;obtiennent-ils",
+  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} rétracté {transaction.str_value} de la tirelire"
 }

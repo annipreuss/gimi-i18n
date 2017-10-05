@@ -159,5 +159,9 @@
   "event_allowance_transfer_weekly": "Weekly money on {text} has been placed in the piggy bank",
   "event_allowance_transfer_weekly_trustly": "Weekly allowance {text} has been paid to bank account",
   "event_allowance_transfer_monthly": "Monthly allowance {text} has been added to the piggy bank",
-  "event_allowance_transfer_monthly_trustly": "Monthly allowance {text} has been paid to bank account"
+  "event_allowance_transfer_monthly_trustly": "Monthly allowance {text} has been paid to bank account",
+  "push_remind_parent_child_weekly_money": "Do you know that your parents will be reminded to give your weekly money if you connect to them!",
+  "push_connect_child_help_develop_economical_skills": "When you connect with your child, you help your child to develop his financial skills",
+  "push_children_financial_smarter": "Did you know that children can easily become financially smarter! How do children get it",
+  "event_withdrawal_child": "{user.name} retracted {transaction.str_value} from the piggy bank"
 }
