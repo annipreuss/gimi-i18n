@@ -1525,7 +1525,7 @@
   "how_do_you_want_to_pay_out": "Hur vill du betala ut?",
   "goal_choose_how_to_pay_out": "Välj hur sparmålet %1$d på %2$d ska betalas ut",
   "cash": "kontant",
-  "about_connecting_trustly": "Om att koppla ihop konton med Trustly.",
+  "about_connecting_trustly": "Om att koppla ihop konton med Trustly",
   "about_connecting_trustly_bullet_1": "För enkelt över pengar mellan kopplade konton.",
   "about_connecting_trustly_bullet_2": "Automatiska överföringar av månadspengar, som du kan pausa när du vill.",
   "about_connecting_trustly_bullet_3": "Det går inte att skicka pengar till andra konton, och du kan ta bort kopplingen när du vill.",
