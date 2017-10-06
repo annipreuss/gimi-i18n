@@ -425,7 +425,7 @@
   "child_settings_allowance_weekly_on": "%1$d på %2$d",
   "child_settings_interest_rate": "Sparränta",
   "percentage_rate": "%1$d %",
-  "child_settings_autosave_allowance": "Autospara ej utbetald %1$d",
+  "child_settings_autosave_allowance": "Autospara utbetald %1$d",
   "tabbar_home": "Mina barn",
   "tabbar_trans": "Transaktioner",
   "tabbar_premium": "Powers",
