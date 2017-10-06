@@ -1532,5 +1532,7 @@
   "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE Det &#39; s gratis selvfølgelig.",
   "search_result": "PLZ_TRANSLATE Søgeresultater",
   "no_results": "PLZ_TRANSLATE Ingen resultater",
-  "search": "PLZ_TRANSLATE Søg"
+  "search": "PLZ_TRANSLATE Søg",
+  "create_savings_goal_parent": "PLZ_TRANSLATE Lav et besparelsesmål",
+  "create_goal_big_text_parent": "PLZ_TRANSLATE Opret et brugerdefineret opsparingsmål"
 }

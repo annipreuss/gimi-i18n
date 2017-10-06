@@ -1532,5 +1532,7 @@
   "about_connecting_trustly_bullet_4": "Es &#39; s gratis, por supuesto.",
   "search_result": "Resultados de la búsqueda",
   "no_results": "No hay resultados",
-  "search": "Buscar"
+  "search": "Buscar",
+  "create_savings_goal_parent": "PLZ_TRANSLATE Crear una meta de ahorro",
+  "create_goal_big_text_parent": "PLZ_TRANSLATE Crear un objetivo de ahorro personalizado"
 }

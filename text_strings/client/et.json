@@ -1532,5 +1532,7 @@
   "about_connecting_trustly_bullet_4": "PLZ_TRANSLATE See &#39; tasuta muidugi.",
   "search_result": "PLZ_TRANSLATE Otsingu tulemused",
   "no_results": "PLZ_TRANSLATE Tulemused puuduvad",
-  "search": "PLZ_TRANSLATE Otsing"
+  "search": "PLZ_TRANSLATE Otsing",
+  "create_savings_goal_parent": "PLZ_TRANSLATE Loo säästueesmärk",
+  "create_goal_big_text_parent": "PLZ_TRANSLATE Loo kohandatud säästueesmärk"
 }

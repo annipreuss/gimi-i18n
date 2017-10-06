@@ -1532,5 +1532,7 @@
   "about_connecting_trustly_bullet_4": "It's free of course.",
   "search_result": "Search results",
   "no_results": "No results",
-  "search": "Search"
+  "search": "Search",
+  "create_savings_goal_parent": "Create a savings goal",
+  "create_goal_big_text_parent": "Create a custom savings goal"
 }
