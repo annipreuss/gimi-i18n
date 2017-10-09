@@ -1534,5 +1534,6 @@
   "no_results": "Aucun résultat",
   "search": "Chercher",
   "create_savings_goal_parent": "Créer un objectif d'épargne",
-  "create_goal_big_text_parent": "Créer un objectif d'épargne personnalisé"
+  "create_goal_big_text_parent": "Créer un objectif d'épargne personnalisé",
+  "task_pending_state_alt": "Granskas..."
 }

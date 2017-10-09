@@ -1534,5 +1534,6 @@
   "no_results": "PLZ_TRANSLATE Ei tuloksia",
   "search": "PLZ_TRANSLATE Hae",
   "create_savings_goal_parent": "PLZ_TRANSLATE Luo säästötavoitteita",
-  "create_goal_big_text_parent": "PLZ_TRANSLATE Luo mukautettu säästötavoitteet"
+  "create_goal_big_text_parent": "PLZ_TRANSLATE Luo mukautettu säästötavoitteet",
+  "task_pending_state_alt": "Granskas..."
 }

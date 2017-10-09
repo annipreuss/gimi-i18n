@@ -1534,5 +1534,6 @@
   "no_results": "PLZ_TRANSLATE Engar niðurstöður",
   "search": "PLZ_TRANSLATE Leita",
   "create_savings_goal_parent": "PLZ_TRANSLATE Búðu til sparnaðarmarkmið",
-  "create_goal_big_text_parent": "PLZ_TRANSLATE Búðu til sérsniðna sparnaðarmarkmið"
+  "create_goal_big_text_parent": "PLZ_TRANSLATE Búðu til sérsniðna sparnaðarmarkmið",
+  "task_pending_state_alt": "Granskas..."
 }

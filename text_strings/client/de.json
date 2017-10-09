@@ -1534,5 +1534,6 @@
   "no_results": "PLZ_TRANSLATE Keine Ergebnisse",
   "search": "PLZ_TRANSLATE Suche",
   "create_savings_goal_parent": "PLZ_TRANSLATE Erstellen Sie ein Sparziel",
-  "create_goal_big_text_parent": "PLZ_TRANSLATE Erstellen Sie ein benutzerdefiniertes Sparziel"
+  "create_goal_big_text_parent": "PLZ_TRANSLATE Erstellen Sie ein benutzerdefiniertes Sparziel",
+  "task_pending_state_alt": "Granskas..."
 }

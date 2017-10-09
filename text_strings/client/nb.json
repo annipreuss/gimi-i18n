@@ -1534,5 +1534,6 @@
   "no_results": "PLZ_TRANSLATE Ingen resultater",
   "search": "PLZ_TRANSLATE Søke",
   "create_savings_goal_parent": "PLZ_TRANSLATE Lag et sparemål",
-  "create_goal_big_text_parent": "PLZ_TRANSLATE Lag et tilpasset besparelsesmål"
+  "create_goal_big_text_parent": "PLZ_TRANSLATE Lag et tilpasset besparelsesmål",
+  "task_pending_state_alt": "Granskas..."
 }

@@ -1534,5 +1534,6 @@
   "no_results": "PLZ_TRANSLATE няма вынікаў",
   "search": "PLZ_TRANSLATE пошук",
   "create_savings_goal_parent": "PLZ_TRANSLATE Стварэнне ашчадных мэтаў",
-  "create_goal_big_text_parent": "PLZ_TRANSLATE Стварэнне карыстацкіх мэтаў эканоміі"
+  "create_goal_big_text_parent": "PLZ_TRANSLATE Стварэнне карыстацкіх мэтаў эканоміі",
+  "task_pending_state_alt": "Granskas..."
 }
