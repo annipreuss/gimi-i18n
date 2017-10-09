@@ -1537,5 +1537,11 @@
   "create_goal_big_text_parent": "PLZ_TRANSLATE Luo mukautettu säästötavoitteet",
   "task_pending_state_alt": "PLZ_TRANSLATE Tarkastelussa ...",
   "trustly_flow_account_connected": "PLZ_TRANSLATE Tilisi on yhdistetty!",
-  "trustly_flow_connect_child": "PLZ_TRANSLATE Nyt täytyy vain liittää lapsesi &#39; tilille."
+  "trustly_flow_connect_child": "PLZ_TRANSLATE Nyt täytyy vain liittää lapsesi &#39; tilille.",
+  "trustly_flow_connect_services_header": "PLZ_TRANSLATE Yhdistä %1$d -tili",
+  "trustly_flow_connect_services": "PLZ_TRANSLATE Mitä palveluita haluat aktivoida?",
+  "trustly_flow_service1_title": "PLZ_TRANSLATE Automaattiset siirrot",
+  "trustly_flow_service1_descr": "PLZ_TRANSLATE Voit &#39; t aktivoida automaattivaihteisto hyvityksen, koska se &#39; s jo tehnyt %1$d .",
+  "trustly_flow_service2_title": "PLZ_TRANSLATE Helppo siirto",
+  "trustly_flow_service2_descr": "PLZ_TRANSLATE Voit siirtää enintään %1$d päivässä ilman BankID-tunnusta. Tämä voidaan tehdä vain yhdistetyillä tileillä."
 }

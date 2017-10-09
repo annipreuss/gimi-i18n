@@ -1537,5 +1537,11 @@
   "create_goal_big_text_parent": "Create a custom savings goal",
   "task_pending_state_alt": "PLZ_TRANSLATE In review ...",
   "trustly_flow_account_connected": "Your account is connected!",
-  "trustly_flow_connect_child": "Now you just have to connect your child's account."
+  "trustly_flow_connect_child": "Now you just have to connect your child's account.",
+  "trustly_flow_connect_services_header": "Connect %1$d account",
+  "trustly_flow_connect_services": "Which services would you like to activate?",
+  "trustly_flow_service1_title": "Automatic transfers",
+  "trustly_flow_service1_descr": "You can't activate automatic transfers of the allowance as it's already being done by %1$d.",
+  "trustly_flow_service2_title": "Easy transfers",
+  "trustly_flow_service2_descr": "You can transfer up to %1$d per day without BankID. This can only be done with connected accounts."
 }

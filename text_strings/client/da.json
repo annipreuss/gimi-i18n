@@ -1537,5 +1537,11 @@
   "create_goal_big_text_parent": "PLZ_TRANSLATE Opret et brugerdefineret opsparingsmål",
   "task_pending_state_alt": "PLZ_TRANSLATE I anmeldelse ...",
   "trustly_flow_account_connected": "PLZ_TRANSLATE Din konto er forbundet!",
-  "trustly_flow_connect_child": "PLZ_TRANSLATE Nu skal du bare nødt til at tilslutte dit barns &#39; s konto."
+  "trustly_flow_connect_child": "PLZ_TRANSLATE Nu skal du bare nødt til at tilslutte dit barns &#39; s konto.",
+  "trustly_flow_connect_services_header": "PLZ_TRANSLATE Tilslut %1$d konto",
+  "trustly_flow_connect_services": "PLZ_TRANSLATE Hvilke tjenester vil du gerne aktivere?",
+  "trustly_flow_service1_title": "PLZ_TRANSLATE Automatiske overførsler",
+  "trustly_flow_service1_descr": "PLZ_TRANSLATE Du kan &#39; t aktivere automatiske overførsler af ydelsen, som det &#39; s allerede bliver gjort af %1$d .",
+  "trustly_flow_service2_title": "PLZ_TRANSLATE Nem overførsel",
+  "trustly_flow_service2_descr": "PLZ_TRANSLATE Du kan overføre op til %1$d pr. Dag uden BankID. Dette kan kun ske med tilsluttede konti."
 }

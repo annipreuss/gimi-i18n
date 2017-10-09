@@ -1537,5 +1537,11 @@
   "create_goal_big_text_parent": "PLZ_TRANSLATE Стварэнне карыстацкіх мэтаў эканоміі",
   "task_pending_state_alt": "PLZ_TRANSLATE У аглядзе ...",
   "trustly_flow_account_connected": "PLZ_TRANSLATE Ваш рахунак падлучаны!",
-  "trustly_flow_connect_child": "PLZ_TRANSLATE Цяпер вы проста павінны падключыць дзіця &#39; кошт s."
+  "trustly_flow_connect_child": "PLZ_TRANSLATE Цяпер вы проста павінны падключыць дзіця &#39; кошт s.",
+  "trustly_flow_connect_services_header": "PLZ_TRANSLATE Падключэнне %1$d рахункі",
+  "trustly_flow_connect_services": "PLZ_TRANSLATE Якія паслугі вы хацелі б, каб актываваць?",
+  "trustly_flow_service1_title": "PLZ_TRANSLATE аўтаматычныя пераклады",
+  "trustly_flow_service1_descr": "PLZ_TRANSLATE Вы можаце &#39; т актываваць аўтаматычную перадачу рэзерву , як гэта &#39; ы ўжо зроблена %1$d .",
+  "trustly_flow_service2_title": "PLZ_TRANSLATE лёгкія пераклады",
+  "trustly_flow_service2_descr": "PLZ_TRANSLATE Вы можаце перадаць да %1$d у суткі без BankID. Гэта можа быць зроблена толькі з падлучанымі рахункамі."
 }

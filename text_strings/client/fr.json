@@ -1537,5 +1537,11 @@
   "create_goal_big_text_parent": "Créer un objectif d'épargne personnalisé",
   "task_pending_state_alt": "PLZ_TRANSLATE En revue ...",
   "trustly_flow_account_connected": "PLZ_TRANSLATE Votre compte est connecté!",
-  "trustly_flow_connect_child": "PLZ_TRANSLATE Maintenant , il vous suffit de connecter votre enfant &#39; le compte."
+  "trustly_flow_connect_child": "PLZ_TRANSLATE Maintenant , il vous suffit de connecter votre enfant &#39; le compte.",
+  "trustly_flow_connect_services_header": "PLZ_TRANSLATE Connectez-vous %1$d compte",
+  "trustly_flow_connect_services": "PLZ_TRANSLATE Quels services souhaitez-vous activer?",
+  "trustly_flow_service1_title": "PLZ_TRANSLATE Transferts automatiques",
+  "trustly_flow_service1_descr": "PLZ_TRANSLATE Vous pouvez &#39; t activer les transferts automatiques de l&#39;allocation qu&#39;il &#39; est déjà fait par %1$d .",
+  "trustly_flow_service2_title": "PLZ_TRANSLATE Transferts faciles",
+  "trustly_flow_service2_descr": "PLZ_TRANSLATE Vous pouvez transférer jusqu&#39;à %1$d par jour sans BankID. Cela ne peut être fait qu&#39;avec des comptes connectés."
 }

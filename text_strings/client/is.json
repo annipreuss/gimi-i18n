@@ -1537,5 +1537,11 @@
   "create_goal_big_text_parent": "PLZ_TRANSLATE Búðu til sérsniðna sparnaðarmarkmið",
   "task_pending_state_alt": "PLZ_TRANSLATE Í umsögn ...",
   "trustly_flow_account_connected": "PLZ_TRANSLATE Reikningurinn þinn er tengdur!",
-  "trustly_flow_connect_child": "PLZ_TRANSLATE Nú þú verður bara að tengja barn &#39; reikninginn s."
+  "trustly_flow_connect_child": "PLZ_TRANSLATE Nú þú verður bara að tengja barn &#39; reikninginn s.",
+  "trustly_flow_connect_services_header": "PLZ_TRANSLATE Tengdu %1$d reikning",
+  "trustly_flow_connect_services": "PLZ_TRANSLATE Hvaða þjónustu viltu virkja?",
+  "trustly_flow_service1_title": "PLZ_TRANSLATE Sjálfvirk flytja",
+  "trustly_flow_service1_descr": "PLZ_TRANSLATE Þú getur &#39; T virkja sjálfvirka flutning vasapeninga eins og það &#39; s nú þegar verið gert með því að %1$d .",
+  "trustly_flow_service2_title": "PLZ_TRANSLATE Auðvelt að flytja",
+  "trustly_flow_service2_descr": "PLZ_TRANSLATE Þú getur flutt allt að %1$d á dag án bankaþjónustunnar. Þetta er aðeins hægt að gera með tengdum reikningum."
 }

@@ -1537,5 +1537,11 @@
   "create_goal_big_text_parent": "PLZ_TRANSLATE Crea un obiettivo di risparmio personalizzato",
   "task_pending_state_alt": "PLZ_TRANSLATE In esame ...",
   "trustly_flow_account_connected": "PLZ_TRANSLATE Il tuo account è connesso!",
-  "trustly_flow_connect_child": "PLZ_TRANSLATE Ora non resta che collegare il vostro bambino &#39; conto s."
+  "trustly_flow_connect_child": "PLZ_TRANSLATE Ora non resta che collegare il vostro bambino &#39; conto s.",
+  "trustly_flow_connect_services_header": "PLZ_TRANSLATE Connetti l&#39;account %1$d",
+  "trustly_flow_connect_services": "PLZ_TRANSLATE Quali servizi vorresti attivare?",
+  "trustly_flow_service1_title": "PLZ_TRANSLATE Trasferimenti automatici",
+  "trustly_flow_service1_descr": "PLZ_TRANSLATE Si può &#39; t attivare trasferimenti automatici dell&#39;indennità come &#39; s già stato fatto da %1$d .",
+  "trustly_flow_service2_title": "PLZ_TRANSLATE Facili trasferimenti",
+  "trustly_flow_service2_descr": "PLZ_TRANSLATE Puoi trasferire fino a %1$d al giorno senza BankID. Ciò può essere fatto solo con conti connessi."
 }

@@ -1538,5 +1538,11 @@
   "create_goal_big_text_parent": "Komponera ett eget sparmål",
   "task_pending_state_alt": "Granskas...",
   "trustly_flow_account_connected": "Ditt konto är kopplat!",
-  "trustly_flow_connect_child": "Nu behöver du också koppla ditt barns konto."
+  "trustly_flow_connect_child": "Nu behöver du också koppla ditt barns konto.",
+  "trustly_flow_connect_services_header": "Koppla %1$d konto",
+  "trustly_flow_connect_services": "Vilka tjänster vill du aktivera för kopplingen?",
+  "trustly_flow_service1_title": "Automatiska överföringar",
+  "trustly_flow_service1_descr": "Du kan inte aktivera automatiska överföringar av månadspengen, för den betalas redan ut automatiskt av %1$d.",
+  "trustly_flow_service2_title": "Enkla överföringar",
+  "trustly_flow_service2_descr": "Du kan föra över upp till %1$d per dag utan BankID, och det går bara att skicka pengar till kopplade konton."
 }
