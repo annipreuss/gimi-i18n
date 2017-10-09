@@ -1535,5 +1535,5 @@
   "search": "PLZ_TRANSLATE Søg",
   "create_savings_goal_parent": "PLZ_TRANSLATE Lav et besparelsesmål",
   "create_goal_big_text_parent": "PLZ_TRANSLATE Opret et brugerdefineret opsparingsmål",
-  "task_pending_state_alt": "Granskas..."
+  "task_pending_state_alt": "PLZ_TRANSLATE I anmeldelse ..."
 }
