@@ -1535,5 +1535,7 @@
   "search": "Chercher",
   "create_savings_goal_parent": "Créer un objectif d'épargne",
   "create_goal_big_text_parent": "Créer un objectif d'épargne personnalisé",
-  "task_pending_state_alt": "PLZ_TRANSLATE En revue ..."
+  "task_pending_state_alt": "PLZ_TRANSLATE En revue ...",
+  "trustly_flow_account_connected": "PLZ_TRANSLATE Votre compte est connecté!",
+  "trustly_flow_connect_child": "PLZ_TRANSLATE Maintenant , il vous suffit de connecter votre enfant &#39; le compte."
 }

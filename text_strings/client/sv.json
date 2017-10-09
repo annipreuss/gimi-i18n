@@ -1536,5 +1536,7 @@
   "search": "Sök",
   "create_savings_goal_parent": "Skapa ett sparmål",
   "create_goal_big_text_parent": "Komponera ett eget sparmål",
-  "task_pending_state_alt": "Granskas..."
+  "task_pending_state_alt": "Granskas...",
+  "trustly_flow_account_connected": "Ditt konto är kopplat!",
+  "trustly_flow_connect_child": "Nu behöver du också koppla ditt barns konto."
 }

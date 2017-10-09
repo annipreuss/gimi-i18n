@@ -1535,5 +1535,7 @@
   "search": "PLZ_TRANSLATE Zoeken",
   "create_savings_goal_parent": "PLZ_TRANSLATE Maak een besparingsdoel",
   "create_goal_big_text_parent": "PLZ_TRANSLATE Maak een aangepast besparingsdoel",
-  "task_pending_state_alt": "PLZ_TRANSLATE In review ..."
+  "task_pending_state_alt": "PLZ_TRANSLATE In review ...",
+  "trustly_flow_account_connected": "PLZ_TRANSLATE Uw account is aangesloten!",
+  "trustly_flow_connect_child": "PLZ_TRANSLATE Nu hoef je alleen maar om uw kind aan te sluiten &#39; rekening s."
 }

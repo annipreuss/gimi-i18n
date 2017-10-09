@@ -1535,5 +1535,7 @@
   "search": "PLZ_TRANSLATE пошук",
   "create_savings_goal_parent": "PLZ_TRANSLATE Стварэнне ашчадных мэтаў",
   "create_goal_big_text_parent": "PLZ_TRANSLATE Стварэнне карыстацкіх мэтаў эканоміі",
-  "task_pending_state_alt": "PLZ_TRANSLATE У аглядзе ..."
+  "task_pending_state_alt": "PLZ_TRANSLATE У аглядзе ...",
+  "trustly_flow_account_connected": "PLZ_TRANSLATE Ваш рахунак падлучаны!",
+  "trustly_flow_connect_child": "PLZ_TRANSLATE Цяпер вы проста павінны падключыць дзіця &#39; кошт s."
 }

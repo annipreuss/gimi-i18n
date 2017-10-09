@@ -1535,5 +1535,7 @@
   "search": "PLZ_TRANSLATE Otsing",
   "create_savings_goal_parent": "PLZ_TRANSLATE Loo säästueesmärk",
   "create_goal_big_text_parent": "PLZ_TRANSLATE Loo kohandatud säästueesmärk",
-  "task_pending_state_alt": "PLZ_TRANSLATE ülevaates ..."
+  "task_pending_state_alt": "PLZ_TRANSLATE ülevaates ...",
+  "trustly_flow_account_connected": "PLZ_TRANSLATE Teie konto on ühendatud!",
+  "trustly_flow_connect_child": "PLZ_TRANSLATE Nüüd sa lihtsalt ühendada oma lapse &#39; s konto."
 }

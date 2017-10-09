@@ -1535,5 +1535,7 @@
   "search": "PLZ_TRANSLATE Leita",
   "create_savings_goal_parent": "PLZ_TRANSLATE Búðu til sparnaðarmarkmið",
   "create_goal_big_text_parent": "PLZ_TRANSLATE Búðu til sérsniðna sparnaðarmarkmið",
-  "task_pending_state_alt": "PLZ_TRANSLATE Í umsögn ..."
+  "task_pending_state_alt": "PLZ_TRANSLATE Í umsögn ...",
+  "trustly_flow_account_connected": "PLZ_TRANSLATE Reikningurinn þinn er tengdur!",
+  "trustly_flow_connect_child": "PLZ_TRANSLATE Nú þú verður bara að tengja barn &#39; reikninginn s."
 }
