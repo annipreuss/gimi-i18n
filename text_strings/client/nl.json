@@ -1545,5 +1545,5 @@
   "trustly_flow_service2_title": "PLZ_TRANSLATE Gemakkelijke transfers",
   "trustly_flow_service2_descr": "PLZ_TRANSLATE U kunt overstappen tot %1$d per dag zonder BankID. Dit kan alleen met aangesloten accounts.",
   "amount": "PLZ_TRANSLATE Bedrag",
-  "saved_on_amount_of_days": "PLZ_TRANSLATE Opgeslagen op %1$d dagen"
+  "saved_in": "PLZ_TRANSLATE Opgeslagen in"
 }

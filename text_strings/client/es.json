@@ -1545,5 +1545,5 @@
   "trustly_flow_service2_title": "PLZ_TRANSLATE Transferencias fáciles",
   "trustly_flow_service2_descr": "PLZ_TRANSLATE Puede transferir hasta %1$d por día sin BankID. Esto sólo se puede hacer con cuentas conectadas.",
   "amount": "PLZ_TRANSLATE Cantidad",
-  "saved_on_amount_of_days": "PLZ_TRANSLATE Guardado en %1$d días"
+  "saved_in": "PLZ_TRANSLATE Guardado en"
 }

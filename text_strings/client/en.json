@@ -1535,7 +1535,7 @@
   "search": "Search",
   "create_savings_goal_parent": "Create a savings goal",
   "create_goal_big_text_parent": "Create a custom savings goal",
-  "task_pending_state_alt": "PLZ_TRANSLATE In review ...",
+  "task_pending_state_alt": "In review ...",
   "trustly_flow_account_connected": "Your account is connected!",
   "trustly_flow_connect_child": "Now you just have to connect your child's account.",
   "trustly_flow_connect_services_header": "Connect %1$d account",
@@ -1545,5 +1545,5 @@
   "trustly_flow_service2_title": "Easy transfers",
   "trustly_flow_service2_descr": "You can transfer up to %1$d per day without BankID. This can only be done with connected accounts.",
   "amount": "Amount",
-  "saved_on_amount_of_days": "Saved to on %1$d days"
+  "saved_in": "Saved to in"
 }

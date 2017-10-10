@@ -1546,5 +1546,5 @@
   "trustly_flow_service2_title": "Enkla överföringar",
   "trustly_flow_service2_descr": "Du kan föra över upp till %1$d per dag utan BankID, och det går bara att skicka pengar till kopplade konton.",
   "amount": "Summa",
-  "saved_on_amount_of_days": "Sparades ihop på %1$d dagar"
+  "saved_in": "Sparades ihop på"
 }
