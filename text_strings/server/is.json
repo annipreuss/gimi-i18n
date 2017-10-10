@@ -163,5 +163,7 @@
   "push_remind_parent_child_weekly_money": "Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du har kontakt med dem. Varje vecka",
   "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Þegar þú tengist barninu þínu hjálpar þú barninu þínu að þróa hagkvæmni sína",
   "push_children_financial_smarter": "PLZ_TRANSLATE Vissir þú að börn geta auðveldlega orðið fjárhagslega betri! Hvernig eru þeir að gera það",
-  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} dregur {transaction.str_value} úr {user.name}"
+  "event_withdrawal_child": "PLZ_TRANSLATE {user.name} dregur {transaction.str_value} úr {user.name}",
+  "trustly_manual_transaction_email_subject": "PLZ_TRANSLATE Jú, þú hefur bara sent {transaction.str_value} í {transaction.child.name} ?",
+  "trustly_manual_transaction_email_body": "PLZ_TRANSLATE Vegna þess að þú hefur gert kleift að flytja einfaldlega millifærslur úr reikningnum þínum til {transaction.child.name} reikninginn sem þarfnast ekki Mobile BankID reikning, viljum við bara vera viss um að þú gerðir bara að flytja. Ef svo er getur þú hunsað þetta tölvupóst. Ef þú ert ekki, þú &#39; ll þörf til að athuga hvort einhver hefur aðgang að símanum. Vinsamlegast athugaðu að einfaldar millifærslur eru aðeins gerðar á milli reikninga sem þú hefur áður tengt við BankID og traustan samstarfsaðila og þú getur aðeins sent hámark 2000kr á dag og flutning. Þú getur séð tengda reikninga þína í forritinu undir flipanum Downloads."
 }

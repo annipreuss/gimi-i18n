@@ -163,5 +163,7 @@
   "push_remind_parent_child_weekly_money": "Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du har kontakt med dem. Varje vecka",
   "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Lorsque vous vous connectez à votre enfant, vous aidez votre enfant à développer ses compétences économiques",
   "push_children_financial_smarter": "Savez-vous que les enfants peuvent facilement devenir financièrement plus intelligents? Comment le font-ils",
-  "event_withdrawal_child": "{user.name} a retiré {transaction.str_value} de la tirelire"
+  "event_withdrawal_child": "{user.name} a retiré {transaction.str_value} de la tirelire",
+  "trustly_manual_transaction_email_subject": "PLZ_TRANSLATE Bien sûr, vous venez d&#39;envoyer {transaction.str_value} à {transaction.child.name} ?",
+  "trustly_manual_transaction_email_body": "PLZ_TRANSLATE Parce que vous avez activé des transferts simples de votre compte vers le compte {transaction.child.name} qui ne nécessitent pas de compte Mobile BankID, nous voulions simplement vous assurer que vous venez de faire un transfert. Dans l&#39;affirmative, vous pouvez ignorer ce courrier électronique. Si vous ne le faites pas, vous &#39; aurez besoin de vérifier si quelqu&#39;un a accès à votre téléphone. Veuillez noter que les transferts simples ne peuvent être effectués qu&#39;entre les comptes que vous avez précédemment liés à BankID et à notre partenaire Trustly, et vous pouvez uniquement envoyer un maximum de 2000kr par transfert et par jour. Vous pouvez voir vos comptes liés dans l&#39;application sous l&#39;onglet Téléchargements."
 }

@@ -163,5 +163,7 @@
   "push_remind_parent_child_weekly_money": "PLS_CHECK Vet du att dina föräldrar kommer att påminnas om att ge dina veckopengar om du har kontakt med dem. Varje vecka",
   "push_connect_child_help_develop_economical_skills": "PLZ_TRANSLATE Wenn du dich mit deinem Kind verbindest, hilf dein Kind, seine ökonomischen Fähigkeiten zu entwickeln",
   "push_children_financial_smarter": "PLZ_CHECK Wusstest Du, dass Kinder leicht über Finanzen lernen! Wie funktioniert das?",
-  "event_withdrawal_child": "{user.name} hat {transaction.str_value} aus dem Sparschwein abgebucht"
+  "event_withdrawal_child": "{user.name} hat {transaction.str_value} aus dem Sparschwein abgebucht",
+  "trustly_manual_transaction_email_subject": "PLZ_TRANSLATE Sicher, Sie haben gerade {transaction.str_value} an {transaction.child.name} gesendet?",
+  "trustly_manual_transaction_email_body": "PLZ_TRANSLATE Da Sie einfache Überweisungen von Ihrem Konto auf das Konto {transaction.child.name} aktiviert haben, für das kein Mobile BankID-Konto erforderlich ist, möchten wir lediglich sicherstellen, dass Sie gerade eine Überweisung durchgeführt haben. Wenn dies der Fall ist, können Sie diese E-Mail ignorieren. Wenn Sie das nicht tun, Sie &#39; ll müssen überprüfen , ob jemand Zugriff auf Ihr Telefon hat. Bitte beachten Sie, dass einfache Überweisungen nur zwischen den Konten möglich sind, die Sie zuvor mit BankID und unserem Trustly-Partner verknüpft haben, und Sie können maximal 2000 kr pro Transfer und Tag senden. Sie können Ihre verknüpften Konten in der App unter der Registerkarte Downloads anzeigen."
 }
