@@ -1543,5 +1543,7 @@
   "trustly_flow_service1_title": "PLZ_TRANSLATE Automatiske overførsler",
   "trustly_flow_service1_descr": "PLZ_TRANSLATE Du kan &#39; t aktivere automatiske overførsler af ydelsen, som det &#39; s allerede bliver gjort af %1$d .",
   "trustly_flow_service2_title": "PLZ_TRANSLATE Nem overførsel",
-  "trustly_flow_service2_descr": "PLZ_TRANSLATE Du kan overføre op til %1$d pr. Dag uden BankID. Dette kan kun ske med tilsluttede konti."
+  "trustly_flow_service2_descr": "PLZ_TRANSLATE Du kan overføre op til %1$d pr. Dag uden BankID. Dette kan kun ske med tilsluttede konti.",
+  "amount": "PLZ_TRANSLATE Beløb",
+  "saved_on_amount_of_days": "PLZ_TRANSLATE Gemt til på %1$d dage"
 }

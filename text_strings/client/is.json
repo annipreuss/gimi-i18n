@@ -1543,5 +1543,7 @@
   "trustly_flow_service1_title": "PLZ_TRANSLATE Sjálfvirk flytja",
   "trustly_flow_service1_descr": "PLZ_TRANSLATE Þú getur &#39; T virkja sjálfvirka flutning vasapeninga eins og það &#39; s nú þegar verið gert með því að %1$d .",
   "trustly_flow_service2_title": "PLZ_TRANSLATE Auðvelt að flytja",
-  "trustly_flow_service2_descr": "PLZ_TRANSLATE Þú getur flutt allt að %1$d á dag án bankaþjónustunnar. Þetta er aðeins hægt að gera með tengdum reikningum."
+  "trustly_flow_service2_descr": "PLZ_TRANSLATE Þú getur flutt allt að %1$d á dag án bankaþjónustunnar. Þetta er aðeins hægt að gera með tengdum reikningum.",
+  "amount": "PLZ_TRANSLATE Magn",
+  "saved_on_amount_of_days": "PLZ_TRANSLATE Vistað á %1$d daga"
 }

@@ -1543,5 +1543,7 @@
   "trustly_flow_service1_title": "PLZ_TRANSLATE Trasferimenti automatici",
   "trustly_flow_service1_descr": "PLZ_TRANSLATE Si può &#39; t attivare trasferimenti automatici dell&#39;indennità come &#39; s già stato fatto da %1$d .",
   "trustly_flow_service2_title": "PLZ_TRANSLATE Facili trasferimenti",
-  "trustly_flow_service2_descr": "PLZ_TRANSLATE Puoi trasferire fino a %1$d al giorno senza BankID. Ciò può essere fatto solo con conti connessi."
+  "trustly_flow_service2_descr": "PLZ_TRANSLATE Puoi trasferire fino a %1$d al giorno senza BankID. Ciò può essere fatto solo con conti connessi.",
+  "amount": "PLZ_TRANSLATE Quantità",
+  "saved_on_amount_of_days": "PLZ_TRANSLATE Salvato su %1$d giorni"
 }

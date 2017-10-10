@@ -1544,5 +1544,7 @@
   "trustly_flow_service1_title": "Automatiska överföringar",
   "trustly_flow_service1_descr": "Du kan inte aktivera automatiska överföringar av månadspengen, för den betalas redan ut automatiskt av %1$d.",
   "trustly_flow_service2_title": "Enkla överföringar",
-  "trustly_flow_service2_descr": "Du kan föra över upp till %1$d per dag utan BankID, och det går bara att skicka pengar till kopplade konton."
+  "trustly_flow_service2_descr": "Du kan föra över upp till %1$d per dag utan BankID, och det går bara att skicka pengar till kopplade konton.",
+  "amount": "Summa",
+  "saved_on_amount_of_days": "Sparades ihop på %1$d dagar"
 }

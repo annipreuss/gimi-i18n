@@ -1543,5 +1543,7 @@
   "trustly_flow_service1_title": "PLZ_TRANSLATE Automatische Überweisungen",
   "trustly_flow_service1_descr": "PLZ_TRANSLATE Sie können &#39; t automatischen Transfer der Zulage aktivieren , da es &#39; s schon getan %1$d .",
   "trustly_flow_service2_title": "PLZ_TRANSLATE Einfache Transfers",
-  "trustly_flow_service2_descr": "PLZ_TRANSLATE Sie können bis zu %1$d pro Tag ohne BankID übertragen. Dies kann nur mit verbundenen Konten erfolgen."
+  "trustly_flow_service2_descr": "PLZ_TRANSLATE Sie können bis zu %1$d pro Tag ohne BankID übertragen. Dies kann nur mit verbundenen Konten erfolgen.",
+  "amount": "PLZ_TRANSLATE Menge",
+  "saved_on_amount_of_days": "PLZ_TRANSLATE Gespeichert bei %1$d Tage"
 }

@@ -1543,5 +1543,7 @@
   "trustly_flow_service1_title": "PLZ_TRANSLATE Automaattiset siirrot",
   "trustly_flow_service1_descr": "PLZ_TRANSLATE Voit &#39; t aktivoida automaattivaihteisto hyvityksen, koska se &#39; s jo tehnyt %1$d .",
   "trustly_flow_service2_title": "PLZ_TRANSLATE Helppo siirto",
-  "trustly_flow_service2_descr": "PLZ_TRANSLATE Voit siirtää enintään %1$d päivässä ilman BankID-tunnusta. Tämä voidaan tehdä vain yhdistetyillä tileillä."
+  "trustly_flow_service2_descr": "PLZ_TRANSLATE Voit siirtää enintään %1$d päivässä ilman BankID-tunnusta. Tämä voidaan tehdä vain yhdistetyillä tileillä.",
+  "amount": "PLZ_TRANSLATE Määrä",
+  "saved_on_amount_of_days": "PLZ_TRANSLATE Tallennettu kohteeseen %1$d päivää"
 }

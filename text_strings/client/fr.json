@@ -1543,5 +1543,7 @@
   "trustly_flow_service1_title": "PLZ_TRANSLATE Transferts automatiques",
   "trustly_flow_service1_descr": "PLZ_TRANSLATE Vous pouvez &#39; t activer les transferts automatiques de l&#39;allocation qu&#39;il &#39; est déjà fait par %1$d .",
   "trustly_flow_service2_title": "PLZ_TRANSLATE Transferts faciles",
-  "trustly_flow_service2_descr": "PLZ_TRANSLATE Vous pouvez transférer jusqu&#39;à %1$d par jour sans BankID. Cela ne peut être fait qu&#39;avec des comptes connectés."
+  "trustly_flow_service2_descr": "PLZ_TRANSLATE Vous pouvez transférer jusqu&#39;à %1$d par jour sans BankID. Cela ne peut être fait qu&#39;avec des comptes connectés.",
+  "amount": "PLZ_TRANSLATE Montant",
+  "saved_on_amount_of_days": "PLZ_TRANSLATE Enregistré dans le %1$d jours"
 }
