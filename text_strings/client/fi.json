@@ -1514,7 +1514,7 @@
   "onboarding_parent_2_desc": "Säästöpossu lisää automaattisesti viikko- tai kuukausirahat, sekä palkkiot tehtävistä. Näet siitä, kuinka paljon velkaa olet lapsellesi. Olet kuin pankki!",
   "register_purchases": "Rekisteröi ostot",
   "onboarding_parent_3_desc": "...kun annat rahaa tai maksat lapsesi puolesta. Voit myös tehdä talletuksia, kuten silloin, kun lapsellasi on kierrätettyjä pulloja tai antaaksesi rahaa hammaslääkäriä varten.",
-  "date_the": "",
+  "date_the": " dd",
   "pay_out_cash": "Maksa käteisellä",
   "allowance": "Viikkoraha",
   "allowance_overview": "Summan %1$d viikkoraha on talletettu automaattisesti säästöpossuun. Jos olet maksanut sen käteisellä, voit valita \"Maksa käteisellä\"",
