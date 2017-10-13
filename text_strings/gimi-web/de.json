@@ -275,5 +275,5 @@
   "seo.news.description": "Neuigkeiten",
   "footer.acceptCookies": "Ich akzeptiere",
   "page.not.found.title": "404, upps!",
-  "page.not.found.text": "Wir haben nach Deiner Seite gesucht ... aber wir konnten sie PLZ_TRANSLATE finden"
+  "page.not.found.text": "Wir haben nach Deiner Seite gesucht ... aber wir konnten sie nicht finden"
 }
