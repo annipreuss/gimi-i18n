@@ -1513,7 +1513,7 @@
   "onboarding_parent_2_title": "Säästöpossu näyttää velan",
   "onboarding_parent_2_desc": "Säästöpossu lisää automaattisesti viikko- tai kuukausirahat, sekä palkkiot tehtävistä. Näet siitä, kuinka paljon velkaa olet lapsellesi. Olet kuin pankki!",
   "register_purchases": "Rekisteröi ostot",
-  "onboarding_parent_3_desc": "...kun annat rahaa tai maksat lapsesi puolesta. Voit myös tehdä talletuksia, kuten silloin, kun lapsellasi on kierrätettyjä pulloja tai antaaksesi rahaa hammaslääkäriä varten.",
+  "onboarding_parent_3_desc": "...kun annat rahaa tai maksat lapsesi puolesta. Voit myös tehdä talletuksia, kuten silloin, kun lapsellasi on kierrätettyjä pulloja tai hammaskeijua varten.",
   "date_the": " dd",
   "pay_out_cash": "Maksa käteisellä",
   "allowance": "Viikkoraha",
@@ -1545,5 +1545,5 @@
   "trustly_flow_service2_title": "Helpot siirrot",
   "trustly_flow_service2_descr": "Voit siirtää enintään %1$d päivässä ilman BankID-tunnusta. Tämä voidaan tehdä vain yhdistetyillä tileillä.",
   "amount": "Määrä",
-  "saved_in": "PLZ_CHECK Tallennettu sisään"
+  "saved_in": "Säästetty ajassa"
 }
