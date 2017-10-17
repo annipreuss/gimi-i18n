@@ -1551,5 +1551,6 @@
   "search_products": "PLZ_TRANSLATE Zoek producten",
   "swish_payment": "PLZ_TRANSLATE Swish betaling",
   "swish_payment_popover_desc": "PLZ_TRANSLATE Vraag uw ouder om de QR code te scannen. Als het &#39; s gescand het geld wordt in mindering gebracht op de spaarpot.",
-  "code_is_scanned": "PLZ_TRANSLATE Code is gescand!"
+  "code_is_scanned": "PLZ_TRANSLATE Code is gescand!",
+  "done": "PLZ_TRANSLATE Gedaan"
 }

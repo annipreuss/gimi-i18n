@@ -1551,5 +1551,6 @@
   "search_products": "PLZ_TRANSLATE Recherche de produits",
   "swish_payment": "PLZ_TRANSLATE Paiement Swish",
   "swish_payment_popover_desc": "PLZ_TRANSLATE Demandez à votre parent d&#39;analyser le code QR. Quand il &#39; s été scanné l&#39;argent est déduit de la tirelire.",
-  "code_is_scanned": "PLZ_TRANSLATE Le code est scanné!"
+  "code_is_scanned": "PLZ_TRANSLATE Le code est scanné!",
+  "done": "PLZ_TRANSLATE Terminé"
 }

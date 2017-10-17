@@ -1551,5 +1551,6 @@
   "search_products": "PLZ_TRANSLATE Søk produkter",
   "swish_payment": "PLZ_TRANSLATE Swish betaling",
   "swish_payment_popover_desc": "PLZ_TRANSLATE Be din forelder å skanne QR-koden. Når det &#39; s blitt skannet pengene er trukket fra sparegrisen.",
-  "code_is_scanned": "PLZ_TRANSLATE Koden er skannet!"
+  "code_is_scanned": "PLZ_TRANSLATE Koden er skannet!",
+  "done": "PLZ_TRANSLATE Ferdig"
 }

@@ -1551,5 +1551,6 @@
   "search_products": "PLZ_TRANSLATE пошук прадукту",
   "swish_payment": "PLZ_TRANSLATE Swish аплаты",
   "swish_payment_popover_desc": "PLZ_TRANSLATE Папытаеце бацькоў, каб сканаваць QR-код. Калі ён &#39; ы былі адсканаваныя грошы адымаюцца з скарбонкі.",
-  "code_is_scanned": "PLZ_TRANSLATE Код скануецца!"
+  "code_is_scanned": "PLZ_TRANSLATE Код скануецца!",
+  "done": "PLZ_TRANSLATE зроблена"
 }

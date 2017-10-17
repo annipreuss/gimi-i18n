@@ -1551,5 +1551,6 @@
   "search_products": "PLZ_TRANSLATE Otsi tooteid",
   "swish_payment": "PLZ_TRANSLATE Swish makse",
   "swish_payment_popover_desc": "PLZ_TRANSLATE Küsige oma vanemalt QR-koodi skannimiseks. Kui see &#39; s skaneeritud raha maha notsu panka.",
-  "code_is_scanned": "PLZ_TRANSLATE Kood on skannitud!"
+  "code_is_scanned": "PLZ_TRANSLATE Kood on skannitud!",
+  "done": "PLZ_TRANSLATE Valmis"
 }

@@ -1551,5 +1551,6 @@
   "search_products": "PLZ_TRANSLATE Etsi tuotteita",
   "swish_payment": "PLZ_TRANSLATE Swish-maksu",
   "swish_payment_popover_desc": "PLZ_TRANSLATE Pyydä vanhempasi skannaamaan QR-koodi. Kun se &#39; s on skannattu rahat vähennetään säästöpossu.",
-  "code_is_scanned": "PLZ_TRANSLATE Koodi skannataan!"
+  "code_is_scanned": "PLZ_TRANSLATE Koodi skannataan!",
+  "done": "PLZ_TRANSLATE Tehty"
 }

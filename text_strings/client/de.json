@@ -1551,5 +1551,6 @@
   "search_products": "PLZ_TRANSLATE Produktsuche",
   "swish_payment": "PLZ_TRANSLATE Swish Zahlung",
   "swish_payment_popover_desc": "PLZ_TRANSLATE Bitten Sie Ihre Eltern, den QR-Code zu scannen. Wenn es &#39; s abgetastet wurde , wird das Geld aus dem Sparschwein abgezogen.",
-  "code_is_scanned": "PLZ_TRANSLATE Code wird gescannt!"
+  "code_is_scanned": "PLZ_TRANSLATE Code wird gescannt!",
+  "done": "PLZ_TRANSLATE Erledigt"
 }
