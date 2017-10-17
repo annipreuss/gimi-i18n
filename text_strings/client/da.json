@@ -1552,5 +1552,6 @@
   "swish_payment": "PLZ_TRANSLATE Swish betaling",
   "swish_payment_popover_desc": "PLZ_TRANSLATE Bed din forælder om at scanne QR-koden. Når det &#39; s blevet scannet pengene er trukket fra sparegris.",
   "code_is_scanned": "PLZ_TRANSLATE Koden scannes!",
-  "done": "PLZ_TRANSLATE Færdig"
+  "done": "PLZ_TRANSLATE Færdig",
+  "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d er trukket fra spargrisen"
 }

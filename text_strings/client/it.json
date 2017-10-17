@@ -1552,5 +1552,6 @@
   "swish_payment": "PLZ_TRANSLATE Pagamento Swish",
   "swish_payment_popover_desc": "PLZ_TRANSLATE Chiedere al genitore di eseguire la scansione del codice QR. Quando è &#39; s stato scansionato il denaro viene detratto dal salvadanaio.",
   "code_is_scanned": "PLZ_TRANSLATE Il codice viene sottoposto a scansione!",
-  "done": "PLZ_TRANSLATE Fatto"
+  "done": "PLZ_TRANSLATE Fatto",
+  "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d è stato detratto dalla banca salvadana"
 }

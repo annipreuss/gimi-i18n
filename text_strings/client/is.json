@@ -1552,5 +1552,6 @@
   "swish_payment": "PLZ_TRANSLATE Swish greiðslu",
   "swish_payment_popover_desc": "PLZ_TRANSLATE Spyrðu foreldra þína til að skanna QR kóða. Þegar það &#39; er verið skönnuð fé er dregið frá Grís banka.",
   "code_is_scanned": "PLZ_TRANSLATE Kóði er skönnuð!",
-  "done": "PLZ_TRANSLATE Gert"
+  "done": "PLZ_TRANSLATE Gert",
+  "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d hefur verið dregin frá grís bankanum"
 }
