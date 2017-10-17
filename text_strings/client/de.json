@@ -1547,5 +1547,6 @@
   "amount": "Betrag",
   "saved_in": "Gespart im",
   "read_reviews": "PLZ_TRANSLATE Lesen Sie Bewertungen",
-  "find_resellers": "PLZ_TRANSLATE Einen Verkäufer finden"
+  "find_resellers": "PLZ_TRANSLATE Einen Verkäufer finden",
+  "search_products": "PLZ_TRANSLATE Produktsuche"
 }

@@ -1547,5 +1547,6 @@
   "amount": "Määrä",
   "saved_in": "Säästetty ajassa",
   "read_reviews": "PLZ_TRANSLATE Lue arvosteluja",
-  "find_resellers": "PLZ_TRANSLATE Etsi myyjä"
+  "find_resellers": "PLZ_TRANSLATE Etsi myyjä",
+  "search_products": "PLZ_TRANSLATE Etsi tuotteita"
 }

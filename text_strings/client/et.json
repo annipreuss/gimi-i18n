@@ -1547,5 +1547,6 @@
   "amount": "PLZ_TRANSLATE Summa",
   "saved_in": "PLZ_TRANSLATE Salvestatud sisse",
   "read_reviews": "PLZ_TRANSLATE Loe arvustusi",
-  "find_resellers": "PLZ_TRANSLATE Leia müüja"
+  "find_resellers": "PLZ_TRANSLATE Leia müüja",
+  "search_products": "PLZ_TRANSLATE Otsi tooteid"
 }
