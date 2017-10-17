@@ -1553,5 +1553,6 @@
   "swish_payment_popover_desc": "PLZ_TRANSLATE Küsige oma vanemalt QR-koodi skannimiseks. Kui see &#39; s skaneeritud raha maha notsu panka.",
   "code_is_scanned": "PLZ_TRANSLATE Kood on skannitud!",
   "done": "PLZ_TRANSLATE Valmis",
-  "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE Netikullast on maha arvutatud %1$d"
+  "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE Netikullast on maha arvutatud %1$d",
+  "get_money_via_swish": "PLZ_TRANSLATE Hankige raha Swishi kaudu"
 }

@@ -1553,5 +1553,6 @@
   "swish_payment_popover_desc": "Ask your parent to scan the QR code. When it's been scanned the money is deducted from the piggy bank.",
   "code_is_scanned": "Code is scanned!",
   "done": "Done",
-  "n_have_been_deducted_from_piggy_bank": "%1$d has been deducted from the piggy bank"
+  "n_have_been_deducted_from_piggy_bank": "%1$d has been deducted from the piggy bank",
+  "get_money_via_swish": "Get the money via Swish"
 }
