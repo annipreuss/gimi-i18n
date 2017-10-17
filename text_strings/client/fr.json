@@ -1548,5 +1548,8 @@
   "saved_in": "Enregistré dans",
   "read_reviews": "PLZ_TRANSLATE Lire les avis",
   "find_resellers": "PLZ_TRANSLATE Trouver un vendeur",
-  "search_products": "PLZ_TRANSLATE Recherche de produits"
+  "search_products": "PLZ_TRANSLATE Recherche de produits",
+  "swish_payment": "PLZ_TRANSLATE Paiement Swish",
+  "swish_payment_popover_desc": "PLZ_TRANSLATE Demandez à votre parent d&#39;analyser le code QR. Quand il &#39; s été scanné l&#39;argent est déduit de la tirelire.",
+  "code_is_scanned": "PLZ_TRANSLATE Le code est scanné!"
 }

@@ -1548,5 +1548,8 @@
   "saved_in": "PLZ_TRANSLATE захаваны ў",
   "read_reviews": "PLZ_TRANSLATE Чытайце водгукі",
   "find_resellers": "PLZ_TRANSLATE знайсці прадаўца",
-  "search_products": "PLZ_TRANSLATE пошук прадукту"
+  "search_products": "PLZ_TRANSLATE пошук прадукту",
+  "swish_payment": "PLZ_TRANSLATE Swish аплаты",
+  "swish_payment_popover_desc": "PLZ_TRANSLATE Папытаеце бацькоў, каб сканаваць QR-код. Калі ён &#39; ы былі адсканаваныя грошы адымаюцца з скарбонкі.",
+  "code_is_scanned": "PLZ_TRANSLATE Код скануецца!"
 }

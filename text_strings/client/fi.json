@@ -1548,5 +1548,8 @@
   "saved_in": "Säästetty ajassa",
   "read_reviews": "PLZ_TRANSLATE Lue arvosteluja",
   "find_resellers": "PLZ_TRANSLATE Etsi myyjä",
-  "search_products": "PLZ_TRANSLATE Etsi tuotteita"
+  "search_products": "PLZ_TRANSLATE Etsi tuotteita",
+  "swish_payment": "PLZ_TRANSLATE Swish-maksu",
+  "swish_payment_popover_desc": "PLZ_TRANSLATE Pyydä vanhempasi skannaamaan QR-koodi. Kun se &#39; s on skannattu rahat vähennetään säästöpossu.",
+  "code_is_scanned": "PLZ_TRANSLATE Koodi skannataan!"
 }

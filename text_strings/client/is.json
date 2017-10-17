@@ -1548,5 +1548,8 @@
   "saved_in": "PLZ_TRANSLATE Vistað til í",
   "read_reviews": "PLZ_TRANSLATE Lesa dóma",
   "find_resellers": "PLZ_TRANSLATE Finndu seljanda",
-  "search_products": "PLZ_TRANSLATE Leita í vörum"
+  "search_products": "PLZ_TRANSLATE Leita í vörum",
+  "swish_payment": "PLZ_TRANSLATE Swish greiðslu",
+  "swish_payment_popover_desc": "PLZ_TRANSLATE Spyrðu foreldra þína til að skanna QR kóða. Þegar það &#39; er verið skönnuð fé er dregið frá Grís banka.",
+  "code_is_scanned": "PLZ_TRANSLATE Kóði er skönnuð!"
 }

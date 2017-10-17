@@ -1548,5 +1548,8 @@
   "saved_in": "Guardado en",
   "read_reviews": "PLZ_TRANSLATE Leer opiniones",
   "find_resellers": "PLZ_TRANSLATE Encuentra un vendedor",
-  "search_products": "PLZ_TRANSLATE Buscar Productos"
+  "search_products": "PLZ_TRANSLATE Buscar Productos",
+  "swish_payment": "PLZ_TRANSLATE Swish pago",
+  "swish_payment_popover_desc": "PLZ_TRANSLATE Pídale a su padre que escanee el código QR. Cuando se &#39; ha estado escaneó el dinero se deduce de la alcancía.",
+  "code_is_scanned": "PLZ_TRANSLATE ¡El código se escanea!"
 }

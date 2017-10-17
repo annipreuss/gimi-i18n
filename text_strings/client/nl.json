@@ -1548,5 +1548,8 @@
   "saved_in": "PLZ_TRANSLATE Opgeslagen in",
   "read_reviews": "PLZ_TRANSLATE Lees beoordelingen",
   "find_resellers": "PLZ_TRANSLATE Vind een verkoper",
-  "search_products": "PLZ_TRANSLATE Zoek producten"
+  "search_products": "PLZ_TRANSLATE Zoek producten",
+  "swish_payment": "PLZ_TRANSLATE Swish betaling",
+  "swish_payment_popover_desc": "PLZ_TRANSLATE Vraag uw ouder om de QR code te scannen. Als het &#39; s gescand het geld wordt in mindering gebracht op de spaarpot.",
+  "code_is_scanned": "PLZ_TRANSLATE Code is gescand!"
 }

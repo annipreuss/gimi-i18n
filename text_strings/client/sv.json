@@ -1549,5 +1549,8 @@
   "saved_in": "Sparades ihop på",
   "read_reviews": "Läs reviews",
   "find_resellers": "Hitta återförsäljare",
-  "search_products": "Sök produkter"
+  "search_products": "Sök produkter",
+  "swish_payment": "Swishbetalning",
+  "swish_payment_popover_desc": "Be din förälder scanna QR koden. När den är scannad dras pengarna från spargrisen.",
+  "code_is_scanned": "Koden är scannad"
 }

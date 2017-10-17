@@ -1548,5 +1548,8 @@
   "saved_in": "PLZ_TRANSLATE Salvato in",
   "read_reviews": "PLZ_TRANSLATE Leggi le recensioni",
   "find_resellers": "PLZ_TRANSLATE Trova un venditore",
-  "search_products": "PLZ_TRANSLATE Cerca prodotti"
+  "search_products": "PLZ_TRANSLATE Cerca prodotti",
+  "swish_payment": "PLZ_TRANSLATE Pagamento Swish",
+  "swish_payment_popover_desc": "PLZ_TRANSLATE Chiedere al genitore di eseguire la scansione del codice QR. Quando è &#39; s stato scansionato il denaro viene detratto dal salvadanaio.",
+  "code_is_scanned": "PLZ_TRANSLATE Il codice viene sottoposto a scansione!"
 }
