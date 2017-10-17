@@ -1545,5 +1545,7 @@
   "trustly_flow_service2_title": "Nem overførsel",
   "trustly_flow_service2_descr": "Du kan overføre op til %1$d pr. Dag uden BankID. Dette kan kun udføres med tilsluttede konti.",
   "amount": "Beløb",
-  "saved_in": "Gemt i"
+  "saved_in": "Gemt i",
+  "read_reviews": "PLZ_TRANSLATE Læs anmeldelser",
+  "find_resellers": "PLZ_TRANSLATE Find en sælger"
 }

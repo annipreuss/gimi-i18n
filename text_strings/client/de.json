@@ -1545,5 +1545,7 @@
   "trustly_flow_service2_title": "Einfache Überweisung",
   "trustly_flow_service2_descr": "Du kannst ohne Kontodaten bis zu %1$d pro Tag überweisen. Dies funktioniert nur mit zwei verbundenen Konten.",
   "amount": "Betrag",
-  "saved_in": "Gespart im"
+  "saved_in": "Gespart im",
+  "read_reviews": "PLZ_TRANSLATE Lesen Sie Bewertungen",
+  "find_resellers": "PLZ_TRANSLATE Einen Verkäufer finden"
 }

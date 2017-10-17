@@ -1545,5 +1545,7 @@
   "trustly_flow_service2_title": "Helpot siirrot",
   "trustly_flow_service2_descr": "Voit siirtää enintään %1$d päivässä ilman BankID-tunnusta. Tämä voidaan tehdä vain yhdistetyillä tileillä.",
   "amount": "Määrä",
-  "saved_in": "Säästetty ajassa"
+  "saved_in": "Säästetty ajassa",
+  "read_reviews": "PLZ_TRANSLATE Lue arvosteluja",
+  "find_resellers": "PLZ_TRANSLATE Etsi myyjä"
 }

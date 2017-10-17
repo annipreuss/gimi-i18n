@@ -1545,5 +1545,7 @@
   "trustly_flow_service2_title": "PLZ_TRANSLATE Lihtsad ülekanded",
   "trustly_flow_service2_descr": "PLZ_TRANSLATE Saate pantida kuni %1$d päevas ilma BankID-i. Seda saab teha ainult ühendatud kontodega.",
   "amount": "PLZ_TRANSLATE Summa",
-  "saved_in": "PLZ_TRANSLATE Salvestatud sisse"
+  "saved_in": "PLZ_TRANSLATE Salvestatud sisse",
+  "read_reviews": "PLZ_TRANSLATE Loe arvustusi",
+  "find_resellers": "PLZ_TRANSLATE Leia müüja"
 }

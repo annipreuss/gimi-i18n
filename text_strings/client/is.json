@@ -1545,5 +1545,7 @@
   "trustly_flow_service2_title": "PLZ_TRANSLATE Auðvelt að flytja",
   "trustly_flow_service2_descr": "PLZ_TRANSLATE Þú getur flutt allt að %1$d á dag án bankaþjónustunnar. Þetta er aðeins hægt að gera með tengdum reikningum.",
   "amount": "PLZ_TRANSLATE Magn",
-  "saved_in": "PLZ_TRANSLATE Vistað til í"
+  "saved_in": "PLZ_TRANSLATE Vistað til í",
+  "read_reviews": "PLZ_TRANSLATE Lesa dóma",
+  "find_resellers": "PLZ_TRANSLATE Finndu seljanda"
 }

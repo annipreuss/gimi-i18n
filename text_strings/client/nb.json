@@ -1545,5 +1545,7 @@
   "trustly_flow_service2_title": "Enkle overføringer",
   "trustly_flow_service2_descr": "Du kan overføre opp til %1$d per dag uten BankID. Dette kan bare gjøres med tilkoblede kontoer.",
   "amount": "Beløp",
-  "saved_in": "Lagret på"
+  "saved_in": "Lagret på",
+  "read_reviews": "PLZ_TRANSLATE Les omtaler",
+  "find_resellers": "PLZ_TRANSLATE Finn en selger"
 }

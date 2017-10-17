@@ -1545,5 +1545,7 @@
   "trustly_flow_service2_title": "PLZ_TRANSLATE лёгкія пераклады",
   "trustly_flow_service2_descr": "PLZ_TRANSLATE Вы можаце перадаць да %1$d у суткі без BankID. Гэта можа быць зроблена толькі з падлучанымі рахункамі.",
   "amount": "PLZ_TRANSLATE сума",
-  "saved_in": "PLZ_TRANSLATE захаваны ў"
+  "saved_in": "PLZ_TRANSLATE захаваны ў",
+  "read_reviews": "PLZ_TRANSLATE Чытайце водгукі",
+  "find_resellers": "PLZ_TRANSLATE знайсці прадаўца"
 }
