@@ -1554,5 +1554,9 @@
   "code_is_scanned": "PLZ_TRANSLATE Kood on skannitud!",
   "done": "PLZ_TRANSLATE Valmis",
   "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE Netikullast on maha arvutatud %1$d",
-  "get_money_via_swish": "PLZ_TRANSLATE Hankige raha Swishi kaudu"
+  "get_money_via_swish": "PLZ_TRANSLATE Hankige raha Swishi kaudu",
+  "event_allowance_transfer_weekly": "PLZ_TRANSLATE Nädala intress %1$d on lisatud silepangale",
+  "event_allowance_transfer_monthly": "PLZ_TRANSLATE on lisatud PLZ_TRANSLATE %1$d",
+  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE makse %1$d on tasutud pangakontole",
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Igakuine makse %1$d on tasutud pangakontole"
 }

@@ -148,7 +148,7 @@
   "push_exchange_cash": "PLZ_TRANSLATE Hefur þú peninga? Skiptu peningum þínum með foreldrum þínum og biðja um innborgun í grís bankann þinn",
   "event_allowance_transfer_weekly": "PLZ_TRANSLATE Vikuleg peningar á {text} hafa verið settar í grísabankann",
   "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Vikuleg greiðslu á {text} hefur verið greiddur á bankareikning",
-  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Mánaðarleg peninga á {text} hefur verið bætt við grís bankann",
+  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Mánaðarlega peninga á {text} hefur verið bætt við grís bankann",
   "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Mánaðarleg greiðsla á {text} hefur verið greidd á bankareikning",
   "push_weekly_allowance_pre_payout_0": "PLZ_TRANSLATE Í dag {child} fékk vikulegt hlutfall hans í grís bankanum sínum!",
   "push_weekly_allowance_pre_payout_1": "PLZ_TRANSLATE {child} hefur vikulega hlé í dag!",

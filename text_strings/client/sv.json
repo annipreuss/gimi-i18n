@@ -1555,5 +1555,9 @@
   "code_is_scanned": "Koden är scannad",
   "done": "Klart",
   "n_have_been_deducted_from_piggy_bank": "%1$d har dragits från spargrisen",
-  "get_money_via_swish": "Få pengarna med swish"
+  "get_money_via_swish": "Få pengarna med swish",
+  "event_allowance_transfer_weekly": "Veckopeng på %1$d har lagts i spargrisen",
+  "event_allowance_transfer_monthly": "Månadspeng på %1$d har lagts i spargrisen",
+  "event_allowance_transfer_weekly_trustly": "Veckopeng på %1$d har betalats ut till bankkonto",
+  "event_allowance_transfer_monthly_trustly": "Månadspeng på %1$d har betalats ut till bankkonto"
 }

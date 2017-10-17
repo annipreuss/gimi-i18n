@@ -1554,5 +1554,9 @@
   "code_is_scanned": "PLZ_TRANSLATE ¡El código se escanea!",
   "done": "PLZ_TRANSLATE Hecho",
   "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d se ha deducido de la hucha",
-  "get_money_via_swish": "PLZ_TRANSLATE Obtenga el dinero a través de Swish"
+  "get_money_via_swish": "PLZ_TRANSLATE Obtenga el dinero a través de Swish",
+  "event_allowance_transfer_weekly": "PLZ_TRANSLATE El interés semanal en %1$d se ha agregado a la hucha",
+  "event_allowance_transfer_monthly": "PLZ_TRANSLATE dinero mensual en %1$d se ha agregado a la hucha",
+  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE pago semanal en %1$d se ha pagado a la cuenta bancaria",
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE pago mensual en %1$d se ha pagado a la cuenta bancaria"
 }

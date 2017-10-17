@@ -1554,5 +1554,9 @@
   "code_is_scanned": "PLZ_TRANSLATE Kóði er skönnuð!",
   "done": "PLZ_TRANSLATE Gert",
   "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d hefur verið dregin frá grís bankanum",
-  "get_money_via_swish": "PLZ_TRANSLATE Fá peningana í gegnum Swish"
+  "get_money_via_swish": "PLZ_TRANSLATE Fá peningana í gegnum Swish",
+  "event_allowance_transfer_weekly": "PLZ_TRANSLATE Vikuleg áhugi á %1$d hefur verið bætt við sparisjóðinn",
+  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Mánaðarlega peninga á %1$d hefur verið bætt við sparisjóðinn",
+  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Vikuleg greiðslu á %1$d hefur verið greiddur á bankareikning",
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Mánaðarleg greiðsla á %1$d hefur verið greidd á bankareikning"
 }
