@@ -1554,9 +1554,5 @@
   "code_is_scanned": "Code is scanned!",
   "done": "Done",
   "n_have_been_deducted_from_piggy_bank": "%1$d has been deducted from the piggy bank",
-  "get_money_via_swish": "Get the money via Swish",
-  "event_allowance_transfer_weekly": "Weekly allowance of %1$d has been added to the piggy bank",
-  "event_allowance_transfer_monthly": "Monthly allowance of %1$d has been added to the piggy bank",
-  "event_allowance_transfer_weekly_trustly": " Weekly allowance of %1$d has been paid to bank account",
-  "event_allowance_transfer_monthly_trustly": "Monthly allowance of %1$d has been paid to bank account"
+  "get_money_via_swish": "Get the money via Swish"
 }

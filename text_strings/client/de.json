@@ -1554,9 +1554,5 @@
   "code_is_scanned": "PLZ_TRANSLATE Code wird gescannt!",
   "done": "PLZ_TRANSLATE Erledigt",
   "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d wurde vom Sparschwein abgezogen",
-  "get_money_via_swish": "PLZ_TRANSLATE Holen Sie sich das Geld über Swish",
-  "event_allowance_transfer_weekly": "PLZ_TRANSLATE Der wöchentliche Zinssatz für %1$d wurde dem Sparschwein hinzugefügt",
-  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Monatliches Geld auf %1$d wurde dem Sparschwein hinzugefügt",
-  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Wöchentliche Zahlung auf %1$d wurde auf Bankkonto überwiesen",
-  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Monatliche Zahlung auf %1$d wurde auf Bankkonto überwiesen"
+  "get_money_via_swish": "PLZ_TRANSLATE Holen Sie sich das Geld über Swish"
 }

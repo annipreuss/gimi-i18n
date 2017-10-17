@@ -1554,9 +1554,5 @@
   "code_is_scanned": "PLZ_TRANSLATE Code is gescand!",
   "done": "PLZ_TRANSLATE Gedaan",
   "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d is afgetrokken van de spaarpot",
-  "get_money_via_swish": "PLZ_TRANSLATE Krijg het geld via Swish",
-  "event_allowance_transfer_weekly": "PLZ_TRANSLATE Wekelijkse rente op %1$d is toegevoegd aan de spaarpot",
-  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Maandelijks geld op %1$d is toegevoegd aan de spaarpot",
-  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Wekelijkse betaling op %1$d is aan bankrekening betaald",
-  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Maandelijkse betaling op %1$d is aan bankrekening betaald"
+  "get_money_via_swish": "PLZ_TRANSLATE Krijg het geld via Swish"
 }

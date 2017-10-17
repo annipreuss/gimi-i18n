@@ -1554,9 +1554,5 @@
   "code_is_scanned": "PLZ_TRANSLATE Il codice viene sottoposto a scansione!",
   "done": "PLZ_TRANSLATE Fatto",
   "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d è stato detratto dalla banca salvadana",
-  "get_money_via_swish": "PLZ_TRANSLATE Prendi i soldi via Swish",
-  "event_allowance_transfer_weekly": "PLZ_TRANSLATE L&#39;intero settimanale su %1$d è stato aggiunto alla banca salvadana",
-  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Il denaro mensile su %1$d è stato aggiunto alla banca salvadana",
-  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Il pagamento settimanale su %1$d è stato versato sul conto bancario",
-  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Il pagamento mensile su %1$d è stato pagato al conto bancario"
+  "get_money_via_swish": "PLZ_TRANSLATE Prendi i soldi via Swish"
 }

@@ -1554,9 +1554,5 @@
   "code_is_scanned": "PLZ_TRANSLATE Koden scannes!",
   "done": "PLZ_TRANSLATE Færdig",
   "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d er trukket fra spargrisen",
-  "get_money_via_swish": "PLZ_TRANSLATE Få pengene via Swish",
-  "event_allowance_transfer_weekly": "PLZ_TRANSLATE Ugentlig interesse for %1$d er blevet tilføjet til spargrisen",
-  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Månedlige penge på %1$d er blevet tilføjet til PLZ_TRANSLATE",
-  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Ugentlig betaling på %1$d er blevet betalt til bankkonto",
-  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Månedlig betaling på %1$d er blevet betalt til bankkonto"
+  "get_money_via_swish": "PLZ_TRANSLATE Få pengene via Swish"
 }
