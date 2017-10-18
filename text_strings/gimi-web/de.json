@@ -53,10 +53,10 @@
   "home.quote1": "“Leicht zu bediehnen und eine tolle Möglichkeit, um die Kinder zu motivieren!”",
   "home.quote1_sub": "37 Jahre alte Mutter von zwei Kindern",
   "home.quote1_name": "Anna",
-  "home.quote2": "PLZ_TRANSLATE \"Ich könnte endlich einen Roller sparen! Danke Gimi! \"",
+  "home.quote2": "\"Ich kann endlich auf einen Roller sparen! Danke Gimi! \"",
   "home.quote2_name": "Leon",
   "home.quote2_sub": "10 Jahre",
-  "home.quote3": "PLZ_TRANSLATE \"Die Beendigung der Arbeiten war noch nie so lustig! Oder lohnend :) \"",
+  "home.quote3": "\"Das Erledigen von Aufgaben hat noch nie mehr Spaß gemacht. Und es lohnt sich :) \"",
   "home.quote3_sub": "8 Jahre",
   "home.quote3_name": "Benny",
   "home.quote4": "“Daumen hoch für Gimi! Eine tolle Möglichkeit, die Übersicht über die Versprechen an die Kinder zu behalten und sie werden motiviert im Haushalt mitzuhelfen!”",
@@ -78,7 +78,7 @@
   "family.slider2.task": "Zimmer aufräumen",
   "family.slider2.common": "übliche Aufgaben",
   "family.slider2.goal": "Lego",
-  "family.slider2.popular": "beliebtestes Sparziel",
+  "family.slider2.popular": "Beliebtestes Sparziel",
   "family.slider3.amount": "5 €",
   "family.slider3.period": "Durchschnittliches wöchentliches Taschengeld",
   "family.slider3.task": "Das Bett machen",
@@ -113,7 +113,7 @@
   "family.section3.body": "Um Kindern die Erfüllung ihrer Wünsche zu ermöglichen, setzen die Eltern einen Zinssatz, der die Ersparnisse wachsen lässt. So erreichen mehr Kinder das Sparziel. Der durchschnittliche Zinssatz beträgt:",
   "family.section3.download": "Lade es hier runter!",
   "family.section4.header": "Beliebteste Aufgaben",
-  "family.section4.body": "Tausende Kinder erledigen täglich Haushaltsaufgaben und haben ein breites Wissen über Geld. Laut unseren Nutzern gibt es Kinder, die Reifen wechselten, auf Jüngere aufpassten, die Garage strichen, das Periodensystem auswendig lernten oder für eine ganze Woche auf Zucker verzichteten(!)",
+  "family.section4.body": "Tausende Kinder erledigen täglich Hausaufgaben und haben ein breites Wissen über Geld. Laut unseren Nutzern gibt es Kinder, die Reifen wechselten, auf Jüngere aufpassten, die Garage strichen, das Periodensystem auswendig lernten oder für eine ganze Woche auf Zucker verzichteten(!)",
   "family.section4.item1": "Bring den Müll raus",
   "family.section4.item2": "Den Abwasch erledigen",
   "family.section4.item3": "Das Bett machen",
@@ -276,5 +276,5 @@
   "footer.acceptCookies": "Ich akzeptiere",
   "page.not.found.title": "404, upps!",
   "page.not.found.text": "Wir haben nach Deiner Seite gesucht ... aber wir konnten sie nicht finden",
-  "footer.pressReleases": "PLZ_TRANSLATE Drücken Sie"
+  "footer.pressReleases": "Klick hier"
 }
