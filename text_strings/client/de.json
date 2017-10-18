@@ -1148,7 +1148,7 @@
   "withdrawl_from_pig": "Aufwand",
   "failed_transaction": "Fehlgeschlagene Überweisung",
   "report_allowance_transfered_in": "Vom Sparschwein",
-  "qr_code_hint_text": "Wenn der Code gescannt wird, wirst Du verbunden. Diejenige, mit dem Du Dich verbinden willst, kommt zum Scanner, indem er auf dem Startbildschirm auf die Schaltfläche \"Mit Familienmitglied verbinden\" klickt.",
+  "qr_code_hint_text": "Durch das Scannen des Codes lassen sich zwei Geräte verbinden. Dein Partner gelangt zum Scanner, indem er auf dem Startbildschirm auf die Schaltfläche \"Mit Familienmitglied verbinden\" klickt.",
   "report_savings_account_diff": "Abgerundet",
   "edit_savings_goal_amount_hint": "Preis von %1$d einstellen",
   "goal_editor_parent_title": "Aushelfen",
