@@ -4,7 +4,7 @@
   "push_goal_completed_child": "PLZ_TRANSLATE You have reached your savings goal {goal.title}",
   "push_goal_completed_parent": "PLZ_TRANSLATE {goal.child.name} has reached the savings goal {goal.title}",
   "push_withdrawal_child": "PLZ_TRANSLATE {transaction.created_by.name} withdrew {transaction.str_value} from the piggy bank",
-  "push_withdrawal_parent": "PLZ_TRANSLATE {transaction.created_by.name} withdrew {transaction.str_value} from {transaction.child.name}s piggy bank",
+  "push_withdrawal_parent": "PLZ_TRANSLATE {transaction.created_by.name} адклікала {transaction.str_value} з {transaction.child.name} s скарбонкі",
   "push_timed_assignment_expired": "PLZ_TRANSLATE No reward! The time has run out for {assignment.task.title}",
   "push_connected_with_parent": "PLZ_TRANSLATE JippiKaYeah! You are now connected to a parent",
   "push_invite_accepted": "PLZ_TRANSLATE {user} has accepted your invitation",
@@ -26,8 +26,8 @@
   "push_changed_to_monthly_allowance": "PLZ_TRANSLATE {name} switched to a monthly allowance",
   "push_trustly_weekly_allowance_parent_changed": "PLZ_TRANSLATE Now {child}'s weekly allowance is paid out from your account",
   "push_trustly_monthly_allowance_parent_changed": "PLZ_TRANSLATE Now {child}'s monthly allowance is paid out from your account",
-  "push_trustly_weekly_allowance_parent_changed_2": "PLZ_TRANSLATE Now {child}'s weekly allowance is paid out from {parent}'s account",
-  "push_trustly_monthly_allowance_parent_changed_2": "PLZ_TRANSLATE Now {child}'s monthly allowance is paid out from {parent}'s account",
+  "push_trustly_weekly_allowance_parent_changed_2": "PLZ_TRANSLATE Цяпер {child}  s штотыднёвае дапамога выплачваецца з {parent}  s кошт",
+  "push_trustly_monthly_allowance_parent_changed_2": "PLZ_TRANSLATE Цяпер {child}  s штомесячная дапамога выплачваецца з {parent}  s кошт",
   "push_trustly_weekly_allowance_parent_changed_child": "PLZ_TRANSLATE Now your weekly allowance is paid out to your bank account every week",
   "push_trustly_monthly_allowance_parent_changed_child": "PLZ_TRANSLATE Now your monthly allowance is paid out to your bank account every month",
   "dashboard_interest_added": "PLZ_TRANSLATE Received {transaction.str_value} in savings bonus",
@@ -165,5 +165,5 @@
   "push_children_financial_smarter": "PLZ_TRANSLATE Ці ведаеце вы, што дзеці могуць лёгка стаць фінансава разумнейшы! Як яны гэта робяць",
   "event_withdrawal_child": "PLZ_TRANSLATE {user.name} адклікала {transaction.str_value} з скарбонкі",
   "trustly_manual_transaction_email_subject": "PLZ_TRANSLATE Вядома, вы паслалі толькі {transaction.str_value} да {transaction.child.name} ?",
-  "trustly_manual_transaction_email_body": "PLZ_TRANSLATE Паколькі вы ўключылі простыя пераклады са свайго рахунку ў {transaction.child.name} рахункі , якія не патрабуюць мабільнага рахунку BankID, мы проста хацелі , каб пераканацца , што вы проста зрабіць пераклад. Калі так, то вы можаце праігнараваць гэты ліст. Калі вы гэтага не зробіце, вы &#39; павінны будзеце праверыць , калі хто - то мае доступ да вашага тэлефоне. Калі ласка, звярніце ўвагу, што простыя пераклады могуць быць зробленыя толькі паміж рахункамі, якія вы раней звязаныя з BankID і нашым партнёрам Trustly, і вы можаце адправіць толькі максімальную 2000kr за перадачу і дзень. Вы можаце ўбачыць вашыя звязаныя акаўнты ў дадатку на ўкладцы Downloads."
+  "trustly_manual_transaction_email_body": "PLZ_TRANSLATE Паколькі вы ўключылі простыя пераклады са свайго рахунку ў {transaction.child.name} рахункі , якія не патрабуюць мабільнага рахунку BankID, мы проста хацелі , каб пераканацца , што вы проста зрабіць пераклад. Калі так, то вы можаце праігнараваць гэты ліст. Калі вы гэтага не зробіце, вы  павінны будзеце праверыць , калі хто - то мае доступ да вашага тэлефоне. Калі ласка, звярніце ўвагу, што простыя пераклады могуць быць зробленыя толькі паміж рахункамі, якія вы раней звязаныя з BankID і нашым партнёрам Trustly, і вы можаце адправіць толькі максімальную 2000kr за перадачу і дзень. Вы можаце ўбачыць вашыя звязаныя акаўнты ў дадатку на ўкладцы Downloads."
 }

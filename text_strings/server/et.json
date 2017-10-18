@@ -4,7 +4,7 @@
   "push_goal_completed_child": "PLZ_TRANSLATE You have reached your savings goal {goal.title}",
   "push_goal_completed_parent": "PLZ_TRANSLATE {goal.child.name} has reached the savings goal {goal.title}",
   "push_withdrawal_child": "PLZ_TRANSLATE {transaction.created_by.name} withdrew {transaction.str_value} from the piggy bank",
-  "push_withdrawal_parent": "PLZ_TRANSLATE {transaction.created_by.name} withdrew {transaction.str_value} from {transaction.child.name}s piggy bank",
+  "push_withdrawal_parent": "PLZ_TRANSLATE {transaction.created_by.name} loobus {transaction.str_value} lähtekohast {transaction.child.name} s hoiupõrsa",
   "push_timed_assignment_expired": "PLZ_TRANSLATE No reward! The time has run out for {assignment.task.title}",
   "push_connected_with_parent": "PLZ_TRANSLATE JippiKaYeah! You are now connected to a parent",
   "push_invite_accepted": "PLZ_TRANSLATE {user} has accepted your invitation",
@@ -26,8 +26,8 @@
   "push_changed_to_monthly_allowance": "PLZ_TRANSLATE {name} switched to a monthly allowance",
   "push_trustly_weekly_allowance_parent_changed": "PLZ_TRANSLATE Now {child}'s weekly allowance is paid out from your account",
   "push_trustly_monthly_allowance_parent_changed": "PLZ_TRANSLATE Now {child}'s monthly allowance is paid out from your account",
-  "push_trustly_weekly_allowance_parent_changed_2": "PLZ_TRANSLATE Now {child}'s weekly allowance is paid out from {parent}'s account",
-  "push_trustly_monthly_allowance_parent_changed_2": "PLZ_TRANSLATE Now {child}'s monthly allowance is paid out from {parent}'s account",
+  "push_trustly_weekly_allowance_parent_changed_2": "PLZ_TRANSLATE Nüüd {child}  s nädalas makstakse välja {parent}  s konto",
+  "push_trustly_monthly_allowance_parent_changed_2": "PLZ_TRANSLATE Nüüd {child}  igakuine makstakse välja {parent}  s konto",
   "push_trustly_weekly_allowance_parent_changed_child": "PLZ_TRANSLATE Now your weekly allowance is paid out to your bank account every week",
   "push_trustly_monthly_allowance_parent_changed_child": "PLZ_TRANSLATE Now your monthly allowance is paid out to your bank account every month",
   "dashboard_interest_added": "PLZ_TRANSLATE Received {transaction.str_value} in savings bonus",
@@ -165,5 +165,5 @@
   "push_children_financial_smarter": "PLZ_TRANSLATE Kas teadsite, et lapsed saavad kergesti majanduslikult targemaks saada! Kuidas nad seda teevad",
   "event_withdrawal_child": "PLZ_TRANSLATE {user.name} võttis {user.name} tagasi {transaction.str_value}",
   "trustly_manual_transaction_email_subject": "PLZ_TRANSLATE Muidugi saatsite {transaction.str_value} äsja {transaction.str_value} {transaction.child.name} ?",
-  "trustly_manual_transaction_email_body": "PLZ_TRANSLATE Kuna olete lubanud lihtsad ülekanded oma kontolt {transaction.child.name} kontole, mis ei vaja Mobile BankIDi kontot, tahtisime lihtsalt veenduda, et olete lihtsalt ülekande teinud. Kui jah, võite selle e-kirja ignoreerida. Kui te seda ei tee, siis &#39; ll vaja kontrollida, kas keegi on juurdepääs telefoni. Pange tähele, et lihtsaid ülekandeid saab teha ainult nende kontode vahel, mis on eelnevalt seotud BankID-iga ja meie usaldusväärse partneriga, ja saate saata maksimaalselt 2000 krooni ülekande ja päeva kohta. Saate vahekaardil Allalaaditud rakendustes näha lingitud kontosid."
+  "trustly_manual_transaction_email_body": "PLZ_TRANSLATE Kuna olete lubanud lihtsad ülekanded oma kontolt {transaction.child.name} kontole, mis ei vaja Mobile BankIDi kontot, tahtisime lihtsalt veenduda, et olete lihtsalt ülekande teinud. Kui jah, võite selle e-kirja ignoreerida. Kui te seda ei tee, siis  ll vaja kontrollida, kas keegi on juurdepääs telefoni. Pange tähele, et lihtsaid ülekandeid saab teha ainult nende kontode vahel, mis on eelnevalt seotud BankID-iga ja meie usaldusväärse partneriga, ja saate saata maksimaalselt 2000 krooni ülekande ja päeva kohta. Saate vahekaardil Allalaaditud rakendustes näha lingitud kontosid."
 }
