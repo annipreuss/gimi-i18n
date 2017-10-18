@@ -275,5 +275,6 @@
   "seo.news.description": "actuel",
   "footer.acceptCookies": "J'accepte",
   "page.not.found.title": "404, oups!",
-  "page.not.found.text": "nous avons essayé de chercher votre page...\nmais nous n'avons pas pu la trouver"
+  "page.not.found.text": "nous avons essayé de chercher votre page...\nmais nous n'avons pas pu la trouver",
+  "footer.pressReleases": "PLZ_TRANSLATE presse"
 }

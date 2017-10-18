@@ -275,5 +275,6 @@
   "seo.news.description": "aktuellt",
   "footer.acceptCookies": "Jag accepterar",
   "page.not.found.title": "404, oops!",
-  "page.not.found.text": "vi letade efter din sida...\nmen vi hittar inte den"
+  "page.not.found.text": "vi letade efter din sida...\nmen vi hittar inte den",
+  "footer.pressReleases": "Press"
 }
