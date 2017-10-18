@@ -1125,7 +1125,7 @@
   "savings_goal_lost_of_sponsor": "Andel kommer förloras",
   "savings_goal_lost_of_sponsor_desc": "Du har fått %1$d i stöd för att uppnå det här sparmålet. Det kommer gå förlorat om du väljer att sparmålet inte ska köpas.",
   "savings_goal_lost_of_sponsor_button_delete": "Radera ändå",
-  "savings_goal_edit_sponsor_title": "Vill  du ta del av kakan?",
+  "savings_goal_edit_sponsor_title": "Vill du ta del av kakan?",
   "savings_goal_edit_sponsor_subtitle": "Hjälp %1$d att spara ihop till sparmålet %2$d",
   "savings_goal_edit_sponsor_description": "<b>%1$d</b> sätts automatiskt in i spargrisen när det är %2$d% kvar till att sparmålet uppnås.",
   "savings_goal_edit_sponsor_input_title": "Din andel",
