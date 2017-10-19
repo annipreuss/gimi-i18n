@@ -1387,7 +1387,7 @@
   "fingerprint_error_message": "There is no fingerPrint sensor or there are no permissions.",
   "parent_transaction_list_no_items": "There are no transactions.",
   "notifications": "Notices",
-  "premium_free_active_headline": "PLZ_CHECK You are trying out Premium",
+  "premium_free_active_headline": "You are trying out Premium",
   "premium_free_active_desc": "Your bank account is online and you are now trying out Premium!",
   "choose_country": "Choose country",
   "amount_reached": "Achieved goals: %1$d",
