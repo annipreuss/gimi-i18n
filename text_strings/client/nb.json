@@ -1546,13 +1546,13 @@
   "trustly_flow_service2_descr": "Du kan overføre opp til %1$d per dag uten BankID. Dette kan bare gjøres med tilkoblede kontoer.",
   "amount": "Beløp",
   "saved_in": "Lagret på",
-  "read_reviews": "PLZ_TRANSLATE Les omtaler",
-  "find_resellers": "PLZ_TRANSLATE Finn en selger",
-  "search_products": "PLZ_TRANSLATE Søk produkter",
-  "swish_payment": "PLZ_TRANSLATE Swish betaling",
-  "swish_payment_popover_desc": "PLZ_TRANSLATE Be din forelder å skanne QR-koden. Når det's blitt skannet pengene er trukket fra sparegrisen.",
-  "code_is_scanned": "PLZ_TRANSLATE Koden er skannet!",
-  "done": "PLZ_TRANSLATE Ferdig",
-  "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d er trukket fra spargrisen",
-  "get_money_via_swish": "PLZ_TRANSLATE Få pengene via Swish"
+  "read_reviews": "Les omtaler",
+  "find_resellers": "Finn en selger",
+  "search_products": "Søk etter produkter",
+  "swish_payment": "Swish-betaling",
+  "swish_payment_popover_desc": "Be din forelder om å skanne QR-koden. Når det er skannet vil pengene bli trukket fra sparegrisen.",
+  "code_is_scanned": "Koden er skannet!",
+  "done": "Ferdig",
+  "n_have_been_deducted_from_piggy_bank": "%1$d har blitt trukket fra sparegrisen",
+  "get_money_via_swish": "Få pengene via Swish"
 }
