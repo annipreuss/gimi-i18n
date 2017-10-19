@@ -239,7 +239,7 @@
   "faq.q25.a": "Wir wissen, dass die Daten Deines Kindes sensibel sind. Deshalb würden wir sie nie verkaufen oder verwenden, um das Kind zu kontaktieren.",
   "faq.q26": "Wird in der Woche reales Geld versendet?",
   "faq.q26.a": "Nein, noch haben wir diese Option nicht, das Geld wird von Eltern in Bar oder per Handy ausgezahlt. Das Wochenbuch dient primär dem Verständnis der Kinder über Geld und damit sie die Kontrolle über ihr Taschengeld behalten. Aber wir arbeiten daran, in Zukunft eine Echtzeit-Funktion anzubieten.",
-  "faq.q27": "Kostet das Wochenbuch etwas?",
+  "faq.q27": "Kostet die App etwas?",
   "faq.q27.a": "Nein, die App ist gratis. ",
   "faq.q28": "Auf welchen Plattformen ist die App verfügbar?",
   "faq.q28.a": "Im Appstore und Google Play, sowohl für iPhones als auch Android-Handys.",
@@ -276,5 +276,5 @@
   "footer.acceptCookies": "Ich akzeptiere",
   "page.not.found.title": "404, upps!",
   "page.not.found.text": "Wir haben nach Deiner Seite gesucht ... aber wir konnten sie nicht finden",
-  "footer.pressReleases": "PLZ_TRANSLATE Pressemeldungen"
+  "footer.pressReleases": "Pressemitteilungen"
 }
