@@ -1546,13 +1546,13 @@
   "trustly_flow_service2_descr": "Puedes transferir hasta %1$d por día sin BankID. Esto sólo se puede hacer con cuentas conectadas.",
   "amount": "Cantidad",
   "saved_in": "Guardado en",
-  "read_reviews": "PLZ_TRANSLATE Leer opiniones",
-  "find_resellers": "PLZ_TRANSLATE Encuentra un vendedor",
-  "search_products": "PLZ_TRANSLATE Buscar Productos",
-  "swish_payment": "PLZ_TRANSLATE Swish pago",
+  "read_reviews": "Leer opiniones",
+  "find_resellers": "Encuentra un vendedor",
+  "search_products": "Buscar Productos",
+  "swish_payment": "Pago Swish",
   "swish_payment_popover_desc": "PLZ_TRANSLATE Pídale a su padre que escanee el código QR. Cuando se'ha estado escaneó el dinero se deduce de la alcancía.",
-  "code_is_scanned": "PLZ_TRANSLATE ¡El código se escanea!",
-  "done": "PLZ_TRANSLATE Hecho",
-  "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d se ha deducido de la hucha",
-  "get_money_via_swish": "PLZ_TRANSLATE Obtenga el dinero a través de Swish"
+  "code_is_scanned": "¡El código se escanea!",
+  "done": "Hecho",
+  "n_have_been_deducted_from_piggy_bank": "Se ha deducido %1$d de la alcancía",
+  "get_money_via_swish": "Obtén el dinero a través de Swish"
 }
