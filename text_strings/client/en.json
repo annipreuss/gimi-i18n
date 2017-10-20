@@ -866,7 +866,7 @@
   "withdraw_from_transactional_account_popover_header": "Enter the amount to withdraw from the allowance",
   "time_to_payout_today_to_external_bankaccount_popover_header_no_transaction": "Today %1$d have gotten %2$s",
   "add_childname_account_later": "Add later",
-  "add_task_title_headline": "What's the chore?",
+  "add_task_title_headline": "Create a name for the chore",
   "add_task_title_help": "MAX %1$d characters",
   "add_task_title": "title",
   "add_task_desc_headline": "Can you describe the chore?",
