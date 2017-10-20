@@ -1554,5 +1554,6 @@
   "code_is_scanned": "¡El código se escanea!",
   "done": "Hecho",
   "n_have_been_deducted_from_piggy_bank": "Se ha deducido %1$d de la alcancía",
-  "get_money_via_swish": "Obtén el dinero a través de Swish"
+  "get_money_via_swish": "Obtén el dinero a través de Swish",
+  "invite_with_poc": "PLZ_TRANSLATE Firebase poco"
 }

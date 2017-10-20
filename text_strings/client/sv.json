@@ -1555,5 +1555,6 @@
   "code_is_scanned": "Koden är scannad",
   "done": "Klart",
   "n_have_been_deducted_from_piggy_bank": "%1$d har dragits från spargrisen",
-  "get_money_via_swish": "Få pengarna med swish"
+  "get_money_via_swish": "Få pengarna med swish",
+  "invite_with_poc": "Something sv poc"
 }

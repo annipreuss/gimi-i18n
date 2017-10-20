@@ -1554,5 +1554,6 @@
   "code_is_scanned": "Code wird gescannt!",
   "done": "Erledigt",
   "n_have_been_deducted_from_piggy_bank": "%1$d wurden vom Sparschwein abgebucht",
-  "get_money_via_swish": "Hole Dir Dein Geld über Swish"
+  "get_money_via_swish": "Hole Dir Dein Geld über Swish",
+  "invite_with_poc": "PLZ_TRANSLATE Wenig Feuerstelle"
 }

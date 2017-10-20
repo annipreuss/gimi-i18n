@@ -1554,5 +1554,6 @@
   "code_is_scanned": "PLZ_TRANSLATE Koden scannes!",
   "done": "PLZ_TRANSLATE Færdig",
   "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d er trukket fra spargrisen",
-  "get_money_via_swish": "PLZ_TRANSLATE Få pengene via Swish"
+  "get_money_via_swish": "PLZ_TRANSLATE Få pengene via Swish",
+  "invite_with_poc": "PLZ_TRANSLATE Lille brandbase"
 }

@@ -1554,5 +1554,6 @@
   "code_is_scanned": "PLZ_TRANSLATE Il codice viene sottoposto a scansione!",
   "done": "PLZ_TRANSLATE Fatto",
   "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d è stato detratto dalla banca salvadana",
-  "get_money_via_swish": "PLZ_TRANSLATE Prendi i soldi via Swish"
+  "get_money_via_swish": "PLZ_TRANSLATE Prendi i soldi via Swish",
+  "invite_with_poc": "PLZ_TRANSLATE Piccolo focolare"
 }
