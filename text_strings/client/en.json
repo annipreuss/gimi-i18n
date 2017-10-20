@@ -1148,7 +1148,7 @@
   "withdrawl_from_pig": "Outlay",
   "failed_transaction": "Failed payment",
   "report_allowance_transfered_in": "From piggy bank",
-  "qr_code_hint_text": "When the code is scanned, you are connected. The one you want to pair with reaches the scanner by clicking on the \"Connect with Family Member\" button on the home screen.",
+  "qr_code_hint_text": "Scan the code to connect to a family member. To select a device tap the \"Connect with Family Member\" button on the home screen.",
   "report_savings_account_diff": "Rounding",
   "edit_savings_goal_amount_hint": "Set price of %1$d",
   "goal_editor_parent_title": "Help out",
