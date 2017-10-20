@@ -499,7 +499,7 @@
   "popover_payout_today_allowance_has_been_payed_out_child": "I have received %1$s!",
   "popover_payout_today_allowance_has_been_payed_out_parent": "I have paid %1$s",
   "expense_popover_description_parent": "How much money has been paid out?",
-  "add_child_allowance_text": "How often should %1$d get money?",
+  "add_child_allowance_text": "How often should %1$d receive money?",
   "what_to_do_with_money": "What would you like to do with the money?",
   "parent_settings_general": "General",
   "parent_settings_about_app": "About the app",
