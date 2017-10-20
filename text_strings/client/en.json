@@ -1145,7 +1145,7 @@
   "deposit_to_pig": "Deposit",
   "transaction_to_pig": "Saved",
   "trustly_type_text": "To bank account",
-  "withdrawl_from_pig": "Outlay",
+  "withdrawl_from_pig": "Withdrawal",
   "failed_transaction": "Failed payment",
   "report_allowance_transfered_in": "From piggy bank",
   "qr_code_hint_text": "Scan the code to connect to a family member. To select a device tap the \"Connect with Family Member\" button on the home screen.",
