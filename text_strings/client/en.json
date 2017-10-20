@@ -464,7 +464,7 @@
   "add_child_task_first": "Add a first chore!",
   "add_child_first_tasks_headline": "What is %1$d first chores?",
   "created_child_connected": "Connected",
-  "created_child_monster": "You have created a child!",
+  "created_child_monster": "You have added a new child!",
   "created_child_allowance_monthly": "%1$d the %2$d",
   "created_child_allowance_weekly": "%1$d on %2$d",
   "plural_weekdays_ending": "s",
