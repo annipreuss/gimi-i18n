@@ -462,7 +462,7 @@
   "add_child_task_one": "chore",
   "add_child_task_multi": "chores",
   "add_child_task_first": "Add a first chore!",
-  "add_child_first_tasks_headline": "What is %1$d first chores?",
+  "add_child_first_tasks_headline": "Suggested chores",
   "created_child_connected": "Connected",
   "created_child_monster": "You have added a new child!",
   "created_child_allowance_monthly": "%1$d the %2$d",
