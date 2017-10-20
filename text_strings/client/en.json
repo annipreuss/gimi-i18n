@@ -457,7 +457,7 @@
   "invite_with_sms": "SMS",
   "edit_child_interest": "Do you want to change %1$d interest rate?",
   "add_child_tasks_info_headline": "Well done!",
-  "add_child_task_info_text_good": "You have chosen <boldGreen>%1$d %2$d</boldGreen> and %3$d will learn to take responsibility and that good behavior is rewarded.",
+  "add_child_task_info_text_good": "You have chosen <boldGreen>%1$d %2$d</boldGreen>. %3$d will learn to take responsibility and this good behavior will be rewarded.",
   "add_child_task_info_text_bad": "You have chosen <boldRed>%1$d %2$d</boldRed>. %3$d will help out more at home if you give out some chores!",
   "add_child_task_one": "chore",
   "add_child_task_multi": "chores",
