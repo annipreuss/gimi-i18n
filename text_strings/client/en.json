@@ -213,7 +213,7 @@
   "child_yearly_report_saved_header": "Saved",
   "child_yearly_report_saved_interest_header": "Savings bonus",
   "child_yearly_report_footer": "Awesome!",
-  "trans_payout_from_savings_account": "%1$d made a payout from the piggy bank",
+  "trans_payout_from_savings_account": "%1$d made a withdrawal from the piggy bank",
   "trans_payout_from_transactional_account": "%1$d made a payout from %2$s",
   "trans_transfer_transactional_to_savings_account": "%1$d saved money from %2$s",
   "trans_transfer_savings_to_transactional_account": "%1$d transferred money to %2$s",
