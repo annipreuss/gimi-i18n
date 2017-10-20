@@ -509,7 +509,7 @@
   "gimi_startpage_slide3_text": "Give young people the financial freedom and responsibility they deserve",
   "general_yes": "Yes",
   "general_no": "No",
-  "add_child_age_hint": "It means %1$d is",
+  "add_child_age_hint": "This means %1$d is",
   "data_tracking_assignment_threshold_1_parent": "{child} has used up 50% of the total surf data.",
   "data_tracking_assignment_threshold_1_child": "You have used up 50% of the total surf data!",
   "data_tracking_assignment_threshold_2_parent": "{child} has used up 75% of the total surf data.",
