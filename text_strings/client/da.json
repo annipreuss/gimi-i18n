@@ -1288,7 +1288,7 @@
   "edit_boost_title": "Pisk eller gulerod?",
   "edit_boost_subtitle": "Hjælp %1$d ved at tilføje en milepæl. Men det er ikke kun lutter lagkage, et opnået boost er tabt, hvis %1$d går under en milepæl igen",
   "edit_boost_input_title": "Boost ved hver milepæl",
-  "edit_boost_description": "<b>%1$d</b> tilføjes, når %2$d passerer nogen af ​​de 9 milepæle. Det betyder, at %2$d kun behøver at gemme %3$d ud af %4$d",
+  "edit_boost_description": "<b>%1$d</b> tilføjes, når %2$d passerer nogle af ​​de 9 milepæle. Det betyder, at %2$d kun behøver at gemme %3$d ud af %4$d",
   "task_per_hour_card_text": "Belønningen beregnes ved hjælp af timeren!",
   "time_minute": "%1$d minut",
   "time_minutes": "%1$d minutter",
