@@ -1286,7 +1286,7 @@
   "reward_collected": "Belønning indkasseret",
   "task_approved_desc": "%1$d blev godkendt, og du har opsparet %2$d i spargrisen!",
   "edit_boost_title": "Pisk eller gulerod?",
-  "edit_boost_subtitle": "Hjælp %1$d ved at øge en milepæl. Men det er ikke bare huttelihut, et opnået boost er tabt, hvis %1$d går under en milepæl igen",
+  "edit_boost_subtitle": "Hjælp %1$d ved at tilføje en milepæl. Men det er ikke kun lutter lagkage, et opnået boost er tabt, hvis %1$d går under en milepæl igen",
   "edit_boost_input_title": "Boost ved hver milepæl",
   "edit_boost_description": "<b>%1$d</b> tilføjes, når %2$d passerer nogen af ​​de 9 milepæle. Det betyder, at %2$d kun behøver at gemme %3$d ud af %4$d",
   "task_per_hour_card_text": "Belønningen beregnes ved hjælp af timeren!",
