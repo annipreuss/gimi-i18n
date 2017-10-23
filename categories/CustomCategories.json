@@ -1,0 +1,14 @@
+{
+   "custom":{
+      "id":12,
+      "titleId":"",
+      "image":"/static/categories/uppgift_egen.png",
+      "color":"#F08096"
+   },
+   "reverted":{
+      "id":49,
+      "titleId":"reverted_transaction_headline",
+      "image":"/static/categories/uppgift_egen.png",
+      "color":"#F08096"
+   }
+ }

@@ -16,5 +16,6 @@
   "music": "music",
   "foodDrink": "foodAndDrinks",
   "school": "school",
-  "custom": "custom"
+  "custom": "custom",
+  "reverted": "reverted"
 }

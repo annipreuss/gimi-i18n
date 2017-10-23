@@ -47,5 +47,6 @@
   "interest": 45,
   "allowance": 46,
   "goalHelp": 47,
-  "trustly": 48
+  "trustly": 48,
+  "reverted": 49
 }
