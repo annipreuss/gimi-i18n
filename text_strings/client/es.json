@@ -1555,5 +1555,10 @@
   "done": "Hecho",
   "n_have_been_deducted_from_piggy_bank": "Se ha deducido %1$d de la alcancía",
   "get_money_via_swish": "Obtén el dinero a través de Swish",
-  "invite_with_poc": "PLZ_TRANSLATE Firebase poco"
+  "invite_with_poc": "PLZ_TRANSLATE Firebase poco",
+  "task_history_most_popular": "PLZ_TRANSLATE Más popular",
+  "task_history_desc_singular": "PLZ_TRANSLATE Realizado %1$d tiempo este año",
+  "task_history_desc_plural": "PLZ_TRANSLATE Realizado %1$d veces este año",
+  "earned": "PLZ_TRANSLATE Ganado",
+  "earned_since_start": "PLZ_TRANSLATE %1$d desde el inicio"
 }

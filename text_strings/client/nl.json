@@ -1555,5 +1555,10 @@
   "done": "PLZ_TRANSLATE Gedaan",
   "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d is afgetrokken van de spaarpot",
   "get_money_via_swish": "PLZ_TRANSLATE Krijg het geld via Swish",
-  "invite_with_poc": "PLZ_TRANSLATE Weinig vuurbasis"
+  "invite_with_poc": "PLZ_TRANSLATE Weinig vuurbasis",
+  "task_history_most_popular": "PLZ_TRANSLATE Meest populair",
+  "task_history_desc_singular": "PLZ_TRANSLATE Gedurende %1$d keer dit jaar",
+  "task_history_desc_plural": "PLZ_TRANSLATE Gedurende dit jaar is %1$d",
+  "earned": "PLZ_TRANSLATE verdiende",
+  "earned_since_start": "PLZ_TRANSLATE %1$d sinds start"
 }

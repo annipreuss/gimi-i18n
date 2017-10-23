@@ -1555,5 +1555,10 @@
   "done": "Done",
   "n_have_been_deducted_from_piggy_bank": "%1$d has been deducted from the piggy bank",
   "get_money_via_swish": "Get the money via Swish",
-  "invite_with_poc": "Firebase poc"
+  "invite_with_poc": "Firebase poc",
+  "task_history_most_popular": "Most Popular",
+  "task_history_desc_singular": "Performed %1$d time this year",
+  "task_history_desc_plural": "Performed %1$d times this year",
+  "earned": "Earned",
+  "earned_since_start": "%1$d since start"
 }

@@ -1555,5 +1555,10 @@
   "done": "Fatto",
   "n_have_been_deducted_from_piggy_bank": "%1$d sono stati detratti dal salvadanaio",
   "get_money_via_swish": "PLZ_CHECK Ottieni i soldi via Swish",
-  "invite_with_poc": "PLZ_CHECK Piccolo focolare"
+  "invite_with_poc": "PLZ_CHECK Piccolo focolare",
+  "task_history_most_popular": "PLZ_TRANSLATE Più popolare",
+  "task_history_desc_singular": "PLZ_TRANSLATE Eseguito %1$d quest&#39;anno",
+  "task_history_desc_plural": "PLZ_TRANSLATE Esegui %1$d volte quest&#39;anno",
+  "earned": "PLZ_TRANSLATE Guadagnato",
+  "earned_since_start": "PLZ_TRANSLATE %1$d dall&#39;inizio"
 }

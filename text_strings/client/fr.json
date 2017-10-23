@@ -1555,5 +1555,10 @@
   "done": "Fin",
   "n_have_been_deducted_from_piggy_bank": "%1$d ont été déduits de la tirelire",
   "get_money_via_swish": "Recevez de l'argent via Swish",
-  "invite_with_poc": "PLZ_CHECK Petite base de feu"
+  "invite_with_poc": "PLZ_CHECK Petite base de feu",
+  "task_history_most_popular": "PLZ_TRANSLATE Le plus populaire",
+  "task_history_desc_singular": "PLZ_TRANSLATE Effectué %1$d fois cette année",
+  "task_history_desc_plural": "PLZ_TRANSLATE Effectué %1$d fois cette année",
+  "earned": "PLZ_TRANSLATE Gagné",
+  "earned_since_start": "PLZ_TRANSLATE %1$d depuis le début"
 }

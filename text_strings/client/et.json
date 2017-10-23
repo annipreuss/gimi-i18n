@@ -1555,5 +1555,10 @@
   "done": "PLZ_TRANSLATE Valmis",
   "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE Netikullast on maha arvutatud %1$d",
   "get_money_via_swish": "PLZ_TRANSLATE Hankige raha Swishi kaudu",
-  "invite_with_poc": "PLZ_TRANSLATE Väike tuletõrjebaas"
+  "invite_with_poc": "PLZ_TRANSLATE Väike tuletõrjebaas",
+  "task_history_most_popular": "PLZ_TRANSLATE Kõige populaarsem",
+  "task_history_desc_singular": "PLZ_TRANSLATE Täitnud käesoleval aastal %1$d aega",
+  "task_history_desc_plural": "PLZ_TRANSLATE Täitis käesoleva aasta jooksul %1$d korda",
+  "earned": "PLZ_TRANSLATE Teenitud",
+  "earned_since_start": "PLZ_TRANSLATE %1$d peale %1$d"
 }

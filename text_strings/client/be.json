@@ -1555,5 +1555,10 @@
   "done": "PLZ_TRANSLATE зроблена",
   "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d быў адлічаны з скарбонкі",
   "get_money_via_swish": "PLZ_TRANSLATE Атрымаць грошы з дапамогай Swish",
-  "invite_with_poc": "PLZ_TRANSLATE Firebase мала"
+  "invite_with_poc": "PLZ_TRANSLATE Firebase мала",
+  "task_history_most_popular": "PLZ_TRANSLATE самыя папулярныя",
+  "task_history_desc_singular": "PLZ_TRANSLATE Выкананы %1$d раз у гэтым годзе",
+  "task_history_desc_plural": "PLZ_TRANSLATE Якія выконваюцца %1$d раз у гэтым годзе",
+  "earned": "PLZ_TRANSLATE зароблены",
+  "earned_since_start": "PLZ_TRANSLATE %1$d з пачатку"
 }

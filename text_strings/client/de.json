@@ -1555,5 +1555,10 @@
   "done": "Erledigt",
   "n_have_been_deducted_from_piggy_bank": "%1$d wurden vom Sparschwein abgebucht",
   "get_money_via_swish": "Hole Dir Dein Geld über Swish",
-  "invite_with_poc": "PLZ_TRANSLATE Wenig Feuerstelle"
+  "invite_with_poc": "PLZ_TRANSLATE Wenig Feuerstelle",
+  "task_history_most_popular": "PLZ_TRANSLATE Am beliebtesten",
+  "task_history_desc_singular": "PLZ_TRANSLATE Durchgeführt %1$d Zeit in diesem Jahr",
+  "task_history_desc_plural": "PLZ_TRANSLATE Durchgeführtes %1$d mal in diesem Jahr",
+  "earned": "PLZ_TRANSLATE Verdient",
+  "earned_since_start": "PLZ_TRANSLATE %1$d seit dem Start"
 }

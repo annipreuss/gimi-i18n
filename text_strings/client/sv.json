@@ -1556,5 +1556,10 @@
   "done": "Klart",
   "n_have_been_deducted_from_piggy_bank": "%1$d har dragits från spargrisen",
   "get_money_via_swish": "Få pengarna med swish",
-  "invite_with_poc": "Something sv poc"
+  "invite_with_poc": "Something sv poc",
+  "task_history_most_popular": "Populärast",
+  "task_history_desc_singular": "Utförd %1$d gång i år",
+  "task_history_desc_plural": "Utförd %1$d gånger i år",
+  "earned": "Tjänat",
+  "earned_since_start": "%1$d sedan start"
 }

@@ -1555,5 +1555,10 @@
   "done": "PLZ_TRANSLATE Gert",
   "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d hefur verið dregin frá grís bankanum",
   "get_money_via_swish": "PLZ_TRANSLATE Fá peningana í gegnum Swish",
-  "invite_with_poc": "PLZ_TRANSLATE Lítil eldsvoða"
+  "invite_with_poc": "PLZ_TRANSLATE Lítil eldsvoða",
+  "task_history_most_popular": "PLZ_TRANSLATE Vinsælast",
+  "task_history_desc_singular": "PLZ_TRANSLATE Framkvæma %1$d tíma á þessu ári",
+  "task_history_desc_plural": "PLZ_TRANSLATE Framkvæma %1$d sinnum á þessu ári",
+  "earned": "PLZ_TRANSLATE Aflað",
+  "earned_since_start": "PLZ_TRANSLATE %1$d frá upphafi"
 }

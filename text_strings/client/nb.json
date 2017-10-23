@@ -1555,5 +1555,10 @@
   "done": "Ferdig",
   "n_have_been_deducted_from_piggy_bank": "%1$d har blitt trukket fra sparegrisen",
   "get_money_via_swish": "Få pengene via Swish",
-  "invite_with_poc": "PLZ_TRANSLATE Liten brannbase"
+  "invite_with_poc": "PLZ_TRANSLATE Liten brannbase",
+  "task_history_most_popular": "PLZ_TRANSLATE Mest populær",
+  "task_history_desc_singular": "PLZ_TRANSLATE Utført %1$d tid i år",
+  "task_history_desc_plural": "PLZ_TRANSLATE Utført %1$d ganger i år",
+  "earned": "PLZ_TRANSLATE opptjente",
+  "earned_since_start": "PLZ_TRANSLATE %1$d siden start"
 }
