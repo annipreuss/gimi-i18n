@@ -219,7 +219,7 @@
   "trans_transfer_savings_to_transactional_account": "%1$d overført penge til %2$s",
   "trans_completed_assignment_into_transactional_account": "%1$s øget grundet udført opgave.",
   "trans_completed_assignment_into_savings_account": "Sparegrisens opsparing er øget grundet en udført opgave",
-  "trans_deposit_to_savings_account": "%1$d sæt penge i sparegrisen",
+  "trans_deposit_to_savings_account": "%1$d satte penge i sparegrisen",
   "trans_deposit_to_transactional_account": "%1$d sæt penge til %2$s",
   "trans_deposit_intrest_to_savings_account": "Opsparingsbonussen har øget beløbet i sparegrisen",
   "trans_deposit_allowance_to_transactional_account": "Den kommende %1$s er blevet sat ind på din konto",
