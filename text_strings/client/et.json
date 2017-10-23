@@ -1560,5 +1560,5 @@
   "task_history_desc_singular": "PLZ_TRANSLATE Täitnud käesoleval aastal %1$d aega",
   "task_history_desc_plural": "PLZ_TRANSLATE Täitis käesoleva aasta jooksul %1$d korda",
   "earned": "PLZ_TRANSLATE Teenitud",
-  "earned_since_start": "PLZ_TRANSLATE peale %1$d"
+  "earned_since_start": "PLZ_TRANSLATE %1$d peale"
 }
