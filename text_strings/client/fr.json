@@ -1546,14 +1546,14 @@
   "trustly_flow_service2_descr": "Vous pouvez transférer jusqu à %1$d par jour sans BankID. Cela ne peut être fait qu'avec des comptes connectés.",
   "amount": "Montant",
   "saved_in": "Enregistré dans",
-  "read_reviews": "PLZ_TRANSLATE Lire les avis",
-  "find_resellers": "PLZ_TRANSLATE Trouver un vendeur",
-  "search_products": "PLZ_TRANSLATE Recherche de produits",
-  "swish_payment": "PLZ_TRANSLATE Paiement Swish",
-  "swish_payment_popover_desc": "PLZ_TRANSLATE Demandez à votre parent d'analyser le code QR. Quand il's été scanné l'argent est déduit de la tirelire.",
+  "read_reviews": "Lire les avis",
+  "find_resellers": "Trouver un vendeur",
+  "search_products": "Recherche de produits",
+  "swish_payment": "Paiement Swish",
+  "swish_payment_popover_desc": "Demandez à votre parent d'analyser le code QR. Une fois scanné, l'argent sera déduit de la tirelire.",
   "code_is_scanned": "PLZ_TRANSLATE Le code est scanné!",
-  "done": "PLZ_TRANSLATE Terminé",
-  "n_have_been_deducted_from_piggy_bank": "PLZ_TRANSLATE %1$d a été déduit de la tirelire",
-  "get_money_via_swish": "PLZ_TRANSLATE Obtenez l'argent via Swish",
-  "invite_with_poc": "PLZ_TRANSLATE Petite base de feu"
+  "done": "Fin",
+  "n_have_been_deducted_from_piggy_bank": "%1$d ont été déduits de la tirelire",
+  "get_money_via_swish": "Recevez de l'argent via Swish",
+  "invite_with_poc": "PLZ_CHECK Petite base de feu"
 }
