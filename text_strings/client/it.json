@@ -1560,5 +1560,5 @@
   "task_history_desc_singular": "PLZ_TRANSLATE Eseguito %1$d questPLZ_TRANSLATEanno",
   "task_history_desc_plural": "PLZ_TRANSLATE Esegui %1$d volte questPLZ_TRANSLATEanno",
   "earned": "PLZ_TRANSLATE Guadagnato",
-  "earned_since_start": "PLZ_TRANSLATE %1$d dall&#39;inizio"
+  "earned_since_start": "PLZ_TRANSLATE %1$d dallPLZ_TRANSLATEinizio"
 }
