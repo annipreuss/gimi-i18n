@@ -223,5 +223,7 @@
   "goal_template_title_clothes": "Vêtements",
   "goal_template_title_makeup": "Composer",
   "goal_template_title_trip": "Voyager",
-  "goal_template_title_riding_equipment": "Articles pour l'équitation"
+  "goal_template_title_riding_equipment": "Articles pour l'équitation",
+  "task_group_name_perhour": "PLZ_TRANSLATE Par heure",
+  "task_group_description_perhour": "PLZ_TRANSLATE Des tâches amusantes qui paient par heure"
 }

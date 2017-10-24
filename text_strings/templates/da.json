@@ -223,5 +223,7 @@
   "goal_template_title_clothes": "Tøj",
   "goal_template_title_makeup": "Sminke",
   "goal_template_title_trip": "Rejse",
-  "goal_template_title_riding_equipment": "Rideudstyr"
+  "goal_template_title_riding_equipment": "Rideudstyr",
+  "task_group_name_perhour": "PLZ_TRANSLATE Pr. Time",
+  "task_group_description_perhour": "PLZ_TRANSLATE Sjove opgaver, der betaler per time"
 }

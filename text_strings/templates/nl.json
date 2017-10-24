@@ -223,5 +223,7 @@
   "goal_template_title_clothes": "Kleren",
   "goal_template_title_makeup": "Makeup",
   "goal_template_title_trip": "Een reis",
-  "goal_template_title_riding_equipment": "Rij uitrusting"
+  "goal_template_title_riding_equipment": "Rij uitrusting",
+  "task_group_name_perhour": "PLZ_TRANSLATE Per uur",
+  "task_group_description_perhour": "PLZ_TRANSLATE Leuke taken die per uur betalen"
 }

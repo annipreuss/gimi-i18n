@@ -223,5 +223,7 @@
   "goal_template_title_clothes": "Klamotten",
   "goal_template_title_makeup": "Make-up",
   "goal_template_title_trip": "Einen Ausflug",
-  "goal_template_title_riding_equipment": "Reitausrüstung"
+  "goal_template_title_riding_equipment": "Reitausrüstung",
+  "task_group_name_perhour": "PLZ_TRANSLATE Pro Stunde",
+  "task_group_description_perhour": "PLZ_TRANSLATE Spaß Aufgaben, die pro Stunde zahlen"
 }
