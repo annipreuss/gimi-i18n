@@ -225,5 +225,15 @@
   "goal_template_title_trip": "Een reis",
   "goal_template_title_riding_equipment": "Rij uitrusting",
   "task_group_name_perhour": "PLZ_TRANSLATE Per uur",
-  "task_group_description_perhour": "PLZ_TRANSLATE Leuke taken die per uur betalen"
+  "task_group_description_perhour": "PLZ_TRANSLATE Leuke taken die per uur betalen",
+  "task_name_babysit": "PLZ_TRANSLATE Babysitten",
+  "task_description_babysit": "PLZ_TRANSLATE -",
+  "task_name_read": "PLZ_TRANSLATE Lees een boek",
+  "task_description_read": "PLZ_TRANSLATE Lees zoveel pagina's als u kunt in een boek",
+  "task_name_wardrobe": "PLZ_TRANSLATE Bereid je garderobe voor de winter",
+  "task_description_wardrobe": "PLZ_TRANSLATE Pak de winterkleren op en sla de zomerkleren op",
+  "task_name_dogsitter": "PLZ_TRANSLATE Dogsit",
+  "task_description_dogsitter": "PLZ_TRANSLATE Zorg voor een hond",
+  "task_name_homework_help": "PLZ_TRANSLATE Huiswerkhulp",
+  "task_description_homework_help": "PLZ_TRANSLATE Help je broers en zussen met hun huiswerk"
 }
