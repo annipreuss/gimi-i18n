@@ -43,5 +43,6 @@ export default {
   'SGD': 0.16,
   'CHF': 0.12,
   'ISK': 12.68,
-  'THB': 0.24
+  'THB': 0.24,
+  'COP': 359.94
 }
