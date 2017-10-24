@@ -227,7 +227,7 @@
   "task_group_name_perhour": "PLZ_TRANSLATE Tunnissa",
   "task_group_description_perhour": "PLZ_TRANSLATE Hauskoja tehtäviä, jotka maksavat tunnissa",
   "task_name_babysit": "PLZ_TRANSLATE lapsenvahtina",
-  "task_description_babysit": "PLZ_TRANSLATE -",
+  "task_description_babysit": "",
   "task_name_read": "PLZ_TRANSLATE Lue kirja",
   "task_description_read": "PLZ_TRANSLATE Lue niin monta sivua kuin voitte kirjan",
   "task_name_wardrobe": "PLZ_TRANSLATE Valmista vaatekaappi talvella",

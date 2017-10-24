@@ -227,7 +227,7 @@
   "task_group_name_perhour": "Per timme",
   "task_group_description_perhour": "Roliga uppgifter som ger betalt per timme",
   "task_name_babysit": "Var barnvakt",
-  "task_description_babysit": "-",
+  "task_description_babysit": "",
   "task_name_read": "Läs en bok",
   "task_description_read": "Läs så många sidor du hinner i en bok",
   "task_name_wardrobe": "Fixa vintergarderoben",

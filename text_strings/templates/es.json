@@ -227,7 +227,7 @@
   "task_group_name_perhour": "PLZ_TRANSLATE Por hora",
   "task_group_description_perhour": "PLZ_TRANSLATE Tareas divertidas que pagan por hora",
   "task_name_babysit": "PLZ_TRANSLATE Cuidar a los niños",
-  "task_description_babysit": "PLZ_TRANSLATE -",
+  "task_description_babysit": "",
   "task_name_read": "PLZ_TRANSLATE Lee un libro",
   "task_description_read": "PLZ_TRANSLATE Lee tantas páginas como puedas en un libro",
   "task_name_wardrobe": "PLZ_TRANSLATE Prepara tu armario para el invierno",

@@ -227,7 +227,7 @@
   "task_group_name_perhour": "PLZ_TRANSLATE Tunnis",
   "task_group_description_perhour": "PLZ_TRANSLATE Lõbusad ülesanded, mis maksavad tunnis",
   "task_name_babysit": "PLZ_TRANSLATE Babysit",
-  "task_description_babysit": "PLZ_TRANSLATE -",
+  "task_description_babysit": "",
   "task_name_read": "PLZ_TRANSLATE Raamatut lugema",
   "task_description_read": "PLZ_TRANSLATE Raamatus saate lugeda nii palju lehti kui võimalik",
   "task_name_wardrobe": "PLZ_TRANSLATE Valmistage oma garderoob talveks",

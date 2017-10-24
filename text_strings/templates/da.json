@@ -227,7 +227,7 @@
   "task_group_name_perhour": "PLZ_TRANSLATE Per time",
   "task_group_description_perhour": "PLZ_TRANSLATE Sjove opgaver, der betaler per time",
   "task_name_babysit": "PLZ_TRANSLATE babysitte",
-  "task_description_babysit": "PLZ_TRANSLATE -",
+  "task_description_babysit": "",
   "task_name_read": "PLZ_TRANSLATE Læs en bog",
   "task_description_read": "PLZ_TRANSLATE Læs så mange sider som muligt i en bog",
   "task_name_wardrobe": "PLZ_TRANSLATE Forbered din garderobe til vinteren",
