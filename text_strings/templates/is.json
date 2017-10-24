@@ -227,7 +227,7 @@
   "task_group_name_perhour": "PLZ_TRANSLATE Á klukkustund",
   "task_group_description_perhour": "PLZ_TRANSLATE Gaman verkefni sem borga á klukkustund",
   "task_name_babysit": "PLZ_TRANSLATE Barnapössun",
-  "task_description_babysit": "",
+  "task_description_babysit": " ",
   "task_name_read": "PLZ_TRANSLATE Lesa bók",
   "task_description_read": "PLZ_TRANSLATE Lestu eins marga síður og þú getur í bók",
   "task_name_wardrobe": "PLZ_TRANSLATE Undirbúið fataskápinn þinn fyrir veturinn",

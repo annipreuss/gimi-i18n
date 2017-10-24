@@ -227,7 +227,7 @@
   "task_group_name_perhour": "Per hour",
   "task_group_description_perhour": "Fun tasks that pay per hour",
   "task_name_babysit": "Babysit",
-  "task_description_babysit": "",
+  "task_description_babysit": " ",
   "task_name_read": "Read a book",
   "task_description_read": "Read as many pages as you can in a book",
   "task_name_wardrobe": "Prepare your wardrobe for winter",
