@@ -990,7 +990,7 @@
   "is_being_payed_to_bank_account": "À verser dans le compte",
   "payed_to_bank_account": "Versé dans le compte",
   "task_needs_approval": "Cette tâche a été proposée par %1$d. Si vous voulez, vous pouvez la répartir ou bien la supprimer.",
-  "task_needs_approval_child": "Cette tâche doit être approuvée par un parent avant de pouvoir être validée.",
+  "task_needs_approval_child": "Cette tâche doit être approuvée par un parent avant de pouvoir être terminée.",
   "days_until_trustly_payment_text_parent": "%1$d jours restants jusqu'au transfert de l'argent sur les %2$d Comptes bancaires d",
   "days_until_trustly_payment_text_child": "%1$d jours restants jusqu'au transfert de l'argent sur votre compte bancaire",
   "change_allowance_trustly_error_header": "Transfert en attente!",
