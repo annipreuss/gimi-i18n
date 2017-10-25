@@ -1044,7 +1044,7 @@
   "transaction_reverted": "Operation Annulée: %1$d",
   "reciept_regret_transaction_title": "Annuler le transfert?",
   "reciept_regret_transaction_desc": "Voulez-vous annuler votre transfert en effectuant un transfert similaire \"autrement\"?",
-  "task_editor_created_at": "Créé %1$d",
+  "task_editor_created_at": "Créée %1$d",
   "popover_button_notification_remind": "Rappel %1$d",
   "task_history_hand_out_task": "Répartir la tâche",
   "popover_trustly_warning_title": "Transfert de plus de %1$d",
