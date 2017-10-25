@@ -274,7 +274,7 @@
   "trustly_big_info_text_2": "Vous pouvez facilement suivre tous les transferts sous l'onglet\"Transferts\" dans votre page d'accueil.",
   "your_trustly_account": "Votre compte bancaire",
   "childs_trustly_account": "%1$d compte bancaire",
-  "popover_new_make_withdrawal_child": "Nouvel paiement de la part d'un parent",
+  "popover_new_make_withdrawal_child": "Nouveau paiement de la part d'un parent",
   "listview_footer_get_more": "Montrer plus",
   "trans_allowance_to_external_account": "%1$d a été transféré au compte bancaire de %2$d",
   "todays_bonus": "Le bonus d'aujourd'hui était <b>%1$d</b>",
