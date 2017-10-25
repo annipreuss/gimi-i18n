@@ -418,7 +418,7 @@
   "parent_settings_terms": "Condizioni e termini d’uso ",
   "parent_settings_locale_language": "Lingua",
   "parent_settings_locale_time": "Fuso orario",
-  "child_settings_locale_currency": "Moneta",
+  "child_settings_locale_currency": "Valuta",
   "child_settings_age": "Età",
   "child_settings_connections": "Connessioni %1$d ",
   "childs_settings_headline_money": "Soldi %1$d ",
