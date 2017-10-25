@@ -1285,7 +1285,7 @@
   "approve_task_popover_desc": "%1$d finished %2$d",
   "reward_collected": "Reward collected",
   "task_approved_desc": "%1$d was approved and you have collected %2$d in the piggy bank!",
-  "edit_boost_title": "Whip or carrot?",
+  "edit_boost_title": "Carrot or stick?",
   "edit_boost_subtitle": "Help %1$d by boosting at milestones. However, it is not just hallelujah, an achieved boost is lost if %1$d goes below a milestone again",
   "edit_boost_input_title": "Boost at every milestone",
   "edit_boost_description": "<b>%1$d</b> is added when %2$d passes any of the 9 milestones. This means that %2$d only needs to save %3$d out of %4$d",
