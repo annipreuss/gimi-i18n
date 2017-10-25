@@ -200,7 +200,7 @@
   "invite_error_title": "Problemi con l’invito",
   "invite_error_text": "Invito rifiutato. Richiedere un altro invito.",
   "account_popover_title": "Il mio account",
-  "account_popover_text": "Sei collegato in quanto <b>%1$s</b>",
+  "account_popover_text": "PLZ_TRANSLATE Sei connesso come <b>%1$d</b>",
   "account_popover_text_parent": "genitore",
   "account_popover_text_child": "bambino",
   "account_popover_action_remove": "Elimina account",

@@ -200,7 +200,7 @@
   "invite_error_title": "Virhe kutsun lähettämisessä",
   "invite_error_text": "Kutsua ei voida aktivoida. Sinulle pitää lähettää uusi kutsu.",
   "account_popover_title": "Oma tilini",
-  "account_popover_text": "Olet kirjautunut nimellä <b>%1$s</b>",
+  "account_popover_text": "PLZ_TRANSLATE Olet kirjautunut sisään <b>%1$d</b>",
   "account_popover_text_parent": "vanhempi",
   "account_popover_text_child": "lapsi",
   "account_popover_action_remove": "Poista tili",

@@ -200,7 +200,7 @@
   "invite_error_title": "Problèmes avec une invitation",
   "invite_error_text": "Je ne peux pas accepter d'invitations. Veuillez envoyer une autre invitation.",
   "account_popover_title": "Mon compte",
-  "account_popover_text": "Vous êtes connectés en tant que <b>%1$s</b>",
+  "account_popover_text": "PLZ_TRANSLATE Vous êtes connecté en tant que <b>%1$d</b>",
   "account_popover_text_parent": "parent",
   "account_popover_text_child": "enfant",
   "account_popover_action_remove": "Supprimer compte",

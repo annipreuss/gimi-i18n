@@ -200,7 +200,7 @@
   "invite_error_title": "Fel vid inbjudan",
   "invite_error_text": "Kan inte aktivera inbjudan. Du behöver få en ny inbjudan skickad till dig.",
   "account_popover_title": "Mitt konto",
-  "account_popover_text": "Du är inloggad som <b>%1$s</b>",
+  "account_popover_text": "Du är inloggad som <b>%1$d</b>",
   "account_popover_text_parent": "förälder",
   "account_popover_text_child": "barn",
   "account_popover_action_remove": "Radera konto",

@@ -200,7 +200,7 @@
   "invite_error_title": "Fejl med en indbydelse",
   "invite_error_text": "Kan ikke godkende indbydelsen. Anmod venligst om en ny indbydelse.",
   "account_popover_title": "Min konto",
-  "account_popover_text": "Du er logget ind som <b>%1$s</b>",
+  "account_popover_text": "PLZ_TRANSLATE Du er logget ind som <b>%1$d</b>",
   "account_popover_text_parent": "Forælder",
   "account_popover_text_child": "Barn",
   "account_popover_action_remove": "Slet konto",

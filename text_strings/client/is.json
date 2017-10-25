@@ -200,7 +200,7 @@
   "invite_error_title": "Villa í boðinu",
   "invite_error_text": "get ekki virkt boðið.þú þarft að fá nýtt boð sent til þín.",
   "account_popover_title": "Reikningurinn minn",
-  "account_popover_text": "Þú ert tengdur sem <b>%1$s</b>",
+  "account_popover_text": "PLZ_TRANSLATE Þú ert skráður inn sem <b>%1$d</b>",
   "account_popover_text_parent": "foreldri",
   "account_popover_text_child": "barn",
   "account_popover_action_remove": "eyða reikning",

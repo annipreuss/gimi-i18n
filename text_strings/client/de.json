@@ -200,7 +200,7 @@
   "invite_error_title": "Probleme mit der Einladung",
   "invite_error_text": "Ich kann die Einladung nicht akzeptieren. Bitte schicke mir eine neue Einladung.",
   "account_popover_title": "Mein Account",
-  "account_popover_text": "Du bist eingeloggt als <b>%1$s</b>",
+  "account_popover_text": "PLZ_TRANSLATE Sie sind als <b>%1$d</b> angemeldet",
   "account_popover_text_parent": "Elternteil",
   "account_popover_text_child": "Kind",
   "account_popover_action_remove": "Account löschen",

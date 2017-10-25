@@ -200,7 +200,7 @@
   "invite_error_title": "Problemen met de uitnodiging",
   "invite_error_text": "Kan de uitnodiging niet accpeteren. Stuur opnieuw een uitnodiging",
   "account_popover_title": "Mijn profiel",
-  "account_popover_text": "Je bent aangemeld als <b>%1$s</b>",
+  "account_popover_text": "PLZ_TRANSLATE Je bent ingelogd als <b>%1$d</b>",
   "account_popover_text_parent": "ouder",
   "account_popover_text_child": "kind",
   "account_popover_action_remove": "Verwijder",

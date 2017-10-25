@@ -200,7 +200,7 @@
   "invite_error_title": "PLZ_TRANSLATE Problems with an invitation",
   "invite_error_text": "PLZ_TRANSLATE Can't accept invitation. Please request another invitation.",
   "account_popover_title": "PLZ_TRANSLATE My account",
-  "account_popover_text": "PLZ_TRANSLATE You are logged in as <b>%1$s</b>",
+  "account_popover_text": "PLZ_TRANSLATE Вы ўвайшлі як <b>%1$d</b>",
   "account_popover_text_parent": "PLZ_TRANSLATE parent",
   "account_popover_text_child": "PLZ_TRANSLATE child",
   "account_popover_action_remove": "PLZ_TRANSLATE Delete account",

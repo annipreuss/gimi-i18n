@@ -200,7 +200,7 @@
   "invite_error_title": "Problems with an invitation",
   "invite_error_text": "Can't accept invitation. Please request another invitation.",
   "account_popover_title": "My account",
-  "account_popover_text": "You are logged in as <b>%1$s</b>",
+  "account_popover_text": "You are logged in as <b>%1$d</b>",
   "account_popover_text_parent": "parent",
   "account_popover_text_child": "child",
   "account_popover_action_remove": "Delete account",

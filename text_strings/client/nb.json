@@ -200,7 +200,7 @@
   "invite_error_title": "Feil under invitasjon",
   "invite_error_text": "Kan ikke aktivere invitasjonen. Du må få en ny invitasjon sendt til deg.",
   "account_popover_title": "Min konto",
-  "account_popover_text": "Du er logget inn som <b>%1$s</b>",
+  "account_popover_text": "PLZ_TRANSLATE Du er logget inn som <b>%1$d</b>",
   "account_popover_text_parent": "forelder",
   "account_popover_text_child": "barn",
   "account_popover_action_remove": "Slett konto",
