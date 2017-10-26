@@ -1559,6 +1559,6 @@
   "task_history_most_popular": "Más popular",
   "task_history_desc_singular": "Realizado %1$d tiempo este año",
   "task_history_desc_plural": "Realizado %1$d veces este año",
-  "earned": "PLZ_TRANSLATE Ganado",
+  "earned": "Ganado",
   "earned_since_start": "%1$d desde el inicio"
 }
