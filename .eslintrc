@@ -21,6 +21,7 @@
     "ErrorUtils" : false
   },
     "rules": {
+      "header/header": "off",
       "import/first":0,
       "import/no-webpack-loader-syntax":0
     },
