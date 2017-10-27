@@ -1168,7 +1168,7 @@
   "task_type_duration": "Por hora",
   "default_reward_account": "Cuenta de premio",
   "child_settings_allowance_monthly_on": "%1$d en el %2$d",
-  "goal_blank_item_text": "¿Es hora de un nueva meta de ahorro?",
+  "goal_blank_item_text": "¿Es hora de una nueva meta de ahorro?",
   "task_header_singular_parent": "%1$d tiene %2$d tarea y puede ganar %3$d",
   "task_header_singular_child": "Tienes %1$d tarea y puedes ganar %2$d",
   "task_header_multi_parent": "%1$d tiene %2$d tareas y puede ganar %3$d",
