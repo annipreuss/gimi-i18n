@@ -1557,7 +1557,7 @@
   "get_money_via_swish": "Obtén el dinero a través de Swish",
   "invite_with_poc": "PLZ_TRANSLATE Firebase poco",
   "task_history_most_popular": "Más popular",
-  "task_history_desc_singular": "Realizado %1$d tiempo este año",
+  "task_history_desc_singular": "Realizado %1$d vez este año",
   "task_history_desc_plural": "Realizado %1$d veces este año",
   "earned": "Ganado",
   "earned_since_start": "%1$d desde el inicio"
