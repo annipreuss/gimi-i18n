@@ -86,7 +86,7 @@ it('should be able to validate tag', () => {
   expect(validateHTMLTag('<b>iodfoi</b>')).toEqual(true)
 })
 
-var validateHTMLTag = (testString):boolean => {
+var validateHTMLTag = (testString): boolean => {
   var htmlTagPairs = [
     ['<b>', '</b>'],
     ['<boldGreen>', '</boldGreen>'],

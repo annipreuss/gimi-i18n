@@ -6,7 +6,7 @@ var allConfigs = []
 jest.disableAutomock()
 
 expect.extend({
-  toHaveSameLength (received:*, argument:*, location:*):* {
+  toHaveSameLength (received: *, argument: *, location: *): * {
     const pass = Object.keys(getCurrencyConfig(received)).length === argument
     if (pass) {
       return {
@@ -24,7 +24,7 @@ expect.extend({
 
 var supportedCurrencies = ['SEK', 'USD', 'AUD', 'CAD', 'GBP', 'INR', 'EUR', 'NZD']
 
-let getAllConfigFiles = ():Array<Object> => {
+let getAllConfigFiles = (): Array<Object> => {
   configs = fs.readdirSync('./config/')
   configs.forEach(file => {
     file = file.split('config_')[1]
