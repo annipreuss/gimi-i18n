@@ -1560,5 +1560,7 @@
   "task_history_desc_singular": "PLZ_TRANSLATE Framkvæma %1$d tíma á þessu ári",
   "task_history_desc_plural": "PLZ_TRANSLATE Framkvæma %1$d sinnum á þessu ári",
   "earned": "PLZ_TRANSLATE Aflað",
-  "earned_since_start": "PLZ_TRANSLATE %1$d frá upphafi"
+  "earned_since_start": "PLZ_TRANSLATE %1$d frá upphafi",
+  "onboarding_feature_item_header": "PLZ_TRANSLATE Hvernig virkar Gimi?",
+  "onboarding_feature_item_desc": "PLZ_TRANSLATE Taka ferð"
 }

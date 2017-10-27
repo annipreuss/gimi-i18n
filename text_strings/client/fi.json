@@ -1560,5 +1560,7 @@
   "task_history_desc_singular": "PLZ_TRANSLATE Suoritettu %1$d aika tänä vuonna",
   "task_history_desc_plural": "PLZ_TRANSLATE Suoritettu %1$d kertaa tänä vuonna",
   "earned": "PLZ_TRANSLATE Ansaittu",
-  "earned_since_start": "PLZ_TRANSLATE %1$d alkamisen jälkeen"
+  "earned_since_start": "PLZ_TRANSLATE %1$d alkamisen jälkeen",
+  "onboarding_feature_item_header": "PLZ_TRANSLATE Miten Gimi toimii?",
+  "onboarding_feature_item_desc": "PLZ_TRANSLATE Ota kiertue"
 }

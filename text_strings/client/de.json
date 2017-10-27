@@ -1560,5 +1560,7 @@
   "task_history_desc_singular": "PLZ_TRANSLATE Durchgeführt %1$d Zeit in diesem Jahr",
   "task_history_desc_plural": "PLZ_TRANSLATE Durchgeführtes %1$d mal in diesem Jahr",
   "earned": "PLZ_TRANSLATE Verdient",
-  "earned_since_start": "PLZ_TRANSLATE %1$d seit dem Start"
+  "earned_since_start": "PLZ_TRANSLATE %1$d seit dem Start",
+  "onboarding_feature_item_header": "PLZ_TRANSLATE Wie funktioniert Gimi?",
+  "onboarding_feature_item_desc": "PLZ_TRANSLATE Mach eine Tour"
 }

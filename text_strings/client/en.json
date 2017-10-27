@@ -1560,5 +1560,7 @@
   "task_history_desc_singular": "Performed %1$d time this year",
   "task_history_desc_plural": "Performed %1$d times this year",
   "earned": "Earned",
-  "earned_since_start": "%1$d since start"
+  "earned_since_start": "%1$d since start",
+  "onboarding_feature_item_header": "How does Gimi work?",
+  "onboarding_feature_item_desc": "Take the tour"
 }

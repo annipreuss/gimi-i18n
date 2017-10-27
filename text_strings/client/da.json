@@ -1560,5 +1560,7 @@
   "task_history_desc_singular": "PLZ_TRANSLATE Udført %1$d tid i år",
   "task_history_desc_plural": "PLZ_TRANSLATE Udført %1$d gange i år",
   "earned": "PLZ_TRANSLATE optjent",
-  "earned_since_start": "PLZ_TRANSLATE %1$d siden start"
+  "earned_since_start": "PLZ_TRANSLATE %1$d siden start",
+  "onboarding_feature_item_header": "PLZ_TRANSLATE Hvordan virker Gimi?",
+  "onboarding_feature_item_desc": "PLZ_TRANSLATE Tag en tur"
 }

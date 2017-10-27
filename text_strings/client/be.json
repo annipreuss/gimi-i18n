@@ -1560,5 +1560,7 @@
   "task_history_desc_singular": "PLZ_TRANSLATE Выкананы %1$d раз у гэтым годзе",
   "task_history_desc_plural": "PLZ_TRANSLATE Якія выконваюцца %1$d раз у гэтым годзе",
   "earned": "PLZ_TRANSLATE зароблены",
-  "earned_since_start": "PLZ_TRANSLATE %1$d з пачатку"
+  "earned_since_start": "PLZ_TRANSLATE %1$d з пачатку",
+  "onboarding_feature_item_header": "PLZ_TRANSLATE Як Gimi?",
+  "onboarding_feature_item_desc": "PLZ_TRANSLATE здайце"
 }

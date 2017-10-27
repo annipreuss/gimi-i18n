@@ -1560,5 +1560,7 @@
   "task_history_desc_singular": "PLZ_TRANSLATE Gedurende %1$d keer dit jaar",
   "task_history_desc_plural": "PLZ_TRANSLATE Gedurende dit jaar is %1$d",
   "earned": "PLZ_TRANSLATE verdiende",
-  "earned_since_start": "PLZ_TRANSLATE %1$d sinds start"
+  "earned_since_start": "PLZ_TRANSLATE %1$d sinds start",
+  "onboarding_feature_item_header": "PLZ_TRANSLATE Hoe werkt Gimi?",
+  "onboarding_feature_item_desc": "PLZ_TRANSLATE Neem een ​​rondleiding"
 }

@@ -1560,5 +1560,7 @@
   "task_history_desc_singular": "Realizado %1$d vez este año",
   "task_history_desc_plural": "Realizado %1$d veces este año",
   "earned": "Ganado",
-  "earned_since_start": "%1$d desde el inicio"
+  "earned_since_start": "%1$d desde el inicio",
+  "onboarding_feature_item_header": "PLZ_TRANSLATE ¿Cómo trabaja Gimi?",
+  "onboarding_feature_item_desc": "PLZ_TRANSLATE Haga un recorrido"
 }

@@ -1560,5 +1560,7 @@
   "task_history_desc_singular": "PLZ_TRANSLATE Täitnud käesoleval aastal %1$d aega",
   "task_history_desc_plural": "PLZ_TRANSLATE Täitis käesoleva aasta jooksul %1$d korda",
   "earned": "PLZ_TRANSLATE Teenitud",
-  "earned_since_start": "PLZ_TRANSLATE %1$d peale"
+  "earned_since_start": "PLZ_TRANSLATE %1$d peale",
+  "onboarding_feature_item_header": "PLZ_TRANSLATE Kuidas Gimi töötab?",
+  "onboarding_feature_item_desc": "PLZ_TRANSLATE Tutvuge"
 }
