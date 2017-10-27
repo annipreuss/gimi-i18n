@@ -185,19 +185,18 @@ export let SendToNonTech = (text: Array<Object>, languageCode: string) => {
   var slack = new Slack('https://hooks.slack.com/services/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')
   var attachmentPayload = [
     {
-      fallback: 'String lenght data',
-      text: 'Link to git "' + languageCode + '"  <https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/client/' + languageCode + '.json|Click here>',
-      color: 'warning', // Can either be one of 'good', 'warning', 'danger', or any hex color code
+      fallback: 'Found EMMA',
+      text: text,
+      color: 'warning' // Can either be one of 'good', 'warning', 'danger', or any hex color code
       // Fields are displayed in a table on the message
-      fields: text
     }
   ]
   slack.send({
-    text,
+    text: 'Found Emma in i18n plz fix',
     channel: '#travis-non-tech',
     username: 'I18nLangStatistics',
     icon_emoji: ':robot_face:',
-    attachments: [attachmentPayload],
+    attachments: attachmentPayload,
     unfurl_links: true,
     link_names: 1
   })
