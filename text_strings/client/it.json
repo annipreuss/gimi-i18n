@@ -489,7 +489,7 @@
   "edit_child_phone": "Qual è  il numero di telefono di %1$d?",
   "user_terms_link": "http://gimitheapp.com/terms/",
   "about_us_link": "http://gimitheapp.com/about-us/",
-  "faq_link_string": "http://gimitheapp.com/faq/",
+  "faq_link_string": "https://intercom.help/gimi/in-english",
   "connect_to_parent_not_logged_in_email_header": "Hai ricevuto un email?",
   "connect_to_parent_not_logged_in_email_text": "Vai sull’email ricevuta e clicca sul link ricevuto per associarti con un altro membro della famiglia",
   "connect_to_parent_not_logged_in_sms_header": "Hai ricevuto un SMS?",
