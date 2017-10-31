@@ -976,7 +976,7 @@
   "create_task_small_text": "Luo oma",
   "history_task_big_text": "Anna suosikkiaskareet uudestaan!",
   "history_task_small_text": "Aiemmat askareet",
-  "task_type_periodic": "Säännöllinen",
+  "task_type_weekly": "Säännöllinen",
   "task_type_timer": "Ajastettu",
   "task_type_standing": "Jatkuva",
   "task_type_non_recurring": "Yksittäinen",

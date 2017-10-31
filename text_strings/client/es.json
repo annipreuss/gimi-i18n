@@ -976,7 +976,7 @@
   "create_task_small_text": "Crea tu propio",
   "history_task_big_text": "¡Dar los favoritos otra vez!",
   "history_task_small_text": "datos anteriores",
-  "task_type_periodic": "Periódica",
+  "task_type_weekly": "Periódica",
   "task_type_timer": "Cronómetro",
   "task_type_standing": "Constante",
   "task_type_non_recurring": "Tarea desechable",

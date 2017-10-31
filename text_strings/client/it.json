@@ -976,7 +976,7 @@
   "create_task_small_text": "Crea il tuo compito personale",
   "history_task_big_text": "Distribuisci di nuovo i tuoi compiti preferiti!",
   "history_task_small_text": "Informazioni precedenti ",
-  "task_type_periodic": "Ricorrente",
+  "task_type_weekly": "Ricorrente",
   "task_type_timer": "A durata determinata",
   "task_type_standing": "Permanente",
   "task_type_non_recurring": "Non ricorrente",

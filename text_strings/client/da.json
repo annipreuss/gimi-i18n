@@ -976,7 +976,7 @@
   "create_task_small_text": "Opret din egen",
   "history_task_big_text": "Uddel favoritterne igen!",
   "history_task_small_text": "tidligere opgaver",
-  "task_type_periodic": "Gentagende",
+  "task_type_weekly": "Gentagende",
   "task_type_timer": "Timer",
   "task_type_standing": "Blivende",
   "task_type_non_recurring": "Engangs opgave",

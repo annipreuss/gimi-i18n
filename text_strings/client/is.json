@@ -976,7 +976,7 @@
   "create_task_small_text": "Búðu til þinn eigin",
   "history_task_big_text": "Gefðu út eftirlæti aftur!",
   "history_task_small_text": "fyrri gögn",
-  "task_type_periodic": "Reglubundin",
+  "task_type_weekly": "Reglubundin",
   "task_type_timer": "klukkustundir",
   "task_type_standing": "Portrait",
   "task_type_non_recurring": "einnota Task",

@@ -976,7 +976,7 @@
   "create_task_small_text": "PLZ_TRANSLATE Create Your own",
   "history_task_big_text": "PLZ_TRANSLATE Give out the favorites again!",
   "history_task_small_text": "PLZ_TRANSLATE previous data",
-  "task_type_periodic": "PLZ_TRANSLATE Recurrent",
+  "task_type_weekly": "PLZ_TRANSLATE Recurrent",
   "task_type_timer": "PLZ_TRANSLATE Timer",
   "task_type_standing": "PLZ_TRANSLATE Standing",
   "task_type_non_recurring": "PLZ_TRANSLATE Disposable chore",

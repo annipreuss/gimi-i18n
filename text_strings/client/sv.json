@@ -977,7 +977,7 @@
   "create_task_small_text": "Skapa egen",
   "history_task_big_text": "Ge ut favoriterna igen!",
   "history_task_small_text": "Tidigare uppgifter",
-  "task_type_periodic": "Återkommande",
+  "task_type_weekly": "Återkommande",
   "task_type_timer": "Timer",
   "task_type_standing": "Stående",
   "task_type_non_recurring": "Engångsuppgift",

@@ -976,7 +976,7 @@
   "create_task_small_text": "Customise a chore",
   "history_task_big_text": "Choose from your favourite chores!",
   "history_task_small_text": "Previous chores",
-  "task_type_periodic": "Weekly",
+  "task_type_weekly": "Weekly",
   "task_type_timer": "Timed",
   "task_type_standing": "Regular",
   "task_type_non_recurring": "One-off",

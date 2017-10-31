@@ -976,7 +976,7 @@
   "create_task_small_text": "Maak een taak",
   "history_task_big_text": "Geef de favorieten weer!",
   "history_task_small_text": "Vorige resultaten",
-  "task_type_periodic": "Per periode",
+  "task_type_weekly": "Per periode",
   "task_type_timer": "Binnen aantal uur",
   "task_type_standing": "Vast",
   "task_type_non_recurring": "Eenmalig",

@@ -976,7 +976,7 @@
   "create_task_small_text": "Erstelle Deine Eigene",
   "history_task_big_text": "Gib Deine Favoriten erneut aus!",
   "history_task_small_text": "Frühere Daten",
-  "task_type_periodic": "Sich wiederholend",
+  "task_type_weekly": "Sich wiederholend",
   "task_type_timer": "Timer",
   "task_type_standing": "Status",
   "task_type_non_recurring": "Verfügbare Aufgabe",

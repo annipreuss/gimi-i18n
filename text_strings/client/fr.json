@@ -976,7 +976,7 @@
   "create_task_small_text": "Créez la vôtre",
   "history_task_big_text": "Répartissez vos tâches favorites à nouveau!",
   "history_task_small_text": "données précédentes",
-  "task_type_periodic": "Périodique",
+  "task_type_weekly": "Périodique",
   "task_type_timer": "A durée déterminée ",
   "task_type_standing": "Permanente",
   "task_type_non_recurring": "Tâche à exécution unique",

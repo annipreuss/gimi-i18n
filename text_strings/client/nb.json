@@ -976,7 +976,7 @@
   "create_task_small_text": "Lag din egen",
   "history_task_big_text": "Gi ut favorittene igjen!",
   "history_task_small_text": "tidligere data",
-  "task_type_periodic": "Periodiske",
+  "task_type_weekly": "Periodiske",
   "task_type_timer": "Timer",
   "task_type_standing": "Stående",
   "task_type_non_recurring": "engangs Task",
