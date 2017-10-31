@@ -1562,5 +1562,9 @@
   "earned": "Earned",
   "earned_since_start": "%1$d since start",
   "onboarding_feature_item_header": "How does Gimi work?",
-  "onboarding_feature_item_desc": "Take the tour"
+  "onboarding_feature_item_desc": "Take the tour",
+  "event_allowance_transfer_weekly": "Weekly money on %1$d has been placed in the piggy bank",
+  "event_allowance_transfer_weekly_trustly": "Weekly allowance %1$d has been paid to bank account",
+  "event_allowance_transfer_monthly": "Monthly allowance %1$d has been added to the piggy bank",
+  "event_allowance_transfer_monthly_trustly": "Monthly allowance %1$d has been paid to bank account",
 }

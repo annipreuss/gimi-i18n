@@ -1562,5 +1562,9 @@
   "earned": "PLZ_TRANSLATE optjent",
   "earned_since_start": "PLZ_TRANSLATE %1$d siden start",
   "onboarding_feature_item_header": "PLZ_TRANSLATE Hvordan virker Gimi?",
-  "onboarding_feature_item_desc": "PLZ_TRANSLATE Tag en tur"
+  "onboarding_feature_item_desc": "PLZ_TRANSLATE Tag en tur",
+  "event_allowance_transfer_weekly": "Ugentlige lommepengepenge på %1$d er overført til sparegrisen",
+  "event_allowance_transfer_weekly_trustly": "Ugentlig udbetaling på %1$d er blevet udbetalt til din bankkonto",
+  "event_allowance_transfer_monthly": "Månedlige lommepengepenge på %1$d er blevet overført til spargrisen",
+  "event_allowance_transfer_monthly_trustly": "Månedlig udbetaling på %1$d er blevet udbetalt til bankkonto"
 }

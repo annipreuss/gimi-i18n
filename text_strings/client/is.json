@@ -1562,5 +1562,9 @@
   "earned": "PLZ_TRANSLATE Aflað",
   "earned_since_start": "PLZ_TRANSLATE %1$d frá upphafi",
   "onboarding_feature_item_header": "PLZ_TRANSLATE Hvernig virkar Gimi?",
-  "onboarding_feature_item_desc": "PLZ_TRANSLATE Taka ferð"
+  "onboarding_feature_item_desc": "PLZ_TRANSLATE Taka ferð",
+  "event_allowance_transfer_weekly": "PLZ_TRANSLATE Vikuleg peningar á %1$d hafa verið settar í grísabankann",
+  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Vikuleg greiðslu á %1$d hefur verið greiddur á bankareikning",
+  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Mánaðarleg peninga á %1$d hefur verið bætt við grís bankann",
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Mánaðarleg greiðsla á %1$d hefur verið greidd á bankareikning"
 }

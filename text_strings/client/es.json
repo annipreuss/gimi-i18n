@@ -1562,5 +1562,9 @@
   "earned": "Ganado",
   "earned_since_start": "%1$d desde el inicio",
   "onboarding_feature_item_header": "PLZ_TRANSLATE ¿Cómo trabaja Gimi?",
-  "onboarding_feature_item_desc": "PLZ_TRANSLATE Haga un recorrido"
+  "onboarding_feature_item_desc": "PLZ_TRANSLATE Haga un recorrido",
+  "event_allowance_transfer_weekly": "El dinero semanal en %1$d se ha colocado en la hucha",
+  "event_allowance_transfer_weekly_trustly": "El pago semanal en %1$d se hizo a la cuenta bancaria",
+  "event_allowance_transfer_monthly": "El dinero mensual en %1$d se ha añadido a la hucha",
+  "event_allowance_transfer_monthly_trustly": "El pago mensual en %1$d se hizo a la cuenta bancaria"
 }

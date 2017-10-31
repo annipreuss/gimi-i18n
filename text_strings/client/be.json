@@ -1562,5 +1562,9 @@
   "earned": "PLZ_TRANSLATE зароблены",
   "earned_since_start": "PLZ_TRANSLATE %1$d з пачатку",
   "onboarding_feature_item_header": "PLZ_TRANSLATE Як Gimi?",
-  "onboarding_feature_item_desc": "PLZ_TRANSLATE здайце"
+  "onboarding_feature_item_desc": "PLZ_TRANSLATE здайце",
+  "event_allowance_transfer_weekly": "PLZ_TRANSLATE Дапаможнік па %1$d было пастаўлена ў скарбонцы",
+  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE Дапаможнік па %1$d выплачваецца на банкаўскі рахунак",
+  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Штомесячная дапамога %1$d было пастаўлена ў скарбонцы",
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE Штомесячная дапамога %1$d выплачваецца на банкаўскі рахунак"
 }

@@ -1563,5 +1563,9 @@
   "earned": "Tjänat",
   "earned_since_start": "%1$d sedan start",
   "onboarding_feature_item_header": "Hur fungerar Veckopengen?",
-  "onboarding_feature_item_desc": "Ta en rundtur"
+  "onboarding_feature_item_desc": "Ta en rundtur",
+  "event_allowance_transfer_weekly": "Veckopeng på %1$d har lagts i spargrisen",
+  "event_allowance_transfer_weekly_trustly": "Veckopeng på %1$d har betalats ut till bankkonto",
+  "event_allowance_transfer_monthly": "Månadspeng på %1$d har lagts i spargrisen",
+  "event_allowance_transfer_monthly_trustly": "Månadspeng på %1$d har betalats ut till bankkonto"
 }

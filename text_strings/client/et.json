@@ -1562,5 +1562,9 @@
   "earned": "PLZ_TRANSLATE Teenitud",
   "earned_since_start": "PLZ_TRANSLATE %1$d peale",
   "onboarding_feature_item_header": "PLZ_TRANSLATE Kuidas Gimi töötab?",
-  "onboarding_feature_item_desc": "PLZ_TRANSLATE Tutvuge"
+  "onboarding_feature_item_desc": "PLZ_TRANSLATE Tutvuge",
+  "event_allowance_transfer_weekly": "PLZ_TRANSLATE Nädala raha %1$d -le on paigutatud silepangale",
+  "event_allowance_transfer_weekly_trustly": "PLZ_TRANSLATE %1$d iganädalane makse on tasutud pangakontole",
+  "event_allowance_transfer_monthly": "PLZ_TRANSLATE Sulepangale on lisatud %1$d kuu raha",
+  "event_allowance_transfer_monthly_trustly": "PLZ_TRANSLATE %1$d igakuine makse on tasutud pangakontole"
 }

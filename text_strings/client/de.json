@@ -1562,5 +1562,9 @@
   "earned": "PLZ_TRANSLATE Verdient",
   "earned_since_start": "PLZ_TRANSLATE %1$d seit dem Start",
   "onboarding_feature_item_header": "PLZ_TRANSLATE Wie funktioniert Gimi?",
-  "onboarding_feature_item_desc": "PLZ_TRANSLATE Mach eine Tour"
+  "onboarding_feature_item_desc": "PLZ_TRANSLATE Mach eine Tour",
+  "event_allowance_transfer_weekly": "Das wöchentliches Taschengeld %1$d wurde in das Sparschwein eingezahlt",
+  "event_allowance_transfer_weekly_trustly": "Das wöchentliche Taschengeld %1$d wurde auf das Bankkonto überwiesen",
+  "event_allowance_transfer_monthly": "Das monatliche Taschengeld %1$d wurde in das Sparschwein eingezahlt",
+  "event_allowance_transfer_monthly_trustly": "Das monatliche Taschengeld %1$d wurde auf das Bankkonto überwiesen"
 }

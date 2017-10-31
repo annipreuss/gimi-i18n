@@ -1562,5 +1562,9 @@
   "earned": "PLZ_TRANSLATE Ansaittu",
   "earned_since_start": "PLZ_TRANSLATE %1$d alkamisen jälkeen",
   "onboarding_feature_item_header": "PLZ_TRANSLATE Miten Gimi toimii?",
-  "onboarding_feature_item_desc": "PLZ_TRANSLATE Ota kiertue"
+  "onboarding_feature_item_desc": "PLZ_TRANSLATE Ota kiertue",
+  "event_allowance_transfer_weekly": "Viikkoraha %1$d on talletettu säästöpossuun",
+  "event_allowance_transfer_weekly_trustly": "Viikkoraha %1$d on maksettu pankkitilille",
+  "event_allowance_transfer_monthly": "Kuukausiraha %1$d on talletettu säästöpossuun",
+  "event_allowance_transfer_monthly_trustly": "Kuukausiraha %1$d on maksettu pankkitilille"
 }

@@ -1562,5 +1562,9 @@
   "earned": "PLZ_TRANSLATE opptjente",
   "earned_since_start": "PLZ_TRANSLATE %1$d siden start",
   "onboarding_feature_item_header": "PLZ_TRANSLATE Hvordan jobber Gimi?",
-  "onboarding_feature_item_desc": "PLZ_TRANSLATE Ta en rundtur"
+  "onboarding_feature_item_desc": "PLZ_TRANSLATE Ta en rundtur",
+  "event_allowance_transfer_weekly": "Ukentlige penger på %1$d har blitt plassert i spargrisen",
+  "event_allowance_transfer_weekly_trustly": "Ukentlig betaling på %1$d er betalt til bankkonto",
+  "event_allowance_transfer_monthly": "Månedlige penger på %1$d har blitt lagt til i spargrisen",
+  "event_allowance_transfer_monthly_trustly": "Månedlig betaling på %1$d er betalt til bankkonto"
 }
