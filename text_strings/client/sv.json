@@ -1583,7 +1583,7 @@
   "bot_compliment_task": "Schysst att du klarade uppgiften %1$d. Gillar bildbeviset! Bra jobbat!",
   "bot_question_profile_pic": "Du har inte lagt till en profilbild än. Hur ser du ut! Ge mig en selfie!!!",
   "bot_compliment_tasks_completed": "Du är stekhet! Wow! Utfört alla uppgifter denna veckan!",
-  "bot_question_latest_task": "Har du sett din senaste uppgift som är %1$d? Den kan ge dig %2$d kr. Dags att köra igång nu?",
+  "bot_question_latest_task": "Har du sett din senaste uppgift som är %1$d? Den kan ge dig %2$d. Dags att köra igång nu?",
   "bot_question_rate_app": "Vad tycker du om appen? Kan du ge ett betyg från 1-10?",
   "bot_question_goal_map": "Du har avancerat med ditt sparmål… Vill du klättra i sparkartan?",
   "bot_message_error": "Nu blev något sjukt fel",
@@ -1593,6 +1593,6 @@
   "bot_stats_next_bonus": "Nästa sparbonus kommer om %1$d dagar och är på %2$d. Såhär räknas den ut: \n%3$d * %4$d = %5$d",
   "bot_stats_next_allowance": "Du har %1$d i spargrisen och %2$d i nästa veckopeng",
   "bot_stats_next_allowance_days": "Du får nästa veckopeng om %1$d dagar",
-  "bot_stats_compare": "Visste du, pengarna i spargrisen motsvarar %1$d cheeseburgare, %2$d månader på Spotify och %3$d tröjor",
+  "bot_stats_compare": "Visste du, pengarna i spargrisen motsvarar %1$d cheeseburgare, %2$d månader på Spotify och %3$d tröjor?",
   "bot_goodbye_1": "Nu måste jag kila och räkna dina pengar! Vi ses igen imorgon!"
 }
