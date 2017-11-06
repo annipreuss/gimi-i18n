@@ -1373,7 +1373,7 @@
   "select_child": "Sélectionner un enfant",
   "select_activity": "Sélectionner une activité",
   "deduction": "Prélèvement",
-  "support_savings_goal": "Soutenir l'objectif d'épargne",
+  "support_savings_goal": "Soutenir cible d'épargne",
   "all_children": "Tous les enfants",
   "goal_popover_title_amount_reached": "%1$d fait!",
   "goal_popover_text_amount_reached": "%1$d a atteint l'objectif d'épargnes %2$d en %3$d jours. Bien joué!",

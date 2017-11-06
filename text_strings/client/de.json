@@ -1373,7 +1373,7 @@
   "select_child": "Wähle ein Kind aus",
   "select_activity": "Aktivität auswählen",
   "deduction": "Abzug",
-  "support_savings_goal": "Unterstützen des Sparziels",
+  "support_savings_goal": "Sparzielunterstützung",
   "all_children": "Alle Kinder",
   "goal_popover_title_amount_reached": "%1$d hat es geschafft!",
   "goal_popover_text_amount_reached": "%1$d erreichte das Sparziel %2$d in %3$d Tage. Gute Arbeit!",
