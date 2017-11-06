@@ -462,7 +462,7 @@
   "add_child_task_one": "oppgave",
   "add_child_task_multi": "oppgaver",
   "add_child_task_first": "Legg til en første oppgave!",
-  "add_child_first_tasks_headline": "Hva er de første oppgavene til %1$d?",
+  "add_child_first_tasks_headline": "Hva er %1$d første oppgaver?",
   "created_child_connected": "Sammenkoblet",
   "created_child_monster": "Du har skapt et barn!",
   "created_child_allowance_monthly": "%1$d den %2$d",
