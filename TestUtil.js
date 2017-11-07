@@ -3,6 +3,12 @@ import IgnoredTextStrings from './IgnoredTextStrings.json'
 import {supportedLanguageCodes} from './index.js'
 import defaultTextStrings from './text_strings/client/default.json'
 
+export let serverTextStringNames = [
+  'task_group_name', 'task_group_description',
+  'task_template_title', 'task_template_description', 'goal_group_name',
+  'goal_group_description', 'goal_template_title',
+  'goal_template_description'
+]
 export let birgittaTemplate = 'PLZ_CHECK'
 export let plzTranslateTemplate = 'PLZ_TRANSLATE'
 export let annaTranslationTag = 'ANNA'
@@ -91,6 +97,23 @@ export let checkTemplateLenght = (langs: Object, langName: string = '') => {
       }
     }
   })
+  expect(errorMessages).toEqual([])
+}
+
+export let checkTemplateRule = (langs: Object, langName: string = '') => {
+  var keys = Object.keys(langs)
+  var errorMessages = []
+
+  serverTextStringNames.forEach((serverSring) => {
+    keys.forEach((key) => {
+      if (!IgnoredTextStrings.includes(key)) {
+        if (!key.indexOf(serverSring) === -1) {
+          errorMessages.push(`Lang: '${langName}', Key: '${key}`)
+        }
+      }
+    })
+  })
+
   expect(errorMessages).toEqual([])
 }
 

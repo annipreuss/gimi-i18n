@@ -1,6 +1,6 @@
 /* eslint flow-header/flow-header: 0 */
 /* eslint no-console:0 */
-import {compareKeys, compareKeysWithinTextStrings, checkTemplateLenght, checkBirgittaInconsistencies} from '../TestUtil'
+import {compareKeys, compareKeysWithinTextStrings, checkTemplateLenght, checkBirgittaInconsistencies, checkTemplateRule} from '../TestUtil'
 import {languageCodes} from '..'
 var langCodes = languageCodes
 jest.disableAutomock()
@@ -39,6 +39,11 @@ textStringsTypes.forEach(textStringsType => {
       xit('all task templates should not exceed 15 chars', () => {
         checkTemplateLenght(textStrings[textStringsType][lang], lang)
       })
+      if (textStringsType === 'templates') {
+        it('Should include template rule', () => {
+          checkTemplateRule(textStrings[textStringsType][lang], lang)
+        })
+      }
     })
   })
 })
