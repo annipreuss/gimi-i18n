@@ -856,7 +856,7 @@
   "shared_assignment_text": "%1$d søsken konkurrerer mot deg i førstemann til mølla.",
   "shared_assignment_win_text": "Du var førstemann til mølla!",
   "shared_assignment_lose_text": "%1$d var førstemann til mølla",
-  "recurring_task_info_text": "Hei %1$d for hver gang du utfører denne oppgaven",
+  "recurring_task_info_text": "Du får %1$d for hver gang du utfører denne oppgaven",
   "recurring_task_unknown_winner": "Vi vet ikke sikkert hvem som vant...",
   "trustly_receipt_error_description_over_limit": "Bankoverføringen har ikke blitt gjennomført ettersom summen er høyere enn maksbeløpet på 1000 kr. Senk beløpet til under 1000 kr for at utbetalingen skal kunne gjennomføres ved neste uke- eller månedspenger.",
   "add_wish_modal_price": "Pris",
