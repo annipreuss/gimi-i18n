@@ -1593,5 +1593,6 @@
   "bot_stats_next_allowance": "Tienes %1$d en la hucha y %2$d en el próxima importe semanal",
   "bot_stats_next_allowance_days": "Recibirás la próxima semana en %1$d días",
   "bot_stats_compare": "¿Sabías que el dinero en la hucha corresponde a %1$d hamburguesas con queso, %2$d meses en Spotify y %3$d suéteres?",
-  "bot_goodbye_1": "¡Ahora tengo que ir y contar tu dinero! ¡Nos vemos mañana!"
+  "bot_goodbye_1": "¡Ahora tengo que ir y contar tu dinero! ¡Nos vemos mañana!",
+  "use_your_facebook_profile_pic": "PLZ_TRANSLATE Usa tu foto de perfil de Facebook"
 }

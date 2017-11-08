@@ -1593,5 +1593,6 @@
   "bot_stats_next_allowance": "PLZ_TRANSLATE Du har %1$d i PLZ_TRANSLATE og %2$d i neste ukentlige rate",
   "bot_stats_next_allowance_days": "PLZ_TRANSLATE Du mottar neste ukentlig i %1$d dager",
   "bot_stats_compare": "PLZ_TRANSLATE Visste du at pengene i PLZ_TRANSLATE tilsvarer %1$d cheeseburgers, %2$d måneder på Spotify og %3$d gensere?",
-  "bot_goodbye_1": "PLZ_TRANSLATE Nå må jeg regne med pengene dine! Ser deg igjen i morgen!"
+  "bot_goodbye_1": "PLZ_TRANSLATE Nå må jeg regne med pengene dine! Ser deg igjen i morgen!",
+  "use_your_facebook_profile_pic": "PLZ_TRANSLATE Bruk ditt Facebook profilbilde"
 }

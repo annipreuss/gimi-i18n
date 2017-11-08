@@ -1593,5 +1593,6 @@
   "bot_stats_next_allowance": "PLZ_TRANSLATE Hai %1$d nel salvadanaio e %2$d nella successiva tariffa settimanale",
   "bot_stats_next_allowance_days": "PLZ_TRANSLATE Riceverai il prossimo settimanale in %1$d giorni",
   "bot_stats_compare": "PLZ_TRANSLATE Sapevate che i soldi nella banca piggy corrispondono a %1$d cheeseburger, %2$d mesi su Spotify e maglioni %3$d ?",
-  "bot_goodbye_1": "PLZ_TRANSLATE Ora devo andare a contare i tuoi soldi! Ci vediamo domani!"
+  "bot_goodbye_1": "PLZ_TRANSLATE Ora devo andare a contare i tuoi soldi! Ci vediamo domani!",
+  "use_your_facebook_profile_pic": "PLZ_TRANSLATE Usa la tua immagine del profilo di facebook"
 }

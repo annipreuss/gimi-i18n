@@ -1593,5 +1593,6 @@
   "bot_stats_next_allowance": "Sinulla on %1$d säästöpossussa ja %2$d seuraavassa viikkorahassa",
   "bot_stats_next_allowance_days": "Saat seuraavan viikkorahan %1$d päivässä",
   "bot_stats_compare": "Tiesitkö, että rahasi säästöpossussa vastaavat %1$d juustohampurilaista, %2$d kuukautta Spotifyita ja %3$d villapaitaa?",
-  "bot_goodbye_1": "Nyt minun täytyy mennä ja laskea rahasi! Nähdään uudestaan huomenna!"
+  "bot_goodbye_1": "Nyt minun täytyy mennä ja laskea rahasi! Nähdään uudestaan huomenna!",
+  "use_your_facebook_profile_pic": "PLZ_TRANSLATE Käytä Facebook-profiilikuvaa"
 }

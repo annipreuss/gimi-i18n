@@ -1593,5 +1593,6 @@
   "bot_stats_next_allowance": "PLZ_TRANSLATE Je hebt %1$d in de spaarpot en %2$d in de volgende wekelijkse tarief",
   "bot_stats_next_allowance_days": "PLZ_TRANSLATE U ontvangt de volgende wekelijkse in %1$d dagen",
   "bot_stats_compare": "PLZ_TRANSLATE Wist u dat het geld in de spaarpot overeenkomt met %1$d cheeseburgers, %2$d maanden op Spotify en %3$d truien?",
-  "bot_goodbye_1": "PLZ_TRANSLATE Nu moet ik jouw geld rekenen! Tot morgen!"
+  "bot_goodbye_1": "PLZ_TRANSLATE Nu moet ik jouw geld rekenen! Tot morgen!",
+  "use_your_facebook_profile_pic": "PLZ_TRANSLATE Gebruik je facebookprofielfoto"
 }

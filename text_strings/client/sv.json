@@ -1594,5 +1594,6 @@
   "bot_stats_next_allowance": "Du har %1$d i spargrisen och %2$d i nästa veckopeng",
   "bot_stats_next_allowance_days": "Du får nästa veckopeng om %1$d dagar",
   "bot_stats_compare": "Visste du, pengarna i spargrisen motsvarar %1$d cheeseburgare, %2$d månader på Spotify och %3$d tröjor?",
-  "bot_goodbye_1": "Nu måste jag kila och räkna dina pengar! Vi ses igen imorgon!"
+  "bot_goodbye_1": "Nu måste jag kila och räkna dina pengar! Vi ses igen imorgon!",
+  "use_your_facebook_profile_pic": "Använd din facebook profilbild"
 }
