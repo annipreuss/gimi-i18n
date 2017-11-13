@@ -1595,5 +1595,6 @@
   "bot_stats_compare": "¿Sabías que el dinero en la hucha corresponde a %1$d hamburguesas con queso, %2$d meses en Spotify y %3$d suéteres?",
   "bot_goodbye_1": "¡Ahora tengo que ir y contar tu dinero! ¡Nos vemos mañana!",
   "use_your_facebook_profile_pic": "Usa tu foto de perfil de Facebook",
-  "kid_enough_money_for": "PLZ_TRANSLATE Tienes suficiente dinero para"
+  "kid_enough_money_for": "PLZ_TRANSLATE Tienes suficiente dinero para",
+  "bot_greeting_absent": "PLZ_TRANSLATE I &#39; estoy contando su dinero. ¡Podemos hablar nuevamente mañana!"
 }

@@ -1595,5 +1595,6 @@
   "bot_stats_compare": "PLZ_TRANSLATE Wist u dat het geld in de spaarpot overeenkomt met %1$d cheeseburgers, %2$d maanden op Spotify en %3$d truien?",
   "bot_goodbye_1": "PLZ_TRANSLATE Nu moet ik jouw geld rekenen! Tot morgen!",
   "use_your_facebook_profile_pic": "PLZ_TRANSLATE Gebruik je facebookprofielfoto",
-  "kid_enough_money_for": "PLZ_TRANSLATE Je hebt genoeg geld voor"
+  "kid_enough_money_for": "PLZ_TRANSLATE Je hebt genoeg geld voor",
+  "bot_greeting_absent": "PLZ_TRANSLATE Ik &#39; ben het tellen van je geld. We kunnen morgen weer praten!"
 }

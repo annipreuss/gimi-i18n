@@ -1595,5 +1595,6 @@
   "bot_stats_compare": "PLZ_TRANSLATE Saviez-vous que largent dans la tirelire correspond à %1$d cheeseburgers, %2$d mois sur Spotify et %3$d pulls?",
   "bot_goodbye_1": "PLZ_TRANSLATE Maintenant, je dois aller compter votre argent! On se revoit demain!",
   "use_your_facebook_profile_pic": "PLZ_TRANSLATE Utilisez votre photo de profil facebook",
-  "kid_enough_money_for": "PLZ_TRANSLATE Vous avez assez d'argent pour"
+  "kid_enough_money_for": "PLZ_TRANSLATE Vous avez assez d'argent pour",
+  "bot_greeting_absent": "PLZ_TRANSLATE Je &#39; suis votre argent comptant. Nous pouvons reparler demain!"
 }

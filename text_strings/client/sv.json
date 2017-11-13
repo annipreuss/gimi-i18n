@@ -1596,5 +1596,6 @@
   "bot_stats_compare": "Visste du, pengarna i spargrisen motsvarar %1$d cheeseburgare, %2$d månader på Spotify och %3$d tröjor?",
   "bot_goodbye_1": "Nu måste jag kila och räkna dina pengar! Vi ses igen imorgon!",
   "use_your_facebook_profile_pic": "Använd din facebook profilbild",
-  "kid_enough_money_for": "Dina sparpengar räcker till"
+  "kid_enough_money_for": "Dina sparpengar räcker till",
+  "bot_greeting_absent": "Jag räknar dina pengar. Vi kan snacka imorn igen!"
 }

@@ -1595,5 +1595,6 @@
   "bot_stats_compare": "PLZ_TRANSLATE Vissir þú að peningarnir í PLZ_TRANSLATE samsvara %1$d cheeseburgers, %2$d mánuði á Spotify og %3$d peysur?",
   "bot_goodbye_1": "PLZ_TRANSLATE Nú verð ég að fara og telja peningana þína! Sjáumst aftur á morgun!",
   "use_your_facebook_profile_pic": "PLZ_TRANSLATE Notaðu Facebook prófíl myndina þína",
-  "kid_enough_money_for": "PLZ_TRANSLATE Þú átt nóg fyrir"
+  "kid_enough_money_for": "PLZ_TRANSLATE Þú átt nóg fyrir",
+  "bot_greeting_absent": "PLZ_TRANSLATE Ég &#39; m telja peningana þína. Við getum talað aftur á morgun!"
 }

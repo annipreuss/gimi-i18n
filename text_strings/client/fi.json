@@ -1595,5 +1595,6 @@
   "bot_stats_compare": "Tiesitkö, että rahasi säästöpossussa vastaavat %1$d juustohampurilaista, %2$d kuukautta Spotifyita ja %3$d villapaitaa?",
   "bot_goodbye_1": "Nyt minun täytyy mennä ja laskea rahasi! Nähdään uudestaan huomenna!",
   "use_your_facebook_profile_pic": "PLZ_TRANSLATE Käytä Facebook-profiilikuvaa",
-  "kid_enough_money_for": "PLZ_TRANSLATE Sinulla on tarpeeksi rahaa"
+  "kid_enough_money_for": "PLZ_TRANSLATE Sinulla on tarpeeksi rahaa",
+  "bot_greeting_absent": "PLZ_TRANSLATE Minä &#39; m laskenta rahaa. Voimme keskustella huomenna!"
 }
