@@ -1594,5 +1594,6 @@
   "bot_stats_next_allowance_days": "PLZ_TRANSLATE Sie erhalten die nächste Woche in %1$d Tagen",
   "bot_stats_compare": "PLZ_TRANSLATE Wussten Sie, dass das Geld im Sparschwein %1$d Cheeseburger, %2$d Monate auf Spotify und %3$d Pullover entspricht?",
   "bot_goodbye_1": "PLZ_TRANSLATE Jetzt muss ich gehen und dein Geld zählen! Wir sehen uns morgen wieder!",
-  "use_your_facebook_profile_pic": "PLZ_TRANSLATE Verwenden Sie Ihr Facebook-Profilbild"
+  "use_your_facebook_profile_pic": "PLZ_TRANSLATE Verwenden Sie Ihr Facebook-Profilbild",
+  "kid_enough_money_for": "PLZ_TRANSLATE Du hast genug Geld für"
 }

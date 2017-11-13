@@ -1594,5 +1594,6 @@
   "bot_stats_next_allowance_days": "PLZ_TRANSLATE Saate järgmise nädala jooksul %1$d päeva",
   "bot_stats_compare": "PLZ_TRANSLATE Kas teadsite, et PLZ_TRANSLATE raha vastab %1$d cheesburgeritele, %2$d kuus Spotifyi ja %3$d kampsunile?",
   "bot_goodbye_1": "PLZ_TRANSLATE Nüüd pean minema ja loota oma raha! Näeme jälle homme!",
-  "use_your_facebook_profile_pic": "PLZ_TRANSLATE Kasutage oma Facebook-i profiili pilti"
+  "use_your_facebook_profile_pic": "PLZ_TRANSLATE Kasutage oma Facebook-i profiili pilti",
+  "kid_enough_money_for": "PLZ_TRANSLATE Sul on piisavalt raha"
 }

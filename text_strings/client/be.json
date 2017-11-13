@@ -1594,5 +1594,6 @@
   "bot_stats_next_allowance_days": "PLZ_TRANSLATE Вы атрымаеце наступны штотыдзень у %1$d дзён",
   "bot_stats_compare": "PLZ_TRANSLATE Ці ведаеце вы , што грошы ў скарбонку адпавядае %1$d чизбургеры, %2$d месяцаў на Spotify і %3$d світэры?",
   "bot_goodbye_1": "PLZ_TRANSLATE Цяпер я павінен ісці і лічыць свае грошы! Пабачымся заўтра!",
-  "use_your_facebook_profile_pic": "PLZ_TRANSLATE Выкарыстоўвайце facebook фатаграфію"
+  "use_your_facebook_profile_pic": "PLZ_TRANSLATE Выкарыстоўвайце facebook фатаграфію",
+  "kid_enough_money_for": "PLZ_TRANSLATE У вас ёсць дастаткова грошай на"
 }
