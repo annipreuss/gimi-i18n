@@ -35,3 +35,9 @@ jobs:
 
       # run tests!
       - run: yarn test
+
+
+
+notify:
+  webhooks:
+    - url: https://hooks.slack.com/services/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
