@@ -29,8 +29,9 @@ export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: 
       errorMessages.push(`Lang: '${firstLangName}', Key: '${key}' has a $ and whitespace, do you mean $s, $d or $c ?`)
     }
 
+    if ((secondLang[key] === 'PLZ_CHECK' && firstLang[key] === 'PLZ_CHECK') && firstLangName !== 'sv' && secondLangName === 'sv') return true
     if (secondLang[key] === firstLang[key] && firstLangName !== 'sv' && secondLangName === 'sv' && !IgnoredTextStrings.includes(key) && !defaultTextStrings[key] && supportedLanguageCodes.includes(firstLangName)) {
-      errorMessages.push(`Lang: '${firstLangName}', Key: '${key}' is equal to: '${secondLangName}'`)
+      errorMessages.push(`Lang: '${secondLang[key]}', Key: '${key}' is equal to: '${firstLang[key]}'`)
     }
     return true
   })
