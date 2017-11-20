@@ -1596,5 +1596,6 @@
   "bot_goodbye_1": "PLZ_TRANSLATE Ora devo andare a contare i tuoi soldi! Ci vediamo domani!",
   "use_your_facebook_profile_pic": "PLZ_TRANSLATE Usa la tua immagine del profilo di facebook",
   "kid_enough_money_for": "PLZ_TRANSLATE Hai abbastanza soldi per",
-  "bot_greeting_absent": "PLZ_TRANSLATE Io  sto contando i soldi. Possiamo parlare ancora domani!"
+  "bot_greeting_absent": "PLZ_TRANSLATE Io  sto contando i soldi. Possiamo parlare ancora domani!",
+  "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d ha aggiunto %2$d al porcellino salvadanaio"
 }

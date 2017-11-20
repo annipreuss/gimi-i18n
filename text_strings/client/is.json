@@ -1596,5 +1596,6 @@
   "bot_goodbye_1": "PLZ_TRANSLATE Nú verð ég að fara og telja peningana þína! Sjáumst aftur á morgun!",
   "use_your_facebook_profile_pic": "PLZ_TRANSLATE Notaðu Facebook prófíl myndina þína",
   "kid_enough_money_for": "PLZ_TRANSLATE Þú átt nóg fyrir",
-  "bot_greeting_absent": "PLZ_TRANSLATE Ég  m telja peningana þína. Við getum talað aftur á morgun!"
+  "bot_greeting_absent": "PLZ_TRANSLATE Ég  m telja peningana þína. Við getum talað aftur á morgun!",
+  "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d hefur verið bætt við %2$d við grís bankann"
 }

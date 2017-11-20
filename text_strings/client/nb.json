@@ -1596,5 +1596,6 @@
   "bot_goodbye_1": "PLZ_TRANSLATE Nå må jeg regne med pengene dine! Ser deg igjen i morgen!",
   "use_your_facebook_profile_pic": "PLZ_TRANSLATE Bruk ditt Facebook profilbilde",
   "kid_enough_money_for": "PLZ_TRANSLATE Du har nok penger til",
-  "bot_greeting_absent": "PLZ_TRANSLATE Jeg m teller penger. Vi kan snakke igjen i morgen!"
+  "bot_greeting_absent": "PLZ_TRANSLATE Jeg m teller penger. Vi kan snakke igjen i morgen!",
+  "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d har blitt lagt til %2$d i spargrisen"
 }

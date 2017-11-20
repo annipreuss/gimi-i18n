@@ -1597,5 +1597,6 @@
   "bot_goodbye_1": "Nu måste jag kila och räkna dina pengar! Vi ses igen imorgon!",
   "use_your_facebook_profile_pic": "Använd din facebook profilbild",
   "kid_enough_money_for": "Dina sparpengar räcker till",
-  "bot_greeting_absent": "Jag räknar dina pengar. Vi kan snacka imorn igen!"
+  "bot_greeting_absent": "Jag räknar dina pengar. Vi kan snacka imorn igen!",
+  "allowance_payout_popover_desc": "%1$d har den %2$d lagts i spargrisen"
 }

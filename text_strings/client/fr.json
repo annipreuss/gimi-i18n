@@ -1596,5 +1596,6 @@
   "bot_goodbye_1": "PLZ_TRANSLATE Maintenant, je dois aller compter votre argent! On se revoit demain!",
   "use_your_facebook_profile_pic": "PLZ_TRANSLATE Utilisez votre photo de profil facebook",
   "kid_enough_money_for": "PLZ_TRANSLATE Vous avez assez d'argent pour",
-  "bot_greeting_absent": "PLZ_TRANSLATE Je suis votre argent comptant. Nous pouvons reparler demain!"
+  "bot_greeting_absent": "PLZ_TRANSLATE Je suis votre argent comptant. Nous pouvons reparler demain!",
+  "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d a ajouté le %2$d à la tirelire"
 }

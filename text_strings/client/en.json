@@ -1596,5 +1596,6 @@
   "bot_goodbye_1": "Now I have to go and count your money! See you again tomorrow!",
   "use_your_facebook_profile_pic": "Use your facebook profile picture",
   "kid_enough_money_for": "You have enough money for",
-  "bot_greeting_absent": "I'm counting your money. We can talk again tomorrow!"
+  "bot_greeting_absent": "I'm counting your money. We can talk again tomorrow!",
+  "allowance_payout_popover_desc": "%1$d has the %2$d been added to the piggy bank"
 }

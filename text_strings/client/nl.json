@@ -1596,5 +1596,6 @@
   "bot_goodbye_1": "PLZ_TRANSLATE Nu moet ik jouw geld rekenen! Tot morgen!",
   "use_your_facebook_profile_pic": "PLZ_TRANSLATE Gebruik je facebookprofielfoto",
   "kid_enough_money_for": "PLZ_TRANSLATE Je hebt genoeg geld voor",
-  "bot_greeting_absent": "PLZ_TRANSLATE Ik  ben het tellen van je geld. We kunnen morgen weer praten!"
+  "bot_greeting_absent": "PLZ_TRANSLATE Ik  ben het tellen van je geld. We kunnen morgen weer praten!",
+  "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d heeft de %2$d toegevoegd aan het spaarvarken"
 }
