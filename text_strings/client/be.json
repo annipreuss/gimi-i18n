@@ -1597,5 +1597,6 @@
   "use_your_facebook_profile_pic": "PLZ_TRANSLATE Выкарыстоўвайце facebook фатаграфію",
   "kid_enough_money_for": "PLZ_TRANSLATE У вас ёсць дастаткова грошай на",
   "bot_greeting_absent": "PLZ_TRANSLATE Я  м лічачы свае грошы. Мы можам казаць заўтра!",
-  "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d мае %2$d быў дададзены ў скарбонку"
+  "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d мае %2$d быў дададзены ў скарбонку",
+  "kid_default_nickname": "Honey"
 }

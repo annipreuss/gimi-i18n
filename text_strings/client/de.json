@@ -1597,5 +1597,6 @@
   "use_your_facebook_profile_pic": "PLZ_TRANSLATE Verwenden Sie Ihr Facebook-Profilbild",
   "kid_enough_money_for": "PLZ_TRANSLATE Du hast genug Geld für",
   "bot_greeting_absent": "PLZ_TRANSLATE Ich m Zählen Sie Ihr Geld. Wir können morgen wieder reden!",
-  "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d hat das %2$d zum Sparschwein hinzugefügt"
+  "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d hat das %2$d zum Sparschwein hinzugefügt",
+  "kid_default_nickname": "Honey"
 }

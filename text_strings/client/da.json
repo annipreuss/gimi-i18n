@@ -1597,5 +1597,6 @@
   "use_your_facebook_profile_pic": "PLZ_TRANSLATE Brug dit facebook profilbillede",
   "kid_enough_money_for": "PLZ_TRANSLATE Du har nok penge til",
   "bot_greeting_absent": "PLZ_TRANSLATE Jeg  m tælle dine penge. Vi kan tale igen i morgen!",
-  "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d er tilføjet %2$d til sparegrisen"
+  "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d er tilføjet %2$d til sparegrisen",
+  "kid_default_nickname": "Honey"
 }

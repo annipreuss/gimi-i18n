@@ -1598,5 +1598,6 @@
   "use_your_facebook_profile_pic": "Använd din facebook profilbild",
   "kid_enough_money_for": "Dina sparpengar räcker till",
   "bot_greeting_absent": "Jag räknar dina pengar. Vi kan snacka imorn igen!",
-  "allowance_payout_popover_desc": "%1$d har den %2$d lagts i spargrisen"
+  "allowance_payout_popover_desc": "%1$d har den %2$d lagts i spargrisen",
+  "kid_default_nickname": "Älsklingen"
 }
