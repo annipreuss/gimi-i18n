@@ -14,9 +14,27 @@ describe('TextStrings', () => {
   })
 
   it('all textstrings should have right amount of $d and $c and $s signs signs', () => {
-    supportedLanguageCodes.forEach(lang1 => supportedLanguageCodes.forEach(lang2 => compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$')))
-    supportedLanguageCodes.forEach(lang1 => supportedLanguageCodes.forEach(lang2 => compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$d')))
-    supportedLanguageCodes.forEach(lang1 => supportedLanguageCodes.forEach(lang2 => compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$s')))
+    supportedLanguageCodes.forEach(lang1 => {
+      if (lang1 === 'sv') {
+        supportedLanguageCodes.forEach(lang2 => {
+          if (lang2 === 'en') { compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$') }
+        })
+      }
+    })
+    supportedLanguageCodes.forEach(lang1 => {
+      if (lang1 === 'sv') {
+        supportedLanguageCodes.forEach(lang2 => {
+          if (lang2 === 'en') { compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$d') }
+        })
+      }
+    })
+    supportedLanguageCodes.forEach(lang1 => {
+      if (lang1 === 'sv') {
+        supportedLanguageCodes.forEach(lang2 => {
+          if (lang2 === 'en') { compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$s') }
+        })
+      }
+    })
   })
 
   it('all languages should have english as default', () => {
