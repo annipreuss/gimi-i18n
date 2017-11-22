@@ -1598,5 +1598,6 @@
   "kid_enough_money_for": "PLZ_TRANSLATE Sinulla on tarpeeksi rahaa",
   "bot_greeting_absent": "PLZ_TRANSLATE Minä m laskenta rahaa. Voimme keskustella huomenna!",
   "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d on %2$d lisätty säästöpankkiin",
-  "kid_default_nickname": "Honey"
+  "kid_default_nickname": "Honey",
+  "what_is_it_for": "What is it for?"
 }

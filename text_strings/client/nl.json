@@ -1598,5 +1598,6 @@
   "kid_enough_money_for": "PLZ_TRANSLATE Je hebt genoeg geld voor",
   "bot_greeting_absent": "PLZ_TRANSLATE Ik  ben het tellen van je geld. We kunnen morgen weer praten!",
   "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d heeft de %2$d toegevoegd aan het spaarvarken",
-  "kid_default_nickname": "Honey"
+  "kid_default_nickname": "Honey",
+  "what_is_it_for": "What is it for?"
 }

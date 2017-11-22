@@ -1598,5 +1598,6 @@
   "kid_enough_money_for": "Tienes suficiente dinero para",
   "bot_greeting_absent": "Estoy contando tu dinero. ¡Podemos hablar nuevamente mañana!",
   "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d tiene el %2$d agregado a la hucha",
-  "kid_default_nickname": "Honey"
+  "kid_default_nickname": "Honey",
+  "what_is_it_for": "What is it for?"
 }

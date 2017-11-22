@@ -1598,5 +1598,6 @@
   "kid_enough_money_for": "PLZ_TRANSLATE Hai abbastanza soldi per",
   "bot_greeting_absent": "PLZ_TRANSLATE Io  sto contando i soldi. Possiamo parlare ancora domani!",
   "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d ha aggiunto %2$d al porcellino salvadanaio",
-  "kid_default_nickname": "Honey"
+  "kid_default_nickname": "Honey",
+  "what_is_it_for": "What is it for?"
 }

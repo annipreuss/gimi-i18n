@@ -1598,5 +1598,6 @@
   "kid_enough_money_for": "PLZ_TRANSLATE Sul on piisavalt raha",
   "bot_greeting_absent": "PLZ_TRANSLATE I  m lugedes oma raha. Me võime homme uuesti rääkida!",
   "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d on sulgpangale lisatud %2$d",
-  "kid_default_nickname": "Honey"
+  "kid_default_nickname": "Honey",
+  "what_is_it_for": "What is it for?"
 }
