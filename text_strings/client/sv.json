@@ -1601,5 +1601,5 @@
   "allowance_payout_popover_desc": "%1$d har den %2$d lagts i spargrisen",
   "kid_default_nickname": "Älsklingen",
   "what_is_it_for": "Vad är det till?",
-  "weekly_task_error": "Something whent wrong creating weekly task"
+  "weekly_task_error": "Något gick fel med att skapa veckoprojekt"
 }
