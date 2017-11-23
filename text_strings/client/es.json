@@ -1599,5 +1599,6 @@
   "bot_greeting_absent": "Estoy contando tu dinero. ¡Podemos hablar nuevamente mañana!",
   "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d tiene el %2$d agregado a la hucha",
   "kid_default_nickname": "Honey",
-  "what_is_it_for": "What is it for?"
+  "what_is_it_for": "What is it for?",
+  "weekly_task_error": "Something whent wrong creating weekly task"
 }

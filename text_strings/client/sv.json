@@ -1600,5 +1600,6 @@
   "bot_greeting_absent": "Jag räknar dina pengar. Vi kan snacka imorn igen!",
   "allowance_payout_popover_desc": "%1$d har den %2$d lagts i spargrisen",
   "kid_default_nickname": "Älsklingen",
-  "what_is_it_for": "Vad är det till?"
+  "what_is_it_for": "Vad är det till?",
+  "weekly_task_error": "Something whent wrong creating weekly task"
 }

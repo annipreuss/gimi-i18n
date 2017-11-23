@@ -1599,5 +1599,6 @@
   "bot_greeting_absent": "I'm counting your money. We can talk again tomorrow!",
   "allowance_payout_popover_desc": "%1$d has the %2$d been added to the piggy bank",
   "kid_default_nickname": "Honey",
-  "what_is_it_for": "What is it for?"
+  "what_is_it_for": "What is it for?",
+  "weekly_task_error": "Something whent wrong creating weekly task"
 }

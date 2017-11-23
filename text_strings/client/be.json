@@ -1599,5 +1599,6 @@
   "bot_greeting_absent": "PLZ_TRANSLATE Я  м лічачы свае грошы. Мы можам казаць заўтра!",
   "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d мае %2$d быў дададзены ў скарбонку",
   "kid_default_nickname": "Honey",
-  "what_is_it_for": "What is it for?"
+  "what_is_it_for": "What is it for?",
+  "weekly_task_error": "Something whent wrong creating weekly task"
 }

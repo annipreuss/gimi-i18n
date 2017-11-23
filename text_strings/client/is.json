@@ -1599,5 +1599,6 @@
   "bot_greeting_absent": "PLZ_TRANSLATE Ég  m telja peningana þína. Við getum talað aftur á morgun!",
   "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d hefur verið bætt við %2$d við grís bankann",
   "kid_default_nickname": "Honey",
-  "what_is_it_for": "What is it for?"
+  "what_is_it_for": "What is it for?",
+  "weekly_task_error": "Something whent wrong creating weekly task"
 }

@@ -1599,5 +1599,6 @@
   "bot_greeting_absent": "PLZ_TRANSLATE Ich m Zählen Sie Ihr Geld. Wir können morgen wieder reden!",
   "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d hat das %2$d zum Sparschwein hinzugefügt",
   "kid_default_nickname": "Honey",
-  "what_is_it_for": "What is it for?"
+  "what_is_it_for": "What is it for?",
+  "weekly_task_error": "Something whent wrong creating weekly task"
 }

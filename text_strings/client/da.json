@@ -1599,5 +1599,6 @@
   "bot_greeting_absent": "PLZ_TRANSLATE Jeg  m tælle dine penge. Vi kan tale igen i morgen!",
   "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d er tilføjet %2$d til sparegrisen",
   "kid_default_nickname": "Honey",
-  "what_is_it_for": "What is it for?"
+  "what_is_it_for": "What is it for?",
+  "weekly_task_error": "Something whent wrong creating weekly task"
 }
