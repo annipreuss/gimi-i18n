@@ -162,5 +162,5 @@
   "event_withdrawal_child": "{user.name} nosti {transaction.str_value} säästöpossustaan",
   "trustly_manual_transaction_email_subject": "Oletko varma, lähetit juuri {transaction.str_value} henkilölle {transaction.child.name}?",
   "trustly_manual_transaction_email_body": "Koska olet ottanut käyttöön yksinkertaiset siirrot tililtäsi henkilön {transaction.child.name} -tilille, joka ei vaadi Mobile BankID-tiliä, halusimme vain varmistaa, että teit siirron. Jos näin on, voit jättää tämän sähköpostin huomiotta. Jos et, sinun täytyy tarkistaa, onko joku päässyt käsiksi puhelimeesi. Huomaathan, että yksinkertaisia siirtoja voi tehdä vain sellaisten tilien välillä, jotka olet aiemmin linkittänyt BankID:hen ja Trustly-kumppaniimme, ja että voit lähettää vain enintään 200€ per siirto ja päivä. Näet linkitetyt tilisi sovelluksen Lataukset-välilehdessä.",
-  "push_parent_not_giving_chores": "PLZ_TRANSLATE Hanki lapsesi auttamaan kotona! Tee tehtävä lapsellesi!"
+  "push_parent_not_giving_chores": "Pistä lapsesi auttamaan kotona! Tee askare lapsellesi!"
 }
