@@ -1517,7 +1517,7 @@
   "date_the": "Det",
   "pay_out_cash": "Udbetale kontant",
   "allowance": "Godtgørelse",
-  "allowance_overview": "Tillægget til %1$d er automatisk tilføjet til sparegrisen. Hvis du har betalt det, kan du vælge &quot;Udbetale kontant&quot;",
+  "allowance_overview": "%1$d of %2$d has automatically been added to the piggy bank. If you have already paid it, you can click on \"Pay out in cash\"",
   "edit_boost_totalsum": "<b>%1$d</b> tilføjes, når %2$d passerer nogen af ​​de 9 milepæle. Det betyder, at du dermed støtter %2$d med et samlet beløb på %3$d for dette mål.",
   "trustly_choose_bank_title": "I hvilken bank har du din konto, som du vil oprette forbindelse til %1$d ?",
   "trustly_transfer_duration": "Færdig. Snart...",

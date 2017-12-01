@@ -1517,7 +1517,7 @@
   "date_the": "PLZ_CHECK le",
   "pay_out_cash": "Payer en espèces",
   "allowance": "Allocation",
-  "allowance_overview": "L'allocation de %1$d a été automatiquement versée dans la tirelire. Si vous avez payé, vous pouvez choisir  \"Payer en espèces\"",
+  "allowance_overview": "%1$d of %2$d has automatically been added to the piggy bank. If you have already paid it, you can click on \"Pay out in cash\"",
   "edit_boost_totalsum": "<b>%1$d</b> sont ajoutés lorsque %2$datteint l'un des 9 jalons. Cela signifie que vous êtes en train de soutenir %2$d avec une somme totale de %3$d pour atteindre cet objectif.",
   "trustly_choose_bank_title": "Quelle-est la banque de votre compte auquel vous souhaitez vous connecter avec %1$d ?",
   "trustly_transfer_duration": "Terminé. Bientôt...",

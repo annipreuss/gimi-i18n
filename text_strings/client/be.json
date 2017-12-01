@@ -1517,7 +1517,7 @@
   "date_the": "PLZ_TRANSLATE ",
   "pay_out_cash": "PLZ_TRANSLATE Выплаціць у грашовай форме",
   "allowance": "PLZ_TRANSLATE дапаможнік",
-  "allowance_overview": "PLZ_TRANSLATE Дапаможнік %1$d аўтаматычна дададзены ў скарбонку. Калі вы PLZ_TRANSLATE ве заплацілі гэта вы можаце абраць &quot;Аплаціць наяўнымі грашыма&quot;",
+  "allowance_overview": "%1$d of %2$d has automatically been added to the piggy bank. If you have already paid it, you can click on \"Pay out in cash\"",
   "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> дадаецца , калі %2$d праходзіць любога з 9 этапаў. Гэта азначае , што вы PLZ_TRANSLATE паўторна падтрымліваеце %2$d з агульнай сумай %3$d для гэтай мэты.",
   "trustly_choose_bank_title": "PLZ_TRANSLATE У якім банку ваш рахунак , які вы хочаце , каб злучыцца з %1$d ?",
   "trustly_transfer_duration": "PLZ_TRANSLATE Гатова. Хутка ...",

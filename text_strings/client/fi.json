@@ -1517,7 +1517,7 @@
   "date_the": " dd",
   "pay_out_cash": "Maksa käteisellä",
   "allowance": "Viikkoraha",
-  "allowance_overview": "Summan %1$d viikkoraha on talletettu automaattisesti säästöpossuun. Jos olet maksanut sen käteisellä, voit valita \"Maksa käteisellä\"",
+  "allowance_overview": "%1$d of %2$d has automatically been added to the piggy bank. If you have already paid it, you can click on \"Pay out in cash\"",
   "edit_boost_totalsum": "<b>%1$d</b> lisätään, kun %2$d saavuttaa jonkin yhdeksästä välitavoiteesta. Tämä tarkoittaa sitä, että autat henkilöä %2$d kokonaissummalla %3$d tätä tavoitetta kohti.",
   "trustly_choose_bank_title": "Missä pankissa on tilisi, jolla haluat muodostaa yhteyden henkilöön %1$d?",
   "trustly_transfer_duration": "Valmista. Hetki...",

@@ -1517,7 +1517,7 @@
   "date_the": "PLZ_TRANSLATE a",
   "pay_out_cash": "PLZ_TRANSLATE Maksta välja sularahas",
   "allowance": "PLZ_TRANSLATE Toetus",
-  "allowance_overview": "PLZ_TRANSLATE %1$d toetus on automaatselt lisatud silepangale. Kui te PLZ_TRANSLATE ve makstud seda välja saab valida &quot;välja maksma raha&quot;",
+  "allowance_overview": "%1$d of %2$d has automatically been added to the piggy bank. If you have already paid it, you can click on \"Pay out in cash\"",
   "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> lisatakse, kui %2$d läbib mis tahes 9 verstaposti. See tähendab, et sa PLZ_TRANSLATE re toetamine %2$d kokku summa %3$d selle eesmärki.",
   "trustly_choose_bank_title": "PLZ_TRANSLATE Millises pangas on teie konto, kuhu soovite %1$d ?",
   "trustly_transfer_duration": "PLZ_TRANSLATE Valmis. Varsti ...",

@@ -1517,7 +1517,7 @@
   "date_the": "el",
   "pay_out_cash": "Pagar en efectivo",
   "allowance": "Tolerancia",
-  "allowance_overview": "La recompensa de %1$d se añadió automáticamente a la hucha. Si has pagado de otra forma se puede elegir 'Pagar en efectivo'",
+  "allowance_overview": "%1$d of %2$d has automatically been added to the piggy bank. If you have already paid it, you can click on \"Pay out in cash\"",
   "edit_boost_totalsum": "<b>%1$d</b> se agrega cuando %2$d pasa alguna de las 9 etapas. Esto significa que apoyas a %2$d con una suma total de %3$d para esta meta.",
   "trustly_choose_bank_title": "¿En qué banco está la cuenta con la que deseas conectarte con %1$d ?",
   "trustly_transfer_duration": "Hecho. Pronto...",

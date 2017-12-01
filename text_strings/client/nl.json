@@ -1517,7 +1517,7 @@
   "date_the": "PLZ_TRANSLATE de",
   "pay_out_cash": "PLZ_TRANSLATE Betalen in contanten",
   "allowance": "PLZ_TRANSLATE Toelage",
-  "allowance_overview": "PLZ_TRANSLATE De vergoeding van %1$d is automatisch toegevoegd aan de spaarpot. Als je PLZ_TRANSLATE hebt betaald uit kunt u kiezen PLZ_TRANSLATEPay out in contantenPLZ_TRANSLATE",
+  "allowance_overview": "%1$d of %2$d has automatically been added to the piggy bank. If you have already paid it, you can click on \"Pay out in cash\"",
   "edit_boost_totalsum": "PLZ_TRANSLATE <b>%1$d</b> wordt toegevoegd wanneer %2$d over een van de 9 mijlpalen gaat. Dit betekent dat u PLZ_TRANSLATE re ondersteunende %2$d met een totaal bedrag van %3$d voor dit doel.",
   "trustly_choose_bank_title": "PLZ_TRANSLATE Bij welke bank is uw account dat u wilt verbinden met %1$d ?",
   "trustly_transfer_duration": "PLZ_TRANSLATE Gedaan. Spoedig...",

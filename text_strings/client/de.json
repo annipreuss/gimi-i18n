@@ -1517,7 +1517,7 @@
   "date_the": "das",
   "pay_out_cash": "Auszahlung in bar",
   "allowance": "Taschengeld",
-  "allowance_overview": "Das Taschengeld von %1$d wurde automatisch dem Sparschwein hinzugefügt. Wenn Du das Taschengeld bereits ausgezahlt hast, kannst Du \"In bar ausgezahlt\" anklicken",
+  "allowance_overview": "%1$d of %2$d has automatically been added to the piggy bank. If you have already paid it, you can click on \"Pay out in cash\"",
   "edit_boost_totalsum": "<b>%1$d</b> wird hinzugefügt, wenn %2$d einen der 9 Meilensteine ​​erreicht. Dies bedeutet, dass Du %2$d mit einer Gesamtsumme von %3$d für dieses Ziel unterstützt.",
   "trustly_choose_bank_title": "An welcher Bank ist Dein Konto, das Du mit %1$d verbinden möchtest?",
   "trustly_transfer_duration": "Erledigt. Bald...",
