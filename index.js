@@ -12,6 +12,23 @@ import it from './text_strings/client/it.json'
 import es from './text_strings/client/es.json'
 import de from './text_strings/client/de.json'
 import et from './text_strings/client/et.json'
+
+// calendar
+import defaultCalendar from './text_strings/calendar/default.json'
+import daCalendar from './text_strings/calendar/da.json'
+import fiCalendar from './text_strings/calendar/fi.json'
+import isCalendar from './text_strings/calendar/is.json'
+import svCalendar from './text_strings/calendar/sv.json'
+import frCalendar from './text_strings/calendar/fr.json'
+import nlCalendar from './text_strings/calendar/nl.json'
+import noCalendar from './text_strings/calendar/nb.json'
+import enCalendar from './text_strings/calendar/en.json'
+import beCalendar from './text_strings/calendar/be.json'
+import itCalendar from './text_strings/calendar/it.json'
+import esCalendar from './text_strings/calendar/es.json'
+import deCalendar from './text_strings/calendar/de.json'
+import etCalendar from './text_strings/calendar/et.json'
+
 import _default from './text_strings/client/default.json'
 import CountryCodes from './CountryCodes.json'
 import Regions from './Regions.json'
@@ -78,6 +95,26 @@ export let getTextStrings = (lang: string) => {
     default : return {..._default, ...en}
   }
 }
+
+export let getCalendarStrings = (lang: string) => {
+  switch (lang.substring(0, 2)) {
+    case 'da' : return {...defaultCalendar, ...daCalendar} // danish
+    case 'sv' : return {...defaultCalendar, ...svCalendar} // sweden
+    case 'nb' :
+    case 'nn' : return {...defaultCalendar, ...noCalendar} // norway
+    case 'fr' : return {...defaultCalendar, ...frCalendar} // france
+    case 'nl' : return {...defaultCalendar, ...nlCalendar} // Netherlands
+    case 'be' : return {...defaultCalendar, ...beCalendar} // belgian
+    case 'fi' : return {...defaultCalendar, ...fiCalendar} // finish
+    case 'it' : return {...defaultCalendar, ...itCalendar} // italian
+    case 'es' : return {...defaultCalendar, ...esCalendar} // spanish
+    case 'de' : return {...defaultCalendar, ...deCalendar} // german
+    case 'is' : return {...defaultCalendar, ...isCalendar} // island
+    case 'et' : return {...defaultCalendar, ...etCalendar} // Estonia
+    default : return {...defaultCalendar, ...enCalendar}
+  }
+}
+
 export let getRegions = () => Regions
 export let getCities = () => Cities
 export let getCountries = () => CountryCodes
