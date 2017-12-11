@@ -23,6 +23,12 @@
     "rules": {
       "header/header": "off",
       "import/first":0,
-      "import/no-webpack-loader-syntax":0
+      "import/no-webpack-loader-syntax":0,
+      "indent": 0,
+      "space-infix-ops": 0,
+      "no-multi-spaces": 0,
+      "spaced-comment": 0,
+      "camelcase": 0,
+      "no-self-compare": 1
     },
 }
