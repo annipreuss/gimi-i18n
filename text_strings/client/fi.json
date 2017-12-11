@@ -1600,5 +1600,9 @@
   "allowance_payout_popover_desc": "%1$d on lisännyt %2$d säästöpossuun",
   "kid_default_nickname": "Kulta",
   "what_is_it_for": "Mitä varten se on?",
-  "weekly_task_error": "Jotain meni pieleen viikkoprojektia luotaessa"
+  "weekly_task_error": "Jotain meni pieleen viikkoprojektia luotaessa",
+  "revoke_permission_microphone": "PLZ_CHECK Är du säker på att du vill ta bort mikrofonstillstånd",
+  "revoke_permission_camera": "PLZ_CHECK Är du säker på att du vill ta bort kameratillstånd",
+  "revoke_permission_photo": "PLZ_CHECK Är du säker på att du vill ta bort fotolicens",
+  "revoke_permission_notifications": "PLZ_CHECK Är du säker på att du vill ta bort anmälningsbehörighet"
 }

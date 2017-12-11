@@ -1600,5 +1600,9 @@
   "allowance_payout_popover_desc": "%1$d has the %2$d been added to the piggy bank",
   "kid_default_nickname": "Honey",
   "what_is_it_for": "What is it for?",
-  "weekly_task_error": "Something whent wrong creating weekly task"
+  "weekly_task_error": "Something whent wrong creating weekly task",
+  "revoke_permission_microphone": "Are you sure you want to remove microphone permission",
+  "revoke_permission_camera": "Are you sure you want to remove camera permission",
+  "revoke_permission_photo": "Are you sure you want to remove photo permission",
+  "revoke_permission_notifications": "Are you sure you want to remove notification permission"
 }

@@ -1600,5 +1600,9 @@
   "allowance_payout_popover_desc": "%1$d hat %2$d in das Sparschwein eingezahlt",
   "kid_default_nickname": "Spatz",
   "what_is_it_for": "Wofür?",
-  "weekly_task_error": "Beim Erstellen der wöchentlichen Aufgabe ist ein Fehler aufgetreten"
+  "weekly_task_error": "Beim Erstellen der wöchentlichen Aufgabe ist ein Fehler aufgetreten",
+  "revoke_permission_microphone": "PLZ_CHECK Är du säker på att du vill ta bort mikrofonstillstånd",
+  "revoke_permission_camera": "PLZ_CHECK Är du säker på att du vill ta bort kameratillstånd",
+  "revoke_permission_photo": "PLZ_CHECK Är du säker på att du vill ta bort fotolicens",
+  "revoke_permission_notifications": "PLZ_CHECK Är du säker på att du vill ta bort anmälningsbehörighet"
 }

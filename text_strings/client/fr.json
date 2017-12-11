@@ -1600,5 +1600,9 @@
   "allowance_payout_popover_desc": "PLZ_TRANSLATE %1$d a ajouté le %2$d à la tirelire",
   "kid_default_nickname": "Honey",
   "what_is_it_for": "What is it for?",
-  "weekly_task_error": "Something whent wrong creating weekly task"
+  "weekly_task_error": "Something whent wrong creating weekly task",
+  "revoke_permission_microphone": "PLZ_CHECK Är du säker på att du vill ta bort mikrofonstillstånd",
+  "revoke_permission_camera": "PLZ_CHECK Är du säker på att du vill ta bort kameratillstånd",
+  "revoke_permission_photo": "PLZ_CHECK Är du säker på att du vill ta bort fotolicens",
+  "revoke_permission_notifications": "PLZ_CHECK Är du säker på att du vill ta bort anmälningsbehörighet"
 }
