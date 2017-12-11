@@ -29,6 +29,7 @@
       "no-multi-spaces": 0,
       "spaced-comment": 0,
       "camelcase": 0,
+      "no-dupe-keys": 1,
       "no-self-compare": 1
     },
 }
