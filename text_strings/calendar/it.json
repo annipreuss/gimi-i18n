@@ -1,6 +1,6 @@
 {
-  "monthNames": ["January","Februay","Mars","April","May","June","July","August","September","October","November","December"],
-  "monthNamesShort": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
-  "dayNames": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-  "dayNamesShort": ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]
+  "monthNames": ["Gennaio","Febbraio","Marzo","Aprile","Maggio","Giugno","Luglio","Agosto","Settembre","Ottobre","Novembre","Dicembre"],
+  "monthNamesShort": ["Gen","Feb","Mar","Apr","Mag","Giu","Lug","Ago","Set","Ott","Nov","Dic"],
+  "dayNames": ["Lunedì","Martedì","Mercoledì","Giovedì","Venerdì","Sabato","Domenica"],
+  "dayNamesShort": ["Lun","Mar","Mer","Gio","Ven","Sab","Dom"]
 }
