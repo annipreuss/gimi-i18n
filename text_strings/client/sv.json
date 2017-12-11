@@ -1605,5 +1605,6 @@
   "revoke_permission_microphone": "PLZ_CHECK Är du säker på att du vill ta bort mikrofonstillstånd",
   "revoke_permission_camera": "PLZ_CHECK Är du säker på att du vill ta bort kameratillstånd",
   "revoke_permission_photo": "PLZ_CHECK Är du säker på att du vill ta bort fotolicens",
-  "revoke_permission_notifications": "PLZ_CHECK Är du säker på att du vill ta bort anmälningsbehörighet"
+  "revoke_permission_notifications": "PLZ_CHECK Är du säker på att du vill ta bort anmälningsbehörighet",
+  "revoke_permission_goto_settings": "PLZ_CHECK Ta bort behörigheter"
 }

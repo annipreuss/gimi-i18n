@@ -1604,5 +1604,6 @@
   "revoke_permission_microphone": "Are you sure you want to remove microphone permission",
   "revoke_permission_camera": "Are you sure you want to remove camera permission",
   "revoke_permission_photo": "Are you sure you want to remove photo permission",
-  "revoke_permission_notifications": "Are you sure you want to remove notification permission"
+  "revoke_permission_notifications": "Are you sure you want to remove notification permission",
+  "revoke_permission_goto_settings": "Remove permissions"
 }
