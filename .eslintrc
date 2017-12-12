@@ -30,7 +30,7 @@
       "spaced-comment": 0,
       "camelcase": 0,
       "no-dupe-keys": 1,
-      "curly": 0,
+      "curly": [1, "multi"],
       "no-self-compare": 1
     },
 }
