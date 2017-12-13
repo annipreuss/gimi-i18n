@@ -1,6 +1,6 @@
 {
-  "monthNames": ["January","Februay","Mars","April","May","June","July","August","September","October","November","December"],
-  "monthNamesShort": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+  "monthNames": ["Tammikuu","Helmikuu","Maaliskuu","Huhtikuu","Toukokuu","Kesäkuu","Heinäkuu","Elokuu","Syyskuu","Lokakuu","Marraskuu","Joulukuu"],
+  "monthNamesShort": ["Tam","Hel","Maa","Huh","Tou","Kes","Hei","Elo","Syy","Lok","Mar","Jou"],
   "dayNames": ["Maanantai","Tiistai","Keskiviikko","Torstai","Perjantai","Lauantai","Sunnuntai"],
   "dayNamesShort": ["Ma","Ti","Ke","To","Pe","La","Su"]
 }
