@@ -8,7 +8,7 @@ let files = ['sv.json', 'en.json']
 
 var LADIES = {
   anna: 'ANNA',
-  anna: 'EMMA',
+  emma: 'EMMA',
   poli: 'POLI',
   krisi: 'KRISI'
 }
