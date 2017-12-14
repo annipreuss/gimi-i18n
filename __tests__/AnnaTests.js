@@ -38,11 +38,10 @@ describe('AnnaHelper', () => {
         var lang = textStrings[textStringsType][languageCode]
         var keys = Object.keys(lang)
         keys.forEach(key => {
-          if (languageCode) {
+          if (languageCode)
             if (lang[key].includes(translationTravisHelper)) {
               annaError.push({code: languageCode, textId: key})
             }
-          }
         })
       })
     })

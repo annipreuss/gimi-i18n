@@ -64,9 +64,8 @@ describe('default', () => {
         case (titleTemplate.includes(desc1) && !titleTemplate.includes(desc2)):
           descString1 = titleTemplate.split(desc1)[0] + title1 + titleTemplate.split(desc1)[1]
           descString2 = titleTemplate.split(desc1)[0] + title1 + titleTemplate.split(desc1)[1]
-          if (!checkForPattern(descString1) && !checkForPattern(descString2)) {
+          if (!checkForPattern(descString1) && !checkForPattern(descString2))
             errors.push({desk: `Missing name1/title1 for ${titleTemplate}`})
-          }
 
           break
         case (titleTemplate.includes(desc2)):
@@ -74,9 +73,9 @@ describe('default', () => {
           descString1 = titleTemplate.split(desc2)[0] + title2 + titleTemplate.split(desc2)[1]
           descString2 = titleTemplate.split(desc2)[0] + name2 + titleTemplate.split(desc2)[1]
 
-          if (!checkForPattern(descString1) && !checkForPattern(descString2)) {
+          if (!checkForPattern(descString1) && !checkForPattern(descString2))
             errors.push({desk: `Missing name2/title2 for ${titleTemplate}`})
-          }
+
           break
       }
     })

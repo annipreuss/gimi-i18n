@@ -39,11 +39,10 @@ textStringsTypes.forEach(textStringsType => {
       xit('all task templates should not exceed 15 chars', () => {
         checkTemplateLenght(textStrings[textStringsType][lang], lang)
       })
-      if (textStringsType === 'templates') {
+      if (textStringsType === 'templates')
         it('Should include template rule', () => {
           checkTemplateRule(textStrings[textStringsType][lang], lang)
         })
-      }
     })
   })
 })

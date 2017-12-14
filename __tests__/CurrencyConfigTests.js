@@ -8,17 +8,16 @@ jest.disableAutomock()
 expect.extend({
   toHaveSameLength (received: *, argument: *, location: *): * {
     const pass = Object.keys(getCurrencyConfig(received)).length === argument
-    if (pass) {
+    if (pass)
       return {
         message: () => (`expected ${received} not to be divisible by ${argument}`),
         pass: true
       }
-    } else {
+     else
       return {
         message: () => (`expect all config to have the same amount of keys ${location.x} and ${location.y} ?`),
         pass: false
       }
-    }
   }
 })
 

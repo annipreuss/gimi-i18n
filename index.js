@@ -128,9 +128,8 @@ export let getDefaultCurrencyCode = (userCountryCode: string): string => Default
 export let getSupportedTimeZones = () => {
   var shortList = []
   Timezones.map((zone, index) => {
-    if (supportedTimeZonesAndroid.indexOf(zone.value) !== -1) {
+    if (supportedTimeZonesAndroid.indexOf(zone.value) !== -1)
       shortList.push(zone)
-    }
   })
   return shortList || Timezones
 }
