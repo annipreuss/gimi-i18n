@@ -15,25 +15,22 @@ describe('TextStrings', () => {
 
   it('all textstrings should have right amount of $d and $c and $s signs signs', () => {
     supportedLanguageCodes.forEach(lang1 => {
-      if (lang1 === 'sv') {
+      if (lang1 === 'sv')
         supportedLanguageCodes.forEach(lang2 => {
-          if (lang2 === 'en') { compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$') }
+          if (lang2 === 'en')  compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$')
         })
-      }
     })
     supportedLanguageCodes.forEach(lang1 => {
-      if (lang1 === 'sv') {
+      if (lang1 === 'sv')
         supportedLanguageCodes.forEach(lang2 => {
-          if (lang2 === 'en') { compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$d') }
+          if (lang2 === 'en')  compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$d')
         })
-      }
     })
     supportedLanguageCodes.forEach(lang1 => {
-      if (lang1 === 'sv') {
+      if (lang1 === 'sv')
         supportedLanguageCodes.forEach(lang2 => {
-          if (lang2 === 'en') { compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$s') }
+          if (lang2 === 'en')  compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$s')
         })
-      }
     })
   })
 
@@ -66,9 +63,8 @@ describe('TextStrings', () => {
 
       leftSide = textString.split('[').length - 1
       rightSide = textString.split(']').length - 1
-      if (leftSide !== rightSide) {
+      if (leftSide !== rightSide)
         error.push(languageCode)
-      }
     })
     if (error.lenght > 0) console.warn(error)
     expect(error).toEqual([])
@@ -82,9 +78,8 @@ describe('TextStrings', () => {
         var text = textStrings[key]
         var valid = validateHTMLTag(text)
 
-        if (!valid) {
+        if (!valid)
           errors.push(`No valid tags (<b>, </b> etc) in text: ${text}`)
-        }
       })
     })
     // console.warn(JSON.stringify(error[0], undefined, 2))

@@ -39,8 +39,8 @@ describe('TextStrings', () => {
       textStrings[textStringsType] = {}
     })
     textStringsTypes.forEach(textStringsType => {
-      if (textStringsType === 'gimi-web') { languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en'] }
-      if (textStringsType !== 'gimi-web') { languageCodesHolder = languageCodesForTranslation }
+      if (textStringsType === 'gimi-web')  languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
+      if (textStringsType !== 'gimi-web')  languageCodesHolder = languageCodesForTranslation
       languageCodesHolder.forEach(lang => {
         try {
           textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
@@ -49,8 +49,8 @@ describe('TextStrings', () => {
     })
     // server and templates string data
     textStringsTypes.forEach(textStringsType => {
-      if (textStringsType === 'gimi-web') { languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en'] }
-      if (textStringsType !== 'gimi-web') { languageCodesHolder = languageCodesForTranslation }
+      if (textStringsType === 'gimi-web')  languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
+      if (textStringsType !== 'gimi-web')  languageCodesHolder = languageCodesForTranslation
       languageCodesHolder.forEach(languageCode => {
         stringTagData.push(stringTranslationTags(textStrings[textStringsType][languageCode], languageCode, textStringsType))
       })
@@ -61,14 +61,14 @@ describe('TextStrings', () => {
       var path = data.path ? data.path : 'client'
       var isAdded = false
       if (data.plzCheck > 0) {
-        for (var i = 0; i < jsonDataCheck.length; i++) {
+        for (var i = 0; i < jsonDataCheck.length; i++)
           if (jsonDataCheck[i].lang === data.lang) {
             jsonDataCheck[i].path.push(path)
             jsonDataCheck[i].count.push(data.plzCheck)
             jsonDataCheck[i].link.push('<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
             isAdded = true
           }
-        }
+
         if (!isAdded) {
           var displayObject: Object = {
             lang: '',
@@ -89,14 +89,14 @@ describe('TextStrings', () => {
       var path = data.path ? data.path : 'client'
       var isAdded = false
       if (data.plzTrans > 0) {
-        for (var i = 0; i < jsonDataTranslate.length; i++) {
+        for (var i = 0; i < jsonDataTranslate.length; i++)
           if (jsonDataTranslate[i].lang === data.lang) {
             jsonDataTranslate[i].path.push(path)
             jsonDataTranslate[i].count.push(data.plzTrans)
             jsonDataTranslate[i].link.push('<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
             isAdded = true
           }
-        }
+
         if (!isAdded) {
           var displayObject: Object = {
             lang: '',
@@ -117,14 +117,14 @@ describe('TextStrings', () => {
       var path = data.path ? data.path : 'client'
       var isAdded = false
       if (data.emmaTag > 0) {
-        for (var i = 0; i < jsonEmmaTag.length; i++) {
+        for (var i = 0; i < jsonEmmaTag.length; i++)
           if (jsonEmmaTag[i].lang === data.lang) {
             jsonEmmaTag[i].path.push(path)
             jsonEmmaTag[i].count.push(data.emmaTag)
             jsonEmmaTag[i].link.push('<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
             isAdded = true
           }
-        }
+
         if (!isAdded) {
           var displayObject: Object = {
             lang: '',
@@ -149,9 +149,9 @@ describe('TextStrings', () => {
 
     text = text.replace(/['"]+/g, '')
 
-    if (jsonEmmaTag.length > 0) {
+    if (jsonEmmaTag.length > 0)
       SendToNonTech(textEmma)
-    }
+
     SendToSlackTagStats(text)
   })
 })

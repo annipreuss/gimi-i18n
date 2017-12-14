@@ -25,14 +25,13 @@ export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: 
       return true
     }
 
-    if (secondLang[key].indexOf('$ ') !== -1) {
+    if (secondLang[key].indexOf('$ ') !== -1)
       errorMessages.push(`Lang: '${firstLangName}', Key: '${key}' has a $ and whitespace, do you mean $s, $d or $c ?`)
-    }
 
     if ((secondLang[key] === 'PLZ_CHECK' && firstLang[key] === 'PLZ_CHECK') && firstLangName !== 'sv' && secondLangName === 'sv') return true
-    if (secondLang[key] === firstLang[key] && firstLangName === 'en' && secondLangName === 'sv' && !IgnoredTextStrings.includes(key) && !defaultTextStrings[key] && supportedLanguageCodes.includes(firstLangName)) {
+    if (secondLang[key] === firstLang[key] && firstLangName === 'en' && secondLangName === 'sv' && !IgnoredTextStrings.includes(key) && !defaultTextStrings[key] && supportedLanguageCodes.includes(firstLangName))
       errorMessages.push(`Lang: '${secondLang[key]}', Key: '${key}' is equal to: '${firstLang[key]}'`)
-    }
+
     return true
   })
 
@@ -45,9 +44,9 @@ export let compareDollarSigns = (firstLang: Object, secondLang: Object, firstLan
   keys.forEach(key => {
     if (firstLang[key] === undefined) return true
     if (secondLang[key] === undefined) return true
-    if (!ignoredKeys.includes(key) && firstLang[key].split(template).length !== secondLang[key].split(template).length) {
+    if (!ignoredKeys.includes(key) && firstLang[key].split(template).length !== secondLang[key].split(template).length)
       errorMessages.push(`Lang: '${secondLangName}', Key: '${key}' has not the same amount of ${template} signs as text string in ${firstLangName} lang, plz check`)
-    }
+
     return true
   })
 
@@ -63,13 +62,12 @@ let testCompareKeysWithinTextString = (textString1: string, textString2: string,
   keys2 = keys2.map((key) => key.replace(':possessive', ''))
 
   var errorMessages = keys1.map(key1 => {
-    if (key1.indexOf(' ') !== -1) {
+    if (key1.indexOf(' ') !== -1)
       return undefined
-    }
 
-    if (!keys2.includes(key1)) {
+    if (!keys2.includes(key1))
       return `About Texttring: ${textStringName}. Cant find {${key1}} in: '${textString2}, {${key1}} key was found in: '${textString1}'`
-    }
+
     return undefined
   })
 
@@ -92,11 +90,10 @@ export let checkTemplateLenght = (langs: Object, langName: string = '') => {
   var patternTemplates = 'template_title'
   var errorMessages = []
   keys.forEach(key => {
-    if (key.includes(patternTemplates) && !IgnoredTextStrings.includes(key)) {
+    if (key.includes(patternTemplates) && !IgnoredTextStrings.includes(key))
       if (langs[key].length > 15) {
         errorMessages.push(`Lang: '${langName}', String: '${langs[key]}' exeeds 15 characters '${langs[key].length}'`)
       }
-    }
   })
   expect(errorMessages).toEqual([])
 }
@@ -107,11 +104,10 @@ export let checkTemplateRule = (langs: Object, langName: string = '') => {
 
   serverTextStringNames.forEach((serverSring) => {
     keys.forEach((key) => {
-      if (!IgnoredTextStrings.includes(key)) {
+      if (!IgnoredTextStrings.includes(key))
         if (!key.indexOf(serverSring) === -1) {
           errorMessages.push(`Lang: '${langName}', Key: '${key}`)
         }
-      }
     })
   })
 
@@ -150,10 +146,10 @@ export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLang
     return true
   })
 
-  if (longTextWarning.length > 0) {
+  if (longTextWarning.length > 0)
     // eslint-disable-next-line
     console.warn(longTextWarning)
-  }
+
   return longTextSlackData
 }
 
@@ -163,12 +159,11 @@ export let countTranslationTemplates = (lang: Object, langName: string): Object 
   var countUsesCheck = []
   var countUsesTranslate = []
   keys.forEach(key => {
-    if (lang[key].includes(plzTranslateTemplate)) {
+    if (lang[key].includes(plzTranslateTemplate))
       countUsesTranslate.push(`Lang: ${langName}, Key: ${key}`)
-    }
-    if (lang[key].includes(birgittaTemplate)) {
+
+    if (lang[key].includes(birgittaTemplate))
       countUsesCheck.push(`Lang: ${langName}, Key: ${key}`)
-    }
   })
   return {lang: langName, countTranslate: countUsesTranslate.length, countCheck: countUsesCheck.length}
 }
@@ -218,12 +213,11 @@ export let searchPlzTranslate = (lang: Object, languageCode: string, textStrings
   var arrayPlzTranslate = []
   var numberPlzTransalte = 0
   keys.forEach(key => {
-    if (languageCode) {
+    if (languageCode)
       if (lang[key].includes(plzTranslateTemplate)) {
         numberPlzTransalte++
         arrayPlzTranslate.push({key: key, lang: languageCode, path: textStringsType})
       }
-    }
   })
   return {data: arrayPlzTranslate, plzTrans: numberPlzTransalte}
 }
@@ -233,12 +227,11 @@ export let searchBreakingSymbols = (lang: Object, languageCode: string, textStri
   var arrayBreakingSymbols = []
   var numberBreakingSymbols = 0
   keys.forEach(key => {
-    if (languageCode) {
+    if (languageCode)
       if (lang[key].includes('&#')) {
         numberBreakingSymbols++
         arrayBreakingSymbols.push({key: key, lang: languageCode, path: textStringsType})
       }
-    }
   })
   return {data: arrayBreakingSymbols, count: numberBreakingSymbols}
 }
