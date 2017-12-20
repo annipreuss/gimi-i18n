@@ -1591,7 +1591,7 @@
   "bot_stats_goal_amount_left": "You have %1$d left to the next goal!",
   "bot_stats_next_bonus": "Next savings bonus comes in %1$d days and is on %2$d. Here's how it is calculated: %3$d * %4$d = %5$d",
   "bot_stats_next_allowance": "You have %1$d in the piggy bank and %2$d in the next weekly rate",
-  "bot_stats_next_allowance_days": "You will receive the next weekly in %1$d days",
+  "bot_stats_next_allowance_days": "You will receive the next weekly allowance in %1$d days",
   "bot_stats_compare": "Did you know that the money in the piggy bank corresponds to %1$d cheeseburgers, %2$d months on Spotify and %3$d sweaters?",
   "bot_goodbye_1": "Now I have to go and count your money! See you again tomorrow!",
   "use_your_facebook_profile_pic": "Use your facebook profile picture",
