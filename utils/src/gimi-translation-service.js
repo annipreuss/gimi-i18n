@@ -55,7 +55,7 @@ let translateTextStringInFile = (path: string, textId, fromFilePath: string) => 
 
 console.log('process.argv.length', process.argv.length)
 console.log('process.argv', process.argv)
-if (process.argv.length !== 6) { throw new Error('use: npm run anna <from_lang> <to_lang> <exclude_lang> <text_id>') }
+if (process.argv.length !== 6) throw new Error('use: npm run anna <from_lang> <to_lang> <exclude_lang> <text_id>')
 let fromFileName = process.argv[2] ? `${process.argv[2]}.json` : DEFAULT_FROM_FILE
 let toFileName = process.argv[3] ? `${process.argv[3]}.json` : 'xx.json'
 let excludeFileName = process.argv[4] ? `${process.argv[4]}.json` : 'xx.json'

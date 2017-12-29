@@ -3,7 +3,7 @@
 var fs = require('fs')
 let templateDir = ['./text_strings/client', './text_strings/server', './text_strings/templates', './text_strings/gimi-web']
 
-let RunSara = (filePath):* => {
+let RunSara = (filePath): * => {
   let getPath = (file) => `${filePath}/${file}`
   var defaultPath = getPath('default.json')
   var _default = fs.readFileSync(defaultPath, {encoding: 'utf8'})
@@ -14,15 +14,13 @@ let RunSara = (filePath):* => {
   sv = JSON.parse(sv)
 
   let syncTextStrings = (file) => {
-    if (file.indexOf('.json') === -1) {
+    if (file.indexOf('.json') === -1)
       return
-    }
 
-    if (file === 'default.json') { return }
+    if (file === 'default.json') return
 
-    if (file === 'sv.json') {
+    if (file === 'sv.json')
       return
-    }
 
     var path = getPath(file)
 
@@ -44,9 +42,8 @@ let RunSara = (filePath):* => {
     var TextStringsLength = Object.keys(TextStrings).length
     var delta = NewTextStringsLength - TextStringsLength
 
-    if (delta > 0) {
+    if (delta > 0)
       console.log(`Updated ${delta} textstrings in ${file}`)
-    }
 
     // No update support atm :(
 

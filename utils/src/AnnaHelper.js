@@ -14,7 +14,7 @@ let toHash = (text: string) => {
   return text
 }
 
-let fromHash = (text: string):* => {
+let fromHash = (text: string): * => {
   text = text.replace(/<span class="notranslate">/g, '')
   text = text.replace(/<\/span>/g, '')
   return text

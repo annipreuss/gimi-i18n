@@ -13,7 +13,7 @@ expect.extend({
         message: () => (`expected ${received} not to be divisible by ${argument}`),
         pass: true
       }
-     else
+    else
       return {
         message: () => (`expect all config to have the same amount of keys ${location.x} and ${location.y} ?`),
         pass: false

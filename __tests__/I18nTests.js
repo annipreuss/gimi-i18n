@@ -13,8 +13,8 @@ textStringsTypes.forEach(textStringsType => {
 })
 textStringsTypes.forEach(textStringsType => {
   var languageCodesHolder = languageCodes
-  if (textStringsType === 'gimi-web')  languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
-  if (textStringsType !== 'gimi-web')  languageCodesHolder = languageCodesForTranslation
+  if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
+  if (textStringsType !== 'gimi-web') languageCodesHolder = languageCodesForTranslation
   languageCodesHolder.forEach(lang => {
     try {
       textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
@@ -24,8 +24,8 @@ textStringsTypes.forEach(textStringsType => {
 // server and templates string data
 textStringsTypes.forEach(textStringsType => {
   var languageCodesHolder = languageCodes
-  if (textStringsType === 'gimi-web')  languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
-  if (textStringsType !== 'gimi-web')  languageCodesHolder = languageCodesForTranslation
+  if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
+  if (textStringsType !== 'gimi-web') languageCodesHolder = languageCodesForTranslation
 
   languageCodesHolder.forEach(languageCode => {
     if (languageCode === 'sv' || languageCode === 'en')

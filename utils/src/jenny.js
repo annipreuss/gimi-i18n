@@ -87,13 +87,11 @@ let checkFile = (file, key) => {
 
   if (fileContents.indexOf(key) !== -1) isOk = true
 
-  if (key.indexOf('_parent') !== -1) {
+  if (key.indexOf('_parent') !== -1)
     if (fileContents.indexOf(key.split('_parent')[0]) !== -1) isOk = true
-  }
 
-  if (key.indexOf('_child') !== -1) {
+  if (key.indexOf('_child') !== -1)
     if (fileContents.indexOf(key.split('_child')[0]) !== -1) isOk = true
-  }
 
   return isOk
 }
@@ -106,9 +104,8 @@ let checkIfTextStringIsObsolete = (key) => {
       try {
         file = `${dir}/${file}`
         // console.log(`Reading file: "${file}"`)
-        if (checkFile(file, key)) {
+        if (checkFile(file, key))
           isOk = true
-        }
       } catch (e) {
         // console.log(`Failed reading file: "${file}"`)
         // console.log(e.message)
@@ -117,13 +114,12 @@ let checkIfTextStringIsObsolete = (key) => {
   })
 
   // text string is probably obsolete
-  if (!isOk) {
+  if (!isOk)
     if (keysToIgnore.some(ignoredKey => key.indexOf(ignoredKey) !== -1)) { ignoredKeys++ } else {
       foundKeys++
       keysToDelete.push(key)
       console.log(`${key}\t\t\t\t\t\t${TextStrings[key].replace('\n', '')}`)
     }
-  }
 }
 
 console.log('****** Begin Scan ********\n')
@@ -137,9 +133,7 @@ console.log(
   Found text_strings to delete: ${foundKeys}`)
 if (process.argv.some(x => x === 'f')) {
   /** ****** Deleting TextStrings *******/
-  console.log(`
-      Removing ${foundKeys} text_strings from ${textStringsSvFilePath} ..
-      `)
+  console.log(`Removing ${foundKeys} text_strings from ${textStringsSvFilePath} ..`)
   keysToDelete.forEach((key) => {
     delete TextStrings[key]
   })
@@ -148,11 +142,8 @@ if (process.argv.some(x => x === 'f')) {
   fs.unlinkSync(textStringsSvFilePath)
   fs.writeFileSync(textStringsSvFilePath, TextStrings, {encoding: 'utf8'})
 
-  console.log(`
-      Done
-      `)
-} else {
+  console.log(`Done`)
+} else
   console.log(`
   run with f to remove ${foundKeys} text_strings from ${textStringsSvFilePath}
   `)
-}

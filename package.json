@@ -11,6 +11,7 @@
     "test": "jest",
     "babelize": "./node_modules/.bin/babel ./utils/src -d ./utils/dest",
     "lint": "eslint . --ignore-pattern=/utils/dest/",
+    "fix-lint": "npm run lint -- --fix",
     "sara": "npm run babelize && node ./utils/dest/sara.js",
     "ida ": "npm run babelize && node ./utils/dest/ida.js",
     "gimi-translation-service": "npm run babelize && node ./utils/dest/gimi-translation-service.js",

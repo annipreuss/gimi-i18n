@@ -39,8 +39,8 @@ describe('TextStrings', () => {
       textStrings[textStringsType] = {}
     })
     textStringsTypes.forEach(textStringsType => {
-      if (textStringsType === 'gimi-web')  languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
-      if (textStringsType !== 'gimi-web')  languageCodesHolder = languageCodesForTranslation
+      if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
+      if (textStringsType !== 'gimi-web') languageCodesHolder = languageCodesForTranslation
       languageCodesHolder.forEach(lang => {
         try {
           textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
@@ -49,8 +49,8 @@ describe('TextStrings', () => {
     })
     // server and templates string data
     textStringsTypes.forEach(textStringsType => {
-      if (textStringsType === 'gimi-web')  languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
-      if (textStringsType !== 'gimi-web')  languageCodesHolder = languageCodesForTranslation
+      if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
+      if (textStringsType !== 'gimi-web') languageCodesHolder = languageCodesForTranslation
       languageCodesHolder.forEach(languageCode => {
         stringTagData.push(stringTranslationTags(textStrings[textStringsType][languageCode], languageCode, textStringsType))
       })

@@ -17,19 +17,19 @@ describe('TextStrings', () => {
     supportedLanguageCodes.forEach(lang1 => {
       if (lang1 === 'sv')
         supportedLanguageCodes.forEach(lang2 => {
-          if (lang2 === 'en')  compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$')
+          if (lang2 === 'en') compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$')
         })
     })
     supportedLanguageCodes.forEach(lang1 => {
       if (lang1 === 'sv')
         supportedLanguageCodes.forEach(lang2 => {
-          if (lang2 === 'en')  compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$d')
+          if (lang2 === 'en') compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$d')
         })
     })
     supportedLanguageCodes.forEach(lang1 => {
       if (lang1 === 'sv')
         supportedLanguageCodes.forEach(lang2 => {
-          if (lang2 === 'en')  compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$s')
+          if (lang2 === 'en') compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$s')
         })
     })
   })
