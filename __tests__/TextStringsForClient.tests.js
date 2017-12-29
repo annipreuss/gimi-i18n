@@ -83,7 +83,7 @@ describe('TextStrings', () => {
       })
     })
     // console.warn(JSON.stringify(error[0], undefined, 2))
-   // if (error.lenght > 0) console.warn(error, undefined, 2)
+    // if (error.lenght > 0) console.warn(error, undefined, 2)
     expect(JSON.stringify(errors, undefined, 2)).toEqual('[]')
   })
 })
@@ -109,6 +109,6 @@ var validateHTMLTag = (testString): boolean => {
   ]
 
   return !htmlTagPairs.some(pair =>
-            pair.some((tag) => testString.includes(tag)) &&
+    pair.some((tag) => testString.includes(tag)) &&
             !pair.every((tag) => testString.includes(tag)))
 }

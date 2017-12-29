@@ -145,7 +145,7 @@ describe('TextStrings', () => {
     PLZ_TRANSLATE
     ${jsonDataTranslate.map((i) => JSON.stringify(i)).join('\n')}`
     var textEmma = `Found Emma ${jsonEmmaTag.map((i) => JSON.stringify(i)).join('\n')}`
-    //eslint-disable-next-line
+    // eslint-disable-next-line
 
     text = text.replace(/['"]+/g, '')
 
