@@ -25,5 +25,7 @@ export default {
   'EE': 'EUR', // Estonia
   'IS': 'ISK', // Iceland
   'TH': 'THB',
-  'ID': 'IDR' // Indonesia
+  'ID': 'IDR', // Indonesia
+  'CH': 'CHF'
+
 }
