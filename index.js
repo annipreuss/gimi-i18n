@@ -74,7 +74,8 @@ export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> =
   {code: 'INR', name: 'Indian Rupee'},
   {code: 'ZAR', name: 'Rand'},
   {code: 'ISK', name: 'Iceland Krona'},
-  {code: 'THB', name: 'Thai Baht'}
+  {code: 'THB', name: 'Thai Baht'},
+  {code: 'IDR', name: 'Indonesian rupiahs'}
 ]
 
 export let getTextStrings = (lang: string) => {
