@@ -1606,5 +1606,6 @@
   "revoke_permission_photo": "PLZ_CHECK Är du säker på att du vill ta bort fotolicens",
   "revoke_permission_notifications": "PLZ_CHECK Är du säker på att du vill ta bort anmälningsbehörighet",
   "revoke_permission_goto_settings": "PLZ_CHECK Ta bort behörigheter",
-  "revoke_permission_title": "PLZ_CHECK Att ta bort behörigheter kan leda till funktionshindrade funktioner"
+  "revoke_permission_title": "PLZ_CHECK Att ta bort behörigheter kan leda till funktionshindrade funktioner",
+  "from_someone": "From %1$d"
 }

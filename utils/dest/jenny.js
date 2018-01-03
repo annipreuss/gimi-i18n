@@ -87,13 +87,11 @@ var isOk=false;
 
 if(fileContents.indexOf(key)!==-1)isOk=true;
 
-if(key.indexOf('_parent')!==-1){
+if(key.indexOf('_parent')!==-1)
 if(fileContents.indexOf(key.split('_parent')[0])!==-1)isOk=true;
-}
 
-if(key.indexOf('_child')!==-1){
+if(key.indexOf('_child')!==-1)
 if(fileContents.indexOf(key.split('_child')[0])!==-1)isOk=true;
-}
 
 return isOk;
 };
@@ -106,9 +104,8 @@ files.forEach(function(file){
 try{
 file=dir+'/'+file;
 
-if(checkFile(file,key)){
+if(checkFile(file,key))
 isOk=true;
-}
 }catch(e){
 
 
@@ -117,12 +114,11 @@ isOk=true;
 });
 
 
-if(!isOk){
+if(!isOk)
 if(keysToIgnore.some(function(ignoredKey){return key.indexOf(ignoredKey)!==-1;})){ignoredKeys++;}else{
 foundKeys++;
 keysToDelete.push(key);
 console.log(key+'\t\t\t\t\t\t'+TextStrings[key].replace('\n',''));
-}
 }
 };
 
@@ -137,9 +133,7 @@ ignoredKeys+'\n  Found text_strings to delete: '+
 foundKeys);
 if(process.argv.some(function(x){return x==='f';})){
 
-console.log('\n      Removing '+
-foundKeys+' text_strings from '+textStringsSvFilePath+' ..\n      ');
-
+console.log('Removing '+foundKeys+' text_strings from '+textStringsSvFilePath+' ..');
 keysToDelete.forEach(function(key){
 delete TextStrings[key];
 });
@@ -148,11 +142,7 @@ TextStrings=JSON.stringify(TextStrings,undefined,2);
 fs.unlinkSync(textStringsSvFilePath);
 fs.writeFileSync(textStringsSvFilePath,TextStrings,{encoding:'utf8'});
 
-console.log('\n      Done\n      ');
-
-
-}else{
+console.log('Done');
+}else
 console.log('\n  run with f to remove '+
 foundKeys+' text_strings from '+textStringsSvFilePath+'\n  ');
-
-}
