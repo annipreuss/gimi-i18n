@@ -62,5 +62,9 @@ Array [
     "code": "CHF",
     "name": "Swiss Franc",
   },
+  Object {
+    "code": "COP",
+    "name": "Colombian Peso",
+  },
 ]
 `;

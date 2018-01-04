@@ -76,7 +76,8 @@ export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> =
   {code: 'ISK', name: 'Iceland Krona'},
   {code: 'THB', name: 'Thai Baht'},
   {code: 'IDR', name: 'Indonesian Rupiahs'},
-  {code: 'CHF', name: 'Swiss Franc'}
+  {code: 'CHF', name: 'Swiss Franc'},
+  {code: 'COP', name: 'Colombian Peso'}
 ]
 
 export let getTextStrings = (lang: string) => {

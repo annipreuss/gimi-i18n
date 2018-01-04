@@ -26,6 +26,7 @@ export default {
   'IS': 'ISK', // Iceland
   'TH': 'THB',
   'ID': 'IDR', // Indonesia
-  'CH': 'CHF'
+  'CH': 'CHF',
+  'CO': 'COP'
 
 }
