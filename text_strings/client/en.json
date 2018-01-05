@@ -1607,5 +1607,6 @@
   "revoke_permission_notifications": "Are you sure you want to remove notification permission",
   "revoke_permission_goto_settings": "Remove permissions",
   "revoke_permission_title": "Removing permissions may result in disblaed features",
-  "from_someone": "From %1$d"
+  "from_someone": "From %1$d",
+  "task_enabled": "You Chore was Approved! \nTime to get to work"
 }

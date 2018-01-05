@@ -1608,5 +1608,6 @@
   "revoke_permission_notifications": "PLZ_CHECK Är du säker på att du vill ta bort anmälningsbehörighet",
   "revoke_permission_goto_settings": "PLZ_CHECK Ta bort behörigheter",
   "revoke_permission_title": "PLZ_CHECK Att ta bort behörigheter kan leda till funktionshindrade funktioner",
-  "from_someone": "Från %1$d"
+  "from_someone": "Från %1$d",
+  "task_enabled": "Du Chore var godkänd! \nDags att komma till jobbet"
 }
