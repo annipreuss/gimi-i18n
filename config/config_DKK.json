@@ -26,5 +26,6 @@
   "maximumTaskAmount": 9999,
   "minSavingsAccountBalance": -80000,
   "taskIncrementInterval": 1,
-  "minimumGoalAmountInCents": 1000
+  "minimumGoalAmountInCents": 1000,
+  "minExpectedInterestRate": 0.01
 }
