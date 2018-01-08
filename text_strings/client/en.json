@@ -1608,5 +1608,6 @@
   "revoke_permission_goto_settings": "Remove permissions",
   "revoke_permission_title": "Removing permissions may result in disblaed features",
   "from_someone": "From %1$d",
-  "task_enabled": "You Chore was Approved! \nTime to get to work"
+  "task_enabled": "You Chore was Approved! \nTime to get to work",
+  "task_reject": "Reject"
 }
