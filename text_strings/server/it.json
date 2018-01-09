@@ -163,5 +163,5 @@
   "trustly_manual_transaction_email_subject": "PLZ_TRANSLATE Certo, hai appena inviato {transaction.str_value} a {transaction.child.name} ?",
   "trustly_manual_transaction_email_body": "PLZ_TRANSLATE Poiché hai abilitato trasferimenti semplici dal tuo account all account {transaction.child.name} che non richiede un account Mobile BankID, abbiamo solo voluto assicurarvi di fare un trasferimento. Se è così, puoi ignorare questa email. Se non lo fai, è   ll bisogno di controllare se qualcuno ha accesso al telefono. Si prega di notare che i semplici trasferimenti possono essere effettuati solo tra i conti precedentemente collegati con BankID e il nostro partner Trustful e puoi inviare solo max 2000kr per trasferimento e giorno. Puoi vedere i tuoi account collegati nell applicazione nella scheda Download.",
   "push_parent_not_giving_chores": "PLZ_TRANSLATE Prendi i tuoi figli per aiutarti a casa! Dare un compito al tuo bambino!",
-  "push_event_request_money": "PLZ_TRANSLATE {kid_id} chiede più soldi ( {amount} )!"
+  "push_event_request_money": "PLZ_TRANSLATE {kid_id} chiede più soldi ({amount})!"
 }

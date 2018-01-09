@@ -163,5 +163,5 @@
   "trustly_manual_transaction_email_subject": "PLZ_TRANSLATE Jú, þú hefur bara sent {transaction.str_value} í {transaction.child.name} ?",
   "trustly_manual_transaction_email_body": "PLZ_TRANSLATE Vegna þess að þú hefur gert kleift að flytja einfaldlega millifærslur úr reikningnum þínum til {transaction.child.name} reikninginn sem þarfnast ekki Mobile BankID reikning, viljum við bara vera viss um að þú gerðir bara að flytja. Ef svo er getur þú hunsað þetta tölvupóst. Ef þú ert ekki, þú  ll þörf til að athuga hvort einhver hefur aðgang að símanum. Vinsamlegast athugaðu að einfaldar millifærslur eru aðeins gerðar á milli reikninga sem þú hefur áður tengt við BankID og traustan samstarfsaðila og þú getur aðeins sent hámark 2000kr á dag og flutning. Þú getur séð tengda reikninga þína í forritinu undir flipanum Downloads.",
   "push_parent_not_giving_chores": "PLZ_TRANSLATE Fáðu börnin þín til að hjálpa heima! Gefðu verkefni fyrir barnið þitt!",
-  "push_event_request_money": "PLZ_TRANSLATE {kid_id} er að biðja um meiri peninga ( {amount} )!"
+  "push_event_request_money": "PLZ_TRANSLATE {kid_id} er að biðja um meiri peninga ({amount})!"
 }

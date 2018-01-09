@@ -163,5 +163,5 @@
   "trustly_manual_transaction_email_subject": "Sådan! du har lige sendt {transaction.str_value} til {transaction.child.name} ?",
   "trustly_manual_transaction_email_body": "Fordi du har foretaget en enkel overførsel fra din konto til {transaction.child.name} -konto, kræver det ingen Mobile BankID-konto. Vi vil bare sikre os at du har foretaget en overførsel. Hvis dette er tilfældet, så ignorer blot denne email. Hvis dette ikke er tilfældet, vil vi bede dig om at kontrollere, om nogen har adgang til din telefon. Bemærk venligst, at enkelte overførsler kun kan foretages mellem de konti, du tidligere har knyttet til din BankID og vores troværdige partner. Du kan overføre maks. 2000kr per Overførsel per dag. Du kan se dine tilknyttede konti i appen under fanen Downloads.",
   "push_parent_not_giving_chores": "PLZ_TRANSLATE Få dine børn til at hjælpe hjemme! Giv en opgave til dit barn!",
-  "push_event_request_money": "PLZ_TRANSLATE {kid_id} beder om flere penge ( {amount} )!"
+  "push_event_request_money": "PLZ_TRANSLATE {kid_id} beder om flere penge ({amount})!"
 }
