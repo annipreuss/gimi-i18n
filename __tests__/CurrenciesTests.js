@@ -41,4 +41,13 @@ describe('Currencies', () => {
       expect(ExchangeRates[getSupportedCurrencyInfos()[key].code]).toBeDefined()
     })
   })
+
+  Object.keys(getSupportedCurrencyInfos()).forEach(key => {
+    it(`All defined currencies should be a positive number ${ExchangeRates[getSupportedCurrencyInfos()[key].code]} `, () => {
+      var isNumber = new Decimal(ExchangeRates[getSupportedCurrencyInfos()[key].code])
+
+      expect(isNumber.isPositive()).toBeTruthy()
+      expect(ExchangeRates[getSupportedCurrencyInfos()[key].code]).toBeDefined()
+    })
+  })
 })
