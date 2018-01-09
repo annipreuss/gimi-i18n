@@ -35,9 +35,6 @@ describe('Currencies', () => {
 
   Object.keys(getSupportedCurrencyInfos()).forEach(key => {
     it(`All defined currencies should have conversion rate ${ExchangeRates[getSupportedCurrencyInfos()[key].code]} `, () => {
-      var isNumber = new Decimal(ExchangeRates[getSupportedCurrencyInfos()[key].code])
-
-      expect(isNumber).toBeTruthy()
       expect(ExchangeRates[getSupportedCurrencyInfos()[key].code]).toBeDefined()
     })
   })
