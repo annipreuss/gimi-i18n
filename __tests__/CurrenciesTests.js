@@ -3,6 +3,7 @@ import {getSupportedCurrencyInfos, getDefaultCurrencyCode} from '../index'
 import DefaultCurrencies from '../DefaultCurrencies'
 import ExchangeRates from '../ExchangeRates'
 import 'babel-polyfill'
+import Decimal from 'decimal.js-light'
 
 jest.disableAutomock()
 
@@ -33,7 +34,10 @@ describe('Currencies', () => {
   })
 
   Object.keys(getSupportedCurrencyInfos()).forEach(key => {
-    it(`All defined currencies should have conversion rate ${key} `, () => {
+    it(`All defined currencies should have conversion rate ${ExchangeRates[getSupportedCurrencyInfos()[key].code]} `, () => {
+      var isNumber = new Decimal(ExchangeRates[getSupportedCurrencyInfos()[key].code])
+
+      expect(isNumber).toBeTruthy()
       expect(ExchangeRates[getSupportedCurrencyInfos()[key].code]).toBeDefined()
     })
   })
