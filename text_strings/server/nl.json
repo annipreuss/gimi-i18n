@@ -162,5 +162,6 @@
   "event_withdrawal_child": " {user.name} haalde {transaction.str_value} uit de spaarpot",
   "trustly_manual_transaction_email_subject": "PLZ_TRANSLATE Tuurlijk heb je {transaction.str_value} naar {transaction.child.name} verzonden?",
   "trustly_manual_transaction_email_body": "PLZ_TRANSLATE Omdat u eenvoudige overboekingen van uw account hebt geactiveerd op het account {transaction.child.name} waarvoor geen Mobile BankID-account nodig is, wilden we ervoor zorgen dat u alleen een overdracht maakte. Zo ja, kunt u deze e-mail negeren. Als je dat niet doet, je  ll nodig hebt om te controleren of iemand toegang tot uw telefoon heeft. Houd er rekening mee dat eenvoudige overboekingen alleen kunnen worden gemaakt tussen de accounts die u eerder hebt gekoppeld aan BankID en onze vertrouwde partner. U kunt alleen maximaal 2000kr per transfer en dag verzenden. U kunt uw gekoppelde accounts in de app zien onder het tabblad Downloads.",
-  "push_parent_not_giving_chores": "PLZ_TRANSLATE Laat je kinderen thuis helpen! Geef een taak aan je kind!"
+  "push_parent_not_giving_chores": "PLZ_TRANSLATE Laat je kinderen thuis helpen! Geef een taak aan je kind!",
+  "push_event_request_money": "PLZ_TRANSLATE {kid_id} vraagt ​​om meer geld ( {amount} )!"
 }

@@ -162,5 +162,6 @@
   "event_withdrawal_child": "{user.name} hat {transaction.str_value} aus dem Sparschwein abgebucht",
   "trustly_manual_transaction_email_subject": "Hast Du soeben {transaction.str_value} an {transaction.child.name} überwiesen?",
   "trustly_manual_transaction_email_body": "Da Du die einfache Überweisung von Deinem Konto auf das Konto von {transaction.child.name} aktiviert hast, für das kein Mobile BankID-Konto erforderlich ist, möchten wir uns lediglich vergewissern, dass Du tatsächlich Geld überweisen wolltest. Wenn dies der Fall ist, kannst Du diese E-Mail einfach ignorieren. Falls nicht, solltest Du sofort kontrollieren, ob jemand Zugriff auf Dein Konto hat. Bitte beachte, dass einfache Überweisungen nur zwischen den Konten möglich sind, die Du zuvor mit BankID und unserem Trustly-Partner verknüpft hast, und dass Du maximal 2000 kr pro Überweisung und Tag verschicken kannst. Du kannst Dir Deine verknüpften Konten in der App unter der Registerkarte Downloads anzeigen lassen.",
-  "push_parent_not_giving_chores": "Lass Deine Kinder im Haushalt helfen, indem Du ihnen eine Aufgabe gibst!"
+  "push_parent_not_giving_chores": "Lass Deine Kinder im Haushalt helfen, indem Du ihnen eine Aufgabe gibst!",
+  "push_event_request_money": "PLZ_TRANSLATE {kid_id} fragt nach mehr Geld ( {amount} )!"
 }

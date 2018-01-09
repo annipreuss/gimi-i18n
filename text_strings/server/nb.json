@@ -162,5 +162,6 @@
   "event_withdrawal_child": "{user.name} trekte {transaction.str_value} fra sparegrisen{user.name}",
   "trustly_manual_transaction_email_subject": "PLZ_TRANSLATE Visst, du har nettopp sendt {transaction.str_value} til {transaction.child.name} ?",
   "trustly_manual_transaction_email_body": "PLZ_TRANSLATE Fordi du har aktivert enkle overføringer fra kontoen din til {transaction.child.name} -kontoen som ikke krever en Mobile BankID-konto, ville vi bare forsikre deg om at du bare gjorde en overføring. Hvis ja, kan du ignorere denne e-postadressen. Hvis du ikke gjør det, du ll trenger å sjekke om noen har tilgang til telefonen. Vær oppmerksom på at enkle overføringer kun kan gjøres mellom kontoene du tidligere har koblet til BankID og vår trofaste partner, og du kan bare sende maks. 2000kr per overføring og dag. Du kan se dine koblede kontoer i appen under kategorien Nedlastinger.",
-  "push_parent_not_giving_chores": "PLZ_TRANSLATE Få barna dine til å hjelpe hjemme! Gi en oppgave til barnet ditt!"
+  "push_parent_not_giving_chores": "PLZ_TRANSLATE Få barna dine til å hjelpe hjemme! Gi en oppgave til barnet ditt!",
+  "push_event_request_money": "PLZ_TRANSLATE {kid_id} ber om flere penger ( {amount} )!"
 }
