@@ -164,5 +164,6 @@
   "trustly_manual_transaction_email_body": "PLZ_TRANSLATE Kuna olete lubanud lihtsad ülekanded oma kontolt {transaction.child.name} kontole, mis ei vaja Mobile BankIDi kontot, tahtisime lihtsalt veenduda, et olete lihtsalt ülekande teinud. Kui jah, võite selle e-kirja ignoreerida. Kui te seda ei tee, siis  ll vaja kontrollida, kas keegi on juurdepääs telefoni. Pange tähele, et lihtsaid ülekandeid saab teha ainult nende kontode vahel, mis on eelnevalt seotud BankID-iga ja meie usaldusväärse partneriga, ja saate saata maksimaalselt 2000 krooni ülekande ja päeva kohta. Saate vahekaardil Allalaaditud rakendustes näha lingitud kontosid.",
   "push_parent_not_giving_chores": "PLZ_TRANSLATE Laske lapsi kodus aidata! Andke oma lapsele ülesanne!",
   "push_event_request_money": "PLZ_TRANSLATE {kid_id} palub rohkem raha ({amount})!",
-  "push_event_request_money_title": "PLZ_TRANSLATE {child_name} küsib raha!"
+  "push_event_request_money_title": "PLZ_TRANSLATE {child_name} küsib raha!",
+  "push_interest_notification": "PLZ_TRANSLATE Uus Gimi intressitase: {interest_rate}"
 }

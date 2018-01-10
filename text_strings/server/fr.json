@@ -164,5 +164,6 @@
   "trustly_manual_transaction_email_body": "PLZ_TRANSLATE Parce que vous avez activé des transferts simples de votre compte vers le compte {transaction.child.name} qui ne nécessitent pas de compte Mobile BankID, nous voulions simplement vous assurer que vous venez de faire un transfert. Dans affirmative, vous pouvez ignorer ce courrier électronique. Si vous ne le faites pas, vous aurez besoin de vérifier si quelquun a accès à votre téléphone. Veuillez noter que les transferts simples ne peuvent être effectués qentre les comptes que vous avez précédemment liés à BankID et à notre partenaire Trustly, et vous pouvez uniquement envoyer un maximum de 2000kr par transfert et par jour. Vous pouvez voir vos comptes liés dans application sous onglet Téléchargements.",
   "push_parent_not_giving_chores": "PLZ_TRANSLATE Obtenez vos enfants pour aider à la maison! Donnez une tâche à votre enfant!",
   "push_event_request_money": "PLZ_TRANSLATE {kid_id} demande plus d`argent ({amount})!",
-  "push_event_request_money_title": "PLZ_TRANSLATE {child_name} demande de l`argent!"
+  "push_event_request_money_title": "PLZ_TRANSLATE {child_name} demande de l`argent!",
+  "push_interest_notification": "PLZ_TRANSLATE Nouveau niveau d'intérêt de Gimi: {interest_rate}"
 }
