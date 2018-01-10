@@ -56,7 +56,9 @@
     "json-loader": "0.5.4",
     "moment": "2.18.1",
     "node-slack": "0.0.7",
+    "decimal.js-light": "2.3.1",
     "pre-push": "0.1.1"
+
   },
   "dependencies": {
     "@google-cloud/translate": "0.8.2",
