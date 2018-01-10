@@ -34,13 +34,13 @@ describe('Currencies', () => {
   })
 
   Object.keys(getSupportedCurrencyInfos()).forEach(key => {
-    it(`All defined currencies should have conversion rate ${ExchangeRates[getSupportedCurrencyInfos()[key].code]} `, () => {
+    it(`All defined currencies should have conversion rate ${key} `, () => {
       expect(ExchangeRates[getSupportedCurrencyInfos()[key].code]).toBeDefined()
     })
   })
 
   Object.keys(getSupportedCurrencyInfos()).forEach(key => {
-    it(`All defined currencies should be a positive number ${ExchangeRates[getSupportedCurrencyInfos()[key].code]} `, () => {
+    it(`All defined currencies should be a positive number ${key} `, () => {
       var exchangeRate = new Decimal(ExchangeRates[getSupportedCurrencyInfos()[key].code])
 
       expect(exchangeRate.isPositive()).toBeTruthy()
