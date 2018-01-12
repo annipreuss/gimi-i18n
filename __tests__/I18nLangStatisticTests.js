@@ -1,4 +1,4 @@
-/* eslint flow-header/flow-header: 0 */
+
 import {getTextStrings, languageCodes, languageCodesForTranslation} from '../index'
 import {stringLenghtStatistic, stringTranslationTags} from '../TestUtil'
 var languageCodesHolder = languageCodes

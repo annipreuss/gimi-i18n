@@ -1,4 +1,4 @@
-/* eslint flow-header/flow-header: 0 */
+
 import fs from 'fs'
 import jsonValidator from 'json-dup-key-validator'
 jest.disableAutomock()

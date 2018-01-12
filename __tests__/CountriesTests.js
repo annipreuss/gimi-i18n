@@ -1,4 +1,4 @@
-/* eslint flow-header/flow-header: 0 */
+
 import {getCountries, getCountry} from '../index'
 jest.disableAutomock()
 

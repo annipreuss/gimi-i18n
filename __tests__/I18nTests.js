@@ -1,4 +1,4 @@
-/* eslint flow-header/flow-header: 0 */
+
 import {languageCodes, languageCodesForTranslation} from '../index'
 import {searchPlzTranslate, searchBreakingSymbols} from '../TestUtil'
 var stringTagData = []

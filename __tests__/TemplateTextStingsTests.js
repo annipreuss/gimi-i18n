@@ -1,4 +1,4 @@
-/* eslint flow-header/flow-header: 0 */
+
 import svLang from '../text_strings/templates/sv.json'
 jest.disableAutomock()
 

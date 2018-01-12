@@ -1,4 +1,4 @@
-/* eslint flow-header/flow-header: 0 */
+
 // import * as BirgittaHelper from '../utils/src/BirgittaHelper'
 // jest.unmock('../utils/src/BirgittaHelper')
 

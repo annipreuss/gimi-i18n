@@ -1,4 +1,4 @@
-/* eslint flow-header/flow-header: 0 */
+
 /* eslint no-console:0 */
 import {getTextStrings, supportedLanguageCodes} from '../index'
 import {compareKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'

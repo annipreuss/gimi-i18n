@@ -1,4 +1,4 @@
-/* eslint flow-header/flow-header: 0 */
+
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 var fs = require('fs')
 var translate = require('@google-cloud/translate')({

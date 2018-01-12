@@ -1,4 +1,4 @@
-/* eslint flow-header/flow-header: 0 */
+
 import {getCurrencyConfig} from '../lib/CurrencyConfig'
 var fs = require('fs')
 var configs = []
