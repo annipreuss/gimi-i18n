@@ -1609,5 +1609,7 @@
   "revoke_permission_title": "PLZ_CHECK Att ta bort behörigheter kan leda till funktionshindrade funktioner",
   "from_someone": "From %1$d",
   "task_enabled": "Du Chore var godkänd! \nDags att komma till jobbet",
-  "task_reject": "Avvisa"
+  "task_reject": "Avvisa",
+  "nps_title": "How likely is it that you would recommend Gimi to a friend or colleague?",
+  "nps_description": "0 = Not at all likely\n5 = Neutral\n10 = Extremely likely"
 }

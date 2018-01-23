@@ -1610,5 +1610,7 @@
   "revoke_permission_title": "PLZ_CHECK Att ta bort behörigheter kan leda till funktionshindrade funktioner",
   "from_someone": "Från %1$d",
   "task_enabled": "PLZ_CHECK Du Chore var godkänd! \nDags att komma till jobbet",
-  "task_reject": "Avvisa"
+  "task_reject": "Avvisa",
+  "nps_title": "Hur troligt är det att du skulle rekommendera Veckopengen till en vän eller kollega?",
+  "nps_description": "0 = Inte troligt alls\n5 = Neutralt\n10 = Väldigt troligt"
 }

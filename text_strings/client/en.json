@@ -1609,5 +1609,7 @@
   "revoke_permission_title": "Removing permissions may result in disblaed features",
   "from_someone": "From %1$d",
   "task_enabled": "You Chore was Approved! \nTime to get to work",
-  "task_reject": "Reject"
+  "task_reject": "Reject",
+  "nps_title": "How likely is it that you would recommend Gimi to a friend or colleague?",
+  "nps_description": "0 = Not at all likely\n5 = Neutral\n10 = Extremely likely"
 }
