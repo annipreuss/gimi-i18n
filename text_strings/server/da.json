@@ -141,7 +141,7 @@
   "event_assignment_auto_approved": "Opgaven er automatisk godkendt: {assignment.task.title}",
   "dashboard_connected_parent": "Du er nu forbundet med {child.name}",
   "push_before_super_parent": "Du er nu tæt på at blive en superforælder! Det eneste der er tilbage at gøre, er at forbinde dig med dit barn",
-  "push_intro_chores": "Rart at se dig hos os. Det er nu tid til at opgive dine børn. Måske er det € 0,50 værd at ikke at skåle i aften? :-)",
+  "push_intro_chores": "Fedt at se dig sammen med os! Nu er det tid til at uddele nogle opgaver til dine børn. Er du villig til at betale 5 kr. for at undgå aftenopvasken? :-)",
   "push_intro_make_deposit": "Det er tid til at gøre dine børns kontanter digitale. Lav et depositum i spargrisen for at få dine børn til at vokse financielt",
   "push_reminder_give_chores": "Glem ikke at give dine børn opgaver så de kan tjene nogle ekstra penge, samtidig med at de lærer hvordan pengene fungerer. Find eksempelopgaver i appen",
   "push_suggest_task": "Du kan nu foreslå opgaver til dine forældre. Vælg Opgaver i appen og giv derefter et forslag til en opgave. På denne måde kan du tjene nogle ekstra penge",
