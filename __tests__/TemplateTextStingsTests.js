@@ -16,7 +16,7 @@ var checkForPattern = (patternString: string): boolean => {
 }
 
 describe('default', () => {
-  xit('Should have _description for _name or _title', () => {
+  it('Should have _description for _name or _title', () => {
     var errors = []
 
     var langKeys = Object.keys(svLang)
