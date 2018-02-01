@@ -53,7 +53,7 @@ export let getSuggestedAllowanceByAgeAndCountry = (birthDayYear: number, country
   var suggestedAllowanceForCountry = allowanceSuggestions[countryCode]
   var allowanceTypeConverted = allowanceType === 0 ? 'weekly' : 'monthly'
   var defaultAllowanceConf = allowanceSuggestions['default'][allowanceTypeConverted][birthDayYear]
-
+  if (birthDayYear >= 18) birthDayYear = 16
   switch (true) {
     case !suggestedAllowanceForCountry:
       return ExchangeRates[getDefaultCurrencyCode(countryCode)] * defaultAllowanceConf
