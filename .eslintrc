@@ -26,6 +26,7 @@
       "camelcase": 1,
       "no-dupe-keys": 1,
       "curly": [1, "multi"],
-      "no-self-compare": 1
+      "no-self-compare": 1,
+       "react/jsx-tag-spacing": ["error", { "beforeSelfClosing": "always" }]
     },
 }
