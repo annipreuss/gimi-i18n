@@ -28,7 +28,6 @@ import itCalendar from './text_strings/calendar/it.json'
 import esCalendar from './text_strings/calendar/es.json'
 import deCalendar from './text_strings/calendar/de.json'
 import etCalendar from './text_strings/calendar/et.json'
-
 import _default from './text_strings/client/default.json'
 import CountryCodes from './CountryCodes.json'
 import Regions from './Regions.json'
@@ -47,7 +46,6 @@ export var supportedTimeZonesAndroid =
 export var languageCodes = ['da', 'fi', 'is', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et']
 
 export let languageCodesForTranslation = ['nb', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
-
 
 export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> => [
   {code: 'SEK', name: 'Swedish Krona'},
