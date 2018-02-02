@@ -1612,5 +1612,6 @@
   "task_enabled": "PLZ_CHECK Du Chore var godkänd! \nDags att komma till jobbet",
   "task_reject": "Avvisa",
   "nps_title": "Hur troligt är det att du skulle rekommendera Veckopengen till en vän eller kollega?",
-  "nps_description": "0 = Inte troligt alls\n5 = Neutralt\n10 = Väldigt troligt"
+  "nps_description": "0 = Inte troligt alls\n5 = Neutralt\n10 = Väldigt troligt",
+  "go_settings": "PLZ_CHECK Gå till Inställningar"
 }

@@ -1611,5 +1611,6 @@
   "task_enabled": "Du Chore var godkänd! \nDags att komma till jobbet",
   "task_reject": "Avvisa",
   "nps_title": "How likely is it that you would recommend Gimi to a friend or colleague?",
-  "nps_description": "0 = Not at all likely\n5 = Neutral\n10 = Extremely likely"
+  "nps_description": "0 = Not at all likely\n5 = Neutral\n10 = Extremely likely",
+  "go_settings": "Go to Settings"
 }

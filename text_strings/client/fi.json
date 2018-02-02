@@ -1611,5 +1611,6 @@
   "task_enabled": "Askareesi hyväksyttiin! \nAika ruveta töihin",
   "task_reject": "Hylkää",
   "nps_title": "Kuinka todennäköisesti suosittelisit Gimiä kaverille tai kolleegalle?",
-  "nps_description": "0 = Erittäin epätodennäköisesti\n5 = En ota kantaa\n10 = Erittäin todennäköisesti"
+  "nps_description": "0 = Erittäin epätodennäköisesti\n5 = En ota kantaa\n10 = Erittäin todennäköisesti",
+  "go_settings": "Go to Settings"
 }
