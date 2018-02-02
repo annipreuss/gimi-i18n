@@ -38,7 +38,6 @@ import LanguageCodes from './LanguageCodes.json'
 import countryCodes2PhoneNumberPrefixes from './countryCodes2PhoneNumberPrefixes.json'
 import ExchangeRates from './ExchangeRates'
 import DefaultCurrencies from './DefaultCurrencies'
-import {allowanceSuggestions} from './config/AllowanceSuggestions'
 export var supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et']
 export var supportedTimeZonesAndroid =
   ['Europe/Stockholm', 'Europe/Oslo', 'Europe/Helsinki', 'Europe/Copenhagen', 'Europe/Prague', 'Europe/London', 'America/New_York', 'America/Los_Angeles',
@@ -49,18 +48,6 @@ export var languageCodes = ['da', 'fi', 'is', 'sv', 'nb', 'en', 'fr', 'nl', 'be'
 
 export let languageCodesForTranslation = ['nb', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
 
-export let getSuggestedAllowanceByAgeAndCountry = (birthDayYear: number, countryCode: string, allowanceType: number) => {
-  var suggestedAllowanceForCountry = allowanceSuggestions[countryCode]
-  var allowanceTypeConverted = allowanceType === 0 ? 'weekly' : 'monthly'
-  var defaultAllowanceConf = allowanceSuggestions['default'][allowanceTypeConverted][birthDayYear]
-  if (birthDayYear > 16) birthDayYear = 16
-  switch (true) {
-    case !suggestedAllowanceForCountry:
-      return ExchangeRates[getDefaultCurrencyCode(countryCode)] * defaultAllowanceConf
-    default:
-      return suggestedAllowanceForCountry[allowanceTypeConverted][birthDayYear]
-  }
-}
 
 export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> => [
   {code: 'SEK', name: 'Swedish Krona'},
@@ -137,3 +124,5 @@ export let getSupportedTimeZones = () => {
   })
   return shortList || Timezones
 }
+
+export let exchangeRates = ExchangeRates
