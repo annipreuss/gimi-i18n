@@ -165,5 +165,6 @@
   "push_parent_not_giving_chores": "Get your kids to help at home! Give a task to your child!",
   "push_event_request_money": "{kid_id} is asking for more money ({amount})!",
   "push_event_request_money_title": "{child_name} is asking for money!",
-  "push_interest_notification": "New Gimi Interest Level: {interest_rate}"
+  "push_interest_notification": "New Gimi Interest Level: {interest_rate}",
+  "phone_number_verification_sms": "Verification code: {code}"
 }

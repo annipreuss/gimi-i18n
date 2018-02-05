@@ -165,5 +165,6 @@
   "push_parent_not_giving_chores": "Pistä lapsesi auttamaan kotona! Tee askare lapsellesi!",
   "push_event_request_money": "{kid_id} pyytää lisää rahaa ({amount})!",
   "push_event_request_money_title": "{child_name} pyytää rahaa!",
-  "push_interest_notification": "Uusi Gimin korkotaso: {interest_rate}"
+  "push_interest_notification": "Uusi Gimin korkotaso: {interest_rate}",
+  "phone_number_verification_sms": "PLZ_TRANSLATE Vahvistuskoodi: {code}"
 }

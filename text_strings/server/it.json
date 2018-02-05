@@ -165,5 +165,6 @@
   "push_parent_not_giving_chores": "PLZ_TRANSLATE Prendi i tuoi figli per aiutarti a casa! Dare un compito al tuo bambino!",
   "push_event_request_money": "PLZ_TRANSLATE {kid_id} chiede più soldi ({amount})!",
   "push_event_request_money_title": "PLZ_TRANSLATE {child_name} chiede denaro!",
-  "push_interest_notification": "PLZ_TRANSLATE Nuovo livello di interesse di Gimi: {interest_rate}"
+  "push_interest_notification": "PLZ_TRANSLATE Nuovo livello di interesse di Gimi: {interest_rate}",
+  "phone_number_verification_sms": "PLZ_TRANSLATE Codice di verifica: {code}"
 }

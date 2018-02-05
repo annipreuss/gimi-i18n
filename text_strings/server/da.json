@@ -165,5 +165,6 @@
   "push_parent_not_giving_chores": "PLZ_TRANSLATE Få dine børn til at hjælpe hjemme! Giv en opgave til dit barn!",
   "push_event_request_money": "PLZ_TRANSLATE {kid_id} beder om flere penge ({amount})!",
   "push_event_request_money_title": "PLZ_TRANSLATE {child_name} beder om penge!",
-  "push_interest_notification": "PLZ_TRANSLATE Nyt Gimi Interesse Niveau: {interest_rate}"
+  "push_interest_notification": "PLZ_TRANSLATE Nyt Gimi Interesse Niveau: {interest_rate}",
+  "phone_number_verification_sms": "PLZ_TRANSLATE Bekræftelseskode: {code}"
 }

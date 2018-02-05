@@ -165,5 +165,6 @@
   "push_parent_not_giving_chores": "PLZ_TRANSLATE Fáðu börnin þín til að hjálpa heima! Gefðu verkefni fyrir barnið þitt!",
   "push_event_request_money": "PLZ_TRANSLATE {kid_id} er að biðja um meiri peninga ({amount})!",
   "push_event_request_money_title": "PLZ_TRANSLATE {child_name} er að biðja um peninga!",
-  "push_interest_notification": "PLZ_TRANSLATE Nýtt Gimi vextir stig: {interest_rate}"
+  "push_interest_notification": "PLZ_TRANSLATE Nýtt Gimi vextir stig: {interest_rate}",
+  "phone_number_verification_sms": "PLZ_TRANSLATE Staðfestingarkóði: {code}"
 }

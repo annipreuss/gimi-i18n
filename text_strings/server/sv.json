@@ -165,5 +165,6 @@
   "push_parent_not_giving_chores": "Få dina barn att hjälpa till hemma! Ge ut en uppgift till ditt barn!",
   "push_event_request_money": "{kid_id} ber om fler pengar ({amount})!",
   "push_event_request_money_title": "{child_name} ber om pengar!",
-  "push_interest_notification": "Ny Gimi Intresse Nivå: {interest_rate}"
+  "push_interest_notification": "Ny Gimi Intresse Nivå: {interest_rate}",
+  "phone_number_verification_sms": "Verifieringskod: {code}"
 }
