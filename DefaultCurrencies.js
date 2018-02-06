@@ -28,5 +28,4 @@ export default {
   'ID': 'IDR', // Indonesia
   'CH': 'CHF',
   'CO': 'COP'
-
 }
