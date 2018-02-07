@@ -166,5 +166,6 @@
   "push_event_request_money": "PLZ_TRANSLATE {kid_id} chiede più soldi ({amount})!",
   "push_event_request_money_title": "PLZ_TRANSLATE {child_name} chiede denaro!",
   "push_interest_notification": "PLZ_TRANSLATE Nuovo livello di interesse di Gimi: {interest_rate}",
-  "phone_number_verification_sms": "PLZ_TRANSLATE Codice di verifica: {code}"
+  "phone_number_verification_sms": "PLZ_TRANSLATE Codice di verifica: {code}",
+  "request_pin_code_change_sms": "PLZ_TRANSLATE Il tuo codice di verifica per la modifica del codice pin è: {code}"
 }

@@ -166,5 +166,6 @@
   "push_event_request_money": "{kid_id} pyytää lisää rahaa ({amount})!",
   "push_event_request_money_title": "{child_name} pyytää rahaa!",
   "push_interest_notification": "Uusi Gimin korkotaso: {interest_rate}",
-  "phone_number_verification_sms": "PLZ_TRANSLATE Vahvistuskoodi: {code}"
+  "phone_number_verification_sms": "PLZ_TRANSLATE Vahvistuskoodi: {code}",
+  "request_pin_code_change_sms": "PLZ_TRANSLATE PIN-koodin vaihtamiseen tarvittava vahvistuskoodi on {code}"
 }

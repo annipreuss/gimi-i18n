@@ -166,5 +166,6 @@
   "push_event_request_money": "PLZ_TRANSLATE {kid_id} palub rohkem raha ({amount})!",
   "push_event_request_money_title": "PLZ_TRANSLATE {child_name} küsib raha!",
   "push_interest_notification": "PLZ_TRANSLATE Uus Gimi intressitase: {interest_rate}",
-  "phone_number_verification_sms": "PLZ_TRANSLATE Kinnituskood: {code}"
+  "phone_number_verification_sms": "PLZ_TRANSLATE Kinnituskood: {code}",
+  "request_pin_code_change_sms": "PLZ_TRANSLATE Teie PIN-koodi muutmise kinnituskood on: {code}"
 }

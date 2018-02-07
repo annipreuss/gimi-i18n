@@ -166,5 +166,6 @@
   "push_event_request_money": "PLZ_TRANSLATE {kid_id} beder om flere penge ({amount})!",
   "push_event_request_money_title": "PLZ_TRANSLATE {child_name} beder om penge!",
   "push_interest_notification": "PLZ_TRANSLATE Nyt Gimi Interesse Niveau: {interest_rate}",
-  "phone_number_verification_sms": "PLZ_TRANSLATE Bekræftelseskode: {code}"
+  "phone_number_verification_sms": "PLZ_TRANSLATE Bekræftelseskode: {code}",
+  "request_pin_code_change_sms": "PLZ_TRANSLATE Din bekræftelseskode til ændring af din PIN-kode er: {code}"
 }

@@ -166,5 +166,6 @@
   "push_event_request_money": "PLZ_TRANSLATE {kid_id} fragt nach mehr Geld ({amount})!",
   "push_event_request_money_title": "PLZ_TRANSLATE {child_name} fragt nach Geld!",
   "push_interest_notification": "PLZ_TRANSLATE Neue Gimi-Zinsstufe: {interest_rate}",
-  "phone_number_verification_sms": "PLZ_TRANSLATE Bestätigungscode: {code}"
+  "phone_number_verification_sms": "PLZ_TRANSLATE Bestätigungscode: {code}",
+  "request_pin_code_change_sms": "PLZ_TRANSLATE Ihr Bestätigungscode zum Ändern Ihres PIN-Codes lautet: {code}"
 }

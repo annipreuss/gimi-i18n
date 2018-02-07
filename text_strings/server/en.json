@@ -166,5 +166,6 @@
   "push_event_request_money": "{kid_id} is asking for more money ({amount})!",
   "push_event_request_money_title": "{child_name} is asking for money!",
   "push_interest_notification": "New Gimi Interest Level: {interest_rate}",
-  "phone_number_verification_sms": "Verification code: {code}"
+  "phone_number_verification_sms": "Verification code: {code}",
+  "request_pin_code_change_sms": "Your verification code for changing your pin-code is: {code}"
 }

@@ -166,5 +166,6 @@
   "push_event_request_money": "PLZ_TRANSLATE {kid_id} vraagt ​​om meer geld ({amount})!",
   "push_event_request_money_title": "PLZ_TRANSLATE {child_name} vraagt ​​om geld!",
   "push_interest_notification": "PLZ_TRANSLATE Nieuw Gimi-interesseniveau: {interest_rate}",
-  "phone_number_verification_sms": "PLZ_TRANSLATE Verificatiecode: {code}"
+  "phone_number_verification_sms": "PLZ_TRANSLATE Verificatiecode: {code}",
+  "request_pin_code_change_sms": "PLZ_TRANSLATE Uw verificatiecode voor het wijzigen van uw pincode is: {code}"
 }
