@@ -67,6 +67,7 @@ export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> =
 ]
 
 export let getTextStrings = (lang: string) => {
+  lang = 'en'
   switch (lang.substring(0, 2)) {
     case 'da' : return {..._default, ...da} // danish
     case 'sv' : return {..._default, ...sv} // sweden
