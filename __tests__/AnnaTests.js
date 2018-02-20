@@ -19,7 +19,7 @@ describe('AnnaHelper', () => {
 
   it('it should not have ANNA in en or sv', () => {
     var annaError = []
-    var textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator', 'moonshine']
+    var textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator'] // 'moonshine'
     var languageCodesHolder = ['en', 'sv']
     var textStrings = {}
     textStringsTypes.forEach(textStringsType => {

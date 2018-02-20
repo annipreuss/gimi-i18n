@@ -5,7 +5,7 @@ var stringTagData = []
 var jsonDataTranslate = []
 var jsonBreakingSumbols = []
 
-var textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator', 'moonshine']
+var textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator'] // 'moonshine'
 
 var textStrings = {}
 textStringsTypes.forEach(textStringsType => {
