@@ -306,5 +306,7 @@
   "questions_lib": "frågebilbiotek",
   "general_contact": "contact",
   "email_us": "email us",
-  "call_us": "call us"
+  "call_us": "call us",
+  "chat_us": "Chat with us!",
+  "open_now": "Open Now!"
 }
