@@ -128,7 +128,7 @@
   "category_name_47": "Savings goal Help",
   "category_name_48": "Bank transfer",
   "select_image_title": "How do you want to select image?",
-  "parent_nav_bar_settings": "settings",
+  "general_settings": "settings",
   "parent_nav_bar_settings_kid": "settings %1$d",
   "facebook_profile_pic": "Use your facebook profile picture",
   "settings_user": "user settings",
@@ -247,7 +247,10 @@
   "nav_bar_kid_connections": "connections %1$d",
   "general_parents": "parents",
   "general_parent": "parent",
-  "permission_to_deposit": "permission to deposit"
+  "permission_to_deposit": "permission to deposit",
+  "nav_bar_kid_settings": "profile",
+  "new_connection": "new connection",
+  "add_connection": "Add connection"
 
 
 }
