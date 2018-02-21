@@ -286,5 +286,6 @@
   "how_do_you_connect": "How do you want to connect?",
   "connect_qr_desc": "Use your camera to scan a code on your contacts phone if they are nearby",
   "connect_email_desc":"We will send an e-mail to your contact to invite them and connect wth you",
-  "connect_sms_desc":"We will send a text message to your contact to invite them and to connect to you"
+  "connect_sms_desc":"We will send a text message to your contact to invite them and to connect to you",
+  "suggested_task_message": "Suggested task send"
 }
