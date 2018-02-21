@@ -159,8 +159,16 @@
   "main_website_link": "https://www.gimitheapp.com/",
   "delete_history": "delete history",
   "who_pays": "Who pays",
-  "who_pays_full": "I pay full",
-  "who_pays_half": "I pay half",
+  "who_pays_full": "i pay full",
+  "who_pays_half": "i pay half",
   "who_pays_nothing": "someone else pays",
-  "not_selected": "not selected"
+  "not_selected": "not selected",
+  "who_pays_allowance": "who will be paying %1$d?",
+  "pay_full_allowance":"I pay full allowance",
+  "pay_half_allowance": "I pay half allowance",
+  "pay_no_allowance": "I don't pay allowance",
+  "pay_full_allowance_more": "I want to pay full allowance, interest and chores",
+  "pay_half_allowance_more": "Another parent pays as well, so I pay half allowance, interest and chores",
+  "pay_no_allowance_more": "Someone else pays, but I can always pitch in sometimes and hand out chores"
+
 }
