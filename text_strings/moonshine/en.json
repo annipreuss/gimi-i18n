@@ -295,5 +295,16 @@
   "nav_bar_new_chore": "new chore for %1$d",
   "copy_current": "duplicate current",
   "choose_popular": "choose from popular",
-  "choose_latest": "choose from latest"
+  "choose_latest": "choose from latest",
+  "general_questions":"questions",
+  "video_tutorials": "videotutorials",
+  "questions_about_app": "vanliga frågor om appen",
+  "questions_about_card": "vanliga frågor om kortet",
+  "questions_register": "registrering & kom igång",
+  "questions_permissions": "rättigheter & säkerhet",
+  "blogs_and_features": "Bloggposts nya features",
+  "questions_lib": "frågebilbiotek",
+  "general_contact": "contact",
+  "email_us": "email us",
+  "call_us": "call us"
 }
