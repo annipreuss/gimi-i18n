@@ -186,6 +186,66 @@
   "try_again_in_timer": "Du kan prova igen om %1$d dagar",
   "card_test_passed": "Korttestet godkänt 👍",
   "card_test_failed": "Korttestet ej godkänt 🙁",
-  "card_test_score": "Ditt resultat %1$d"
+  "card_test_score": "Ditt resultat %1$d",
+  "card_test_question_1": "Vad ska du göra om du tappar bort ditt kort?",
+  "card_test_question_2": "Kan du köpa ett par hörlurar för 249 kr om ditt saldo är 239 kr?",
+  "card_test_question_3": "Vad ska du göra med kortets PIN-kod?",
+  "card_test_question_4": "Vad händer om du slår in fel PIN kod 3 gånger?",
+  "card_test_question_5": "Vad ska du göra om någon frågar dig om ditt kortnummer och CVV-kod?",
+  "card_test_question_6": "Vad är viktigast att tänka på när du handlar online?",
+  "card_test_question_7": "Vad händer om du köpt en prenumeration som kostar 99kr i månaden?",
+  "card_test_question_8": "Ska du låna ut ditt kort till någon annan?",
+  "card_test_question_9": "Vad ska du göra om du tappar bort ditt kort?",
+  "card_test_question_10": "Vad ska du göra om du upptäcker en transaktion som du inte känner igen?",
+
+  "card_test_question_1_answer_1": "",
+  "card_test_question_1_answer_2": "",
+  "card_test_question_1_answer_3": "",
+  "card_test_question_1_answer_4": "",
+
+  "card_test_question_2_answer_1": "",
+  "card_test_question_2_answer_2": "",
+  "card_test_question_2_answer_3": "",
+  "card_test_question_2_answer_4": "",
+
+  "card_test_question_3_answer_1": "",
+  "card_test_question_3_answer_2": "",
+  "card_test_question_3_answer_3": "",
+  "card_test_question_3_answer_4": "",
+
+  "card_test_question_4_answer_1": "",
+  "card_test_question_4_answer_2": "",
+  "card_test_question_4_answer_3": "",
+  "card_test_question_4_answer_4": "",
+
+  "card_test_question_5_answer_1": "",
+  "card_test_question_5_answer_2": "",
+  "card_test_question_5_answer_3": "",
+  "card_test_question_5_answer_4": "",
+
+  "card_test_question_6_answer_1": "",
+  "card_test_question_6_answer_2": "",
+  "card_test_question_6_answer_3": "",
+  "card_test_question_6_answer_4": "",
+
+  "card_test_question_7_answer_1": "",
+  "card_test_question_7_answer_2": "",
+  "card_test_question_7_answer_3": "",
+  "card_test_question_7_answer_4": "",
+
+  "card_test_question_8_answer_1": "",
+  "card_test_question_8_answer_2": "",
+  "card_test_question_8_answer_3": "",
+  "card_test_question_8_answer_4": "",
+
+  "card_test_question_9_answer_1": "",
+  "card_test_question_9_answer_2": "",
+  "card_test_question_9_answer_3": "",
+  "card_test_question_9_answer_4": "",
+
+  "card_test_question_10_answer_1": "",
+  "card_test_question_10_answer_2": "",
+  "card_test_question_10_answer_3": "",
+  "card_test_question_10_answer_4": "",
 
 }
