@@ -6,12 +6,13 @@ import sv from './text_strings/client/sv.json'
 import fr from './text_strings/client/fr.json'
 import nl from './text_strings/client/nl.json'
 import no from './text_strings/client/nb.json'
-import en from './text_strings/client/en.json'
 import be from './text_strings/client/be.json'
 import it from './text_strings/client/it.json'
 import es from './text_strings/client/es.json'
 import de from './text_strings/client/de.json'
 import et from './text_strings/client/et.json'
+
+import en from './text_strings/moonshine/en.json'
 
 // calendar
 import defaultCalendar from './text_strings/calendar/default.json'
