@@ -287,5 +287,13 @@
   "connect_qr_desc": "Use your camera to scan a code on your contacts phone if they are nearby",
   "connect_email_desc":"We will send an e-mail to your contact to invite them and connect wth you",
   "connect_sms_desc":"We will send a text message to your contact to invite them and to connect to you",
-  "suggested_task_message": "Suggested task send"
+  "suggested_task_message": "Suggested task send",
+  "kid_add_picture": "add %1$d's picture",
+  "question_which_day": "on what day?",
+  "add_new_chore": "add new chore",
+  "create_new_chore": "create your own chore",
+  "nav_bar_new_chore": "new chore for %1$d",
+  "copy_current": "duplicate current",
+  "choose_popular": "choose from popular",
+  "choose_latest": "choose from latest"
 }
