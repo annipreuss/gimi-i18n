@@ -26,7 +26,8 @@
   "general_send": "send",
   "general_next": "next",
   "general_category": "category",
-
+  "general_gallery": "Gallery",
+  "general_camera": "Camera",
   "number_ending": ":a",
   "number_ending_alt": ":e",
   "daypicker_monday": "Monday",
@@ -97,5 +98,6 @@
   "category_name_45": "Savings interest",
   "category_name_46": "Weekly/monthly allowance",
   "category_name_47": "Savings goal Help",
-  "category_name_48": "Bank transfer"
+  "category_name_48": "Bank transfer",
+  "select_image_title": "How do you want to select image?"
 }
