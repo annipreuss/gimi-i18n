@@ -308,5 +308,16 @@
   "email_us": "email us",
   "call_us": "call us",
   "chat_us": "Chat with us!",
-  "open_now": "Open Now!"
+  "open_now": "Open Now!",
+  "general_deposit": "Deposit",
+  "general_withdraw": "withdraw",
+  "transaction_to_pig": "Saved",
+  "deposit_cloud": "deposit to cloud",
+  "withdraw_cloud": "withdraw from cloud",
+  "deposit_savings": "deposit to savings",
+  "request_chore": "request chore",
+  "pay_online":"pay online",
+  "request_money":"request money",
+  "transfer_savings": "Transfer from savings"
+
 }
