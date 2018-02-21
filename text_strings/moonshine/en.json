@@ -279,5 +279,12 @@
   "what_is_your_phone_number": "What is your phone number?",
   "why_do_we_ask_for_your_phone_number": "why do we ask for your number?",
   "general_not_from": "Not from %1$d?",
-  "what_is_your_phone_number": "What is your email?"
+  "what_is_your_phone_number": "What is your email?",
+  "invite_with_camera":"scan QR code",
+  "invite_with_sms":"Send SMS",
+  "invite_with_email":"send e-mail",
+  "how_do_you_connect": "How do you want to connect?",
+  "connect_qr_desc": "Use your camera to scan a code on your contacts phone if they are nearby",
+  "connect_email_desc":"We will send an e-mail to your contact to invite them and connect wth you",
+  "connect_sms_desc":"We will send a text message to your contact to invite them and to connect to you"
 }
