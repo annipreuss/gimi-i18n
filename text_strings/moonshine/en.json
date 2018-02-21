@@ -28,6 +28,13 @@
   "general_category": "category",
   "general_gallery": "Gallery",
   "general_camera": "Camera",
+  "general_account": "account",
+  "general_subscription": "subscription",
+  "general_payment": "payment",
+  "general_about": "about Gimi",
+  "general_birthday": "birthday",
+  "general_phone": "phone",
+  "general_email": "email",
   "number_ending": ":a",
   "number_ending_alt": ":e",
   "daypicker_monday": "Monday",
@@ -99,5 +106,12 @@
   "category_name_46": "Weekly/monthly allowance",
   "category_name_47": "Savings goal Help",
   "category_name_48": "Bank transfer",
-  "select_image_title": "How do you want to select image?"
+  "select_image_title": "How do you want to select image?",
+  "parent_nav_bar_settings": "settings",
+  "facebook_profile_pic": "Use your facebook profile picture",
+  "settings_user": "user settings",
+  "settings_account": "account settings",
+  "settings_connected": "connected family",
+  "settings_kids": "kids settings",
+  "":""
 }
