@@ -230,5 +230,24 @@
   "card_test_question_10_answer_2": "Bryta kortet i två delar så att det inte går att använda",
   "card_test_question_10_answer_3": "Sätta in mer pengar på kortet",
   "card_test_answer_dont_know": "Vet inte",
-  "nav_bar_card_test": "korttest"
+  "nav_bar_card_test": "korttest",
+  "nav_bar_settings_savings": "savings settings %1$d",
+  "percentage_tag": "%1$d%",
+  "savings_interest": "Savings interest",
+  "nav_bar_settings_allowance": "allowance settings %1$d",
+  "total_allowance": "kid Total Allowance",
+  "you_pay_allowance": "you pay allownce",
+  "allowance_frequency": "allowance frequency",
+  "weekly": "weekly",
+  "monhtly": "monthly",
+  "nav_bar_chore_settings": "chore settings %1$d",
+  "active_chores": "your active chores",
+  "popular_chores": "popular chores",
+  "latest_chores": "latest chores",
+  "nav_bar_kid_connections": "connections %1$d",
+  "general_parents": "parents",
+  "general_parent": "parent",
+  "permission_to_deposit": "permission to deposit"
+
+
 }
