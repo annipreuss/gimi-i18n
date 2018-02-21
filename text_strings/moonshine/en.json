@@ -140,6 +140,7 @@
   "settings_pin": "app pin",
   "settings_permissions": "permissions",
   "settings_sign_in_as": "sign in as %1$d",
+  "settings_sign_in_as_description": "You will now log in as %1$d. You can always log back into your own account in %1$d's settings.",
   "add_card": "add card",
   "cancel_subscription": "cancel subscription",
   "subscription_prefix_name": "%1$d subscription",
