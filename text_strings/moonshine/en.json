@@ -321,5 +321,10 @@
   "request_money":"request money",
   "transfer_savings": "Transfer from savings",
   "suggest_chore": "suggest a chore",
-  "question_name": "what's your name?"
+  "question_name": "what's your name?",
+  "question_age": "How old are you?",
+  "under_18": "Under 18",
+  "over_18": "Over 18",
+  "terms_conditions": "Genom att fortsätta accepterar du våra Användarvillkor och Integritetspolicy",
+  "add_image": "Lägg till bild"
 }
