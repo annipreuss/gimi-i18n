@@ -318,6 +318,7 @@
   "request_chore": "request chore",
   "pay_online":"pay online",
   "request_money":"request money",
-  "transfer_savings": "Transfer from savings"
-
+  "transfer_savings": "Transfer from savings",
+  "suggest_chore": "suggest a chore",
+  "question_name": "what's your name?"
 }
