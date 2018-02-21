@@ -256,7 +256,9 @@
   "activate_card_here": "Activate it here",
   "apply_for_card_here": "Apply for one here",
   "activate_card": "activete card",
-  "apply_for_card": "apply for card"
-
-
+  "apply_for_card": "apply for card",
+  "kid_name_question": "what's the name of your child?",
+  "kid_age_question": "when is %1$d's bithday?",
+  "add_picture_of_kid": "add %1$d's picture",
+  "question_which_day": "on what day?"
 }
