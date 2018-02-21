@@ -250,7 +250,13 @@
   "permission_to_deposit": "permission to deposit",
   "nav_bar_kid_settings": "profile",
   "new_connection": "new connection",
-  "add_connection": "Add connection"
+  "add_connection": "Add connection",
+  "kid_card_not_arrived": "Has your new card arrived yet?",
+  "kid_card_not_orderd":"Its empty here because you dont have a card yet",
+  "activate_card_here": "Activate it here",
+  "apply_for_card_here": "Apply for one here",
+  "activate_card": "activete card",
+  "apply_for_card": "apply for card"
 
 
 }
