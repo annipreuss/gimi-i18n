@@ -169,6 +169,23 @@
   "pay_no_allowance": "I don't pay allowance",
   "pay_full_allowance_more": "I want to pay full allowance, interest and chores",
   "pay_half_allowance_more": "Another parent pays as well, so I pay half allowance, interest and chores",
-  "pay_no_allowance_more": "Someone else pays, but I can always pitch in sometimes and hand out chores"
+  "pay_no_allowance_more": "Someone else pays, but I can always pitch in sometimes and hand out chores",
+  "get_on_waitlist": "get on the waitlist",
+  "settings_card": "card settings",
+  "card_not_released_info": "Det är tomt här för kortet har inte kommit än...",
+  "nav_bar_waitlist": "waitList",
+  "get_on_the_list_hint":"Men du kan skriva upp dig på väntelistan!",
+  "waitinglist_your_spot":"Din plats på waitlist: ",
+  "of_number_of_people": "av %1$d personer",
+  "invite_friends_waitlist":"Bjud in vänner och klättra på waitlist!",
+  "countdown":"countdown",
+  "card_release_timer":"Tid kvar till lansering av kortet",
+  "card_test":"korttest",
+  "card_test_not_done":"Du har inte gjort testet än",
+  "to_test": "till testet",
+  "try_again_in_timer": "Du kan prova igen om %1$d dagar",
+  "card_test_passed": "Korttestet godkänt 👍",
+  "card_test_failed": "Korttestet ej godkänt 🙁",
+  "card_test_score": "Ditt resultat %1$d"
 
 }
