@@ -229,5 +229,6 @@
   "card_test_question_10_answer_1": "Spärra kortet tills jag undersökt saken närmre",
   "card_test_question_10_answer_2": "Bryta kortet i två delar så att det inte går att använda",
   "card_test_question_10_answer_3": "Sätta in mer pengar på kortet",
-  "card_test_answer_dont_know": "Vet inte"
+  "card_test_answer_dont_know": "Vet inte",
+  "nav_bar_card_test": "korttest"
 }
