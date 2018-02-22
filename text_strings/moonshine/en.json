@@ -305,5 +305,11 @@
   "chore_repeating": "Always available",
   "chore_duration": "Timed",
   "general_proof": "Proof",
-  "take_picture": "Take picture"
+  "take_picture": "Take picture",
+  "next_payment_n_days": "Next payment: %1$d days",
+  "savings_n_interest": "Savings: %1$d% interest",
+  "general_the_cloud": "The cloud",
+  "general_gimi_card": "Gimi Card",
+  "general_notifications": "Notifications",
+  "general_overview": "Overview"
 }
