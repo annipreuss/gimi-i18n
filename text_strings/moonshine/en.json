@@ -296,5 +296,6 @@
   "add_picture_question": "Would you like to add a picture?",
   "general_not_now": "Inte nu",
   "general_success": "Success!",
-  "general_join": "Join"
+  "general_join": "Join",
+  "general_phone_no": "Phone number"
 }
