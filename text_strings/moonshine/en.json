@@ -311,5 +311,9 @@
   "general_the_cloud": "The cloud",
   "general_gimi_card": "Gimi Card",
   "general_notifications": "Notifications",
-  "general_overview": "Overview"
+  "general_overview": "Overview",
+  "choose_monthly_allowance": "choose monthly allowance",
+  "choose_weekly_allowance": "choose weekly allowance",
+  "choose_monthly_interest": "choose monthly savings interest",
+  "allowance_interest_recommendation": "The recommendation is based on a 50% sharing bla bla..."
 }
