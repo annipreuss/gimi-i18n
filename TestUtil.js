@@ -235,3 +235,19 @@ export let searchBreakingSymbols = (lang: Object, languageCode: string, textStri
   })
   return {data: arrayBreakingSymbols, count: numberBreakingSymbols}
 }
+export let checkUpperCaseLetters = (lang: Object, languageCode: string, textStringsType: string): Object => {
+  var keys = Object.keys(lang)
+  var arrayUpperCase = []
+  var numberUpperCaseKeys = 0
+  keys.forEach(key => {
+    if (hasUpperCase(key)) {
+      numberUpperCaseKeys++
+      arrayUpperCase.push({key: key, lang: languageCode, path: textStringsType})
+    }
+  })
+  return {data: arrayUpperCase, countUpperCase: numberUpperCaseKeys}
+}
+
+let hasUpperCase = (str: string) => {
+  return str.toLowerCase() !== str
+}
