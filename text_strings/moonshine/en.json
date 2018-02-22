@@ -221,7 +221,7 @@
   "add_picture_of_kid": "add %1$d's picture",
   "question_which_day": "on what day?",
   "welcome_to_gimi": "Welcome to Gimi",
-  "signin_button": "Sign in",
+  "signin_button": "Log in",
   "general_connect": "Connect",
   "create_account": "Create account",
   "how_do_you_want_to_login": "How would you like to log in?",
@@ -229,7 +229,7 @@
   "for_kids_with_no_phone_no_email": "För barn utan registrerat telefonnummer eller epost",
   "dont_know_my_login_details": "I dont know my log in details",
   "general_welcome_back": "Welcome back",
-  "general_login": "Log in",
+  "general_login": "Sign in",
   "general_step_number": "Step %1$d",
   "open_the_gimi_app": "Open the Gimi app.",
   "press_login_then_scan": "Press Log in, then scan.",
@@ -251,7 +251,7 @@
   "kid_add_picture": "add %1$d's picture",
   "question_which_day": "on what day?",
   "add_new_chore": "add new chore",
-  "create_new_chore": "create your own chore",
+  "create_new_chore": "create_account your own chore",
   "nav_bar_new_chore": "new chore for %1$d",
   "copy_current": "duplicate current",
   "choose_popular": "choose from popular",
@@ -295,5 +295,6 @@
   "years_old":"%1$d years old",
   "add_picture_question": "Would you like to add a picture?",
   "general_not_now": "Inte nu",
-  "general_success": "Success!"
+  "general_success": "Success!",
+  "general_join": "Join"
 }
