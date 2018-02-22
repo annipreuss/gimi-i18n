@@ -291,5 +291,6 @@
   "missing_parents":"You have not connected to a parent",
   "card_test_question_hint": "Fråga %1$d av %2$d",
   "empty_notification_list_title": "No notifications here",
-  "empty_notification_list_text": "When you get notifications, they will appear here"
+  "empty_notification_list_text": "When you get notifications, they will appear here",
+  "years_old":"%1$d years old"
 }
