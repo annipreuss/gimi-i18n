@@ -141,6 +141,6 @@ export let getSupportedTimeZones = () => {
 
 export let exchangeRates = ExchangeRates
 
-export let getCardTestQuestion = (step: number, lang?: string = 'en') => getCardQuestion(step)
+export let getCardTestQuestion = (step: number, lang?: string = 'en') => getCardQuestion(step, lang)
 
-export let getCardTestAnswer = (step: number, lang?: string = 'en') => getCardAnswer(step)
+export let getCardTestAnswer = (step: number, lang?: string = 'en') => getCardAnswer(step, lang)

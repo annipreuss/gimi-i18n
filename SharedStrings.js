@@ -1,3 +1,4 @@
+// @flow
 import en from './text_strings/shared/en.json'
 import * as I18n from './index'
 // import da from './text_strings/shared/da.json'
@@ -55,7 +56,7 @@ export let getCardQuestion = (step: number, lang: string): string => {
   return getText(`card_test_question_${step}`, [], textStrings)
 }
 
-export let getCardAnswer = (step: number, lang: string): string => {
+export let getCardAnswer = (step: number, lang: string): Array<Object> => {
   let textStrings = getSharedStrings(lang)
   let answers = []
   for (var i = 0; i < 3; i++) answers.push({title: getText(`card_test_question_${step}_answer_${i + 1}`, [], textStrings), valid: getValidCardAnswer(step, i)})
