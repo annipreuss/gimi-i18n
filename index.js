@@ -32,6 +32,7 @@ import etCalendar from './text_strings/calendar/et.json'
 import _default from './text_strings/client/default.json'
 import CountryCodes from './CountryCodes.json'
 import Regions from './Regions.json'
+import {getCardQuestion, getCardAnswer} from './SharedStrings'
 import Cities from './Cities.json'
 import Timezones from './TimeZones.json'
 import LanguageCodes from './LanguageCodes.json'
@@ -106,6 +107,19 @@ export let getCalendarStrings = (lang: string) => {
   }
 }
 
+export let removeTranslationHelpers = (text: string): string => {
+  text = text.replace(/\[.*?\]/g, '').trim()
+  text = text.replace(new RegExp(translationHelpTemplate, 'g'), '')
+  text = text.replace(new RegExp(translationHelperEMMA, 'g'), '')
+  text = text.replace(new RegExp(birgittaTemplate, 'g'), '')
+  text = text.trim()
+  return text
+}
+
+export let translationHelpTemplate = 'PLZ_TRANSLATE'
+export let birgittaTemplate = 'PLZ_CHECK'
+export let translationHelperEMMA = 'EMMA'
+
 export let getRegions = () => Regions
 export let getCities = () => Cities
 export let getCountries = () => CountryCodes
@@ -126,3 +140,7 @@ export let getSupportedTimeZones = () => {
 }
 
 export let exchangeRates = ExchangeRates
+
+export let getCardTestQuestion = (step: number, lang?: string = 'en') => getCardQuestion(step)
+
+export let getCardTestAnswer = (step: number, lang?: string = 'en') => getCardAnswer(step)
