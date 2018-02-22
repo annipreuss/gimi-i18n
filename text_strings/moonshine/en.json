@@ -277,6 +277,7 @@
   "press_login_then_scan": "Press Log in, then scan.",
   "scan_this_image": "Scan this image.",
   "general_next_step": "Next step",
+  "general_next": "Next",
   "what_is_your_phone_number": "What is your phone number?",
   "why_do_we_ask_for_your_phone_number": "why do we ask for your number?",
   "general_not_from": "Not from %1$d?",
@@ -326,5 +327,6 @@
   "under_18": "Under 18",
   "over_18": "Over 18",
   "terms_conditions": "Genom att fortsätta accepterar du våra Användarvillkor och Integritetspolicy",
-  "add_image": "Lägg till bild"
+  "add_image": "Lägg till bild",
+  "sign_up_greeting":"What's your name?"
 }
