@@ -297,5 +297,13 @@
   "general_not_now": "Inte nu",
   "general_success": "Success!",
   "general_join": "Join",
-  "general_phone_no": "Phone number"
+  "general_phone_no": "Phone number",
+  "general_earn": "earn",
+  "general_earned": "earned",
+  "chore_non_recurring": "One-time chore",
+  "chore_weekly": "Recurring",
+  "chore_repeating": "Always available",
+  "chore_duration": "Timed",
+  "general_proof": "Proof",
+  "take_picture": "Take picture"
 }
