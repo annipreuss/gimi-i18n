@@ -287,5 +287,6 @@
   "terms_conditions": "Genom att fortsätta accepterar du våra Användarvillkor och Integritetspolicy",
   "add_image": "Lägg till bild",
   "sign_up_greeting":"What's your name?",
-  "missing_parents":"You have not connected to a parent"
+  "missing_parents":"You have not connected to a parent",
+  "card_test_hint": "Fråga %1$d av %1$d"
 }
