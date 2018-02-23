@@ -360,5 +360,6 @@
   "to_be_earned": "to be earned",
   "finished_chores": "Finished chores",
   "general_pending": "pending",
-  "general_to_do": "To do"
+  "general_to_do": "To do",
+  "general_empty_here": "It's empty here..."
 }
