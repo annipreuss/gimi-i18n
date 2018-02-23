@@ -363,5 +363,8 @@
   "general_to_do": "To do",
   "general_empty_here": "It's empty here...",
   "app_pin_settings": "App PIN settings",
-  "general_request": "Request"
+  "general_request": "Request",
+  "touch_face_id": "Touch ID / Face ID",
+  "change_pin": "Change PIN",
+  "pin_reminder": "PIN reminder",
 }
