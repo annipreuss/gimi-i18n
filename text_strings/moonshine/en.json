@@ -318,8 +318,9 @@
   "allowance_interest_recommendation": "The recommendation is based on a 50% sharing bla bla...",
   "general_home": "Hem",
   "general_spend": "Spendera",
-  "add_pin": "Add PIN",
-  "enter_old_pin": "Enter old PIN",
-  "enter_new_pin": "Enter new PIN",
-  "edit_pin": "Ändra PIN"
+  "add_pin": "Add password",
+  "enter_old_pin": "Enter old password",
+  "enter_new_pin": "Enter new password",
+  "edit_pin": "Ändra password",
+  "enter_pin": "Type password"
 }
