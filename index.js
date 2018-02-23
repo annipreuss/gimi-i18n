@@ -1,4 +1,5 @@
 // @flow
+import en from './text_strings/moonshine/en.json'
 import da from './text_strings/client/da.json'
 import fi from './text_strings/client/fi.json'
 import is from './text_strings/client/is.json'
@@ -11,8 +12,7 @@ import it from './text_strings/client/it.json'
 import es from './text_strings/client/es.json'
 import de from './text_strings/client/de.json'
 import et from './text_strings/client/et.json'
-
-import en from './text_strings/moonshine/en.json'
+import _default from './text_strings/client/default.json'
 
 // calendar
 import defaultCalendar from './text_strings/calendar/default.json'
@@ -29,7 +29,8 @@ import itCalendar from './text_strings/calendar/it.json'
 import esCalendar from './text_strings/calendar/es.json'
 import deCalendar from './text_strings/calendar/de.json'
 import etCalendar from './text_strings/calendar/et.json'
-import _default from './text_strings/client/default.json'
+
+import sekConfig from './config/config_SEK.json'
 import CountryCodes from './CountryCodes.json'
 import Regions from './Regions.json'
 import {getCardQuestion, getCardAnswer} from './SharedStrings'
@@ -141,6 +142,6 @@ export let getSupportedTimeZones = () => {
 
 export let exchangeRates = ExchangeRates
 
-export let getCardTestQuestion = (step: number, lang?: string = 'en') => getCardQuestion(step, lang)
+export let getCardTestQuestion = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardQuestion(step, lang, currencyConfig)
 
-export let getCardTestAnswer = (step: number, lang?: string = 'en') => getCardAnswer(step, lang)
+export let getCardTestAnswer = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardAnswer(step, lang, currencyConfig)

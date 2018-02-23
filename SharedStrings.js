@@ -1,6 +1,7 @@
 // @flow
 import en from './text_strings/shared/en.json'
-import * as I18n from './index'
+import Accounting from 'accounting'
+import {removeTranslationHelpers} from './index'
 // import da from './text_strings/shared/da.json'
 // import fi from './text_strings/shared/fi.json'
 // import is from './text_strings/shared/is.json'
@@ -14,17 +15,34 @@ import * as I18n from './index'
 // import de from './text_strings/shared/de.json'
 // import et from './text_strings/shared/et.json'
 
-export let getCardQuestion = (step: number, lang: string = "en"): string => {
+export let getCardQuestion = (step: number, lang: string = 'en', currencyConfig: Object): string => {
   let textStrings = getSharedStrings(lang)
-  return getText(`card_test_question_${step}`, [], textStrings)
+  return getText(`card_test_question_${step}`, [...getStringQuestionValues(step, currencyConfig)], textStrings)
 }
 
-export let getCardAnswer = (step: number, lang: string = "en"): Array<Object> => {
+export let getCardAnswer = (step: number, lang: string = 'en', currencyConfig: Object): Array<Object> => {
   let textStrings = getSharedStrings(lang)
   let answers = []
-  for (var i = 0; i < 3; i++) answers.push({title: getText(`card_test_question_${step}_answer_${i + 1}`, [], textStrings), valid: getValidCardAnswer(step, i)})
+  for (var i = 0; i < 3; i++) answers.push({title: getText(`card_test_question_${step}_answer_${i + 1}`, [getStringAnswerValues(step, i, currencyConfig)], textStrings), valid: getValidCardAnswer(step, i)})
   answers.push({title: getText('card_test_answer_dont_know', [], textStrings), valid: false})
   return answers
+}
+
+let getStringQuestionValues = (step: number, config: Object) => {
+  switch (step) {
+    case 2: return [Accounting.formatMoney(249, config.suffix, config.numberOfDecimals, '', ',', '%v %s'), Accounting.formatMoney(239, config.suffix, config.numberOfDecimals, '', ',', '%v %s')]
+    case 7: return [Accounting.formatMoney(99, config.suffix, config.numberOfDecimals, '', ',', '%v %s')]
+    default: return []
+  }
+}
+
+let getStringAnswerValues = (step: number, answer: number, config: Object) => {
+  answer = answer + 1
+  switch (true) {
+    case step === 2 && (answer === 2 || answer === 3): return [Accounting.formatMoney(10, config.suffix, config.numberOfDecimals, '', ',', '%v %s')]
+    case step === 7: return [Accounting.formatMoney(99, config.suffix, config.numberOfDecimals, '', ',', '%v %s')] // do for all answers
+    default: return []
+  }
 }
 
 let getValidCardAnswer = (step: number, answer: number): boolean => {
@@ -79,11 +97,12 @@ let getText = (textid: *, values?: Array<*>, textStrings: *): string => {
   if (!textStrings || !textid) return ''
   var text = textStrings[textid]
   if (!text) return ''
-  else text = I18n.removeTranslationHelpers(text)
+  else text = removeTranslationHelpers(text)
   text = text.trim()
   if (values)
     values.forEach((item, index) => {
-      text = text.split(`%${index + 1}$s`).join(getText(item)) // TextStrings
+      // $FlowFixMe //Needed 05.12.2017
+      text = text.split(`%${index + 1}$d`).join(item)
     })
   text = text.charAt(0).toUpperCase() + text.slice(1)
   return text

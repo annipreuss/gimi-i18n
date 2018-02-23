@@ -39,6 +39,7 @@
     "babel-eslint": "8.2.1",
     "babel-preset-es2015": "6.24.1",
     "babel-preset-react-native": "4.0.0",
+    "decimal.js-light": "2.3.1",
     "eslint": "4.17.0",
     "eslint-config-standard": "10.2.1",
     "eslint-config-standard-flow": "1.0.1",
@@ -56,11 +57,11 @@
     "json-loader": "0.5.7",
     "moment": "2.20.1",
     "node-slack": "0.0.7",
-    "decimal.js-light": "2.3.1",
     "pre-push": "0.1.1"
   },
   "dependencies": {
     "@google-cloud/translate": "1.1.0",
+    "accounting": "^0.4.1",
     "babel-preset-node6": "^11.0.0",
     "google-translate-api": "2.3.0"
   }
