@@ -367,4 +367,17 @@
   "touch_face_id": "Touch ID / Face ID",
   "change_pin": "Change PIN",
   "pin_reminder": "PIN reminder",
+  "general_total_balance": "Total balance",
+  "can_be_used_for": "Can be used for",
+  "general_cravings": "Cravings",
+  "list_of_regrets": "List of regrets",
+  "list_of_successes": "List of successes",
+  "add_craving": "Add craving",
+  "general_share": "Share",
+  "share_regrets": "Share list of regrets",
+  "share_successes": "Share list of successes",
+  "no_cravings": "No cravings",
+  "new_calculated_savings_popover_child_slide1": "%1$d cheeseburgers",
+  "new_calculated_savings_popover_child_slide2": "%1$d Spotify months",
+  "new_calculated_savings_popover_child_slide3": "%1$d Barcelona shirts"
 }
