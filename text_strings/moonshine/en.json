@@ -379,5 +379,11 @@
   "no_cravings": "No cravings",
   "new_calculated_savings_popover_child_slide1": "%1$d cheeseburgers",
   "new_calculated_savings_popover_child_slide2": "%1$d Spotify months",
-  "new_calculated_savings_popover_child_slide3": "%1$d Barcelona shirts"
+  "new_calculated_savings_popover_child_slide3": "%1$d Barcelona shirts",
+  "general_grow": "grow",
+  "general_archive": "Archive",
+  "no_dream_add_one": "no dream, add one:",
+  "saved_since": "Saved since",
+  "days_of_saving": "days of saving",
+  "general_time_left": "Time left"
 }
