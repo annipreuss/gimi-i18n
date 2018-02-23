@@ -329,5 +329,7 @@
   "delete_account": "Delete account",
   "spending_like_a_boss": "Spending like a boss.",
   "great_success_added_description": "Your great success has been added to your list of great successes.",
-  "general_undo": "Undo"
+  "general_undo": "Undo",
+  "too_bad": "Too bad.",
+  "regret_added_description": "Remember for next time. Your regret has been added to your list of regrets."
 }
