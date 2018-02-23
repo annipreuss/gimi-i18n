@@ -393,5 +393,7 @@
   "allowance_payout_date": "payout is on the %1$d",
   "allowance_payout_day": "payout is every %1$d",
   "kid_allowance_day_error": "Not available. %1$d already has a monthly allowance from someone else",
-  "kid_no_allowance": "%1$d will only be paid upon completing his chores. Chores are paid out monthly/weekly (depending on age)."
+  "kid_no_allowance": "%1$d will only be paid upon completing his chores. Chores are paid out monthly/weekly (depending on age).",
+  "general_regret": "Regret",
+  "general_great_success": "Great success"
 }
