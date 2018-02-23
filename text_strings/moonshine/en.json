@@ -413,5 +413,11 @@
   "general_done_by": "Done by",
   "general_to_be_done_by": "To be done by",
   "kid_chore_belongs_to": "This chore belongs to %1$d therefore you cannot edit it, delete it or mark it as done. Want permisison?",
-  "general_decline": "decline"
+  "general_decline": "decline",
+  "nav_bar_notifications":"news feed",
+  "nav_bar_statistics": "my stats",
+  "add_expense":"add new expense",
+  "current_debt": "Current debt",
+  "general_expenses": "expenses",
+
 }
