@@ -322,5 +322,6 @@
   "enter_old_pin": "Enter old password",
   "enter_new_pin": "Enter new password",
   "edit_pin": "Ändra password",
-  "enter_pin": "Type password"
+  "enter_pin": "Type password",
+  "forgot_passcode_contact_support": "Forgot your passcode? Support"
 }
