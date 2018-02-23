@@ -207,7 +207,7 @@
   "general_parents": "parents",
   "general_parent": "parent",
   "permission_to_deposit": "permission to deposit",
-  "nav_bar_kid_settings": "profile",
+  "general_profile": "profile",
   "new_connection": "new connection",
   "add_connection": "Add connection",
   "kid_card_not_arrived": "Has your new card arrived yet?",
@@ -315,5 +315,7 @@
   "choose_monthly_allowance": "choose monthly allowance",
   "choose_weekly_allowance": "choose weekly allowance",
   "choose_monthly_interest": "choose monthly savings interest",
-  "allowance_interest_recommendation": "The recommendation is based on a 50% sharing bla bla..."
+  "allowance_interest_recommendation": "The recommendation is based on a 50% sharing bla bla...",
+  "general_home": "Hem",
+  "general_spend": "Spendera"
 }
