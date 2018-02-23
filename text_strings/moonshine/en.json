@@ -362,5 +362,6 @@
   "general_pending": "pending",
   "general_to_do": "To do",
   "general_empty_here": "It's empty here...",
-  "app_pin_settings": "App PIN settings"
+  "app_pin_settings": "App PIN settings",
+  "general_request": "Request"
 }
