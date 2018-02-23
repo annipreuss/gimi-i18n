@@ -355,5 +355,6 @@
   "general_interest": "interest",
   "general_upload": "upload",
   "general_recommended": "recommended",
-  "general_transfer": "Transfer"
+  "general_transfer": "Transfer",
+  "amount_earned_in": "earned in %1$d: %2$d"
 }
