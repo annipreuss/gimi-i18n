@@ -39,7 +39,7 @@
   "general_birthday": "birthday",
   "general_phone": "phone",
   "general_email": "email",
-  "general_push": "pushnotifications",
+  "general_push": "push notifications",
   "general_sound": "sound",
   "general_other": "other",
   "general_sign_out": "sign out",
@@ -340,5 +340,7 @@
   "question_day_of_week": "Which day of the week?",
   "question_day_of_month": "Which day of the month?",
   "question_birthday_parent": "When is %1$d birthday?",
-  "settings_for": "settings for %1$d"
+  "settings_for": "settings for %1$d",
+  "permissions_camera": "camera access",
+  "permissions_photo":"gallery access"
 }
