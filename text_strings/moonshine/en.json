@@ -323,5 +323,8 @@
   "enter_new_pin": "Enter new password",
   "edit_pin": "Ändra password",
   "enter_pin": "Type password",
-  "forgot_passcode_contact_support": "Forgot your passcode? Support"
+  "forgot_passcode_contact_support": "Forgot your passcode? Support",
+  "confirm_delete": "Confirm erase",
+  "delete_account_warning": "If you continue, your account will be deleted, together with your phone number, information and all associated data. \n\n<b>This can not be reverted!</b>",
+  "delete_account": "Delete account"
 }
