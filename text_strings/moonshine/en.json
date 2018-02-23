@@ -217,7 +217,7 @@
   "activate_card": "activete card",
   "apply_for_card": "apply for card",
   "kid_name_question": "what's the name of your child?",
-  "kid_age_question": "when is %1$d's bithday?",
+  "kid_age_question": "when is %1$d bithday?",
   "add_picture_of_kid": "add %1$d picture",
   "question_which_day": "on what day?",
   "welcome_to_gimi": "Welcome to Gimi",
@@ -335,5 +335,8 @@
   "general_new": "New",
   "general_older": "Older",
   "question_email_kid": "What's %1$d email?",
-  "question_birthday_kid": "When is your birthday?"
+  "question_birthday_kid": "When is your birthday?",
+  "general_pluralize": "'s",
+  "question_day_of_week": "Which day of the week?",
+  "question_day_of_month": "Which day of the month?"
 }
