@@ -423,5 +423,16 @@
   "general_add_kid": "Add kid",
   "in_cloud": "in the cloud",
   "epxenses_this_year":"expenses this year",
-  "general_transactions":"transactions"
+  "general_transactions":"transactions",
+  "chore_overview": "Chore overview",
+  "general_assignee": "Assignee",
+  "general_assignees": "Assignees",
+  "general_validity": "Validity",
+  "general_description": "Description",
+  "require_proof": "Require proof",
+  "general_auto_approve": "Auto-approve",
+  "general_suggest_task": "Suggest task",
+  "general_and": "and",
+  "general_chore_created": "Chore created!",
+  "chore_created_description": "You created a chore, well done or sumthin'"
 }
