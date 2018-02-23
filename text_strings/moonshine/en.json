@@ -339,5 +339,6 @@
   "general_pluralize": "'s",
   "question_day_of_week": "Which day of the week?",
   "question_day_of_month": "Which day of the month?",
-  "question_birthday_parent": "When is %1$d birthday?"
+  "question_birthday_parent": "When is %1$d birthday?",
+  "settings_for": "settings for %1$d"
 }
