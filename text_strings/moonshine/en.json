@@ -419,5 +419,6 @@
   "add_expense":"add new expense",
   "current_debt": "Current debt",
   "general_expenses": "expenses",
-  "choose_category": "Choose category"
+  "choose_category": "Choose category",
+  "general_add_kid": "Add kid"
 }
