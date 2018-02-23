@@ -356,5 +356,9 @@
   "general_upload": "upload",
   "general_recommended": "recommended",
   "general_transfer": "Transfer",
-  "amount_earned_in": "earned in %1$d: %2$d"
+  "amount_earned_in": "earned in %1$d: %2$d",
+  "to_be_earned": "to be earned",
+  "finished_chores": "Finished chores",
+  "general_pending": "pending",
+  "general_to_do": "To do"
 }
