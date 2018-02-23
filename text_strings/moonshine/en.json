@@ -348,5 +348,8 @@
   "savings_this_year": "Savings this year",
   "savings_per_month": "Savings per month",
   "you_have_saved_n_this_year": "You have saved %1$d so far this year",
-  "you_save_average_n_per_month": "You save on average %1$d of your money per month"
+  "you_save_average_n_per_month": "You save on average %1$d of your money per month",
+  "general_pluralize": "'s",
+  "question_day_of_week": "Which day of the week?",
+  "question_day_of_month": "Which day of the month?"
 }
