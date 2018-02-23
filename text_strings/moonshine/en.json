@@ -326,5 +326,8 @@
   "forgot_passcode_contact_support": "Forgot your passcode? Support",
   "confirm_delete": "Confirm erase",
   "delete_account_warning": "If you continue, your account will be deleted, together with your phone number, information and all associated data. \n\n<b>This can not be reverted!</b>",
-  "delete_account": "Delete account"
+  "delete_account": "Delete account",
+  "spending_like_a_boss": "Spending like a boss.",
+  "great_success_added_description": "Your great success has been added to your list of great successes.",
+  "general_undo": "Undo"
 }
