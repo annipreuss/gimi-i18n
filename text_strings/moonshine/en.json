@@ -406,5 +406,12 @@
   "add_dream":"Add dream",
   "edit_craving": "Edit craving",
   "general_price": "Price",
-  "general_created_at": "Created %1$d"
+  "general_created_at": "Created %1$d",
+  "nav_bar_chore": "Chore",
+  "general_finished": "Finished",
+  "yesterday_with_time": "yesterday, %1$d",
+  "general_done_by": "Done by",
+  "general_to_be_done_by": "To be done by",
+  "kid_chore_belongs_to": "This chore belongs to %1$d therefore you cannot edit it, delete it or mark it as done. Want permisison?",
+  "general_decline": "decline"
 }
