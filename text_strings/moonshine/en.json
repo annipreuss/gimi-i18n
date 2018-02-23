@@ -342,5 +342,10 @@
   "question_birthday_parent": "When is %1$d birthday?",
   "settings_for": "settings for %1$d",
   "permissions_camera": "camera access",
-  "permissions_photo":"gallery access"
+  "permissions_photo":"gallery access",
+  "general_n_percent_interest": "%1$d% interest",
+  "savings_this_year": "Savings this year",
+  "savings_per_month": "Savings per month",
+  "you_have_saved_n_this_year": "You have saved %1$d so far this year",
+  "you_save_average_n_per_month": "You save on average %1$d of your money per month"
 }
