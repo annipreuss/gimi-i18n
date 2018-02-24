@@ -1,4 +1,5 @@
 {
+  "ok": "OK",
   "download": "DOWNLOAD",
   "join": "JOIN",
   "email_us": "EMAIL US",
@@ -140,6 +141,8 @@
   "waitlist_status.form.section1.subtitle": "Du klättrar 5 platser upp på listan för varje vän som skriver upp sig på waitlist.",
   "waitlist_status.form.section2.title": "Korttestet godkänt 👍",
   "waitlist_status.form.section2.score": "Ditt resultat : {score}/10",
+  "waitlist_status.form.section2.take_test": "Korttestet",
+  "waitlist_status.form.section2.not_done_test": "dur har inte gjort Korttestet an!",
   "card_test.hero.title": "Korttestet",
   "card_test.hero.subtitle": "Är du redo för ett eget kort?",
   "card_test_done.hero.title": "Du klarade det! 🎉",
@@ -150,5 +153,9 @@
   "questions.step_number": "Fråga {step} av 10",
   "answers.correct_answers": "HÄR SVARADE DU RÄTT 💪️",
   "answers.wrong_answers": "HÄR SVARADE DU FEL… ☹",
-  "": ""
+  "invite.title": "Bjud in vänner och få kortet innan alla andra!",
+  "invite.instruction": "Du klättrar 5 platser upp på listan för varje vän som skriver upp sig på waitlist.",
+  "invite.sent": "Inbjudan skickad!",
+  "invite.test.title": "Snart kommer kortet…",
+  "invite.test.subtitle": "Gör korttestet!"
 }
