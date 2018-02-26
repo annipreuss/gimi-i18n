@@ -455,5 +455,6 @@
   "read_more_about_card": "Läs mer om kortet",
   "get_on_waitlist_description": "No strings attached. Du ställer dig i kön och vi kommer mejla dig när kortet finns att beställa.",
   "general_balance": "balance",
-  "in_n_days": "in %1$d days"
+  "in_n_days": "in %1$d days",
+  "invite_and_connect": "invite and connect"
 }
