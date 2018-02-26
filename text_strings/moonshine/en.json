@@ -444,5 +444,8 @@
   "your_card_details": "your card details",
   "you_dont_have_a_card": "you dont have any card saved yet",
   "this_card_is_used_payment": "This card is used for the monthly payments",
-  "change_card": "change card"
+  "change_card": "change card",
+  "type_sent_code": "Type the code we just sent you",
+  "question_didnt_get_code": "Didn't get the code?",
+  "contact_support": "Contact support"
 }
