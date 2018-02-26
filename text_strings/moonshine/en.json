@@ -456,5 +456,8 @@
   "get_on_waitlist_description": "No strings attached. Du ställer dig i kön och vi kommer mejla dig när kortet finns att beställa.",
   "general_balance": "balance",
   "in_n_days": "in %1$d days",
-  "invite_and_connect": "invite and connect"
+  "invite_and_connect": "invite and connect",
+  "next_payout_n": "Next payout %1$d",
+  "allowance_from_parent": "Allowance from parent",
+  "savings_bonus_from_parent": "Savings bonus from parent"
 }
