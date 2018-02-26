@@ -465,5 +465,6 @@
   "statistics_earned_average": "Earned Average",
   "general_per_month": "per month",
   "of_done_chores": "of done chores",
-  "statistics_completed_average": "Completed average"
+  "statistics_completed_average": "Completed average",
+  "general_spent": "Spent"
 }
