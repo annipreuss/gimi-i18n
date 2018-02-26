@@ -307,7 +307,7 @@
   "general_proof": "Proof",
   "take_picture": "Take picture",
   "next_payment_n_days": "Next payment: %1$d days",
-  "savings_n_interest": "Savings: %1$d% interest",
+  "savings_n_percentage": "Savings: %1$d% interest",
   "general_the_cloud": "The cloud",
   "general_gimi_card": "Gimi Card",
   "general_notifications": "Notifications",
