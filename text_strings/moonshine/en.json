@@ -466,5 +466,8 @@
   "general_per_month": "per month",
   "of_done_chores": "of done chores",
   "statistics_completed_average": "Completed average",
-  "general_spent": "Spent"
+  "general_spent": "Spent",
+  "account_found_title": "Do you want to log in directly?",
+  "account_found_description": "You seem to have been logged in on this device before, would you like to log in as %1$d now?",
+  "login_now": "Log in now"
 }
