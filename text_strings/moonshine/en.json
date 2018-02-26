@@ -459,5 +459,11 @@
   "invite_and_connect": "invite and connect",
   "next_payout_n": "Next payout %1$d",
   "allowance_from_parent": "Allowance from parent",
-  "savings_bonus_from_parent": "Savings bonus from parent"
+  "savings_bonus_from_parent": "Savings bonus from parent",
+  "nav_bar_chores_name": "Chores %1$d",
+  "general_statistics": "statistics",
+  "statistics_earned_average": "Earned Average",
+  "general_per_month": "per month",
+  "of_done_chores": "of done chores",
+  "statistics_completed_average": "Completed average"
 }
