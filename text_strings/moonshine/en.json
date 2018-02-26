@@ -447,5 +447,6 @@
   "change_card": "change card",
   "type_sent_code": "Type the code we just sent you",
   "question_didnt_get_code": "Didn't get the code?",
-  "contact_support": "Contact support"
+  "contact_support": "Contact support",
+  "question_who_is_chore_for": "Who is the core for?"
 }
