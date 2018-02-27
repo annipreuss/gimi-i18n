@@ -472,5 +472,8 @@
   "login_now": "Log in now",
   "type_pin": "type your pin",
   "phone_success_changed": "Phone number changed!",
-  "no_stats_yet": "nothing to show here yet..."
+  "no_stats_yet": "nothing to show here yet...",
+  "general_the_card_test": "Korttestet",
+  "question_ready_for_card": "Är du redo för ett eget kort?",
+  "general_start": "starta"
 }
