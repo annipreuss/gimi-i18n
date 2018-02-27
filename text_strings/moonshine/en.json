@@ -471,5 +471,6 @@
   "account_found_description": "You seem to have been logged in on this device before, would you like to log in as %1$d now?",
   "login_now": "Log in now",
   "type_pin": "type your pin",
-  "phone_success_changed": "Phone number changed!"
+  "phone_success_changed": "Phone number changed!",
+  "no_stats_yet": "nothing to show here yet"
 }
