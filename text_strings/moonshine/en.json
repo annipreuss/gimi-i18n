@@ -469,5 +469,7 @@
   "general_spent": "Spent",
   "account_found_title": "Do you want to log in directly?",
   "account_found_description": "You seem to have been logged in on this device before, would you like to log in as %1$d now?",
-  "login_now": "Log in now"
+  "login_now": "Log in now",
+  "type_pin": "type your pin",
+  "phone_success_changed": "Phone number changed!"
 }
