@@ -487,5 +487,9 @@
   "didnt_go_so_well": "Det gick sådär… 😐",
   "card_test_fail_description": "Du behöver nog lära dig lite mer om pengar innan du kan få ditt eget betalkort. Se dina resultat nedan!",
   "correct_answers": "Rätt svar",
-  "here_you_answered_incorrectly": "Här svarade du fel… ☹️"
+  "here_you_answered_incorrectly": "Här svarade du fel… ☹️",
+  "correct_answer_here": "Här svarade du rätt 💪",
+  "redo_test": "Gör om testet",
+  "your_answer_n": "Ditt svar: %1$d",
+  "correct_answer_n": "Rätt svar: %1$d"
 }
