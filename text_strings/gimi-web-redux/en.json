@@ -12,6 +12,8 @@
   "max": "MAX",
   "approved": "GODKÄNT",
   "users": "Users",
+  "children": "Barn",
+  "parent": "Förälder",
   "user_score": "DINA POÄNG",
   "invite_friends": "BJUD IN VÄNNER",
   "total_app_downloads": "Total app downloads since 2014",
@@ -160,5 +162,10 @@
   "invite.instruction": "Du klättrar 5 platser upp på listan för varje vän som skriver upp sig på waitlist.",
   "invite.sent": "Inbjudan skickad!",
   "invite.test.title": "Snart kommer kortet…",
-  "invite.test.subtitle": "Gör korttestet!"
+  "invite.test.subtitle": "Gör korttestet!",
+  "micromanager.join.title": "The micro managers",
+  "micromanager.join.desc": "Donec facilisis tortor ut augue lacinia, at viverra est semper. Sed sapien metus.",
+  "micromanager.join.terms": "Genom att du går med som Testpilot godkänner du Veckopengens användarvillkor.",
+  "micromanager.join.done.desc": "Tack, du har nu anmält dig. Vi återkommer med information till dig!"
+
 }
