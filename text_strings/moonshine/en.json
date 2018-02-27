@@ -491,5 +491,6 @@
   "correct_answer_here": "Här svarade du rätt 💪",
   "redo_test": "Gör om testet",
   "your_answer_n": "Ditt svar: %1$d",
-  "correct_answer_n": "Rätt svar: %1$d"
+  "correct_answer_n": "Rätt svar: %1$d",
+  "you_can_try_again_in_n_days": "Du kan prova igen om %1$d dagar"
 }
