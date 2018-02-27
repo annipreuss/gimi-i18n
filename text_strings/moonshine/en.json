@@ -476,5 +476,9 @@
   "general_the_card_test": "Korttestet",
   "question_ready_for_card": "Är du redo för ett eget kort?",
   "general_start": "starta",
-  "no_stats_yet": "nothing to show \nhere yet..."
+  "no_stats_yet": "nothing to show \nhere yet...",
+  "add_dream_question":"name of dream",
+  "add_dream_placeholader":"title",
+  "manual_dream_hint": "manual",
+  "set_price":"Set Price"
 }
