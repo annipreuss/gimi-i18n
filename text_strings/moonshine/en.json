@@ -480,5 +480,8 @@
   "add_dream_question":"name of dream",
   "add_dream_placeholader":"title",
   "manual_dream_hint": "manual",
-  "set_price":"Set Price"
+  "set_price":"Set Price",
+  "choose_task_price":"choose the %1$d price",
+  "task_hourly":"hourly",
+  "task_fixed":"fixed"
 }
