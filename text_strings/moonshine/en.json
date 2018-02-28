@@ -501,5 +501,7 @@
   "parent_success_created": "Konto skapat. Nu ska du bara lägga till familjen.",
   "get_notified":"Get notified!",
   "dont_miss_notifications":"Dont miss the important stuff. Turn on notifications ok?",
-  "default_category": "default"
+  "default_category": "default",
+  "verify_phone_notification":"Verify your phone number",
+  "add_family_notification":"Lägg till familjen"
 }
