@@ -390,6 +390,7 @@
   "general_weekly": "weekly",
   "no_allowance": "no allowance",
   "kid_allowance_freq": "choose allowance frequency for %1$d",
+  "allowance_payout_date_st": "payout is on the %1$dst",
   "allowance_payout_date_th": "payout is on the %1$dth",
   "allowance_payout_day": "payout is every %1$d",
   "kid_allowance_day_error": "Not available. %1$d already has a monthly allowance from someone else",
