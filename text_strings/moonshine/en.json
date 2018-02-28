@@ -499,5 +499,7 @@
   "see_all_questions": "Se alla frågor",
   "card_test_your_result_n_of_ten": "Ditt resultat: %1$d / 10",
   "parent_success_created": "Konto skapat. Nu ska du bara lägga till familjen.",
-  "general_success":"Success!"
+  "general_success":"Success!",
+  "get_notified":"Get notified!",
+  "dont_miss_notifications":"Dont miss the important stuff. Turn on notifications ok?"
 }
