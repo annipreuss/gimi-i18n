@@ -504,5 +504,6 @@
   "default_category": "default",
   "verify_phone_notification":"Verify your phone number",
   "add_family_notification":"Lägg till familjen",
-  "question_what_chore": "what is the chore?"
+  "question_what_chore": "what is the chore?",
+  "general_25th": "25th"
 }
