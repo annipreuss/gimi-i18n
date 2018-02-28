@@ -497,5 +497,7 @@
   "card_test_end_you_are_ready_for_card": "Du är verkligen redo att få ditt egna Gimi-kort! Skriv upp dig på väntelistan 👇",
   "card_test_all_correct": "Alla rätt!",
   "see_all_questions": "Se alla frågor",
-  "card_test_your_result_n_of_ten": "Ditt resultat: %1$d / 10"
+  "card_test_your_result_n_of_ten": "Ditt resultat: %1$d / 10",
+  "parent_success_created": "Konto skapat. Nu ska du bara lägga till familjen.",
+  "general_success":"Success!"
 }
