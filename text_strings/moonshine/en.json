@@ -501,5 +501,6 @@
   "parent_success_created": "Konto skapat. Nu ska du bara lägga till familjen.",
   "general_success":"Success!",
   "get_notified":"Get notified!",
-  "dont_miss_notifications":"Dont miss the important stuff. Turn on notifications ok?"
+  "dont_miss_notifications":"Dont miss the important stuff. Turn on notifications ok?",
+  "default_category": "default"
 }
