@@ -492,5 +492,9 @@
   "redo_test": "Gör om testet",
   "your_answer_n": "Ditt svar: %1$d",
   "correct_answer_n": "Rätt svar: %1$d",
-  "you_can_try_again_in_n_days": "Du kan prova igen om %1$d dagar"
+  "you_can_try_again_in_n_days": "Du kan prova igen om %1$d dagar",
+  "card_test_end_you_did_it": "Du klarade det! 🎉",
+  "card_test_end_you_are_ready_for_card": "Du är verkligen redo att få ditt egna Gimi-kort! Skriv upp dig på väntelistan 👇",
+  "card_test_all_correct": "Alla rätt!",
+  "see_all_questions": "Se alla frågor"
 }
