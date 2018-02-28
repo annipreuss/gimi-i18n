@@ -390,7 +390,7 @@
   "general_weekly": "weekly",
   "no_allowance": "no allowance",
   "kid_allowance_freq": "choose allowance frequency for %1$d",
-  "allowance_payout_date": "payout is on the %1$d",
+  "allowance_payout_date_th": "payout is on the %1$dth",
   "allowance_payout_day": "payout is every %1$d",
   "kid_allowance_day_error": "Not available. %1$d already has a monthly allowance from someone else",
   "kid_no_allowance": "%1$d will only be paid upon completing his chores. Chores are paid out monthly/weekly (depending on age).",
@@ -505,5 +505,5 @@
   "verify_phone_notification":"Verify your phone number",
   "add_family_notification":"Lägg till familjen",
   "question_what_chore": "what is the chore?",
-  "general_25th": "25th"
+  "general_25th": "25"
 }
