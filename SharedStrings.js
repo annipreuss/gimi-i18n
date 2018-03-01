@@ -50,7 +50,7 @@ let getValidCardAnswer = (step: number, answer: number): boolean => {
   switch (true) {
     case step === 1 && answer === 1:
       return true
-    case step === 2 && answer === 1:
+    case step === 2 && answer === 3:
       return true
     case step === 3 && answer === 3:
       return true
