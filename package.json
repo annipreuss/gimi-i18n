@@ -15,11 +15,7 @@
     "sara": "npm run babelize && node ./utils/dest/sara.js",
     "ida ": "npm run babelize && node ./utils/dest/ida.js",
     "gimi-translation-service": "npm run babelize && node ./utils/dest/gimi-translation-service.js",
-    "anna": "echo Deprecated action, use npm run emma instead or if you are afraid of changes you have the old lady @: anna-d",
-    "poli": "echo Deprecated action, use npm run emma instead or if you are afraid of changes you have the old lady @:  poli-d",
     "krisi": "echo Deprecated action, use npm run emma instead or if you are afraid of changes you have the old lady @:  krisi-d",
-    "anna-d": "npm run gimi-translation-service en xx sv",
-    "poli-d": "npm run gimi-translation-service sv en xx",
     "krisi-d": "npm run gimi-translation-service en sv xx",
     "jenny": "npm run babelize && node ./utils/dest/jenny.js",
     "emma": "npm run babelize && node ./utils/dest/emma.js"

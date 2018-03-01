@@ -9,9 +9,9 @@ let RunSara = (filePath): * => {
   var _default = fs.readFileSync(defaultPath, {encoding: 'utf8'})
   _default = JSON.parse(_default)
 
-  var svPath = getPath('sv.json')
-  var sv = fs.readFileSync(svPath, {encoding: 'utf8'})
-  sv = JSON.parse(sv)
+  var langPath = getPath('en.json') // Edit here for what language to use
+  var lang = fs.readFileSync(langPath, {encoding: 'utf8'})
+  lang = JSON.parse(lang)
 
   let syncTextStrings = (file) => {
     if (file.indexOf('.json') === -1)
@@ -19,7 +19,7 @@ let RunSara = (filePath): * => {
 
     if (file === 'default.json') return
 
-    if (file === 'sv.json')
+    if (file === 'lang.json')
       return
 
     var path = getPath(file)
@@ -29,14 +29,14 @@ let RunSara = (filePath): * => {
 
     // Delete Support
     Object.keys({...TextStrings})
-      .filter((key) => sv[key] === undefined)
+      .filter((key) => lang[key] === undefined)
       .forEach((key) => {
         delete TextStrings[key]
         console.log(`Deleting key: '${key}' from ${file}`)
       })
 
     // Craete Support
-    var NewTextStrings = {...sv, ...TextStrings}
+    var NewTextStrings = {...lang, ...TextStrings}
     Object.keys(_default).forEach(key => delete NewTextStrings[key])
     var NewTextStringsLength = Object.keys(NewTextStrings).length
     var TextStringsLength = Object.keys(TextStrings).length
@@ -56,9 +56,9 @@ let RunSara = (filePath): * => {
   fs.readdirSync(filePath).forEach((languageCode) => syncTextStrings(languageCode))
 
   // fix swedish TextStrings formatting
-  sv = JSON.stringify(sv, undefined, 2)
-  fs.unlinkSync(svPath)
-  fs.writeFileSync(svPath, sv, {encoding: 'utf8'})
+  lang = JSON.stringify(lang, undefined, 2)
+  fs.unlinkSync(langPath)
+  fs.writeFileSync(langPath, lang, {encoding: 'utf8'})
 }
 templateDir.forEach((filePath) => {
   RunSara(filePath)
