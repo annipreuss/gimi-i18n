@@ -505,5 +505,8 @@
   "verify_phone_notification":"Verify your phone number",
   "add_family_notification":"Lägg till familjen",
   "question_what_chore": "what is the chore?",
-  "general_25": "25"
+  "general_25": "25",
+  "find_store": "Hitta butik",
+  "we_get_info_from_prisjakt": "Vi hämtar all produktinformation från prisjakt",
+  "general_prisjakt": "Prisjakt"
 }
