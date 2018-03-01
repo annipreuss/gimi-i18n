@@ -535,5 +535,13 @@
   "bot_stats_next_allowance": "You have %1$d in the piggy bank and %2$d in the next weekly rate",
   "bot_stats_next_allowance_days": "You will receive the next weekly allowance in %1$d days",
   "bot_stats_compare": "Did you know that the money in the piggy bank corresponds to %1$d cheeseburgers, %2$d months on Spotify and %3$d sweaters?",
-  "bot_goodbye_1": "Now I have to go and count your money! See you again tomorrow!"
+  "bot_goodbye_1": "Now I have to go and count your money! See you again tomorrow!",
+  "question_send_to_who": "who do you want to send it to?",
+  "general_participants": "participants",
+  "edit_description": "edit description",
+  "question_frequency": "frequency?",
+  "chore_recurring_desc": "This chore will be activated with a recurring frequency that you choose.",
+  "chore_always_available_desc": "This chore is always active and can be completen an unlimited number of times.",
+  "chore_non_recurring_desc": "This chore will only be available once.",
+  "question_payment": "how do you want to pay?"
 }
