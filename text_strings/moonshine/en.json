@@ -633,6 +633,3 @@
   "permission_deposit_permission_kids": "Before you can send money to %1$d, we need to ask the adult who set up their Gimi Cards. Do you want to ask for permission?",
   "missing_permissions": "Missing permissions"
 }
-
-titleLangKey='general_error_message'
-langKey='invite_error'
