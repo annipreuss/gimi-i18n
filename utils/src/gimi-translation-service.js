@@ -18,7 +18,7 @@ let getFiles = (dir: string, fromFileName, toFileName, excludeFileName) =>
     .filter((fileName) => excludeFileName !== 'xx.json' ? fileName !== excludeFileName : true)
     .map((fileName) => `${dir}/${fileName}`)
 
-let translateTextStringInFile = (path: string, textId, fromFilePath: string) => {
+let translateTextStringInFile = (path: string, langKey, fromFilePath: string) => {
   var lang = path.replace('.json', '').split('/').pop()
   if (lang === 'nb') lang = 'no'
   if (fromFilePath === './text_strings/gimi-web/nb.json') fromFilePath = './text_strings/gimi-web/no.json' // ugle gimi-web support
@@ -31,21 +31,21 @@ let translateTextStringInFile = (path: string, textId, fromFilePath: string) => 
   var TranslationString = fs.readFileSync(fromFilePath, {encoding: 'utf8'})
   TranslationString = JSON.parse(TranslationString)
 
-  var stringToTranslate = TranslationString[textId]
-  if (!stringToTranslate) return console.log(`Cant find ${textId} in ${path}`)
+  var stringToTranslate = TranslationString[langKey]
+  if (!stringToTranslate) return console.log(`Cant find ${langKey} in ${path}`)
 
   // hash %1$d to num evals to work with google translate
   stringToTranslate = AnnaHelper.toHash(stringToTranslate)
 
   return translate.translate(stringToTranslate, lang, (err, translation) => {
-    if (err) return console.log(`Error on textId ${textId}. message: ${err}. file: ${path}`)
+    if (err) return console.log(`Error on langKey ${langKey}. message: ${err}. file: ${path}`)
 
     var translatedText = AnnaHelper.fromHash(translation)
 
     console.log(`Translated text: '${stringToTranslate}' to: '${translatedText}' in ${path}`)
     var re = /PLZ_TRANSLATE/g
-    if (re.test(translatedText)) TextStrings[textId] = translatedText
-    else TextStrings[textId] = `${AnnaHelper.translationHelpTemplate} ${translatedText}`
+    if (re.test(translatedText)) TextStrings[langKey] = translatedText
+    else TextStrings[langKey] = `${AnnaHelper.translationHelpTemplate} ${translatedText}`
 
     TextStringsJSON = JSON.stringify(TextStrings, undefined, 2)
     fs.unlinkSync(path)

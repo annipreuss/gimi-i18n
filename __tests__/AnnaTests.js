@@ -40,7 +40,7 @@ describe('AnnaHelper', () => {
         keys.forEach(key => {
           if (languageCode)
             if (lang[key].includes(translationTravisHelper)) {
-              annaError.push({code: languageCode, textId: key})
+              annaError.push({code: languageCode, langKey: key})
             }
         })
       })
