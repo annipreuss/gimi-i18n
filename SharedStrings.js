@@ -92,10 +92,10 @@ let getSharedStrings = (lang: string) => {
   } */
 }
 
-let getText = (textid: *, values?: Array<*>, textStrings: *): string => {
+let getText = (langKey: *, values?: Array<*>, textStrings: *): string => {
   if (textStrings === undefined) return ''
-  if (!textStrings || !textid) return ''
-  var text = textStrings[textid]
+  if (!textStrings || !langKey) return ''
+  var text = textStrings[langKey]
   if (!text) return ''
   else text = removeTranslationHelpers(text)
   text = text.trim()

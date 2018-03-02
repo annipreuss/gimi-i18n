@@ -19,12 +19,12 @@ let getTranslateInfoFrom = (path) => {
   var keys = Object.keys(TextStrings)
   let textIds = []
 
-  keys.forEach(textid => {
-    var text = TextStrings[textid]
+  keys.forEach(langKey => {
+    var text = TextStrings[langKey]
     if (!text) text = ''
 
     Object.keys(LADIES).forEach((lady) => {
-      if (TextStrings[textid].includes(LADIES[lady])) textIds.push({textid, lady})
+      if (TextStrings[langKey].includes(LADIES[lady])) textIds.push({langKey, lady})
     })
   })
 
@@ -51,8 +51,8 @@ info.forEach(x => removeANNAStringFromFile(x.path))
 
 info.forEach((x) => {
   var {textIds} = x
-  textIds.map(({textid, lady}) => {
-    let cmd = `npm run ${lady}-d ${textid}`
+  textIds.map(({langKey, lady}) => {
+    let cmd = `npm run ${lady}-d ${langKey}`
     // eslint-disable-next-line
     console.log(cmd)
     execSync(cmd)
