@@ -545,5 +545,6 @@
   "chore_non_recurring_desc": "This chore will only be available once.",
   "question_payment": "how do you want to pay?",
   "your_points": "Dina poäng",
-  "general_max": "Max"
+  "general_max": "Max",
+  "general_go_back": "Back"
 }
