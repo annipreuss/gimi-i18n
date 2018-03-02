@@ -1,0 +1,7 @@
+{
+  "currency": "%1$d",
+  "currencyMinus": "-%1$d",
+  "currencyPlus": "+%1$d",
+  "proportion": "%1$d/%2$d",
+  "percent_suffix": "%"
+}
