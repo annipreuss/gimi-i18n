@@ -638,5 +638,11 @@
   "payment_method": "Betalningsmetod",
   "create_pin": "Skapa PIN-kod",
   "verify_identity": "Verifiera identitet",
-  "email_already_in_use": "Denna epostaddress är redan registrerad"
+  "email_already_in_use": "Denna epostaddress är redan registrerad",
+  "invite_by_email": "Invite by email",
+  "invite_by_sms": "Invite by SMS",
+  "question_recieved_email": "Have you received an email?",
+  "invited_by_email_instructions": "Go to the email and click on the link to be paired with your family member",
+  "question_recieved_sms": "Have you received a SMS?",
+  "invited_by_sms_instructions": "Go to the SMS and click on the link to be paired with your family member"
 }
