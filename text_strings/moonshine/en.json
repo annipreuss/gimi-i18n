@@ -546,5 +546,13 @@
   "question_payment": "how do you want to pay?",
   "your_points": "Dina poäng",
   "general_max": "Max",
-  "general_go_back": "Back"
+  "general_go_back": "Back",
+  "secure_and_safe_card":"Smart och säker hantering av pengar",
+  "store_and_online_card":"Fungerar i butik och online. Ditt barn lär sig att betala, du behåller kontrollen.",
+  "alt_card_price":"eller %1$d / månad",
+  "card_price_year":"%1$d / år",
+  "card_auto_transfers": "Barnen ser sitt saldo, du ser alla köp. Månadspengen förs över automatiskt",
+  "one_card_savings_accoount":"Ett kort och sparkonto kopplat till gimi...",
+  "card_no_bank_papers_letters":"Slipp papper, brev och banken!",
+  "card_your_limits":"Du sätter gränserna. Borttappade kort blockeras och återaktiveras i appen."
 }
