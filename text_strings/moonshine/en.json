@@ -631,5 +631,12 @@
   "general_permission": "permission",
   "permission_deposit_permission": "Before you can send money to %1$d, we need to ask the adult who set up %2$d Gimi Card. Do you want to ask for permission?",
   "permission_deposit_permission_kids": "Before you can send money to %1$d, we need to ask the adult who set up their Gimi Cards. Do you want to ask for permission?",
-  "missing_permissions": "Missing permissions"
+  "missing_permissions": "Missing permissions",
+  "read_good_to_know": "Läs igenom 'Bra att veta'",
+  "confirm_user_terms": "Godkänn användarvillkor",
+  "kids_chores":"Barn & barnens uppgifter",
+  "payment_method": "Betalningsmetod",
+  "create_pin": "Skapa PIN-kod",
+  "verify_identity": "Verifiera identitet",
+
 }
