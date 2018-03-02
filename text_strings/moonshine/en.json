@@ -543,5 +543,7 @@
   "chore_recurring_desc": "This chore will be activated with a recurring frequency that you choose.",
   "chore_always_available_desc": "This chore is always active and can be completen an unlimited number of times.",
   "chore_non_recurring_desc": "This chore will only be available once.",
-  "question_payment": "how do you want to pay?"
+  "question_payment": "how do you want to pay?",
+  "your_points": "Dina poäng",
+  "general_max": "Max"
 }
