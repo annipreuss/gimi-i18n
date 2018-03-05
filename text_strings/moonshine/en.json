@@ -644,5 +644,6 @@
   "invited_by_email_instructions": "Go to the email and click on the link to be paired with your family member",
   "question_recieved_sms": "Have you received a SMS?",
   "invited_by_sms_instructions": "Go to the SMS and click on the link to be paired with your family member",
-  "connect_family_member": "Connect to a family member"
+  "connect_family_member": "Connect to a family member",
+  "days_to_next_pay": "Days to next payout"
 }
