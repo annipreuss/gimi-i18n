@@ -316,7 +316,7 @@
   "choose_weekly_allowance": "choose weekly allowance",
   "choose_monthly_interest": "choose monthly savings interest",
   "allowance_recommendation": "Recommended: %1$d",
-  "interest_recommendation": "(interest) The recommendation is based on a 50% sharing bla bla...",
+  "interest_recommendation": "Recommended: %1$d%",
   "general_home": "Hem",
   "general_spend": "Spendera",
   "add_pin": "Add password",
