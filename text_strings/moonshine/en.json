@@ -621,7 +621,6 @@
   "invited_to_connect": "Du har blivit inbjuden att koppla ihop med %1$d. Vill du acceptera inbjudan?",
   "question_login_problem": "Problem att logga in?",
   "login_problem_contact_support": "Vet du inte hur du ska logga in kan du kontakta support.",
-  "general_go_back": "Go back",
   "spending_limits": "Spending limits",
   "spending_limit_text": "This feature lets you setup a notification in case your child overspends. In case you dont want to allow more spending, you simply de-activate the card until spending is allowed.",
   "question_delete_connection": "Do you really want to delete your connection to %1$d?",
