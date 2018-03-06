@@ -646,5 +646,8 @@
   "invited_by_sms_instructions": "Go to the SMS and click on the link to be paired with your family member",
   "connect_family_member": "Connect to a family member",
   "days_to_next_pay": "Days to next payout",
-  "search_results": "Search results"
+  "search_results": "Search results",
+  "name_accepted_your_invite": "%1$d accepted your invitation!",
+  "accepted_invite_setup_flow_description": "You are now connected. Setup %1$d account settings or something",
+  "recommended_chore_package": "Recommended Chore package"
 }
