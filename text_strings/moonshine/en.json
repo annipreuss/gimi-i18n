@@ -498,8 +498,7 @@
   "card_test_all_correct": "Alla rätt!",
   "see_all_questions": "Se alla frågor",
   "card_test_your_result_n_of_ten": "Ditt resultat: %1$d / 10",
-  "parent_success_created": "Konto skapat. wubba lubba dub dub",
-  "kid_success_created": "Konto skapat. wubba lubba dub dub",
+  "parent_success_created": "Konto skapat. Nu ska du bara verifiera ditt nummer",
   "get_notified":"Get notified!",
   "dont_miss_notifications":"Dont miss the important stuff. Turn on notifications ok?",
   "default_category": "default",
@@ -647,7 +646,5 @@
   "invited_by_sms_instructions": "Go to the SMS and click on the link to be paired with your family member",
   "connect_family_member": "Connect to a family member",
   "days_to_next_pay": "Days to next payout",
-  "edit_child_interest": "Edit child interest rate",
-  "name_accepted_your_invite": "%1$d accepted your invitation!",
-  "accepted_invite_setup_flow_description": "You are now connected. Setup %1$d account settings or something now ok?"
+  "search_results": "Search results"
 }
