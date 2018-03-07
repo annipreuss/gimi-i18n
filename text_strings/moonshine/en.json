@@ -652,5 +652,6 @@
   "recommended_chore_package": "Recommended Chore package",
   "accepted_invite_setup_flow_done_description": "Child settings successfully created. Very good settings. Very good parenting indeed.",
   "delete_task": "Delete task",
-  "popular_chore_package": "Popular chore package"
+  "popular_chore_package": "Popular chore package",
+  "edit_interest": "Edit interest"
 }
