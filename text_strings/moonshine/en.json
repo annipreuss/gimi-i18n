@@ -662,5 +662,16 @@
   "approve_user_policy": "Godkänn användarvillkor",
   "children_and_children_info": "Barn & barnens uppgifter",
   "verify_your_identity": "Verifiera din identitet",
-  "general_order": "Beställ"
+  "general_order": "Beställ",
+  "card_good_to_know_title": "Innehåll ej klart men:",
+  "card_good_to_know_limits_title": "Bra att veta om gränser",
+  "card_good_to_know_limit_desc": "Just to be on the safe side, we have some limits for spending and loading lorem ipsum.\n\nMaximum daily spend : %1$d\nMaximum load per day : %2$d\nMax loads per day : %3$d",
+  "card_good_to_know_blocks_title": "Bra att veta om spärrar och bankomater",
+  "card_good_to_know_blocks_desc": "Det går inte att använda kortet i bankomater, då skulle du som förälder tappa kontorllen. Vi har också spärrat några köpställen för din säkerhet. Lista på ställen som är spärrade:",
+  "card_good_to_know_savings_title": "Bra att veta om sparkonto och cloud",
+  "card_good_to_know_savings_desc": "När du skaffar ett kort så försvinner Cloud etc.",
+  "card_good_to_know_prepaid_title": "Bra att veta om prepaid-kort",
+  "card_good_to_know_prepaid_desc": "Prepaid-kort är väldigt bra för barn, för de kan inte övertrasseras. Kortet är inte kopplat till ett specifikt konto, utan vår kortutgivare håller koll på vem som har hur mycket pengar. Pengarna är egentligen säkrare än ett vanligt bankkonto - varken vi eller banken har tillgång till pengarna.",
+  "card_good_to_know_use_where_title": "Bra att veta om var kortet kan användas",
+  "card_good_to_know_use_where_desc": "Skriv att det kan användas utomlands, på nätet och i butiker. Men inte i bankomater.",
 }
