@@ -655,5 +655,12 @@
   "delete_task": "Delete task",
   "popular_chore_package": "Popular chore package",
   "edit_interest": "Edit interest",
-  "who_owes_you": "who owes you"
+  "who_owes_you": "who owes you",
+  "order_the_card_title": "Beställ kortet i appen",
+  "can_pause_and_return_to_order_card_process": "Du kan stänga ner och återuppta ansökan när du vill.",
+  "read_through_good_to_know": "Läs igenom \"Bra att veta\"",
+  "approve_user_policy": "Godkänn användarvillkor",
+  "children_and_children_info": "Barn & barnens uppgifter",
+  "verify_your_identity": "Verifiera din identitet",
+  "general_order": "Beställ"
 }
