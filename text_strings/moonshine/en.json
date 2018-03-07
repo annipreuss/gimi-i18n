@@ -165,7 +165,7 @@
   "who_pays_half": "i pay half",
   "who_pays_nothing": "someone else pays",
   "not_selected": "not selected",
-  "who_pays_allowance": "who will be paying %1$d?",
+  "who_will_be_paying_person": "who will be paying %1$d?",
   "pay_full_allowance":"I pay full allowance",
   "pay_half_allowance": "I pay half allowance",
   "pay_no_allowance": "I don't pay allowance",
