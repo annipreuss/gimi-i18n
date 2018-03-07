@@ -651,5 +651,6 @@
   "accepted_invite_setup_flow_description": "You are now connected. Setup %1$d account settings or something",
   "recommended_chore_package": "Recommended Chore package",
   "accepted_invite_setup_flow_done_description": "Child settings successfully created. Very good settings. Very good parenting indeed.",
-  "delete_task": "Delete task"
+  "delete_task": "Delete task",
+  "popular_chore_package": "Popular chore package"
 }
