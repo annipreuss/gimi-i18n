@@ -650,5 +650,6 @@
   "name_accepted_your_invite": "%1$d accepted your invitation!",
   "accepted_invite_setup_flow_description": "You are now connected. Setup %1$d account settings or something",
   "recommended_chore_package": "Recommended Chore package",
-  "accepted_invite_setup_flow_done_description": "Child settings successfully created. Very good settings. Very good parenting indeed."
+  "accepted_invite_setup_flow_done_description": "Child settings successfully created. Very good settings. Very good parenting indeed.",
+  "delete_task": "Delete task"
 }
