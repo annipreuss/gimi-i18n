@@ -692,5 +692,9 @@
   "confirm_person_age_desc": "Eller uppdatera så att födelsedatumet stämmer.",
   "set_card_name_title": "Vilket namn ska stå på kortet?",
   "general_first_name": "Förnamn",
-  "general_last_name": "Efternamn"
+  "general_last_name": "Efternamn",
+  "question_pay_year_or_month": "Vill du betala för ett år eller per månad?",
+  "no_extra_fees_no_notice": "Inga andra avgifter tillkommer. Ingen uppsägningstid.",
+  "pay_per_year_discount_description": "Betala för ett år, få 10% rabatt.",
+  "general_pay_monthly": "Betala månadsvis"
 }
