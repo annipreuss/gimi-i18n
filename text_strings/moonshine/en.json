@@ -689,5 +689,8 @@
   "n_per_year": "%1$d / år",
   "or_n_per_month": "eller %1$d / månad",
   "confirm_person_age_title": "Stämmer det att %1$d är %2$d?",
-  "confirm_person_age_desc": "Eller uppdatera så att födelsedatumet stämmer."
+  "confirm_person_age_desc": "Eller uppdatera så att födelsedatumet stämmer.",
+  "set_card_name_title": "Vilket namn ska stå på kortet?",
+  "general_first_name": "Förnamn",
+  "general_last_name": "Efternamn"
 }
