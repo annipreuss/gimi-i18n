@@ -683,5 +683,9 @@
   "youre_all_set": "You're all set!",
   "migrate_flow_end_description": "That was all. If you're the only one paying, you won't notice the changes. All your settings remain unchanged.",
   "just_n_kids_to_go": "Just %1$d kids to go",
-  "just_one_kid_to_go": "Just 1 kid to go"
+  "just_one_kid_to_go": "Just 1 kid to go",
+  "select_kids_for_card_title": "Vilka barn ska få ett kort?",
+  "name_is_under_age": "%1$d is not old enough yet!",
+  "n_per_year": "%1$d / år",
+  "or_n_per_month": "eller %1$d / månad"
 }
