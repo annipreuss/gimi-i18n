@@ -696,5 +696,10 @@
   "question_pay_year_or_month": "Vill du betala för ett år eller per månad?",
   "no_extra_fees_no_notice": "Inga andra avgifter tillkommer. Ingen uppsägningstid.",
   "pay_per_year_discount_description": "Betala för ett år, få 10% rabatt.",
-  "general_pay_monthly": "Betala månadsvis"
+  "general_pay_monthly": "Betala månadsvis",
+  "option_phone_number": "type phone number instead",
+  "general_dad": "dad",
+  "general_mum": "mum",
+  "open_contacts": "Choose from adressbook",
+  "general_search": "search"
 }
