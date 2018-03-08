@@ -676,5 +676,12 @@
   "card_good_to_know_use_where_title": "Bra att veta om var kortet kan användas",
   "card_good_to_know_use_where_desc": "Skriv att det kan användas utomlands, på nätet och i butiker. Men inte i bankomater.",
   "card_terms_and_conditions_title": "Read Gimi’s terms & conditions",
-  "card_terms_and_conditions_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud..."
+  "card_terms_and_conditions_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud...",
+  "new_gimi_for_everyone": "New Gimi for everyone!",
+  "migrate_flow_start_description": "We've udated a few things around here to support all kinds of families. You'll just need to update a few settings.",
+  "general_snooze": "snooze",
+  "youre_all_set": "You're all set!",
+  "migrate_flow_end_description": "That was all. If you're the only one paying, you won't notice the changes. All your settings remain unchanged.",
+  "just_n_kids_to_go": "Just %1$d kids to go",
+  "just_one_kid_to_go": "Just 1 kid to go"
 }
