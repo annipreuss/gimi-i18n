@@ -701,5 +701,7 @@
   "general_dad": "dad",
   "general_mum": "mum",
   "open_contacts": "Choose from adressbook",
-  "general_search": "search"
+  "general_search": "search",
+  "choose_a_pin_code": "Välj en PIN-kod",
+  "add_pin_description_for_parent": "Från och med nu kommer du att behöva skriva in din PIN för att kunna se saldo och transaktioner för ditt barn."
 }
