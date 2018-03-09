@@ -31,6 +31,7 @@
   "link.terms": "Legal",
   "link.help": "Help",
   "link.download": "Download",
+  "link.home": "Home",
   "title.home": "GIMI - A Piggy Bank",
   "title.terms": "GIMI - A Piggy Bank",
   "title.security": "GIMI - A Piggy Bank",
@@ -135,9 +136,9 @@
   "security.details.body2": "For our Premium users, who manage real money in the app, we provide an extra level of security. According to the Swedish Datainspektionen, we use Strong Customer Authentication to secure your account. And for your own safety, we verify your identity before you can start managing money. In bank language, this is called Know Your Customer - all according to international banking regulations.",
   "security.details.feature1": "GDPR",
   "security.details.feature1.subtitle": "We care about your data, and we work closely with our partners to make sure both we fulfill all international GDPR regulations.",
-  "security.details.feature2": "Strong Customer Authentication (PREMIUM)",
+  "security.details.feature2": "Strong Customer Authentication",
   "security.details.feature2.subtitle": "Users managing real money in the app can feel safe, your data is protected with a two factor authentication method.",
-  "security.details.feature3": "Know Your Customer (PREMIUM)",
+  "security.details.feature3": "Know Your Customer",
   "security.details.feature3.subtitle": "For users ordering the Card, we use Intantor to comply with all regulations around verifying users identity.",
   "security.details.feature4": "Certifications",
   "security.details.feature4.subtitle": "In order to handle sensitive card data, such as card PINs and card details, we are compliant with the Payment Card Industry Data Security Standard (PCI DSS).",
@@ -192,5 +193,8 @@
   "about.partners.pfs.title": "PFS",
   "about.partners.pfs.body": "Our London based card issuer and acquirer, world leader in prepaid cards and e-money solutions. \nwww.prepaidfinancialservices.com",
   "about.partners.instantor.title": "Instantor",
-  "about.partners.instantor.body": "Instantor provides us with a safe and instant solution for identifying customers, all according to EU banking regulations. \nwww.instantor.com"
+  "about.partners.instantor.body": "Instantor provides us with a safe and instant solution for identifying customers, all according to EU banking regulations. \nwww.instantor.com",
+  "404.not.found.title": "Oops!",
+  "404.not.found.subtitle": "We can't seem to find the page you're looking for.",
+  "404.not.found.error": "Error code: 404"
 }
