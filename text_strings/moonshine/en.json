@@ -705,5 +705,8 @@
   "choose_a_pin_code": "Välj en PIN-kod",
   "add_pin_description_for_parent": "Från och med nu kommer du att behöva skriva in din PIN för att kunna se saldo och transaktioner för ditt barn.",
   "add_image":"Add image",
-  "proof_required":"Proof required"
+  "proof_required":"Proof required",
+  "photo_permissions_denied": "Access to photos denied",
+  "contacts_permissions_denied": "Access to contacts denied",
+  "camera_permissions_denied": "Access to camera denied"
 }
