@@ -719,5 +719,10 @@
   "verify_pin_code": "Verifiera PIN-kod",
   "pin_code_doesnt_match_previous": "PIN-koden stämmer inte med förgående PIN",
   "add_pin_success_title": "Klart! Du har från och med nu en PIN-kod.",
-  "you_can_change_it_in_settings": "You can always change it in settings."
+  "you_can_change_it_in_settings": "You can always change it in settings.",
+  "question_how_to_pay": "Hur vill du betala?",
+  "pay_for_card_options_description": "This is how you will be charged the subscription fee, and the monhtly payouts. You can always change this later.",
+  "payment_option_debit_card": "Debit card",
+  "payment_option_swish_soon": "Swish - Coming soon!",
+  "payment_option_apple_pay_soon": "Apple pay - Coming soon!"
 }
