@@ -708,5 +708,7 @@
   "proof_required":"Proof required",
   "photo_permissions_denied": "Access to photos denied",
   "contacts_permissions_denied": "Access to contacts denied",
-  "camera_permissions_denied": "Access to camera denied"
+  "camera_permissions_denied": "Access to camera denied",
+  "verify_pin_code": "Verifiera PIN-kod",
+  "pin_code_doesnt_match_previous": "PIN-koden stämmer inte med förgående PIN"
 }
