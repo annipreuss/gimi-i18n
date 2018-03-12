@@ -197,5 +197,6 @@
   "about.partners.instantor.body": "Instantor provides us with a safe and instant solution for identifying customers, all according to EU banking regulations. \nwww.instantor.com",
   "404.not.found.title": "Oops!",
   "404.not.found.subtitle": "We can't seem to find the page you're looking for.",
-  "404.not.found.error": "Error code: 404"
+  "404.not.found.error": "Error code: 404",
+  "link.back": "back"
 }
