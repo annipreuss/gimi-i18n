@@ -66,7 +66,7 @@ let getValidCardAnswer = (step: number, answer: number): boolean => {
       return true
     case step === 9 && answer === 1:
       return true
-    case step === 10 && answer === 1:
+    case step === 10 && answer === 3:
       return true
     default: return false
   }
