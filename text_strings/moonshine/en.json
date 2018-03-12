@@ -746,5 +746,8 @@
   "scan_the_qr": "Scan the QR code",
   "qr_scan_parent_instructions": "Go to Settings, then Connections and Connect. Choose Scan QR Code.",
   "scan_this_image": "Scan this image",
-  "step_n": "step %1$d"
+  "step_n": "step %1$d",
+  "connect_nav_header": "Koppla ihop",
+  "qr_connect_instructions_help": "Till den som du vill koppla ihop med:"
+
 }
