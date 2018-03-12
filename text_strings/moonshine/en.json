@@ -748,6 +748,8 @@
   "scan_this_image": "Scan this image",
   "step_n": "step %1$d",
   "connect_nav_header": "Koppla ihop",
-  "qr_connect_instructions_help": "Till den som du vill koppla ihop med:"
+  "qr_connect_instructions_help": "Till den som du vill koppla ihop med:",
+  "show_code": "Visa kod",
+  "scan_code": "Skanna kod"
 
 }
