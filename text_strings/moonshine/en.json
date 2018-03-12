@@ -740,5 +740,10 @@
   "payment_option_apple_pay_soon": "Apple pay - Coming soon!",
   "your_personal_id_number": "Your personal ID",
   "reason_to_ask_for_personal_id": "So we can get your details",
-  "why_do_we_ask_for_this": "Why do we ask for this?🤔"
+  "why_do_we_ask_for_this": "Why do we ask for this?🤔",
+  "open_the_app":"Open the gimi app.",
+  "qr_code_parent_connect_instruction": "Go to Settings, then Connections and Connect. Choose Display QR Code.",
+  "scan_the_qr": "Scan the QR code",
+  "qr_scan_parent_instructions": "Go to Settings, then Connections and Connect. Choose Scan QR Code.",
+  "scan_this_image": "Scan this image"
 }
