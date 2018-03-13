@@ -763,5 +763,7 @@
   "totalt_to_transfer": "Totalt att föra över",
   "payment_option_credit_card": "Credit card",
   "mastercard_debit_card": "Mastercard debit card",
-  "visa_debit_card": "Visa debit card"
+  "visa_debit_card": "Visa debit card",
+  "payment_card_select_title": "Vad har du för kort?",
+  "payment_card_select_description": "I nästa steg får du skriva in dina kortuppgifter."
 }
