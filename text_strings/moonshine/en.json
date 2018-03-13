@@ -765,5 +765,6 @@
   "mastercard_debit_card": "Mastercard debit card",
   "visa_debit_card": "Visa debit card",
   "payment_card_select_title": "Vad har du för kort?",
-  "payment_card_select_description": "I nästa steg får du skriva in dina kortuppgifter."
+  "payment_card_select_description": "I nästa steg får du skriva in dina kortuppgifter.",
+  "general_instructions":"Instructions"
 }
