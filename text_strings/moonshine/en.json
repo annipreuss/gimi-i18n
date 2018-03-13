@@ -751,6 +751,8 @@
   "question_amount_to_transfer": "Hur mycket vill du föra över?",
   "convert_cloud_to_real_money_description": "Omvandla Cloud till riktiga pengar på det nya Sparkontot.",
   "general_transfer_money":"Transfer money",
-  "transfer_now":"Transfer now"
-
+  "transfer_now":"Transfer now",
+  "full_amount_in_cloud": "Hela beloppet i Cloud",
+  "my_debt_in_cloud": "Min skuld i Cloud",
+  "least_possible_amount": "Minsta möjliga belopp"
 }
