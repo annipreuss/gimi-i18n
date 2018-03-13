@@ -754,5 +754,6 @@
   "transfer_now":"Transfer now",
   "full_amount_in_cloud": "Hela beloppet i Cloud",
   "my_debt_in_cloud": "Min skuld i Cloud",
-  "least_possible_amount": "Minsta möjliga belopp"
+  "least_possible_amount": "Minsta möjliga belopp",
+  "general_type":"Type"
 }
