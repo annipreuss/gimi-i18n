@@ -755,5 +755,10 @@
   "full_amount_in_cloud": "Hela beloppet i Cloud",
   "my_debt_in_cloud": "Min skuld i Cloud",
   "least_possible_amount": "Minsta möjliga belopp",
-  "general_type":"Type"
+  "general_type":"Type",
+  "approve_amount": "Godkänn belopp",
+  "order_card_total_amount_description": "Du betalar årsavgift och för över pengarna samtidigt så att du slipper göra flera överföringar.",
+  "yearly_fee_for_gimi_premium": "Årsavgift för Gimi Premium",
+  "to_savings_account_of_n": "Till sparkonto för %1$d",
+  "totalt_to_transfer": "Totalt att föra över"
 }
