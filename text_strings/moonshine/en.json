@@ -760,5 +760,8 @@
   "order_card_total_amount_description": "Du betalar årsavgift och för över pengarna samtidigt så att du slipper göra flera överföringar.",
   "yearly_fee_for_gimi_premium": "Årsavgift för Gimi Premium",
   "to_savings_account_of_n": "Till sparkonto för %1$d",
-  "totalt_to_transfer": "Totalt att föra över"
+  "totalt_to_transfer": "Totalt att föra över",
+  "payment_option_credit_card": "Credit card",
+  "mastercard_debit_card": "Mastercard debit card",
+  "visa_debit_card": "Visa debit card"
 }
