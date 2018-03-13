@@ -750,6 +750,6 @@
   "connect_nav_header": "Koppla ihop",
   "qr_connect_instructions_help": "Till den som du vill koppla ihop med:",
   "show_code": "Visa kod",
-  "scan_code": "Skanna kod"
-
+  "scan_code": "Skanna kod",
+  "recommended_card_age_description": "Vi rekommenderar kortet till barn över 8 år."
 }
