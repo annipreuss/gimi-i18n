@@ -167,5 +167,8 @@
   "push_event_request_money_title": "PLZ_TRANSLATE {child_name} chiede denaro!",
   "push_interest_notification": "PLZ_TRANSLATE Nuovo livello di interesse di Gimi: {interest_rate}",
   "phone_number_verification_sms": "PLZ_TRANSLATE Codice di verifica: {code}",
-  "request_pin_code_change_sms": "PLZ_TRANSLATE Il tuo codice di verifica per la modifica del codice pin è: {code}"
+  "request_pin_code_change_sms": "PLZ_TRANSLATE Il tuo codice di verifica per la modifica del codice pin è: {code}",
+  "push_instantor_successful_login": "Successfully gathered bank details!",
+  "push_instantor_unsuccessful_login": "Gathering bank details was unsuccessful!",
+  "push_instantor_login_timeout": "You did not approve the Login request on `MobiltBankId` in 2 minutes."
 }

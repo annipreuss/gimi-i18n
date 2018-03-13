@@ -167,5 +167,8 @@
   "push_event_request_money_title": "{child_name} pyytää rahaa!",
   "push_interest_notification": "Uusi Gimin korkotaso: {interest_rate}",
   "phone_number_verification_sms": "PLZ_TRANSLATE Vahvistuskoodi: {code}",
-  "request_pin_code_change_sms": "PLZ_TRANSLATE PIN-koodin vaihtamiseen tarvittava vahvistuskoodi on {code}"
+  "request_pin_code_change_sms": "PLZ_TRANSLATE PIN-koodin vaihtamiseen tarvittava vahvistuskoodi on {code}",
+  "push_instantor_successful_login": "Successfully gathered bank details!",
+  "push_instantor_unsuccessful_login": "Gathering bank details was unsuccessful!",
+  "push_instantor_login_timeout": "You did not approve the Login request on `MobiltBankId` in 2 minutes."
 }

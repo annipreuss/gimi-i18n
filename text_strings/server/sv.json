@@ -167,5 +167,8 @@
   "push_event_request_money_title": "{child_name} ber om pengar!",
   "push_interest_notification": "Ny Gimi Intresse Nivå: {interest_rate}",
   "phone_number_verification_sms": "Verifieringskod: {code}",
-  "request_pin_code_change_sms": "Din verifieringskod för att ändra din PIN-kod är: {code}"
+  "request_pin_code_change_sms": "Din verifieringskod för att ändra din PIN-kod är: {code}",
+  "push_instantor_successful_login": "Framgångsrikt samlade bankuppgifter!",
+  "push_instantor_unsuccessful_login": "Samla bank detaljer var misslyckade!",
+  "push_instantor_login_timeout": "Du godkände inte inloggningsförfrågan på `MobiltBankId` om 2 minuter."
 }

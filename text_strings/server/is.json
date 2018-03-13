@@ -167,5 +167,8 @@
   "push_event_request_money_title": "PLZ_TRANSLATE {child_name} er að biðja um peninga!",
   "push_interest_notification": "PLZ_TRANSLATE Nýtt Gimi vextir stig: {interest_rate}",
   "phone_number_verification_sms": "PLZ_TRANSLATE Staðfestingarkóði: {code}",
-  "request_pin_code_change_sms": "PLZ_TRANSLATE Staðfestingarkóðinn þinn til að breyta PIN-númerinu þínu er: {code}"
+  "request_pin_code_change_sms": "PLZ_TRANSLATE Staðfestingarkóðinn þinn til að breyta PIN-númerinu þínu er: {code}",
+  "push_instantor_successful_login": "Successfully gathered bank details!",
+  "push_instantor_unsuccessful_login": "Gathering bank details was unsuccessful!",
+  "push_instantor_login_timeout": "You did not approve the Login request on `MobiltBankId` in 2 minutes."
 }
