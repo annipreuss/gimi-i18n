@@ -749,5 +749,7 @@
   "enable_push":"Enable push notifications",
   "convert_cloud": "Omvandla cloud",
   "question_amount_to_transfer": "Hur mycket vill du föra över?",
-  "convert_cloud_to_real_money_description": "Omvandla Cloud till riktiga pengar på det nya Sparkontot."
+  "convert_cloud_to_real_money_description": "Omvandla Cloud till riktiga pengar på det nya Sparkontot.",
+  "general_transfer_money":"Transfer money"
+
 }
