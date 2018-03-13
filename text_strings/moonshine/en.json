@@ -743,6 +743,7 @@
   "show_code": "Visa kod",
   "scan_code": "Skanna kod",
   "recommended_card_age_description": "Vi rekommenderar kortet till barn över 8 år.",
-  "enable_push":"Enable push notifications",
-  "convert_cloud": "Omvandla cloud"
+  "enable_push": "Enable push notifications",
+  "convert_cloud": "Omvandla cloud",
+  "transfer_to_card": "Transfer to card"
 }
