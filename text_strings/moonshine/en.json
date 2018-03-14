@@ -770,5 +770,6 @@
   "we_must_verify_your_identity": "Vi måste verifiera din identitet",
   "instantor_verify_identity_description": "För att kunna göra detta jobbar vi med Instantor, som använder sig av BankID, därför kommer du i nästa steg att göra en inloggning med BankID.",
   "read_why_identifying_this_way": "<b>Här</b> kan du läsa mer om varför vi måste verifiera din identitet på det här sättet.",
-  "i_approve_instantor_policy": "Jag godkänner härmed Instantors <b>användarvillkor</b> samt att min data samlas in och används enligt vad som anges i <b>Instantors integritetspolicy</b>"
+  "i_approve_instantor_policy": "Jag godkänner härmed Instantors <b>användarvillkor</b> samt att min data samlas in och används enligt vad som anges i <b>Instantors integritetspolicy</b>",
+  "one_time_only": "One time only"
 }
