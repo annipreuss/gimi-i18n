@@ -771,5 +771,7 @@
   "instantor_verify_identity_description": "För att kunna göra detta jobbar vi med Instantor, som använder sig av BankID, därför kommer du i nästa steg att göra en inloggning med BankID.",
   "read_why_identifying_this_way": "<b>Här</b> kan du läsa mer om varför vi måste verifiera din identitet på det här sättet.",
   "i_approve_instantor_policy": "Jag godkänner härmed Instantors <b>användarvillkor</b> samt att min data samlas in och används enligt vad som anges i <b>Instantors integritetspolicy</b>",
-  "one_time_only": "One time only"
+  "one_time_only": "One time only",
+  "transfers_only_one_way_warning_title": "Transfers only go one way",
+  "transfers_only_one_way_warning_desc": "You can not transfer money from your card back to your savings. Money on the card are to be spent. So make sure you don't transfer too much!"
 }
