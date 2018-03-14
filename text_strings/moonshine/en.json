@@ -773,5 +773,6 @@
   "i_approve_instantor_policy": "Jag godkänner härmed Instantors <b>användarvillkor</b> samt att min data samlas in och används enligt vad som anges i <b>Instantors integritetspolicy</b>",
   "one_time_only": "One time only",
   "transfers_only_one_way_warning_title": "Transfers only go one way",
-  "transfers_only_one_way_warning_desc": "You can not transfer money from your card back to your savings. Money on the card are to be spent. So make sure you don't transfer too much!"
+  "transfers_only_one_way_warning_desc": "You can not transfer money from your card back to your savings. Money on the card are to be spent. So make sure you don't transfer too much!",
+  "deep_regret": "Deep regret"
 }
