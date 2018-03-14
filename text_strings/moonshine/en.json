@@ -774,5 +774,8 @@
   "one_time_only": "One time only",
   "transfers_only_one_way_warning_title": "Transfers only go one way",
   "transfers_only_one_way_warning_desc": "You can not transfer money from your card back to your savings. Money on the card are to be spent. So make sure you don't transfer too much!",
-  "deep_regret": "Deep regret"
+  "deep_regret": "Deep regret",
+  "connection_invite_sent": "Connection invite sent!",
+  "connection_invite_sent_description": "Now just sit tight and wait. When your invite has been accepted, we will notify you!",
+  "general_ok_nice": "Ok nice"
 }
