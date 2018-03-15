@@ -25,7 +25,22 @@
       "titleId":"category_name_32",
       "image":"/static/categories/generellt_utlagg.png",
       "color":"#ABDDC2",
-      "categoryGroup":"shopping"
+      "categoryGroup":"shopping",
+      "mccCodes": [
+        5311,
+        5331,
+        5399,
+        5931,
+        5932,
+        5933,
+        5940,
+        5941,
+        5944,
+        5948,
+        5961,
+        5999,
+        7278
+      ]
    },
    "makeUp":{
       "id":21,
@@ -39,7 +54,21 @@
       "titleId":"category_name_20",
       "image":"/static/categories/symbol_klader.png",
       "color":"#ABDDC2",
-      "categoryGroup":"shopping"
+      "categoryGroup":"shopping",
+      "mccCodes": [
+        5137,
+        5139,
+        5611,
+        5621,
+        5631,
+        5641,
+        5651,
+        5655,
+        5661,
+        5691,
+        5699,
+        7296
+      ]
    },
    "candy":{
       "id":29,
@@ -53,7 +82,32 @@
       "titleId":"category_name_23",
       "image":"/static/categories/symbol_noje.png",
       "color":"#554296",
-      "categoryGroup":"entertainment"
+      "categoryGroup":"entertainment",
+      "mccCodes": [
+        2741,
+        5192,
+        5815,
+        5816,
+        5817,
+        5818,
+        5942,
+        5945,
+        5994,
+        7841,
+        7993,
+        7994,
+        7911,
+        7922,
+        7929,
+        7932,
+        7933,
+        7941,
+        7991,
+        7992,
+        7996,
+        7998,
+        7999
+      ]
    },
    "cinema":{
       "id":33,
@@ -67,49 +121,141 @@
       "titleId":"category_name_34",
       "image":"/static/categories/symbol_transport.png",
       "color":"#F4A882",
-      "categoryGroup":"transport"
+      "categoryGroup":"transport",
+      "mccCodes": [
+        5013,
+        5172,
+        5511,
+        5521,
+        5531,
+        5532,
+        5533,
+        5541,
+        5571,
+        5592,
+        5598,
+        7512,
+        7513,
+        7519,
+        7523,
+        7531,
+        7534,
+        7535,
+        7538,
+        7542,
+        7549,
+        7622,
+        8675
+      ]
    },
    "pet":{
       "id":7,
       "titleId":"category_name_7",
       "image":"/static/categories/uppgift_husdjur.png",
       "color":"#BDE06C",
-      "categoryGroup":"pets"
+      "categoryGroup":"pets",
+      "mccCodes": [
+        742,
+        5995
+      ]
    },
    "school":{
       "id":2,
       "titleId":"category_name_2",
       "image":"/static/categories/symbol_skola.png",
       "color":"#E0C070",
-      "categoryGroup":"school"
+      "categoryGroup":"school",
+      "mccCodes": [
+        8211,
+        8220,
+        8241,
+        8244,
+        8249,
+        8299
+      ]
    },
    "music":{
       "id":35,
       "titleId":"category_name_35",
       "image":"/static/categories/symbol_musik.png",
       "color":"#C63C5D",
-      "categoryGroup":"music"
+      "categoryGroup":"music",
+      "mccCodes": [
+        5733,
+        5735
+      ]
    },
    "travel":{
       "id":22,
       "titleId":"category_name_22",
       "image":"/static/categories/symbol_resor.png",
       "color":"#E0C070",
-      "categoryGroup":"travel"
+      "categoryGroup":"travel",
+      "mccCodes": [
+        4011,
+        4111,
+        4112,
+        4121,
+        4131,
+        4411,
+        4457,
+        4468,
+        4511,
+        4582,
+        4722,
+        4723,
+        4789,
+        7011,
+        7032,
+        7033,
+        7511,
+        3000,
+        2399,
+        3500,
+        3835
+      ]
    },
    "foodDrink":{
       "id":36,
       "titleId":"category_name_36",
       "image":"/static/categories/symbol_matdryck.png",
       "color":"#5FB782",
-      "categoryGroup":"foodAndDrinks"
+      "categoryGroup":"foodAndDrinks",
+      "mccCodes": [
+        5411,
+        5422,
+        5441,
+        5451,
+        5462,
+        5499,
+        5812,
+        5814
+      ]
    },
    "tvComputerGame":{
       "id":14,
       "titleId":"category_name_14",
       "image":"/static/categories/symbol_tvspel.png",
       "color":"#ABB4DC",
-      "categoryGroup":"tech"
+      "categoryGroup":"tech",
+      "mccCodes": [
+        4812,
+        4814,
+        4815,
+        4816,
+        4821,
+        4899,
+        5045,
+        5065,
+        5072,
+        5251,
+        5732,
+        5734,
+        5946,
+        7372,
+        7379,
+        7629
+      ]
    },
    "other":{
       "id":30,
