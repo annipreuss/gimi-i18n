@@ -788,5 +788,7 @@
   "left_to_save_title": "Left",
   "general_saved": "Saved",
   "general_recurring": "recurring",
-  "one_time_only_desc": "only one time yo!!!"
+  "one_time_only_desc": "only one time yo!!!",
+  "why_verify_identity": "Varför vi måste verifiera din identitet",
+  "why_verify_identity_desc": "Enligt EU-lagstiftning behöver finansiella tjänster känna sina kunder, det kallas Know Your Customer. \n\nDet innebär att vi behöver verifiera din identitet. \n\nVi använder oss av Instantor, och deras lösning bygger på en BankID-inloggning."
 }
