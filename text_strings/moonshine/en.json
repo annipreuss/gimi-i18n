@@ -778,5 +778,7 @@
   "connection_invite_sent": "Connection invite sent!",
   "connection_invite_sent_description": "Now just sit tight and wait. When your invite has been accepted, we will notify you!",
   "general_ok_nice": "Ok nice",
-  "question_transfer_amount_to_n": "Hur mycket vill du föra över till %1$d?"
+  "question_transfer_amount_to_n": "Hur mycket vill du föra över till %1$d?",
+  "how_often": "How often?",
+  "general_daily": "daily"
 }
