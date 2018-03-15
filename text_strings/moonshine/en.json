@@ -782,5 +782,5 @@
   "how_often": "How often?",
   "general_daily": "daily",
   "daily_chore_desc": "the chore is given out every day",
-  "monthly_chore_desc": "the chore is given out every friday"
+  "weekly_chore_desc": "the chore is given out every friday"
 }
