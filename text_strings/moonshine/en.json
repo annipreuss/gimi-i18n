@@ -786,5 +786,6 @@
   "weekly_chore_desc": "the chore is given out every friday",
   "save_for_a_dream": "Save for a dream",
   "left_to_save_title": "Left",
-  "general_saved": "Saved"
+  "general_saved": "Saved",
+  "general_recurring": "recurring"
 }
