@@ -780,5 +780,7 @@
   "general_ok_nice": "Ok nice",
   "question_transfer_amount_to_n": "Hur mycket vill du föra över till %1$d?",
   "how_often": "How often?",
-  "general_daily": "daily"
+  "general_daily": "daily",
+  "daily_chore_desc": "the chore is given out every day",
+  "monthly_chore_desc": "the chore is given out every friday"
 }
