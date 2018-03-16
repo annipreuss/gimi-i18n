@@ -195,5 +195,5 @@
   "event_add_chores": "Add chores",
   "event_add_deposit_to_savings": "Add a deposit to savings?",
   "event_help_connect": "Click here for help to connect",
-  "connect_get_going": "Connect to get going"
+  "event_connect_get_going": "Connect to get going"
 }
