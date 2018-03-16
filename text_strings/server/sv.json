@@ -171,7 +171,7 @@
   "push_instantor_successful_login": "Framgångsrikt samlade bankuppgifter!",
   "push_instantor_unsuccessful_login": "Samla bank detaljer var misslyckade!",
   "push_instantor_login_timeout": "Du godkände inte inloggningsförfrågan på `MobiltBankId` om 2 minuter.",
-  "event_connect_for money": "PLZ_CHECK Connect to get money",
+  "event_connect_for_money": "PLZ_CHECK Connect to get money",
   "event_create_dream": "PLZ_CHECK Create your dream",
   "event_secure_account": "PLZ_CHECK Secure your account",
   "event_allowance_tips": "PLZ_CHECK Good to know about allowance",
@@ -195,5 +195,18 @@
   "event_add_chores": "PLZ_CHECK Add chores",
   "event_add_deposit_to_savings": "PLZ_CHECK Add a deposit to savings?",
   "event_help_connect": "PLZ_CHECK Click here for help to connect",
-  "event_connect_get_going": "PLZ_CHECK Connect to get going"
+  "event_connect_get_going": "PLZ_CHECK Connect to get going",
+  "connect_get_going": "PLZ_CHECK Connect to get going",
+  "push_connect_for_money": "PLZ_CHECK No connection means no money in the loop - Set up your connection with your parents or other elders in the app!",
+  "push_create_dream": "PLZ_CHECK Create your dream and start growing money for the things you want!",
+  "push_verify_phone": "PLZ_CHECK Verify phone number",
+  "push_suggest_chore": "PLZ_CHECK No way to earn your own money? Suggest a chore!",
+  "push_send_invite_reminder": "PLZ_CHECK You have not got any response on your invitation. Send another one?",
+  "push_keep_account": "PLZ_CHECK You will loose your account if you don't connect. Send another invitation!",
+  "push_will_delete_account": "PLZ_CHECK Your account will be deleted within 24 hours. Rescue yourself from future bankrupcy by connecting to your parents!",
+  "push_account_deleted": "PLZ_CHECK Your account and information has been deleted. If you want to start over you are always welcome back!",
+  "push_connect_children": "PLZ_CHECK No connection means no money in the loop - Set up your connection with your children in the app!",
+  "push_set_allowance": "PLZ_CHECK How do you want to support {child_name} with money? Update your settings in the app!",
+  "push_help_connect_child": "PLZ_CHECK You have not connected to a child. Need any help? We are happy to help out!",
+  "push_get_going": "PLZ_CHECK Still no connection. We feel we are losing you even before we got started! Go to the app to connect a child you want to rescue from future bankrupcy!"
 }
