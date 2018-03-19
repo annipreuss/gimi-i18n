@@ -809,5 +809,16 @@
   "seems_something_wrong": "Seems like something went wrong",
   "we_have_problem": "We have a problem...",
   "transaction_user_error": "Det är inte vi, det är du. Försök igen med ett annat kort!",
-  "transaction_server_error": "Det är inte du, det är vi. Pengarna fastnade någonstans i cyberspace. Vi fixar det så snart vi kan, och säger till sen!"
+  "transaction_server_error": "Det är inte du, det är vi. Pengarna fastnade någonstans i cyberspace. Vi fixar det så snart vi kan, och säger till sen!",
+  "is_this_correct":"Is this correct?",
+  "is_something_wrong":"Something wrong?",
+  "its_correct":"Its correct",
+  "all_good":"All good!",
+  "verified_identity":"You have successfully verified your identity",
+  "general_address": "Address",
+  "edit_address":"Edit address",
+  "your_adress_is_question":"...and your address?",
+  "general_street":"street",
+  "general_zip_code":"zip code",
+  "general_city":"city",
 }
