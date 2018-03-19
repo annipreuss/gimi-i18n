@@ -822,5 +822,6 @@
   "general_zip_code":"zip code",
   "general_city":"city",
   "general_add_something": "Add something",
-  "add_dream_title": "Name your dream"
+  "add_dream_title": "Name your dream",
+  "new_notifications": "New notifications"
 }
