@@ -790,5 +790,13 @@
   "why_verify_identity": "Varför vi måste verifiera din identitet",
   "why_verify_identity_desc": "Enligt EU-lagstiftning behöver finansiella tjänster känna sina kunder, det kallas Know Your Customer. \n\nDet innebär att vi behöver verifiera din identitet. \n\nVi använder oss av Instantor, och deras lösning bygger på en BankID-inloggning.",
   "kid_card_pin_reminder": "%1$d card PIN is \n\n1234",
-  "contacting_bank":"Contacting your bank"
+  "contacting_bank":"Contacting your bank",
+  "push_cloud_created": "Your cloud is created",
+  "push_add_profile_pic":"Add your picture",
+  "push_no_new_notifications_kid":"All clear in here. You're on top!",
+  "push_rate_gimi":"Give Gimi your rating",
+  "push_short_tutorial":"How to use Gimi in 20 seconds",
+  "push_connect_more_children":"Connect more children",
+  "push_add_email":"Add email for status & security",
+  "push_no_new_notifications_parent":"All clear in here. You're a doing great!"
 }
