@@ -820,5 +820,6 @@
   "your_adress_is_question":"...and your address?",
   "general_street":"street",
   "general_zip_code":"zip code",
-  "general_city":"city"
+  "general_city":"city",
+  "general_add_something": "Add something"
 }
