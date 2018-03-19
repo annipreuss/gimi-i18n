@@ -798,5 +798,11 @@
   "push_short_tutorial":"How to use Gimi in 20 seconds",
   "push_connect_more_children":"Connect more children",
   "push_add_email":"Add email for status & security",
-  "push_no_new_notifications_parent":"All clear in here. You're a doing great!"
+  "push_no_new_notifications_parent":"All clear in here. You're a doing great!",
+  "general_choose_chores": "choose chores",
+  "add_task_from_scratch": "Add new task from scratch",
+  "general_chore_package": "Chore package",
+  "general_later": "later",
+  "choose_and_define_own_chores_later": "You can choose your own chores and define them later",
+  "recommendation_based_on_nothing": "This recommendation is based on nothing"
 }
