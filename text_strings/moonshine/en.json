@@ -804,5 +804,6 @@
   "general_chore_package": "Chore package",
   "general_later": "later",
   "choose_and_define_own_chores_later": "You can choose your own chores and define them later",
-  "recommendation_based_on_nothing": "This recommendation is based on nothing"
+  "recommendation_based_on_nothing": "This recommendation is based on nothing",
+  "successfull_connection_with_name": "You have been successfully connected with %1$d"
 }
