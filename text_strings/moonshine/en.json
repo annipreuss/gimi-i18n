@@ -828,5 +828,6 @@
   "lock_down_message": "Your card subscription has not been paid. To access your app and your money, remind your parent to pay.",
   "send_reminder":"Send reminder",
   "monthly_fee_for_gimi_premium": "Månadsavgift för Gimi Premium",
-  "general_cloud":"cloud"
+  "general_cloud":"cloud",
+  "general_faq_long":"frequently asked questions"
 }
