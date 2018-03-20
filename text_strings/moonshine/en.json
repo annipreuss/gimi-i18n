@@ -51,6 +51,7 @@
   "general_allowance": "allowance",
   "default_kid_name": "Your Kid",
   "general_social": "social",
+  "general_reject": "Reject",
   "send_invite": "send invite",
   "general_error_message": "något gick fel!",
   "general_active": "active",
