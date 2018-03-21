@@ -399,7 +399,7 @@
   "general_requested": "Requested",
   "general_message": "Message",
   "general_mega_error": "Mega error",
-  "camera_mega_error_description": "We need access to your camera. You can fix this in settings. Or not.",
+  "camera_mega_error_description": "We need access to your camera.\nFix it in settings.",
   "general_go_to_settings": "Go to settings",
   "edit_dream": "Edit dream",
   "add_dream": "Add dream",
@@ -846,5 +846,7 @@
   "verify_identity_bank_id": "Verifiera identitet med BankID",
   "dream_overview": "Dream overview",
   "general_remove": "remove",
-  "complete_connection":"Slutför ihopkoppling"
+  "complete_connection":"Slutför ihopkoppling",
+  "dream_overview": "Dream overview",
+  "general_got_it": "Got it"
 }
