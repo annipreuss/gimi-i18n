@@ -1,5 +1,5 @@
 // @flow
-import en from './text_strings/moonshine/en.json'
+import en from './text_strings/moonshine/sv.json'
 import da from './text_strings/client/da.json'
 import fi from './text_strings/client/fi.json'
 import is from './text_strings/client/is.json'
@@ -70,7 +70,7 @@ export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> =
 ]
 
 export let getTextStrings = (lang: string) => {
-  lang = 'en'
+  lang = 'sv'// ONLY SV IN MOOMSHINE TODO: Needs to be remove later
   switch (lang.substring(0, 2)) {
     case 'da' : return {..._default, ...da} // danish
     case 'sv' : return {..._default, ...sv} // sweden

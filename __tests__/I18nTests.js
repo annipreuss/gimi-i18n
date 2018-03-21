@@ -18,7 +18,7 @@ textStringsTypes.forEach(textStringsType => {
   if (textStringsType !== 'gimi-web') languageCodesHolder = languageCodesForTranslation
   languageCodesHolder.forEach(lang => {
     if (textStringsType === 'moonshine')
-      lang = 'en'
+      lang = 'sv'// ONLY SV IN MOOMSHINE TODO: Needs to be remove later
     try {
       textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
     } catch (e) { expect(`Cant parse ${textStringsType}/${lang} ${e.message}`).toEqual('') }
@@ -32,7 +32,7 @@ textStringsTypes.forEach(textStringsType => {
 
   languageCodesHolder.forEach(languageCode => {
     if (textStringsType === 'moonshine')
-      languageCode = 'en'
+      languageCode = 'sv'// ONLY SV IN MOOMSHINE TODO: Needs to be remove later
     if (languageCode === 'sv' || languageCode === 'en')
       stringTagData.push(searchPlzTranslate(textStrings[textStringsType][languageCode], languageCode, textStringsType))
 
