@@ -837,5 +837,6 @@
   "search_for_product": "Search for product",
   "search_result": "Sökresultat",
   "no_results": "Inga resultat",
-  "general_create_new": "Create new"
+  "general_create_new": "Create new",
+  "select_kid_for_card_title": "Vilket barn ska få ett kort?"
 }
