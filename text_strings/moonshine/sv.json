@@ -841,5 +841,6 @@
   "select_kid_for_card_title": "Vilket barn ska få ett kort?",
   "error_maintenance_title": "Ursäkta röran, vi bygger om!",
   "error_maintenance_desc": "Arbetet kommer snart vara klart, och då kan du använda Gimi som vanligt!",
-  "spending_categories":"Spending categories"
+  "spending_categories":"Spending categories",
+  "general_spending":"Spending"
 }
