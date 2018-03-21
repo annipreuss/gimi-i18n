@@ -1,16 +1,11 @@
 // @flow
 export let CategoryGroups = require('../categories/CategoryGroups.json')
-export let Colors = require('../categories/CategoryColors.json')
 export let SavingsGoalCategories = require('../categories/SavingsGoalCategories.json')
 export let WithdrawCategories = require('../categories/WithdrawCategories.json')
 export let DepositCategories = require('../categories/DepositCategories.json')
 export let TaskCategories = require('../categories/TaskCategories.json')
 
 // Make a simple array of colors instead of Colors object for easy compairing
-var colorArray = []
-Object.keys(Colors).forEach(function (key) {
-  colorArray.push(Colors[key])
-})
 
 // Make a simple array of CategoryGroups instead of CategoryGroups object for easy compairing
 var categoryGroupArray = []
@@ -157,28 +152,6 @@ describe('CategoriesTest', () => {
       var id = TaskCategories[key].id
       TaskCategoryIds.splice(TaskCategoryIds.indexOf(id), 1)
       expect(TaskCategoryIds).not.toContain(id)
-    })
-  })
-
-  it('Category color must exist in Color object', () => {
-    Object.keys(SavingsGoalCategories).forEach(function (key) {
-      var color = SavingsGoalCategories[key].color
-      expect(colorArray).toContain(color)
-    })
-
-    Object.keys(WithdrawCategories).forEach(function (key) {
-      var color = WithdrawCategories[key].color
-      expect(colorArray).toContain(color)
-    })
-
-    Object.keys(DepositCategories).forEach(function (key) {
-      var color = DepositCategories[key].color
-      expect(colorArray).toContain(color)
-    })
-
-    Object.keys(TaskCategories).forEach(function (key) {
-      var color = TaskCategories[key].color
-      expect(colorArray).toContain(color)
     })
   })
 
