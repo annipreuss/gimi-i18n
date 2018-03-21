@@ -844,5 +844,6 @@
   "spending_categories":"Spending categories",
   "general_spending":"Spending",
   "verify_identity_bank_id": "Verifiera identitet med BankID",
-  "dream_overview": "Dream overview"
+  "dream_overview": "Dream overview",
+  "general_remove": "remove"
 }
