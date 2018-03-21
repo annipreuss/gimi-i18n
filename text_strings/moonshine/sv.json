@@ -833,5 +833,9 @@
   "general_faq_long":"frequently asked questions",
   "allowance_plus_chores_plus_interest":"allowance + chores + interest",
   "everything_you_need_to_know_about_gimi": "Allt du behöver veta om Gimi",
-  "everything_you_need_to_know_about_gimi_text": "This section doesnt exist yet"
+  "everything_you_need_to_know_about_gimi_text": "This section doesnt exist yet",
+  "search_for_product": "Search for product",
+  "search_result": "Sökresultat",
+  "no_results": "Inga resultat",
+  "general_create_new": "Create new"
 }
