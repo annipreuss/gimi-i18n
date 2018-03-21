@@ -843,5 +843,6 @@
   "error_maintenance_desc": "Arbetet kommer snart vara klart, och då kan du använda Gimi som vanligt!",
   "spending_categories":"Spending categories",
   "general_spending":"Spending",
-  "verify_identity_bank_id": "Verifiera identitet med BankID"
+  "verify_identity_bank_id": "Verifiera identitet med BankID",
+  "dream_overview": "Dream overview"
 }
