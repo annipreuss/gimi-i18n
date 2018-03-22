@@ -850,5 +850,7 @@
   "dream_overview": "Dream overview",
   "general_got_it": "Got it",
   "choose_country": "Choose country",
-  "is_this_number_correct":"is this number correct?"
+  "is_this_number_correct":"is this number correct?",
+  "resend_code":"resend code",
+  "verify_number":"verify number"
 }
