@@ -817,5 +817,9 @@
   "verify_number":"verify number",
   "international_number":"international number",
   "general_camera_error":"Något är knas med kameran",
-  "price_of_dream": "Price of dream"
+  "price_of_dream": "Price of dream",
+  "card_number": "Card number",
+  "general_cvv": "CVV",
+  "expiry_date": "Expiry date",
+  "name_on_card": "Name on card"
 }
