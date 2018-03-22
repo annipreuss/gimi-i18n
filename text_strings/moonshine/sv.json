@@ -852,5 +852,6 @@
   "choose_country": "Choose country",
   "is_this_number_correct":"is this number correct?",
   "resend_code":"resend code",
-  "verify_number":"verify number"
+  "verify_number":"verify number",
+  "international_number":"international number"
 }
