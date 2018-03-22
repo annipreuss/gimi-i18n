@@ -853,5 +853,6 @@
   "is_this_number_correct":"is this number correct?",
   "resend_code":"resend code",
   "verify_number":"verify number",
-  "international_number":"international number"
+  "international_number":"international number",
+  "general_camera_error":"Något är knas med kameran"
 }
