@@ -816,5 +816,6 @@
   "resend_code":"resend code",
   "verify_number":"verify number",
   "international_number":"international number",
-  "general_camera_error":"Något är knas med kameran"
+  "general_camera_error":"Något är knas med kameran",
+  "price_of_dream": "Price of dream"
 }
