@@ -849,5 +849,6 @@
   "complete_connection":"Slutför ihopkoppling",
   "dream_overview": "Dream overview",
   "general_got_it": "Got it",
-  "choose_country": "Choose country"
+  "choose_country": "Choose country",
+  "is_this_number_correct":"is this number correct?"
 }
