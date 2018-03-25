@@ -821,5 +821,7 @@
   "card_number": "Card number",
   "general_cvv": "CVV",
   "expiry_date": "Expiry date",
-  "name_on_card": "Name on card"
+  "name_on_card": "Name on card",
+  "no_card": "No card here yet...",
+  "activate_card": "Activate card"
 }
