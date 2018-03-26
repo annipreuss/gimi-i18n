@@ -829,5 +829,7 @@
   "check_it_out":"check it out",
   "name_of_child": "Name of child",
   "name_on_card": "The name on the card",
-  "card_name_specifikations": "Kortet rymmer bara 21 tecken, och tar inga å, ä, ö!"
+  "card_name_specifikations": "Kortet rymmer bara 21 tecken, och tar inga å, ä, ö!",
+  "n_for_a_year": "%1$d för ett år",
+  "n_each_month": "%1$d varje månad"
 }
