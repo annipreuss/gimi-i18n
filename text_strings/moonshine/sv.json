@@ -833,5 +833,9 @@
   "n_for_a_year": "%1$d för ett år",
   "n_each_month": "%1$d varje månad",
   "which_bank_do_you_have_bankid": "Vilken bank har du BankID på?",
-  "create_your_own": "create your own"
+  "create_your_own": "create your own",
+  "name_verification_title": "Stämmer ditt namn?",
+  "name_verification_desc": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+  "general_full_name": "Fullständigt namn",
+  "question_name_not_correct": "Stämmer namnet inte?"
 }
