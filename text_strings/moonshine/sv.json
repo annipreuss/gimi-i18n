@@ -621,7 +621,7 @@
   "children_and_children_info": "Barn & barnens uppgifter",
   "verify_your_identity": "Verifiera din identitet",
   "general_order": "Beställ",
-  "card_good_to_know_title": "Innehåll ej klart men:",
+  "card_good_to_know_title": "Bra att veta om kortet",
   "card_good_to_know_limits_title": "Bra att veta om gränser",
   "card_good_to_know_limit_desc": "Just to be on the safe side, we have some limits for spending and loading lorem ipsum.\n\nMaximum daily spend : %1$d\nMaximum load per day : %2$d\nMax loads per day : %3$d",
   "card_good_to_know_blocks_title": "Bra att veta om spärrar och bankomater",
