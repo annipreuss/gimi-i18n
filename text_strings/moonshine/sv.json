@@ -823,5 +823,7 @@
   "expiry_date": "Expiry date",
   "name_on_card": "Name on card",
   "no_card": "No card here yet...",
-  "activate_card": "Activate card"
+  "activate_card": "Activate card",
+  "upgraded_to_premium":"You have been upgraded to premium ✌️",
+  "upgraded_to_premium_info":"You will get a card and savings account and real money etc, etc"
 }
