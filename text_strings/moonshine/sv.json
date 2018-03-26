@@ -781,9 +781,9 @@
   "general_address": "Address",
   "edit_address":"Edit address",
   "your_adress_is_question":"...and your address?",
-  "general_street":"street",
-  "general_zip_code":"zip code",
-  "general_city":"city",
+  "general_street":"Gata",
+  "general_zip_code":"Postnummer",
+  "general_city":"Stad",
   "general_add_something": "Add something",
   "add_dream_title": "Name your dream",
   "new_notifications": "New notifications",
@@ -837,5 +837,10 @@
   "name_verification_title": "Stämmer ditt namn?",
   "name_verification_desc": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
   "general_full_name": "Fullständigt namn",
-  "question_name_not_correct": "Stämmer namnet inte?"
+  "question_name_not_correct": "Stämmer namnet inte?",
+  "question_address_correct": "Stämmer adressen?",
+  "address_verification_description": "Vi skickar bara till Sverige, så se till att uppge en svensk adress.",
+  "general_country": "Land",
+  "general_sweden": "Sverige",
+  "question_address_not_correct": "Stämmer adressen inte?"
 }
