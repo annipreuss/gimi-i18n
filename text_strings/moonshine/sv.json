@@ -842,5 +842,6 @@
   "address_verification_description": "Vi skickar bara till Sverige, så se till att uppge en svensk adress.",
   "general_country": "Land",
   "general_sweden": "Sverige",
-  "question_address_not_correct": "Stämmer adressen inte?"
+  "question_address_not_correct": "Stämmer adressen inte?",
+  "choose_pin_code": "Välj PIN-kod"
 }
