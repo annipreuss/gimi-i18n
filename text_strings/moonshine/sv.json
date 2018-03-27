@@ -843,5 +843,6 @@
   "general_country": "Land",
   "general_sweden": "Sverige",
   "question_address_not_correct": "Stämmer adressen inte?",
-  "choose_pin_code": "Välj PIN-kod"
+  "choose_pin_code": "Välj PIN-kod",
+  "i_accept_the_user_terms": "I accept the user terms"
 }
