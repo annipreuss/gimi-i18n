@@ -844,5 +844,12 @@
   "general_sweden": "Sverige",
   "question_address_not_correct": "Stämmer adressen inte?",
   "choose_pin_code": "Välj PIN-kod",
-  "i_accept_the_user_terms": "I accept the user terms"
+  "i_accept_the_user_terms": "I accept the user terms",
+  "order_card_done_payment_title": "Klart! Betalningen har gått igenom.",
+  "order_card_done_payment_description": "Lorem ipsum doler sit amet lorem ipsum doler doler sit amet.",
+  "total_n": "Totalt %1$d",
+  "general_savings_account": "Savings account",
+  "general_yearly_fee": "yearly fee",
+  "general_monthly_fee": "monthly fee",
+  "general_gimi": "Gimi"
 }
