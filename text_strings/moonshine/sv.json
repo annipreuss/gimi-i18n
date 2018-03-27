@@ -851,5 +851,7 @@
   "general_savings_account": "Savings account",
   "general_yearly_fee": "yearly fee",
   "general_monthly_fee": "monthly fee",
-  "general_gimi": "Gimi"
+  "general_gimi": "Gimi",
+  "upgraded_n_to_premium_title": "Du har uppgraderat %1$d till Premium!",
+  "upgraded_n_to_premium_desc": "Lorem ipsum doler sit amet lorem ipsum doler doler sit amet."
 }
