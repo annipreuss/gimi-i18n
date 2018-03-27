@@ -577,7 +577,7 @@
   "reset_kids": "Reset my children",
   "delete_kids": "Delete my children",
   "first_time_auto_approval_text": "Do you want to turn on auto-approval so that completed chores are automatically approved after 24 hours?",
-  "invited_to_connect": "Du har blivit inbjuden att koppla ihop med %1$d. Vill du acceptera inbjudan?",
+  "invited_to_connect": "Want to connect with %1$d?",
   "question_login_problem": "Problem att logga in?",
   "login_problem_contact_support": "Vet du inte hur du ska logga in kan du kontakta support.",
   "spending_limits": "Spending limits",
