@@ -853,5 +853,12 @@
   "general_monthly_fee": "monthly fee",
   "general_gimi": "Gimi",
   "upgraded_n_to_premium_title": "Du har uppgraderat %1$d till Premium!",
-  "upgraded_n_to_premium_desc": "Lorem ipsum doler sit amet lorem ipsum doler doler sit amet."
+  "upgraded_n_to_premium_desc": "Lorem ipsum doler sit amet lorem ipsum doler doler sit amet.",
+  "card_overview_usp_1_title": "Ett kort och sparkonto från Gimi!",
+  "card_overview_usp_1_desc": "Ditt barn får ett kort. Du får insyn och kontroll. Kortet funkar i butik och online.",
+  "card_overview_usp_2_title": "Smart och enkel hantering av pengar",
+  "card_overview_usp_2_desc": "Barn ser sitt saldo i appen. Månadspengen och extra-pengar förs över direkt till sparkontot.",
+  "card_overview_usp_3_title": "Säkrare och bättre än kontanter",
+  "card_overview_usp_3_desc": "Borttappade kort blockeras och återaktiveras i appen.",
+  "get_the_card": "Skaffa kortet"
 }
