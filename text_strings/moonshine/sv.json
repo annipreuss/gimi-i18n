@@ -867,5 +867,10 @@
   "replace_card_start_title": "Has your new card arrived yet?",
   "replace_card_start_description": "You need to activate it here...",
   "general_not_yet": "Not yet",
-  "general_activate_now": "Activate now"
+  "general_activate_now": "Activate now",
+  "activate_new_card_show_pin_title": "The code to your new card",
+  "activate_card_show_pin_title": "The code to your card",
+  "activate_card_show_pin_desc": "...is secret. Do not share it with anyone. Don't let anyone else see it. Ready?",
+  "activate_card_showing_pin_desc": "Remember it. Do not write it down. If you forget, you can view it in the app.",
+  "general_show_pin": "Show pin"
 }
