@@ -863,5 +863,9 @@
   "get_the_card": "Skaffa kortet",
   "approve_payouts": "Godkänn utbetalningar",
   "enter_your_address": "Skriv in din adress",
-  "we_only_ship_to_sweden": "Vi skickar bara till Sverige."
+  "we_only_ship_to_sweden": "Vi skickar bara till Sverige.",
+  "replace_card_start_title": "Has your new card arrived yet?",
+  "replace_card_start_description": "You need to activate it here...",
+  "general_not_yet": "Not yet",
+  "general_activate_now": "Activate now"
 }
