@@ -860,5 +860,6 @@
   "card_overview_usp_2_desc": "Barn ser sitt saldo i appen. Månadspengen och extra-pengar förs över direkt till sparkontot.",
   "card_overview_usp_3_title": "Säkrare och bättre än kontanter",
   "card_overview_usp_3_desc": "Borttappade kort blockeras och återaktiveras i appen.",
-  "get_the_card": "Skaffa kortet"
+  "get_the_card": "Skaffa kortet",
+  "approve_payouts": "Godkänn utbetalningar"
 }
