@@ -18,7 +18,8 @@
     "krisi": "echo Deprecated action, use npm run emma instead or if you are afraid of changes you have the old lady @:  krisi-d",
     "krisi-d": "npm run gimi-translation-service en sv xx",
     "jenny": "npm run babelize && node ./utils/dest/jenny.js",
-    "emma": "npm run babelize && node ./utils/dest/emma.js"
+    "emma": "npm run babelize && node ./utils/dest/emma.js",
+    "taylor": "npm run babelize && node ./utils/dest/taylor.js"
   },
   "repository": {
     "type": "git",
