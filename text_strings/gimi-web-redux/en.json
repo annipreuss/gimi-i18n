@@ -197,5 +197,8 @@
   "404.not.found.title": "Oops!",
   "404.not.found.subtitle": "We can't seem to find the page you're looking for.",
   "404.not.found.error": "Error code: 404",
-  "link.back": "back"
+  "link.back": "back",
+  "reduced.home.hero.title": "Soon Gimi is here!",
+  "reduced.home.hero.tagline": "Download our app! Soon to be updated with cool features 🏄",
+  "reduced.link.jobs": "Jobs"
 }
