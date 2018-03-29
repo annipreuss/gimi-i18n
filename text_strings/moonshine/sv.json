@@ -874,5 +874,11 @@
   "activate_card_showing_pin_desc": "Remember it. Do not write it down. If you forget, you can view it in the app.",
   "general_show_pin": "Show pin",
   "card_activation_success_title": "Your card has been activated!",
-  "card_activation_success_desc": "Great success! You're ready to start spending bla bla"
+  "card_activation_success_desc": "Great success! You're ready to start spending bla bla",
+  "upgraded_to_premium_info_1_title": "You get a card lorem ipsum",
+  "upgraded_to_premium_info_1_desc": "So you can pay in stores and online. Watit for the card etc.",
+  "upgraded_to_premium_info_2_title": "...and savings account",
+  "upgraded_to_premium_info_2_desc": "Transfer money to card when you need to lorem ipsum",
+  "upgraded_to_premium_info_3_title": "Real money something...",
+  "upgraded_to_premium_info_3_desc": "PIN code etc"
 }
