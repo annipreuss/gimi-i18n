@@ -6,7 +6,7 @@ var jsonDataTranslate = []
 var jsonBreakingSumbols = []
 var jsonArrayUpperCase = []
 
-var textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator', 'moonshine']
+var textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator', 'moonshine', 'gimi-web-redux']
 
 var textStrings = {}
 textStringsTypes.forEach(textStringsType => {
@@ -14,8 +14,10 @@ textStringsTypes.forEach(textStringsType => {
 })
 textStringsTypes.forEach(textStringsType => {
   var languageCodesHolder = languageCodes
+  if (textStringsType === 'gimi-web-redux') languageCodesHolder = ['sv', 'en']
   if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
-  if (textStringsType !== 'gimi-web') languageCodesHolder = languageCodesForTranslation
+  if (textStringsType !== 'gimi-web' && textStringsType !== 'gimi-web-redux') languageCodesHolder = languageCodesForTranslation
+
   languageCodesHolder.forEach(lang => {
     if (textStringsType === 'moonshine')
       lang = 'sv'// ONLY SV IN MOOMSHINE TODO: Needs to be remove later
@@ -27,8 +29,9 @@ textStringsTypes.forEach(textStringsType => {
 // server and templates string data
 textStringsTypes.forEach(textStringsType => {
   var languageCodesHolder = languageCodes
+  if (textStringsType === 'gimi-web-redux') languageCodesHolder = ['sv', 'en']
   if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
-  if (textStringsType !== 'gimi-web') languageCodesHolder = languageCodesForTranslation
+  if (textStringsType !== 'gimi-web' && textStringsType !== 'gimi-web-redux') languageCodesHolder = languageCodesForTranslation
 
   languageCodesHolder.forEach(languageCode => {
     if (textStringsType === 'moonshine')
