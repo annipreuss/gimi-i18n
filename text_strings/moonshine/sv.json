@@ -821,14 +821,13 @@
   "card_number": "Card number",
   "general_cvv": "CVV",
   "expiry_date": "Expiry date",
-  "name_on_card": "Name on card",
+  "name_on_card": "Fullständigt namn på kortet",
   "no_card": "No card here yet...",
   "activate_card": "Activate card",
   "upgraded_to_premium":"You have been upgraded to premium ✌️",
   "upgraded_to_premium_info":"You will get a card and savings account and real money etc, etc",
   "check_it_out":"check it out",
   "name_of_child": "Name of child",
-  "name_on_card": "The name on the card",
   "card_name_specifikations": "Kortet rymmer bara 21 tecken, och tar inga å, ä, ö!",
   "n_for_a_year": "%1$d för ett år",
   "n_each_month": "%1$d varje månad",
@@ -882,5 +881,6 @@
   "upgraded_to_premium_info_3_title": "Real money something...",
   "upgraded_to_premium_info_3_desc": "PIN code etc",
   "upgraded_to_premium_done_title": "Done! Ready to explore lorem ipsum?",
-  "upgraded_to_premium_done_desc": "Your card will arrive in a few days. In the meantime, check out your new accounts etc"
+  "upgraded_to_premium_done_desc": "Your card will arrive in a few days. In the meantime, check out your new accounts etc",
+  "last_name_reminder": "Glöm inte efternamn!"
 }
