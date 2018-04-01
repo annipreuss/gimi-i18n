@@ -604,7 +604,7 @@
   "question_recieved_sms": "har du fått ett SMS?",
   "invited_by_sms_instructions": "gå till SMS:et och klicka på länken för att genomföra ihopkopplingen",
   "connect_family_member": "koppla ihop med familjemedlem",
-  "days_to_next_pay": "dagar till nästa \npayday",
+  "days_to_next_pay": "dagar till \npayday",
   "search_results": "sökresultat",
   "name_accepted_your_invite": "%1$d har accepterat din inbjudan!",
   "accepted_invite_setup_flow_description": "ni är nu ihopkopplade. sätt upp vecko- eller månadspengar åt %1$d.",
