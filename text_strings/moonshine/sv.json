@@ -892,5 +892,24 @@
   "pig_home_screen_message_7": "du är cool, coolio",
   "pig_home_screen_message_8": "idag är du bäst",
   "pig_home_screen_message_9": "du får mig att flyga",
-  "pig_home_screen_message_10": "hej kompis"
+  "pig_home_screen_message_10": "hej kompis",
+  "parent_orderd_card":"Your parent ordered a card for you",
+  "how_to_pay" :"How to pay online",
+  "got_savings_account": "You have got a savings account",
+  "got_fab_button":"You have got a FAB button",
+  "set_pin": "Set your PIN code",
+  "got_card_activate_card":"Got your card? Activate it here",
+  "how_to_pay_card": "How to pay with the card",
+  "first_payment_created": "You made your first payment",
+  "continue_card_flow": "Continue with card sign up",
+  "card_ordered": "You ordered a card for your child",
+  "savings_account_created": "A savings account has been created",
+  "able_making_deposit": "You can now make deposits to savings",
+  "card_on_the_way": "The card is on it´s way",
+  "card_activated": "Card have been activated",
+  "how_to_payments": "How to follow payments",
+  "first_card_payment": "Made a first card payment",
+  "deposit_to_savings": "Deposit to the new savings account"
+
+
 }
