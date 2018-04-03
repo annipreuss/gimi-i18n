@@ -249,7 +249,7 @@
   "event_allowance_is_set_for_you": "Allowance is set for you",
   "event_you_now_got_weekly_allowance": "You now got weekly allowance",
   "event_you_now_got_monthly_allowance": "You now got monthly allowance",
-  "event_you_have_got_a_new_chores": "You have got a new chores",
+  "event_you_have_got_a_new_chore": "You have got a new chore",
   "event_you_have_got_x_new_chores": "You have got x new chores",
   "event_chore_was_not_approved": "{chore} was not approved",
   "event_reminder_of_chore": "Reminder of {chore}",
