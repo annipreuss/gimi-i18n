@@ -949,5 +949,11 @@
   "kid_onboarding_in_charge_title_2": "You are in charge",
   "kid_onboarding_in_charge_desc_2": "Grownups cant login to your account. So from now on you you are in charge",
   "kid_onboarding_in_charge_title_3": "You are in charge",
-  "kid_onboarding_in_charge_desc_3": "Grownups cant login to your account. So from now on you you are in charge"
+  "kid_onboarding_in_charge_desc_3": "Grownups cant login to your account. So from now on you you are in charge",
+  "kid_onboarding_in_cloud_title_1": "Your money is in the Cloud",
+  "kid_onboarding_in_cloud_desc_1": "You got a new piggybank. All your money is still there, but in cyberspace",
+  "kid_onboarding_in_cloud_title_2": "Your money is in the Cloud",
+  "kid_onboarding_in_cloud_desc_2": "You got a new piggybank. All your money is still there, but in cyberspace",
+  "kid_onboarding_in_cloud_title_3": "Your money is in the Cloud",
+  "kid_onboarding_in_cloud_desc_3": "You got a new piggybank. All your money is still there, but in cyberspace"
 }
