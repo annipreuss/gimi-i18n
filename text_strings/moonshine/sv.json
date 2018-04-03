@@ -910,5 +910,23 @@
   "how_to_payments": "How to follow payments",
   "first_card_payment": "Made a first card payment",
   "deposit_to_savings": "Deposit to the new savings account",
-  "general_loading_with_dots": "Loading..."
+  "general_loading_with_dots": "Loading...",
+  "task_name_was_approved": "%1$d was approved",
+  "interest_last_week":"Interest for last week",
+  "interest_last_month":"Interest for last month",
+  "payout_made_to_cloud":"Payout is made to cloud",
+  "payout_made_to_your_cloud":"Payout is made to your cloud",
+  "payout_made_to_savings":"Payout is made to savings",
+  "payout_made_to_your_savings":"Payout is made to your savings",
+  "received_payout_in_cash":"You received a payout in cash",
+  "you_transfered_to_card":"You transfered to card",
+  "transfered_from_savings":"Transfered from savings",
+  "upcoming_interest":"Upcoming interest",
+  "upcoming_weekly_allowance_added":"Upcoming weekly allowance is added",
+  "upcoming_monthly_allowance_added":"Upcoming monthly allowance is added",
+  "you_paid_for_other_grow_up":"You paid for other grown up",
+  "other_grow_up_paid_for_you":"Other grown up paid for you",
+  "you_settled_up":"You settled up"
+
+
 }
