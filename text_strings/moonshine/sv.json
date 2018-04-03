@@ -937,5 +937,11 @@
   "general_archive_verb": "Arkivera",
   "dream_achieved_title": "You achieved your dream!",
   "dream_achieved_desc": "Your dream stays until you archive it.",
-  "money_recieved": "Pengar mottagna"
+  "money_recieved": "Pengar mottagna",
+  "kid_onboarding_earn_title_1":"Earn from anyone",
+  "kid_onboarding_earn_desc_1":"Connect to more grownups. Get paid by parents, grandparents, neighbors, you name it!",
+  "kid_onboarding_earn_title_2":"Earn from anyone",
+  "kid_onboarding_earn_desc_2":"Connect to more grownups. Get paid by parents, grandparents, neighbors, you name it!",
+  "kid_onboarding_earn_title_3":"Earn from anyone",
+  "kid_onboarding_earn_desc_3":"Connect to more grownups. Get paid by parents, grandparents, neighbors, you name it!"
 }
