@@ -909,7 +909,6 @@
   "card_activated": "Card have been activated",
   "how_to_payments": "How to follow payments",
   "first_card_payment": "Made a first card payment",
-  "deposit_to_savings": "Deposit to the new savings account"
-
-
+  "deposit_to_savings": "Deposit to the new savings account",
+  "general_loading_with_dots": "Loading..."
 }
