@@ -933,6 +933,8 @@
   "kid_onboarding_welcome_title_2":"Welcome to the new Gimi",
   "kid_onboarding_welcome_desc_2":"Gimi got a new look and features, Take the tour!",
   "kid_onboarding_welcome_title_3":"Welcome to the new Gimi",
-  "kid_onboarding_welcome_desc_3":"Gimi got a new look and features, Take the tour!"
-
+  "kid_onboarding_welcome_desc_3":"Gimi got a new look and features, Take the tour!",
+  "general_archive_verb": "Arkivera",
+  "dream_achieved_title": "You achieved your dream!",
+  "dream_achieved_desc": "Your dream stays until you archive it."
 }
