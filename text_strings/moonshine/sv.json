@@ -943,5 +943,11 @@
   "kid_onboarding_earn_title_2":"Earn from anyone",
   "kid_onboarding_earn_desc_2":"Connect to more grownups. Get paid by parents, grandparents, neighbors, you name it!",
   "kid_onboarding_earn_title_3":"Earn from anyone",
-  "kid_onboarding_earn_desc_3":"Connect to more grownups. Get paid by parents, grandparents, neighbors, you name it!"
+  "kid_onboarding_earn_desc_3":"Connect to more grownups. Get paid by parents, grandparents, neighbors, you name it!",
+  "kid_onboarding_in_charge_title_1": "You are in charge",
+  "kid_onboarding_in_charge_desc_1": "Grownups cant login to your account. So from now on you you are in charge",
+  "kid_onboarding_in_charge_title_2": "You are in charge",
+  "kid_onboarding_in_charge_desc_2": "Grownups cant login to your account. So from now on you you are in charge",
+  "kid_onboarding_in_charge_title_3": "You are in charge",
+  "kid_onboarding_in_charge_desc_3": "Grownups cant login to your account. So from now on you you are in charge"
 }
