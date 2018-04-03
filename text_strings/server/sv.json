@@ -262,5 +262,12 @@
   "event_deposit_made_to_your_cloud": "PLZ_CHECK Deposit made to your cloud",
   "event_share_your_cravings_for_your_birthday": "PLZ_CHECK Share your cravings for your birthday",
   "event_share_your_cravings": "PLZ_CHECK Share your cravings",
-  "event_happy_birthday": "PLZ_CHECK Happy birthday"
+  "event_happy_birthday": "PLZ_CHECK Happy birthday",
+  "push_you_have_a_new_connection": "PLZ_CHECK You have a new connection! ",
+  "push_you_have_got_an_invitation_from_name_to_connect": "PLZ_CHECK You have got an invitation from {name} to connect",
+  "push_allowance_is_set_for_you_check_it_out_in_the_app": "PLZ_CHECK Allowance is set for you! Check it out in the app!",
+  "push_childname_has_completed_a_chore": "PLZ_CHECK {name} has completed a chore!",
+  "push_parent_name_asks_permission_to_edit_your_chores": "PLZ_CHECK {name} asks permission to edit your chores",
+  "push_name_received_x_in_allowance_from_you_today_mark_it_as_paid_out_if_you_paid_out_cash": "PLZ_CHECK {chore} received {amount} in allowance from you today! Mark it as paid out if you paid out cash!",
+  "push_childname_has_reached_a_dream": "PLZ_CHECK {name} has reached a dream"
 }
