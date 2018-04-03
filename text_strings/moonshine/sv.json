@@ -927,7 +927,12 @@
   "you_paid_for_other_grow_up":"You paid for other grown up",
   "other_grow_up_paid_for_you":"Other grown up paid for you",
   "you_settled_up":"You settled up",
-  "start_tour": "start tour"
-
+  "start_tour": "start tour",
+  "kid_onboarding_welcome_title_1":"Welcome to the new Gimi",
+  "kid_onboarding_welcome_desc_1":"Gimi got a new look and features, Take the tour!",
+  "kid_onboarding_welcome_title_2":"Welcome to the new Gimi",
+  "kid_onboarding_welcome_desc_2":"Gimi got a new look and features, Take the tour!",
+  "kid_onboarding_welcome_title_3":"Welcome to the new Gimi",
+  "kid_onboarding_welcome_desc_3":"Gimi got a new look and features, Take the tour!"
 
 }
