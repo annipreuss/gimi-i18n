@@ -269,5 +269,6 @@
   "push_childname_has_completed_a_chore": "PLZ_CHECK {name} has completed a chore!",
   "push_parent_name_asks_permission_to_edit_your_chores": "PLZ_CHECK {name} asks permission to edit your chores",
   "push_name_received_x_in_allowance_from_you_today_mark_it_as_paid_out_if_you_paid_out_cash": "PLZ_CHECK {chore} received {amount} in allowance from you today! Mark it as paid out if you paid out cash!",
-  "push_childname_has_reached_a_dream": "PLZ_CHECK {name} has reached a dream"
+  "push_childname_has_reached_a_dream": "PLZ_CHECK {name} has reached a dream",
+  "event_add_email": "PLZ_CHECK Add email for status & security"
 }
