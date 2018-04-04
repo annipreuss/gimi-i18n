@@ -997,5 +997,7 @@
   "kid_payment_onboarding_title": "Your next payment",
   "kid_payment_onboarding_desc": "Allowance, chores and interest are paid on the same day - Payday. Watch the countdown!",
   "kid_cloud_onboarding_title": "Your cloud, your money!",
-  "kid_cloud_onboarding_desc": "The cloud is your new piggybank. Watch your money grow here!"
+  "kid_cloud_onboarding_desc": "The cloud is your new piggybank. Watch your money grow here!",
+  "kid_earn_onboarding_title": "Earn by doing chores",
+  "kid_earn_onboarding_desc": "Earning money = doing chores. And yes, that's what you'll be doing here!"
 }
