@@ -995,5 +995,7 @@
   "parent_onboarding_new_home_title_3": "Your improved homescreen",
   "parent_onboarding_new_home_desc_3": "Manage and review childrens finances from your new homescreen",
   "kid_payment_onboarding_title": "Your next payment",
-  "kid_payment_onboarding_desc": "Allowance, chores and interest are paid on the same day - Payday. Watch the countdown!"
+  "kid_payment_onboarding_desc": "Allowance, chores and interest are paid on the same day - Payday. Watch the countdown!",
+  "kid_cloud_onboarding_title": "Your cloud, your money!",
+  "kid_cloud_onboarding_desc": "The cloud is your new piggybank. Watch your money grow here!"
 }
