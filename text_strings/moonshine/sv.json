@@ -1026,7 +1026,6 @@
   "app_question_answer_8": "App question answer...",
   "app_question_title_9": "App question title",
   "app_question_answer_9": "App question answer...",
-
   "card_question_title_1": "Card question title",
   "card_question_answer_1": "Card question answer...",
   "card_question_title_2": "Card question title",
@@ -1049,5 +1048,16 @@
   "card_question_answer_10": "Card question answer...",
   "card_question_title_11": "Card question title",
   "card_question_answer_11": "Card question answer...",
-  "belongs_to": "Belongs to"
+  "belongs_to": "Belongs to",
+  "general_about_gimi": "Om Gimi",
+  "gimi_question_title_1": "Gimi question title",
+  "gimi_question_answer_1": "Gimi question answer...",
+  "gimi_question_title_2": "Gimi question title",
+  "gimi_question_answer_2": "Gimi question answer...",
+  "gimi_question_title_3": "Gimi question title",
+  "gimi_question_answer_3": "Gimi question answer...",
+  "gimi_question_title_4": "Gimi question title",
+  "gimi_question_answer_4": "Gimi question answer...",
+  "gimi_question_title_5": "Gimi question title",
+  "gimi_question_answer_5": "Gimi question answer..."
 }
