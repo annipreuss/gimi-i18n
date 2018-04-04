@@ -1001,5 +1001,6 @@
   "kid_earn_onboarding_title": "Earn by doing chores",
   "kid_earn_onboarding_desc": "Earning money = doing chores. And yes, that's what you'll be doing here!",
   "kid_dream_onboarding_title": "Savings goal = dream",
-  "kid_dream_onboarding_desc": "Save money to reach your dreams!"
+  "kid_dream_onboarding_desc": "Save money to reach your dreams!",
+  "number_successfully_verified": "Number successfully verified!"
 }
