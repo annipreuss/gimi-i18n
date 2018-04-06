@@ -819,7 +819,7 @@
   "verify_number":"verifiera nummer",
   "international_number":"internationellt nummer",
   "general_camera_error":"Något är knas med kameran",
-  "price_of_dream": "priset på drömmen",
+  "price_of_dream": "vad kostar din dröm?",
   "card_number": "kort-nummer",
   "general_cvv": "CVV",
   "expiry_date": "utångsdatum",
@@ -1176,8 +1176,5 @@
   "custom_notification_rate_gimi":"Give Gimi your rating",
   "nothing_to_see_here": "Nothing to see here...",
   "custom_notification_get_money":"Connect to get money",
-  "custom_notification_create_dream": "Create your dream",
-  "dont_miss_important": "Missa inget viktigt.",
-  "turn_on_notifications": "Sätt på notiser!",
-  "general_yes_ofcourse": "Ja såklart!"
+  "custom_notification_create_dream": "Create your dream"
 }
