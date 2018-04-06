@@ -1162,5 +1162,6 @@
   "welcome_to_gimi_desc_3": "something about understanding and learning early lorem ipsum",
   "connected_popover_title": "You're connected!",
   "connected_popover_text": "Setup stuff for %1$d now?",
-  "general_now": "Now"
+  "general_now": "Now",
+  "general_important": "important"
 }
