@@ -441,7 +441,7 @@
   "add_dream_placeholader": "titel",
   "manual_dream_hint": "manual",
   "set_price": "sätt pris",
-  "choose_task_price": "välj pris för %1$d",
+  "choose_task_price": "Sätt belöning för uppgiften",
   "task_hourly": "timvis",
   "task_fixed": "fast",
   "didnt_go_so_well": "Det gick sådär… 😐",
