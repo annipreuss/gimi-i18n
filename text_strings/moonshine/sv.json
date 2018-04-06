@@ -1174,5 +1174,7 @@
   "custom_notification_add_profile_pic":"Add your picture",
   "custom_notification_set_allowance":"Set allowance",
   "custom_notification_rate_gimi":"Give Gimi your rating",
-  "nothing_to_see_here": "Nothing to see here..."
+  "nothing_to_see_here": "Nothing to see here...",
+  "custom_notification_get_money":"Connect to get money",
+  "custom_notification_create_dream": "Create your dream"
 }
