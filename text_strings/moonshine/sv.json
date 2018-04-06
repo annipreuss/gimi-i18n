@@ -1123,7 +1123,7 @@
   "register_question_title_for_parent_2": "Hur kopplar jag ihop appen med mitt barns app?",
   "register_question_answer_for_parent_2": "1. Gå till fliken “Konto”. /n2. Välj “Kontakter”. /n3. Klicka på “Invite”. /n4. Välj “Scanna QR-kod” eller “Skicka SMS”.",
   "register_question_title_for_parent_3": "Finns det någon åldersgräns?",
-  "register_question_answe_for_parent_3": "Register question answer...",
+  "register_question_answer_for_parent_3": "Register question answer...",
   "register_question_title_for_parent_4": "Gimi kortet har kommit, vad gör jag nu?",
   "register_question_answer_for_parent_4": "Först och främst, grattis till Gimi koret, vi hoppas det ska vara till god nytta i er familj under en lång tid framöver. Ge nu ditt barn den bästa möjliga starten för att kunna spendera sina pengar: /n1) Ta ut kortet från paketet. /n2) Gå in i appen och aktivera kortet. /n3) Gå igenom alla delar på kortet och hur de används. /n4) Kolla igenom appen och dess funktioner. Vad betyder saldo? Vad är en transaktion? /n5) Gå igenom frågorna från korttetstet igen. Vad skulle man göra med PIN-koden? /n6) Se till att det finns pengar på kortet och gå tillsammans och gör första inköpet.",
 
@@ -1132,7 +1132,7 @@
   "register_question_title_for_kid_2": "Jag har fått mitt Gimi kort, vad gör jag nu?",
   "register_question_answer_for_kid_2": "Först vill vi bara säga, Grattis till ditt Gimi kort! Vi hoppas att det kommer vara till nytta för dig och din familj. /n1. Ta ut kortet. /n2. Ta fram appen och aktivera kortet. /n3. Gå igenom alla siffror och symboler på kortet. Kolla denna artikel om du vill ha hjälp :) [link to article “Vad betyder alla siffror och symboler på kortet?”] /n4. Gå in i appen och kolla funktionerna. Kan du se ditt kortsaldo? Hur mycket pengar finns det i Sparkontot? /n5. Gå igenom frågorna från korttestet igen. Vad ska man göra med PIN-koden? /n6. Nu är du redo för ditt första köp. :) Kolla kortsaldot och om du vill fråga dina föräldrar eller ett äldre syskon att följa med.",
   "register_question_title_for_kid_3": "Hur kopplar jag ihop appen med mina föräldrar?",
-  "register_question_answe_for_kidr_3": "1. Gå till fliken “Konto”. /n2. Välj “Kontakter”. /n3. Välj på “Lägg till kontakt”. /n4. Välj “Scanna QR-kod” eller “Skicka SMS”.",
+  "register_question_answer_for_kid_3": "1. Gå till fliken “Konto”. /n2. Välj “Kontakter”. /n3. Välj på “Lägg till kontakt”. /n4. Välj “Scanna QR-kod” eller “Skicka SMS”.",
   "register_question_title_for_kid_4": "Finns det någon åldersgräns?",
   "register_question_answer_for_kid_4": "Register question answer...",
 
