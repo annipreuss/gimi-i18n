@@ -1163,5 +1163,9 @@
   "connected_popover_title": "You're connected!",
   "connected_popover_text": "Setup stuff for %1$d now?",
   "general_now": "Now",
-  "general_important": "important"
+  "general_important": "important",
+  "choosing_chores_for_kid_subtitle": "Du kan ändra det här senare",
+  "chores_for_n": "Uppgifter till %1$d",
+  "currently_empty_here": "Tomt här nu...",
+  "add_from_popular_chore_package": "Lägg till från populära"
 }
