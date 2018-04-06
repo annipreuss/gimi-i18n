@@ -462,7 +462,7 @@
   "get_notified": "få notiser!",
   "dont_miss_notifications": "missa inte viktiga saker. Sätt på notifikationer, ok?",
   "default_category": "övrigt",
-  "verify_phone_notification": "verifiera ditt telefonnummer",
+  "verify_phone_notification": "verify phone number",
   "add_family_notification": "Lägg till familjen",
   "question_what_chore": "vad är det för uppgift?",
   "find_store": "hitta butik",
@@ -1167,5 +1167,11 @@
   "choosing_chores_for_kid_subtitle": "Du kan ändra det här senare",
   "chores_for_n": "Uppgifter till %1$d",
   "currently_empty_here": "Tomt här nu...",
-  "add_from_popular_chore_package": "Lägg till från populära"
+  "add_from_popular_chore_package": "Lägg till från populära",
+  "custom_notification_secure_account": "Secure your account",
+  "custom_notification_connect_children":"Connect your children",
+  "custom_notification__connection_request":"Connection request",
+  "custom_notification_add_profile_pic":"Add your picture",
+  "custom_notification_set_allowance":"Set allowance",
+  "custom_notification_rate_gimi":"Give Gimi your rating",
 }
