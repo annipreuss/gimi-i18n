@@ -1,6 +1,8 @@
 {
   "general_yes": "ja",
   "general_no": "nej",
+  "yes_expressive": "ja!",
+  "no_expressive": "nej...",
   "general_ok": "okej",
   "general_short_ok": "ok",
   "general_tomorrow": "igår",
@@ -549,7 +551,7 @@
   "signin_link_invalid_text": "Inloggningslänken är inte längre aktiv. Försök logga in igen.",
   "signin_link_error_text": "Något gick fel när du skulle logga in. Vänligen kontrollera din Internetuppkoppling och klicka på länken igen.",
   "question_like_gimi": "Gillar du Gimi?",
-  "rate_app_text": "Vill du betygsätta Gimi? Det skulle hjälpa oss att förbättra appen.",
+  "rate_app_text": "Om du betygsätter appen så kan vi bli bättre!",
   "i_like_it": "Ja, jag gillar Gimi",
   "no_thanks": "Nej tack",
   "connect_popover_desc": "Våra undersökningar visar att barn får en bättre förståelse för pengar när nu är sammankopplade. Är du säker på att ni inte ska koppla ihop era konton? Under inställningar kan ni kan alltid koppla ihop er senare.",
