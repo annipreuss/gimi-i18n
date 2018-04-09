@@ -1181,5 +1181,6 @@
   "custom_notification_create_dream": "Create your dream",
   "kid_onboarding_start":"Welcome to the new Gimi",
   "delete_connection_sure": "Are you sure you want to delete %1$d?",
-  "delete_connection_warning": "Lorem ipsum doler sit amet lorem ipsum doler doler sit amet."
+  "delete_connection_warning": "Lorem ipsum doler sit amet lorem ipsum doler doler sit amet.",
+  "x_have_been_added_to_cloud": "%1$d har lagts till i Cloud."
 }
