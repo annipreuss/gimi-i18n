@@ -1186,5 +1186,7 @@
   "error_page_subtitle": "Något gick fel 🙈",
   "error_page_desc": "Vårt tech team har fått veta. Du skickas nu tillbaks till startsidan.",
   "chore_has_been_approved_title": "Chore has been approved!",
-  "approved_by_n": "Approved by %1$d"
+  "approved_by_n": "Approved by %1$d",
+  "n_wants_to_connect": "%1$d wants to connect",
+  "question_do_you_accept": "Do you accept?"
 }
