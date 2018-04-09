@@ -1189,5 +1189,6 @@
   "approved_by_n": "Approved by %1$d",
   "n_wants_to_connect": "%1$d wants to connect",
   "question_do_you_accept": "Do you accept?",
-  "payday_description": "%1$d för %2$d, %3$d för uppgifter och %4$d för ränta."
+  "payday_description": "%1$d för %2$d, %3$d för uppgifter och %4$d i ränta.",
+  "payday_for_child": "Payday for %1$d!"
 }
