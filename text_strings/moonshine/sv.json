@@ -1178,5 +1178,6 @@
   "custom_notification_rate_gimi":"Give Gimi your rating",
   "nothing_to_see_here": "Nothing to see here...",
   "custom_notification_get_money":"Connect to get money",
-  "custom_notification_create_dream": "Create your dream"
+  "custom_notification_create_dream": "Create your dream",
+  "kid_onboarding_start":"Welcome to the new Gimi"
 }
