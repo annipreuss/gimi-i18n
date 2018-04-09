@@ -1618,5 +1618,9 @@
   "veckpengen_becomes_gimi_settings_row": "There will be an update soon",
   "add_phone_description": "You need to add your phone number in the app in order to log in securely and keep your account protected.",
   "add_my_number": "Add my number",
-  "not_now": "Not now"
+  "not_now": "Not now",
+  "endOfTrustlyPopover_title_parent": "Dina banköverföringar upphör",
+  "endOfTrustlyPopover_title_kid": "Dina banköverföringar upphör",
+  "endOfTrustlyPopover_text_parent": "De automatiska överföringar som du idag gör till ditt barns bankkonto kommer att stängas av från och med nu och det kommer inte längre kunna dras pengar från ditt bankkonto. Vi har även skickat ut ett mail till dig om detta.",
+  "endOfTrustlyPopover_text_kid": "De automatiska överföringar som du idag gör till ditt barns bankkonto kommer att stängas av från och med nu och det kommer inte längre kunna dras pengar från ditt bankkonto. Vi har även skickat ut ett mail till dig om detta."
 }
