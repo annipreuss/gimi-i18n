@@ -1184,5 +1184,7 @@
   "x_have_been_added_to_cloud": "%1$d har lagts till i Cloud.",
   "error_page_title": "Oops!",
   "error_page_subtitle": "Något gick fel 🙈",
-  "error_page_desc": "Vårt tech team har fått veta. Du skickas nu tillbaks till startsidan."
+  "error_page_desc": "Vårt tech team har fått veta. Du skickas nu tillbaks till startsidan.",
+  "chore_has_been_approved_title": "Chore has been approved!",
+  "approved_by_n": "Approved by %1$d"
 }
