@@ -418,5 +418,9 @@
   "footer.pressReleases",
   "task_template_description_babysit",
   "bot_greeting_2",
-  "bot_greeting_5"
+  "bot_greeting_5",
+  "endOfTrustlyPopover_title_parent",
+  "endOfTrustlyPopover_title_kid",
+  "endOfTrustlyPopover_text_parent",
+  "endOfTrustlyPopover_text_kid"
 ]
