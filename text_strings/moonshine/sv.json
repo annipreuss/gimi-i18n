@@ -1191,5 +1191,7 @@
   "question_do_you_accept": "Do you accept?",
   "payday_description": "%1$d för %2$d, %3$d för uppgifter och %4$d i ränta.",
   "payday_for_child": "Payday for %1$d!",
-  "cash_payout": "Cash payout"
+  "cash_payout": "Cash payout",
+  "spend_your_money": "Spend your money 🔥",
+  "spend_your_money_description": "If you want to buy something, a grownup will withdraw money from your cloud."
 }
