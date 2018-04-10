@@ -1195,5 +1195,6 @@
   "spend_your_money": "Spend your money 🔥",
   "spend_your_money_description": "If you want to buy something, a grownup will withdraw money from your cloud.",
   "weekly_allowance_amount": "Veckopengsumma",
-  "monthly_allowance_amount": "Månadspengsumma"
+  "monthly_allowance_amount": "Månadspengsumma",
+  "kid_needs_migration": "migration needed"
 }
