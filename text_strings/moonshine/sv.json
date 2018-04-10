@@ -768,7 +768,7 @@
   "general_chore_package": "uppgiftspaket",
   "general_later": "senare",
   "choose_and_define_own_chores_later": "du kan välja dina egna uppgifter och göra klart dem senare",
-  "recommendation_based_on_nothing": "denna rekommendation baseras inte på någonting",
+  "recommendation_based_on_nothing": "rekommendationen baseras på ett genomsnitt",
   "successfull_connection_with_name": "du har kopplats ihop med %1$d",
   "seems_something_wrong": "verkar som att något gick fel",
   "we_have_problem": "vi har ett problem...",
