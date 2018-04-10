@@ -1194,11 +1194,9 @@
   "cash_payout": "Cash payout",
   "spend_your_money": "Spend your money 🔥",
   "spend_your_money_description": "If you want to buy something, a grownup will withdraw money from your cloud.",
-  "weekly_allowance_amount": "Veckopengsumma",
-  "monthly_allowance_amount": "Månadspengsumma",
+  "weekly_allowance_amount": "summa",
+  "monthly_allowance_amount": "summa",
   "kid_needs_migration": "migration needed",
   "no_connections_yet": "No connetions yet! \nGimi is better with your family here.",
-  "general_remove_goal": "Remove goal",
-  "word_from_CEO": "A word from Philip, CEO",
-  "word_from_CEO_text": "Välkommen till nya Gimi! En stor uppdatering som vi på Gimi har jobbat med i nästan ett år. Jag hoppas att du och din familj ska älska den här nya appen!"
+  "general_remove_goal": "Remove goal"
 }
