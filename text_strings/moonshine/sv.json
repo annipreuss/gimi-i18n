@@ -1190,5 +1190,6 @@
   "n_wants_to_connect": "%1$d wants to connect",
   "question_do_you_accept": "Do you accept?",
   "payday_description": "%1$d för %2$d, %3$d för uppgifter och %4$d i ränta.",
-  "payday_for_child": "Payday for %1$d!"
+  "payday_for_child": "Payday for %1$d!",
+  "cash_payout": "Cash payout"
 }
