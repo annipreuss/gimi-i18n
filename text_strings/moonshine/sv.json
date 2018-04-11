@@ -163,7 +163,8 @@
   "weekly": "veckopeng",
   "monthly": "månadspeng",
   "nav_bar_chore_settings": "uppgiftsinställningar %1$d",
-  "active_chores": "dina aktiva uppgifter",
+  "active_chores": "aktiva uppgifter",
+  "your_active_chores": "dina aktiva uppgifter",
   "popular_chores": "populära uppgifter",
   "latest_chores": "senaste uppgifter",
   "nav_bar_kid_connections": "kontakter %1$d",
@@ -802,7 +803,7 @@
   "search_for_product": "sök",
   "search_result": "Sökresultat",
   "no_results": "Inga resultat",
-  "general_create_new": "skapa egen",
+  "general_create_new": "skapa ny",
   "select_kid_for_card_title": "Vem vill du skaffa kortet till?",
   "error_maintenance_title": "Ursäkta röran, vi bygger om!",
   "error_maintenance_desc": "Arbetet kommer snart vara klart, och då kan du använda Gimi som vanligt!",
@@ -1217,5 +1218,7 @@
 
   "error_could_not_complete_connection": "We could not connect you!",
   "error_could_not_complete_connection_description": "Seems like you tried to connect with an adult before. You can only connect to children.",
-  "general_days": "Dagar"
+  "general_days": "Dagar",
+  "chore_settings_title": "Chore settings",
+  "general_create_own": "Skapa egen"
 }
