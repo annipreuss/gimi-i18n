@@ -608,7 +608,7 @@
   "days_to_next_pay": "dagar till \nPayday",
   "search_results": "sökresultat",
   "name_accepted_your_invite": "%1$d har accepterat din inbjudan!",
-  "accepted_invite_setup_flow_description": "ni är nu ihopkopplade. sätt upp vecko- eller månadspengar åt %1$d.",
+  "accepted_invite_setup_flow_description": "%1$d accepted your invite. Now make some settings ok?",
   "recommended_chore_package": "rekommenderat uppgifts-paket",
   "accepted_invite_setup_flow_done_description": "Child settings successfully created. Very good settings. Very good parenting indeed.",
   "delete_task": "radera uppgift",
