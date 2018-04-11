@@ -1215,10 +1215,11 @@
   "push_keep_account": "Connect to keep your account",
   "event_will_delete_account": "Your account will be deleted",
   "push_account_deleted": "",
-
   "error_could_not_complete_connection": "We could not connect you!",
   "error_could_not_complete_connection_description": "Seems like you tried to connect with an adult before. You can only connect to children.",
   "general_days": "Dagar",
   "chore_settings_title": "Chore settings",
-  "general_create_own": "Skapa egen"
+  "general_create_own": "Skapa egen",
+  "done_definite": "klart!",
+  "if_paying_full_descr": "Om du betalar allt själv så kommer du inte att märka någon skillnad etc."
 }
