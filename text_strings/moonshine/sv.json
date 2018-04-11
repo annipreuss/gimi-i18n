@@ -1199,13 +1199,19 @@
   "kid_needs_migration": "migration needed",
   "no_connections_yet": "No connetions yet! \nGimi is better with your family here.",
   "general_remove_goal": "Remove goal",
-  "event_allowance_tips":"Good to know about allowance",
-  "event_earn_like_master":"How to earn like a master",
-  "event_interest_tips":"Good to know about interest",
-  "event_withdrawal_tips":"Good to know about withdrawals",
-  "event_how_to_save":"How to save like a master",
-  "push_no_new_notifications_kid":"All clear in here. You're on top!",
-  "event_how_to_spend":"How to spend like a master",
-  "event_add_cravings":"Got any cravings? Add them!"
-
+  "event_allowance_tips": "Good to know about allowance",
+  "event_earn_like_master": "How to earn like a master",
+  "event_interest_tips": "Good to know about interest",
+  "event_withdrawal_tips": "Good to know about withdrawals",
+  "event_how_to_save": "How to save like a master",
+  "push_no_new_notifications_kid": "All clear in here. You're on top!",
+  "event_how_to_spend": "How to spend like a master",
+  "event_add_cravings": "Got any cravings? Add them!",
+  "event_suggest_chore": "Suggest a chore",
+  "push_rate_gimi": "Give Gimi your ",
+  "event_send_invite_reminder": "rating",
+  "event_keep_account": "Send invite reminder",
+  "push_keep_account": "Connect to keep your account",
+  "event_will_delete_account": "Your account will be deleted",
+  "push_account_deleted": ""
 }
