@@ -1006,7 +1006,7 @@
   "kid_dream_onboarding_desc": "Save money to reach your dreams!",
   "number_successfully_verified": "ditt nummer är verifierat",
   "all_empty_here": "All empty here...",
-  "general_invite": "bjud in vuxen",
+  "general_invite": "bjud in",
   "video_tutorials_name_1": "Earn",
   "video_tutorials_name_2": "Grow",
   "video_tutorials_name_3": "Spend",
@@ -1226,5 +1226,11 @@
   "make_money":"Tjäna pengar",
   "give_money":"Ge pengar",
   "i_accept":"Jag accepterar",
-  "general_user_agreements":"Användarvillkor"
+  "general_user_agreements":"Användarvillkor",
+  "deposit_child": "Ok",
+  "deposit_parent": "Ok",
+  "withdraw_parent": "Ok",
+  "withdraw_child": "Ok",
+  "general_invite_child": "bjud in vuxen",
+  "general_invite_parent": "bjud in barn"
 }
