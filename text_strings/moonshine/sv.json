@@ -1252,5 +1252,6 @@
   "new_kid_onboarding_welcome_title_2": "Spend your money 🔥",
   "new_kid_onboarding_welcome_desc_2": "If you want to buy something, a grownup will withdraw money from your cloud.",
   "new_kid_onboarding_welcome_title_3": "Grow your money 🌈",
-  "new_kid_onboarding_welcome_desc_3": "But don't spend everything! Save to grow your money, and buy stuff you dream about!"
+  "new_kid_onboarding_welcome_desc_3": "But don't spend everything! Save to grow your money, and buy stuff you dream about!",
+  "max_characters": "MAX %1$d tecken"
 }
