@@ -1246,5 +1246,11 @@
   "withdraw_parent": "Ok",
   "withdraw_child": "Ok",
   "general_invite_child": "bjud in vuxen",
-  "general_invite_parent": "bjud in barn"
+  "general_invite_parent": "bjud in barn",
+  "new_kid_onboarding_welcome_title_1": "Your cloud, your money!",
+  "new_kid_onboarding_welcome_desc_1": "All the money you earn will be paid to your cloud. This is how much your parents owe you!",
+  "new_kid_onboarding_welcome_title_2": "Spend your money 🔥",
+  "new_kid_onboarding_welcome_desc_2": "If you want to buy something, a grownup will withdraw money from your cloud.",
+  "new_kid_onboarding_welcome_title_3": "Grow your money 🌈",
+  "new_kid_onboarding_welcome_desc_3": "But don't spend everything! Save to grow your money, and buy stuff you dream about!"
 }
