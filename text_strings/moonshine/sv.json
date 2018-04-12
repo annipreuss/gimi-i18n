@@ -1253,5 +1253,11 @@
   "new_kid_onboarding_welcome_desc_2": "If you want to buy something, a grownup will withdraw money from your cloud.",
   "new_kid_onboarding_welcome_title_3": "Grow your money 🌈",
   "new_kid_onboarding_welcome_desc_3": "But don't spend everything! Save to grow your money, and buy stuff you dream about!",
-  "max_characters": "MAX %1$d tecken"
+  "max_characters": "MAX %1$d tecken",
+  "new_parent_onboarding_welcome_title_1": "Financial Superskills",
+  "new_parent_onboarding_welcome_desc_1": "Children learn how to earn, grow and manage money in the digital world.",
+  "new_parent_onboarding_welcome_title_2": "the cloud is your debt",
+  "new_parent_onboarding_welcome_desc_2": "Allowance, chores and interest are paid to the cloud. Money in the cloud is how much you owe.",
+  "new_parent_onboarding_welcome_title_3": "Saving and spending",
+  "new_parent_onboarding_welcome_desc_3": "Children can save for a dream, or spend with a little help from you."
 }
