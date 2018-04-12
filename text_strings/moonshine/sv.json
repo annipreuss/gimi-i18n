@@ -1222,5 +1222,9 @@
   "general_create_own": "Skapa egen",
   "done_definite": "klart!",
   "if_paying_full_descr": "Om du betalar allt själv så kommer du inte att märka någon skillnad etc.",
-  "general_choose_contact": "Choose contact"
+  "general_choose_contact": "Choose contact",
+  "make_money":"Tjäna pengar",
+  "give_money":"Ge pengar",
+  "i_accept":"Jag accepterar",
+  "general_user_agreements":"Användarvillkor"
 }
