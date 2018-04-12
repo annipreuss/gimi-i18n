@@ -288,7 +288,7 @@
   "enter_pin": "skriv lösenord",
   "forgot_passcode_contact_support": "glömt ditt lösenord? Hjälp",
   "confirm_delete": "är du säker?",
-  "delete_account_warning": "när du raderar ditt konto försvinner all din information och data. detta går inte att ångra.",
+  "delete_account_warning": "om du raderar ditt konto försvinner all din kontoinformation och data. Detta går inte att ångra.",
   "delete_account": "radera konto",
   "spending_like_a_boss": "Spending like a boss.",
   "great_success_added_description": "din great success har lagts till på din lista av great successes.",
