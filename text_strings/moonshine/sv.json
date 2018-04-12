@@ -1260,5 +1260,6 @@
   "new_parent_onboarding_welcome_desc_2": "Allowance, chores and interest are paid to the cloud. Money in the cloud is how much you owe.",
   "new_parent_onboarding_welcome_title_3": "Saving and spending",
   "new_parent_onboarding_welcome_desc_3": "Children can save for a dream, or spend with a little help from you.",
-  "chore_suggested_sent": "Chore was successfully created and sent for approval."
+  "chore_suggested_sent": "Chore was successfully created and sent for approval.",
+  "general_redo": "Redo"
 }
