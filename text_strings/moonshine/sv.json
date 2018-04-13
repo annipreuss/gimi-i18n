@@ -1262,5 +1262,11 @@
   "new_parent_onboarding_welcome_desc_3": "Children can save for a dream, or spend with a little help from you.",
   "chore_suggested_sent": "Chore was successfully created and sent for approval.",
   "general_redo": "Redo",
-  "search_contacts": "Search by name in contacts"
+  "search_contacts": "Search by name in contacts",
+  "parent_debt_account_title": "Parent debt",
+  "savings_account_title": "Savings",
+  "cloud_savings_account_title": "Cloud",
+  "transactional_account_title": "Transactional",
+  "to_n": "Till %1$d",
+  "from_n": "Från %1$d"
 }
