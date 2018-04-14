@@ -533,7 +533,7 @@
   "receipt_regret_transaction_desc": "vill du ångra transaktionen genom att skapa en ny transaktion \"åt andra hållet\"?",
   "create_wishlist": "skapa önskelista",
   "connection_error_title": "kan inte ansluta till Gimi",
-  "connection_error_text": "Ingen uppkoppling. Kontrollera din anslutning till internet och försök igen.",
+  "connection_error_text": "Kontrollera din anslutning till internet och försök igen.",
   "connection_error_retry": "försök ansluta igen",
   "invite_error": "vi kunde inte skicka din inbjudan. Kontrollera din anslutning till internet och försök igen.",
   "login_again": "logga in igen",
