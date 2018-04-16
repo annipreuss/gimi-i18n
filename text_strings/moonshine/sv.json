@@ -1269,5 +1269,6 @@
   "transactional_account_title": "kort",
   "to_n": "Till %1$d",
   "from_n": "Från %1$d",
-  "sms_invite_description": "sms_invite_description"
+  "sms_invite_description": "sms_invite_description",
+  "general_write_something": "Skriv någonting"
 }
