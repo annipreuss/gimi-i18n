@@ -1227,7 +1227,7 @@
   "error_could_not_complete_connection": "vi kunde inte koppla ihop er!",
   "error_could_not_complete_connection_description": "verkar som att du försökt koppla ihop med en vuxen förut. Du kan bara koppla ihop med barn.",
   "general_days": "Dagar",
-  "chore_settings_title": "Inställningar för uppgifter",
+  "chore_settings_title": "Uppgifter",
   "general_create_own": "Skapa egen",
   "done_definite": "klart!",
   "if_paying_full_descr": "Om du betalar allt själv så kommer du inte märka någon skillnad från tidigare version.",
