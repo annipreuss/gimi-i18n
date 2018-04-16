@@ -272,5 +272,5 @@
   "push_childname_has_reached_a_dream": "PLZ_CHECK {name} has reached a dream",
   "event_add_email": "PLZ_CHECK Add email for status & security",
   "push_short_tutorial": "Så funkar Gimi, på 20 sekunder",
-  "event_chore_name_is_changed": "PLZ_CHECK Chore {name} is changed"
+  "event_chore_name_is_changed": "Chore {name} is changed"
 }
