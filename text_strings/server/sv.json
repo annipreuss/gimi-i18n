@@ -271,5 +271,6 @@
   "push_name_received_x_in_allowance_from_you_today_mark_it_as_paid_out_if_you_paid_out_cash": "PLZ_CHECK {chore} received {amount} in allowance from you today! Mark it as paid out if you paid out cash!",
   "push_childname_has_reached_a_dream": "PLZ_CHECK {name} has reached a dream",
   "event_add_email": "PLZ_CHECK Add email for status & security",
-  "push_short_tutorial": "Så funkar Gimi, på 20 sekunder"
+  "push_short_tutorial": "Så funkar Gimi, på 20 sekunder",
+  "event_chore_name_is_changed": "PLZ_CHECK Chore {name} is changed"
 }
