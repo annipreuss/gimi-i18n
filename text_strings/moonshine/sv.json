@@ -1268,5 +1268,14 @@
   "general_write_something": "Skriv någonting",
   "general_assignee" : "deltagare",
   "new_allowance_connection": "New allowance!",
-  "new_allowance_connection_description": "You will get %1$d from %2$d every %1$d."
+  "new_allowance_connection_description": "You will get %1$d from %2$d every %1$d.",
+  "old_trustly_transaction": "Utbetalning till bankkonto",
+  "old_withdrawl_transaction": "Uttag",
+  "old_transaction_to_savings":  "Sparat av payday",
+  "old_savings_to_transactional_transaction": "Topup av payday",
+  "old_transaction_deposit": "Insättning",
+  "old_reverted_allowance_transaction": "Justering av vecko/månadspeng",
+  "old_reverted_transaction": "Korrigering av transaction"
+
+
 }
