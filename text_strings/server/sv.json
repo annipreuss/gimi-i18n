@@ -226,7 +226,7 @@
   "event_suggestion_of_new_chore_update": "PLZ_CHECK Suggestion of new chore update",
   "event_suggestion_of_monthly_allowance": "PLZ_CHECK Suggestion of monthly allowance",
   "event_done_with_chore": "PLZ_CHECK Done with {chore}",
-  "event_chore_was_approved": "PLZ_CHECK {chore} was approved",
+  "event_chore_was_approved": "PLZ_CHECK {chore.title} was approved",
   "event_chore_was_auto_approved": "PLZ_CHECK {chore} was auto approved",
   "event_chore_was_disapproved": "PLZ_CHECK {chore} was disapproved",
   "event_want_to_activate_auto_approval": "PLZ_CHECK Want to activate auto approval?",
