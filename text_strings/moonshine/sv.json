@@ -1278,6 +1278,19 @@
   "old_reverted_transaction": "Korrigering av transaktion",
   "cloud_created_noti_description_1": "shake it off",
   "cloud_created_noti_description_2": "shake it off",
-  "cloud_created_noti_description_3": "ah ah ah"
-
+  "cloud_created_noti_description_3": "ah ah ah",
+  "request_permission_title_camera": "Saknar åtkomst till kameran",
+  "request_permission_camera": "Appen begär åtkomst till kameran för att bildbevis ska kunna skickas vid utförande av uppgifter och då du vill ta en ny profilbild.",
+  "request_permission_title_notification": "Saknar åtkomst till notifikationer",
+  "request_permission_notifications": "Appen ber om tillåtelse att skicka notifikationer till dig då det sker transaktioner eller andra händelser som påverkar din och din familjs ekonomi.",
+  "request_permission_title_microphone": "Saknar åtkomst till mikrofonen",
+  "request_permission_microphone": "Appen begär åtkomst till mikrofonen för att du ska kunna filma och skicka det som bildbevis för utförda uppgifter",
+  "revoke_permission_microphone": "Är du säker på att du vill ta bort åtkomst till mikrofonen?",
+  "revoke_permission_title": "Att ta bort behörigheter kan leda till oväntade funktioner",
+  "request_permission_photo": "Appen begär åtkomst för att du ska kunna lägga till bilder från ditt bibliotek vid sparmål, uppgifter eller uppdatering av profilbilder.",
+  "request_permission_title_photo": "Saknar åtkomst till bilder",
+  "revoke_permission_microphone": "Är du säker på att du vill ta bort mikrofonstillstånd",
+  "revoke_permission_camera": "Är du säker på att du vill ta bort kameratillstånd",
+  "revoke_permission_photo": "Är du säker på att du vill ta bort fotolicens",
+  "revoke_permission_notifications": "Är du säker på att du vill ta bort anmälningsbehörighet"
 }
