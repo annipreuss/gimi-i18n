@@ -1275,7 +1275,9 @@
   "old_savings_to_transactional_transaction": "Topup av payday",
   "old_transaction_deposit": "Insättning",
   "old_reverted_allowance_transaction": "Justering av vecko/månadspeng",
-  "old_reverted_transaction": "Korrigering av transaktion"
-
+  "old_reverted_transaction": "Korrigering av transaktion",
+  "cloud_created_noti_description_1": "shake it off",
+  "cloud_created_noti_description_2": "shake it off",
+  "cloud_created_noti_description_3": "ah ah ah"
 
 }
