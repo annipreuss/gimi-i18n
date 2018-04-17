@@ -1292,5 +1292,7 @@
   "revoke_permission_microphone": "Är du säker på att du vill ta bort mikrofonstillstånd",
   "revoke_permission_camera": "Är du säker på att du vill ta bort kameratillstånd",
   "revoke_permission_photo": "Är du säker på att du vill ta bort fotolicens",
-  "revoke_permission_notifications": "Är du säker på att du vill ta bort anmälningsbehörighet"
+  "revoke_permission_notifications": "Är du säker på att du vill ta bort anmälningsbehörighet",
+  "invitation_error":"Connection problem...",
+  "invitation_error_mesasge": "We could not connect you to %1$d"
 }
