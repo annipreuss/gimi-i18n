@@ -344,7 +344,7 @@
   "general_monthly": "månadspeng",
   "general_weekly": "veckopeng",
   "no_allowance": "ingen vecko- eller månadspeng",
-  "kid_allowance_freq": "%1$d",
+  "kid_allowance_freq": "Välj belopp för %1$d",
   "allowance_payout_date": "den %1$d varje månad.",
   "allowance_payout_day": "%1$d varje vecka.",
   "kid_allowance_day_error": "Inte valbart. %1$d har redan månadspeng från någon annan.",
