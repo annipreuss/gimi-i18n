@@ -1259,5 +1259,6 @@
   "invitation_error":"Connection problem...",
   "invitation_error_mesasge": "We could not connect you to %1$d",
   "option_phone_number": "Skriv in telefonnummer",
-  "my_kids": "mina barn"
+  "my_kids": "mina barn",
+  "general_contacts": "kontakter"
 }
