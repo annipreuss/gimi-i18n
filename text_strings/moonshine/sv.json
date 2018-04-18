@@ -340,8 +340,8 @@
   "saved_since": "sparat sedan",
   "days_of_saving": "dagar du sparat",
   "general_time_left": "tid kvar",
-  "general_monthly": "månadspeng",
-  "general_weekly": "veckopeng",
+  "general_monthly": "månadsvis",
+  "general_weekly": "veckovis",
   "no_allowance": "ingen vecko- eller månadspeng",
   "kid_allowance_freq": "%1$d",
   "allowance_payout_date": "den %1$d varje månad.",
@@ -1067,7 +1067,7 @@
   "rights_and_security_question_title_for_parent_2": "Hur hanterar ni personlig information och data jag skapar i appen?",
   "rights_and_security_question_answer_for_parent_2": "Vi hanterar all personlig information i enlighet med GDPR, datainspektionen samt PCI DSS.",
   "rights_and_security_question_title_for_parent_3": "Hur stark datasäkerhet har Gimi?",
-  "rights_and_security_question_answer_for_parent_3": "Gimi har stark data säkerhet. Vi krypterar allt genom att använda SSL/HTTPS. För din säkerhet verifierar vi din identitet, KYC - Know Your Customer, enligt internationella banköverenskommelser innan du börjar hantera pengar. För användare som beställer kortet använder vi BankID (föräldrar) och Instantor för att uppnå alla regelverk kring verifiering av användares identitiet. \n \nAnvändare som hanterar pengar i appen kan känna sig säkra, datan är skyddad med tvåstegsverifiering. Dessutom är inte Gimi-kortet sammankopplat med ett specifikt konto. Vår korttillverkare, PFS, håller reda på hur mycket pengar någon har. Faktiskt är det så att pengarna är säkrare än på ett bankkonto - varken vi eller banken har tillgång till pengarna. \n \nVi hanterar all personlig information i enlighet med GDPR, datainspektionen samt PCI DSS.",
+  "rights_and_security_question_answer_for_parent_3": "Gimi har stark datasäkerhet. Vi krypterar allt genom att använda SSL/HTTPS. För din säkerhet verifierar vi din identitet, KYC - Know Your Customer, enligt internationella banköverenskommelser innan du börjar hantera pengar. För användare som beställer kortet använder vi BankID (föräldrar) och Instantor för att uppnå alla regelverk kring verifiering av användares identitiet. \n \nAnvändare som hanterar pengar i appen kan känna sig säkra, datan är skyddad med tvåstegsverifiering. Dessutom är inte Gimi-kortet sammankopplat med ett specifikt konto. Vår korttillverkare, PFS, håller reda på hur mycket pengar någon har. Faktiskt är det så att pengarna är säkrare än på ett bankkonto - varken vi eller banken har tillgång till pengarna. \n \nVi hanterar all personlig information i enlighet med GDPR, datainspektionen samt PCI DSS.",
   "rights_and_security_question_title_for_parent_4": "Hur spärrar jag mitt barns kort om det tappas bort eller blir stulet?",
   "rights_and_security_question_answer_for_parent_4": "Gå in på kortinställningar för att spärra kortet. Kortet kan enkelt aktiveras igen om det skulle återfinnas.",
 
@@ -1076,7 +1076,7 @@
   "rights_and_security_question_title_for_kid_2": "Hur hanterar ni personlig information och data jag skapar i appen?",
   "rights_and_security_question_answer_for_kid_2": "Vi hanterar all personlig information i enlighet med GDPR, datainspektionen samt PCI DSS.",
   "rights_and_security_question_title_for_kid_3": "Hur stark datasäkerhet har Gimi?",
-  "rights_and_security_question_answer_for_kid_3": "Gimi har stark data säkerhet. Vi krypterar allt genom att använda SSL/HTTPS. För din säkerhet verifierar vi din identitet, KYC - Know Your Customer, enligt internationella banköverenskommelser innan du börjar hantera pengar. För användare som beställer kortet använder vi BankID (föräldrar) och Instantor för att uppnå alla regelverk kring verifiering av användares identitiet. \n \nAnvändare som hanterar pengar i appen kan känna sig säkra, datan är skyddad med tvåstegsverifiering. Dessutom är inte Gimi-kortet sammankopplat med ett specifikt konto. Vår korttillverkare, PFS, håller reda på hur mycket pengar någon har. Faktiskt är det så att pengarna är säkrare än på ett bankkonto - varken vi eller banken har tillgång till pengarna. \n \nVi hanterar all personlig information i enlighet med GDPR, datainspektionen samt PCI DSS.",
+  "rights_and_security_question_answer_for_kid_3": "Gimi har stark datasäkerhet. Vi krypterar allt genom att använda SSL/HTTPS. För din säkerhet verifierar vi din identitet, KYC - Know Your Customer, enligt internationella banköverenskommelser innan du börjar hantera pengar. För användare som beställer kortet använder vi BankID (föräldrar) och Instantor för att uppnå alla regelverk kring verifiering av användares identitiet. \n \nAnvändare som hanterar pengar i appen kan känna sig säkra, datan är skyddad med tvåstegsverifiering. Dessutom är inte Gimi-kortet sammankopplat med ett specifikt konto. Vår korttillverkare, PFS, håller reda på hur mycket pengar någon har. Faktiskt är det så att pengarna är säkrare än på ett bankkonto - varken vi eller banken har tillgång till pengarna. \n \nVi hanterar all personlig information i enlighet med GDPR, datainspektionen samt PCI DSS.",
   "rights_and_security_question_title_for_kid_4": "Hur spärrar jag mitt kort om det tappas bort eller blir stulet?",
   "rights_and_security_question_answer_for_kid_4": "Be dina föräldrar om hjälp. De kan enkelt göra det under inställningar i sin app. Om kortet återfinns kan det enkelt aktiveras igen.",
 
