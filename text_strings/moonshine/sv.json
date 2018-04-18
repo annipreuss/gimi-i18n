@@ -1258,5 +1258,6 @@
   "revoke_permission_notifications": "Är du säker på att du vill ta bort anmälningsbehörighet",
   "invitation_error":"Connection problem...",
   "invitation_error_mesasge": "We could not connect you to %1$d",
-  "option_phone_number": "Skriv in telefonnummer"
+  "option_phone_number": "Skriv in telefonnummer",
+  "my_kids": "mina barn"
 }
