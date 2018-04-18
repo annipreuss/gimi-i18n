@@ -250,7 +250,7 @@
   "event_you_now_got_weekly_allowance": "PLZ_TRANSLATE You now got weekly allowance",
   "event_you_now_got_monthly_allowance": "PLZ_TRANSLATE You now got monthly allowance",
   "event_you_have_got_a_new_chore": "PLZ_TRANSLATE You have got a new chore",
-  "event_you_have_got_x_new_chores": "PLZ_TRANSLATE You have got x new chores",
+  "event_you_have_got_x_new_chores": "PLZ_TRANSLATE You have got {x} new chores",
   "event_chore_was_not_approved": "PLZ_TRANSLATE {chore} was not approved",
   "event_reminder_of_chore": "PLZ_TRANSLATE Reminder of {chore}",
   "event_chore_is_deleted": "PLZ_TRANSLATE {chore} is deleted",
