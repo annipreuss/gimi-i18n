@@ -1232,7 +1232,7 @@
   "general_write_something": "Skriv någonting",
   "general_assignee" : "deltagare",
   "new_allowance_connection": "Ny vecko- eller månadspeng!",
-  "new_allowance_connection_description": "Du kommer få %1$d från %2$d varje %1$d.",
+  "new_allowance_connection_description": "Du kommer få %1$d från %2$d varje %3$d.",
   "old_trustly_transaction": "Utbetalning till bankkonto",
   "old_withdrawl_transaction": "Uttag",
   "old_transaction_to_savings":  "Sparat av payday",
