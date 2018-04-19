@@ -264,7 +264,7 @@
   "event_share_your_cravings": "Share your cravings",
   "event_happy_birthday": "Happy birthday",
   "push_you_have_a_new_connection": "You have a new connection! ",
-  "push_you_have_got_an_invitation_from_name_to_connect": "You have got an invitation from {name} to connect",
+  "push_you_have_got_an_invitation_to_connect": "You have got an invitation from {name} to connect",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Allowance is set for you! Check it out in the app!",
   "push_childname_has_completed_a_chore": "{name} has completed a chore!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} asks permission to edit your chores",
