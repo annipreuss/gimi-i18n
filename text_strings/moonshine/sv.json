@@ -1136,7 +1136,7 @@
   "event_will_delete_account": "ditt konto kommer att raderas",
   "push_account_deleted": "",
   "error_could_not_complete_connection": "vi kunde inte lägga till kotakten!",
-  "error_could_not_complete_connection_description": "verkar som att du försökt koppla ihop med en vuxen förut. Du kan bara koppla ihop med barn.",
+  "error_could_not_complete_connection_description": "barn kan bara lägga till vuxna och vuxna kan bara lägga till barn",
   "general_days": "Dagar",
   "chore_settings_title": "Uppgifter",
   "general_create_own": "Skapa egen",
