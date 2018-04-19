@@ -1189,7 +1189,7 @@
   "event_will_delete_account": "your account will be deleted",
   "push_account_deleted": "",
   "error_could_not_complete_connection": "the contact could not be added!",
-  "error_could_not_complete_connection_description": "a child can only connect with a grown up and a grown up can only connect with a child.",
+  "error_could_not_complete_connection_description": "a child can only add a grown up and a grown up can only add a child.",
   "general_days": "Days",
   "chore_settings_title": "Chores",
   "general_create_own": "Create own",
