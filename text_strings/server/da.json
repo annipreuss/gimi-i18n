@@ -253,7 +253,7 @@
   "event_you_have_got_x_new_chores": "PLZ_TRANSLATE You have got {x} new chores",
   "event_chore_was_not_approved": "PLZ_TRANSLATE {chore} was not approved",
   "event_reminder_of_chore": "PLZ_TRANSLATE Reminder of {chore}",
-  "event_chore_is_deleted": "PLZ_TRANSLATE {chore} is deleted",
+  "event_chore_is_deleted": "PLZ_TRANSLATE {chore.title} is deleted",
   "event_you_have_got_an_interest_rate_of_x": "PLZ_TRANSLATE You have got an interest rate of x%",
   "event_interest_rate_is_changed_to_x": "PLZ_TRANSLATE Interest rate is changed to x%",
   "event_you_have_reached_a_dream": "PLZ_TRANSLATE You have reached a dream",
