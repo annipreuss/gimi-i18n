@@ -539,7 +539,7 @@
   "confirm_exit_app": "do you really want to close the app?",
   "question_sure": "are you sure?",
   "yes_sure": "yes, I'm sure",
-  "delete_kid_history_warning": "If you continue, all history (transactions, dreams and tasks) will disappear and weekly or monthly pocket money as well as account balances will be restored. Contacts and card information will remain.",
+  "delete_kid_history_warning": "If you continue, all history (transactions, dreams and chores) will disappear and weekly or monthly pocket money as well as account balances will be restored. Contacts and card information will remain.",
   "invite_kids": "invite child",
   "invite_kid_help_text": "When you invite a child, a message is sent to the child to download the Gimi app. Once the child has downloaded the app and created an account, the invitation will wait to be accepted.",
   "invite_sent": "invite has been sent!",
