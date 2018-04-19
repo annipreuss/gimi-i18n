@@ -1208,5 +1208,6 @@
   "invitation_error_mesasge": "We could not connect you to %1$d",
   "option_phone_number": "Skriv in telefonnummer",
   "my_kids": "mina barn",
-  "general_contacts": "kontakter"
+  "general_contacts": "kontakter",
+  "kid_allowance_month_error": "Inte valbart. %1$d har redan veckopeng från någon annan.",
 }
