@@ -66,7 +66,7 @@ let testCompareKeysWithinTextString = (textString1: string, textString2: string,
       return undefined
 
     if (!keys2.includes(key1))
-      return `About Texttring: ${textStringName}. Cant find {${key1}} in: '${textString2}, {${key1}} key was found in: '${textString1}'`
+      return `Problem in Text string: ${textStringName}. Cant find {${key1}} in: '${textString2}, {${key1}} key was found in: '${textString1}'`
 
     return undefined
   })
