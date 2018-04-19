@@ -32,8 +32,8 @@
   "general_camera": "camera",
   "general_photo": "gallery",
   "general_account": "account",
-  "general_subscription": "premium subscription",
-  "general_subscriptions": "premium subscriptions",
+  "general_subscription": "Premium subscription",
+  "general_subscriptions": "Premium subscriptions",
   "general_payment": "Payday",
   "general_help": "help",
   "general_birthday": "birthday",
@@ -1075,7 +1075,7 @@
   "general_about_gimi": "Om Gimi",
 
   "gimi_question_title_for_parent_1": "How does Gimi earn money?",
-  "gimi_question_answer_for_parent_1": "We make money from our premium users who choose to pay our subscription cost. We always strive to be transparent with our pricing and never to abuse or sell any customer data or private information to any third party user.",
+  "gimi_question_answer_for_parent_1": "We make money from our Premium users who choose to pay our subscription cost. We always strive to be transparent with our pricing and never to abuse or sell any customer data or private information to any third party user.",
   "gimi_question_title_for_parent_2": "What is Gimi’s vision and goals?",
   "gimi_question_answer_for_parent_2": "We believe in young people and want to give them financial superskills - for life. By this we mean that we want to give the power to young people to make great financial decisions by learning about money management. We will not rest until we have made money concepts and other complicated subjects concrete, real and meaningful for everybody. \nJoyful - We make earning, saving and spending money both easy and fun. \nClever - We make money and other complicated subjects concrete, real and meaningful.  \nEmpowering  young people to make great financial decisions throughout their life by learning about money concepts, and money management.",
   "gimi_question_title_for_parent_3": "Why did you start Gimi?",
@@ -1086,7 +1086,7 @@
   "gimi_question_answer_for_parent_5": "You can contact us through our chat (open at weekdays, 9-17) at the website or in the app or always drop us an email to hello@gimitheapp.com",
 
   "gimi_question_title_for_kid_1": "How does Gimi earn money?",
-  "gimi_question_answer_for_kid_1": "We make money from our premium users who choose to pay our subscription cost. We always strive to be transparent with our pricing and never to abuse or sell any customer data or private information to any third party user.",
+  "gimi_question_answer_for_kid_1": "We make money from our Premium users who choose to pay our subscription cost. We always strive to be transparent with our pricing and never to abuse or sell any customer data or private information to any third party user.",
   "gimi_question_title_for_kid_2": "What is Gimi’s vision and goals?",
   "gimi_question_answer_for_kid_2": "We believe in young people and want to give them financial superskills - for life. By this we mean that we want to give the power to young people to make great financial decisions by learning about money management. We will not rest until we have made money concepts and other complicated subjects concrete, real and meaningful for everybody. \nJoyful - We make earning, saving and spending money both easy and fun. \nClever - We make money and other complicated subjects concrete, real and meaningful.  \nEmpowering  young people to make great financial decisions throughout their life by learning about money concepts, and money management.",
   "gimi_question_title_for_kid_3": "Why did you start Gimi?",
