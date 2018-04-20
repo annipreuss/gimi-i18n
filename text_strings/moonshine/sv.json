@@ -305,7 +305,7 @@
   "general_upload": "lägg till",
   "general_recommended": "rekommenderad",
   "general_transfer": "överför",
-  "amount_earned_in": "tjänat under %1$d: %2$d",
+  "amount_earned_in": "tjänat i %1$d: %2$d",
   "to_be_earned_parent": "kan tjäna totalt",
   "to_be_earned_child": "här kan du tjäna:",
   "finished_chores": "godkända",
