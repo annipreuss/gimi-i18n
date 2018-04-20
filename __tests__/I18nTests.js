@@ -14,13 +14,13 @@ textStringsTypes.forEach(textStringsType => {
 })
 textStringsTypes.forEach(textStringsType => {
   var languageCodesHolder = languageCodes
+  if (textStringsType === 'moonshine') languageCodesHolder = ['sv', 'en']
   if (textStringsType === 'gimi-web-redux') languageCodesHolder = ['sv', 'en']
   if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
-  if (textStringsType !== 'gimi-web' && textStringsType !== 'gimi-web-redux') languageCodesHolder = languageCodesForTranslation
+  if (textStringsType !== 'gimi-web' && textStringsType !== 'gimi-web-redux' &&
+  textStringsType !== 'moonshine') languageCodesHolder = languageCodesForTranslation
 
   languageCodesHolder.forEach(lang => {
-    if (textStringsType === 'moonshine')
-      lang = 'sv'// ONLY SV IN MOOMSHINE TODO: Needs to be remove later
     try {
       textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
     } catch (e) { expect(`Cant parse ${textStringsType}/${lang} ${e.message}`).toEqual('') }
@@ -29,18 +29,19 @@ textStringsTypes.forEach(textStringsType => {
 // server and templates string data
 textStringsTypes.forEach(textStringsType => {
   var languageCodesHolder = languageCodes
+  if (textStringsType === 'moonshine') languageCodesHolder = ['sv', 'en']
   if (textStringsType === 'gimi-web-redux') languageCodesHolder = ['sv', 'en']
   if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
-  if (textStringsType !== 'gimi-web' && textStringsType !== 'gimi-web-redux') languageCodesHolder = languageCodesForTranslation
+  if (textStringsType !== 'gimi-web' &&
+    textStringsType !== 'gimi-web-redux' &&
+    textStringsType !== 'moonshine') languageCodesHolder = languageCodesForTranslation
 
   languageCodesHolder.forEach(languageCode => {
-    if (textStringsType === 'moonshine')
-      languageCode = 'sv'// ONLY SV IN MOOMSHINE TODO: Needs to be remove later
     if (languageCode === 'sv' || languageCode === 'en')
       stringTagData.push(searchPlzTranslate(textStrings[textStringsType][languageCode], languageCode, textStringsType))
 
     stringTagData.push(searchBreakingSymbols(textStrings[textStringsType][languageCode], languageCode, textStringsType))
-    if (languageCode === 'en' && textStringsType === 'moonshine')
+    if (languageCode === 'en')
       stringTagData.push(checkUpperCaseLetters(textStrings[textStringsType][languageCode], languageCode, textStringsType))
   })
 })
