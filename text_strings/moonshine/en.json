@@ -233,7 +233,7 @@
   "suggest_chore": "new chore",
   "question_name": "what is your name?",
   "question_age": "what do you want to do?",
-  "under_18": "under 18",
+  "under_18": "under 18 only",
   "over_18": "over 18",
   "terms_conditions": "By continuing you agree to our Terms of Service and Privacy Policy",
   "add_image": "add picture",
