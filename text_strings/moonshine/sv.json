@@ -307,7 +307,7 @@
   "general_transfer": "överför",
   "amount_earned_in": "tjänat under %1$d: %2$d",
   "to_be_earned_parent": "kan tjäna totalt",
-  "to_be_earned_child": "här finns uppgifter för",
+  "to_be_earned_child": "här kan du tjäna:",
   "finished_chores": "godkända",
   "general_pending": "klara",
   "general_pending_parent": "Klara, men inte godkända",
