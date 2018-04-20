@@ -307,7 +307,7 @@
   "general_transfer": "transfer",
   "amount_earned_in": "earned during %1$d: %2$d",
   "to_be_earned_parent": "can be earned in total",
-  "to_be_earned_child": "here is chores for",
+  "to_be_earned_child": "here you can earn:",
   "finished_chores": "approved",
   "general_pending": "done",
   "general_pending_parent": "done, but not approved",
