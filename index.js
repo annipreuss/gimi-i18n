@@ -1,9 +1,9 @@
 // @flow
 import sv from './text_strings/moonshine/sv.json'
+import en from './text_strings/moonshine/en.json'
 import da from './text_strings/client/da.json'
 import fi from './text_strings/client/fi.json'
 import is from './text_strings/client/is.json'
-// import sv from './text_strings/client/sv.json'
 import fr from './text_strings/client/fr.json'
 import nl from './text_strings/client/nl.json'
 import no from './text_strings/client/nb.json'
@@ -70,7 +70,7 @@ export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> =
 ]
 
 export let getTextStrings = (lang: string) => {
-  lang = 'sv'// ONLY SV IN MOOMSHINE TODO: Needs to be remove later
+  // lang = 'sv'// ONLY SV IN MOOMSHINE TODO: Needs to be remove later
   switch (lang.substring(0, 2)) {
     case 'da' : return {..._default, ...da} // danish
     case 'sv' : return {..._default, ...sv} // sweden
@@ -85,7 +85,7 @@ export let getTextStrings = (lang: string) => {
     case 'de' : return {..._default, ...de} // german
     case 'is' : return {..._default, ...is} // island
     case 'et' : return {..._default, ...et} // Estonia
-    default : return {..._default, ...sv}
+    default : return {..._default, ...en}
   }
 }
 
