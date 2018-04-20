@@ -312,7 +312,7 @@
   "general_pending": "done",
   "general_pending_parent": "done, but not approved",
   "general_pending_child": "done",
-  "general_to_do": "not done",
+  "general_to_do": "to do",
   "general_to_do_parent": "not done",
   "general_to_do_child": "not done",
   "app_pin_settings": "settings for password",
