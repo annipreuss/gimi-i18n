@@ -393,7 +393,7 @@
   "create_account": "Create account",
   "signup_connect_family_member": "Connect with family member",
   "terms_conditions": "By going forward you accept Gimi's \n <b>User terms and conditions</b>",
-  "transaction_from_transactionalAccount_to_savingsAccount": "Automatic transaction of %1$d to the piggy bank",
+  "transaction_from_transactional_account_to_savings_account": "Automatic transaction of %1$d to the piggy bank",
   "one_day_to_bonus": "A savings bonus will be added tomorrow",
   "dashboard_child_welcome": "You have created an account!",
   "dashboard_child_welcome_desc": "To get access to Gimi you need to connect to a parent.",

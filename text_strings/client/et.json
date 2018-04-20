@@ -393,7 +393,7 @@
   "create_account": "PLZ_TRANSLATE Create account",
   "signup_connect_family_member": "PLZ_TRANSLATE Connect with family member",
   "terms_conditions": "PLZ_TRANSLATE When going forward accept Gimi's \n <b>User terms and conditions</b>",
-  "transaction_from_transactionalAccount_to_savingsAccount": "PLZ_TRANSLATE Automaatne tehingu %1$d et notsu panga",
+  "transaction_from_transactional_account_to_savings_account": "PLZ_TRANSLATE Automaatne tehingu %1$d et notsu panga",
   "one_day_to_bonus": "PLZ_TRANSLATE A savings bonus will be added tomorrow",
   "dashboard_child_welcome": "PLZ_TRANSLATE You have created an account!",
   "dashboard_child_welcome_desc": "PLZ_TRANSLATE To get access to Gimi you need to connect to a parent.",

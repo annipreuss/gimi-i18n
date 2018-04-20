@@ -393,7 +393,7 @@
   "create_account": "Crea nuovo account",
   "signup_connect_family_member": "Connettiti con un membro della famiglia",
   "terms_conditions": "Andando avanti, accetti le \n <b> condizioni e i termini di utilizzo </b> di Gimi",
-  "transaction_from_transactionalAccount_to_savingsAccount": "Transazione automatica della %1$d nel salvadanaio",
+  "transaction_from_transactional_account_to_savings_account": "Transazione automatica della %1$d nel salvadanaio",
   "one_day_to_bonus": "Un bonus di risparmio ti sarà offerto domani ",
   "dashboard_child_welcome": "Hai creato un account!",
   "dashboard_child_welcome_desc": "Per accedere a Gimi, devi connetterti ad un genitore. ",

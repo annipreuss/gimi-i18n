@@ -393,7 +393,7 @@
   "create_account": "Opret konto",
   "signup_connect_family_member": "Tilslut med familiemedlem",
   "terms_conditions": "Ved at fortsætte accepterer du Gimis \n <b>vilkår og betingelser</b>",
-  "transaction_from_transactionalAccount_to_savingsAccount": "Automatisk overførelse af %1$d til sparegrisen",
+  "transaction_from_transactional_account_to_savings_account": "Automatisk overførelse af %1$d til sparegrisen",
   "one_day_to_bonus": "En opsparingbonus vil blive tiføjet i morgen",
   "dashboard_child_welcome": "Du har oprettet en konto",
   "dashboard_child_welcome_desc": "For at komme i gang skal du være tilsluttet en forælder.",

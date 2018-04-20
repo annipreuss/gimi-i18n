@@ -393,7 +393,7 @@
   "create_account": "Créer un compte",
   "signup_connect_family_member": "Se connecter avec un membre de la famille",
   "terms_conditions": "En progressant, acceptez \n <b>Les termes et conditions d'utilisation</b> de Gimi",
-  "transaction_from_transactionalAccount_to_savingsAccount": "Transaction automatique de %1$d à la tirelire",
+  "transaction_from_transactional_account_to_savings_account": "Transaction automatique de %1$d à la tirelire",
   "one_day_to_bonus": "Un bonus d'épargne sera ajouté demain",
   "dashboard_child_welcome": "Vous avez créé un compte!",
   "dashboard_child_welcome_desc": "Pour accéder à Gimi vous devez vous connecter à un parent.",

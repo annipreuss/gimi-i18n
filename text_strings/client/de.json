@@ -393,7 +393,7 @@
   "create_account": "Account erstellen",
   "signup_connect_family_member": "Mit Familienmitglied verbinden",
   "terms_conditions": "Wenn Du fortfährst akzeptierst Du automatisch Gimi's \n <b>Nutzungssbedingungen</b>",
-  "transaction_from_transactionalAccount_to_savingsAccount": "Automatische Überweisung von %1$d in das Sparschwein",
+  "transaction_from_transactional_account_to_savings_account": "Automatische Überweisung von %1$d in das Sparschwein",
   "one_day_to_bonus": "Ein Ersparnisbonus wird morgen zusätzlich eingezahlt",
   "dashboard_child_welcome": "Du hast einen Account erstellt!",
   "dashboard_child_welcome_desc": "Um Zugriff zu Gimi zu erhalten, musst Du Dich mit einem Elternteil verbinden.",

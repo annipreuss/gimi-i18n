@@ -393,7 +393,7 @@
   "create_account": "Luo tili",
   "signup_connect_family_member": "Parinmuodostus perheenjäseneen",
   "terms_conditions": "Jatkamalla hyväksyt Gimin \n <b>käyttöehdot ja yksityisyydensuojakäytännön</b>",
-  "transaction_from_transactionalAccount_to_savingsAccount": "Automaattinen %1$d:n suoritus säästöpossuun",
+  "transaction_from_transactional_account_to_savings_account": "Automaattinen %1$d:n suoritus säästöpossuun",
   "one_day_to_bonus": "Säästöbonus maksetaan huomenna",
   "dashboard_child_welcome": "Olet nyt rekisteröitynyt!",
   "dashboard_child_welcome_desc": "Pääset alkuun kutsumalla mukaan yhden vanhempasi.",

@@ -41,7 +41,7 @@ textStringsTypes.forEach(textStringsType => {
       stringTagData.push(searchPlzTranslate(textStrings[textStringsType][languageCode], languageCode, textStringsType))
 
     stringTagData.push(searchBreakingSymbols(textStrings[textStringsType][languageCode], languageCode, textStringsType))
-    if (languageCode === 'en')
+    if (languageCode === 'en' && textStringsType !== 'gimi-web' && textStringsType !== 'gimi-web-redux')
       stringTagData.push(checkUpperCaseLetters(textStrings[textStringsType][languageCode], languageCode, textStringsType))
   })
 })
@@ -58,7 +58,7 @@ stringTagData.forEach(data => {
     }
     if (data.countUpperCase > 0) {
       let foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
-      jsonBreakingSumbols.push(foo)
+      jsonArrayUpperCase.push(foo)
     }
   }
 })

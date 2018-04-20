@@ -393,7 +393,7 @@
   "create_account": "Skapa konto",
   "signup_connect_family_member": "Koppla ihop med familjemedlem",
   "terms_conditions": "Genom att fortsätta accepterar du Gimis \n <b>Användarvillkor och Integritetspolicy</b>",
-  "transaction_from_transactionalAccount_to_savingsAccount": "Automatisk överföring av %1$d till spargrisen",
+  "transaction_from_transactional_account_to_savings_account": "Automatisk överföring av %1$d till spargrisen",
   "one_day_to_bonus": "Sparbonusen kommer imorgon",
   "dashboard_child_welcome": "Du är registrerad!",
   "dashboard_child_welcome_desc": "För att komma igång behöver du vara ihopkopplad med en förälder.",

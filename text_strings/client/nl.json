@@ -393,7 +393,7 @@
   "create_account": "Creëer profiel",
   "signup_connect_family_member": "Verbind met familie",
   "terms_conditions": "Om door te gaan, accepteer Gimi's \n <b>voorwaarden en overeenkomsten</b>",
-  "transaction_from_transactionalAccount_to_savingsAccount": " Automatische transactie van %1$d naar de spaarpot",
+  "transaction_from_transactional_account_to_savings_account": " Automatische transactie van %1$d naar de spaarpot",
   "one_day_to_bonus": "Een spaarbonus zal morgen worden toegevoegd",
   "dashboard_child_welcome": "Je bent geregistreerd!",
   "dashboard_child_welcome_desc": "Om toegang te krijgen tot Gimi moet je een ouder koppelen",
