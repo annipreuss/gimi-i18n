@@ -1169,7 +1169,7 @@
   "transactional_account_title": "card",
   "to_n": "To %1$d",
   "from_n": "From %1$d",
-  "sms_invite_description": "you got in a SMS",
+  "sms_invite_description": "we sent in a SMS",
   "general_write_something": "write something",
   "general_assignee" : "participants",
   "new_allowance_connection": "new pocket money!",
