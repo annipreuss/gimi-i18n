@@ -308,7 +308,7 @@
   "general_transfer": "transfer",
   "amount_earned_in": "earned in %1$d: %2$d",
   "to_be_earned_parent": "You can earn:",
-  "to_be_earned_child": "here you can earn:",
+  "to_be_earned_child": "here you can earn",
   "finished_chores": "approved",
   "general_pending": "done",
   "general_pending_parent": "done, but not approved",
