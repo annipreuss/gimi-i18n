@@ -1206,5 +1206,7 @@
   "option_phone_number": "Skriv nummer",
   "my_kids": "mina barn",
   "general_contacts": "kontakter",
-  "kid_allowance_month_error": "Inte valbart. %1$d har redan veckopeng från någon annan."
+  "kid_allowance_month_error": "Inte valbart. %1$d har redan veckopeng från någon annan.",
+  "word_from_ceo_header":"la la la la",
+  "word_from_ceo_desc": "lorem Ipsum"
 }

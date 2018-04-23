@@ -1202,5 +1202,7 @@
   "option_phone_number": "Enter number",
   "my_kids": "My children",
   "general_contacts": "contacts",
-  "kid_allowance_month_error": "Not available. %1$d already has weekly pocket money from somebody else."
+  "kid_allowance_month_error": "Not available. %1$d already has weekly pocket money from somebody else.",
+  "word_from_ceo_header":"la la la la",
+  "word_from_ceo_desc": "lorem Ipsum"
 }
