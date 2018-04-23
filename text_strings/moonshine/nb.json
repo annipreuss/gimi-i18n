@@ -515,7 +515,7 @@
   "the_weekly_allowance": "veckopengen",
   "the_monthly_allowance": "månadspengen",
   "general_this_week": "denna vecka",
-  "general_month": "månad",
+  "general_month": "PLZ_TRANSLATE måned",
   "question_delete": "vill du radera %1$d?",
   "question_have_account": "Vi kan inte hitta ditt konto!",
   "signin_code_not_found": "du skrev in %1$d. Kontrollera att du har skrivit in rätt och försök igen.",
@@ -1196,5 +1196,5 @@
   "kid_allowance_month_error": "Inte valbart. %1$d har redan veckopeng från någon annan.",
   "word_from_ceo_header": "la la la la",
   "word_from_ceo_desc": "lorem Ipsum",
-  "general_week": "PLZ_TRANSLATE vecka"
+  "general_week": "PLZ_TRANSLATE uke"
 }
