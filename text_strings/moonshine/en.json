@@ -1128,7 +1128,6 @@
   "event_suggest_chore": "suggest a chore",
   "event_keep_account": "send a reminder for the invitation",
   "event_will_delete_account": "your account will be deleted",
-  "push_account_deleted": "",
   "error_could_not_complete_connection": "the contact could not be added!",
   "error_could_not_complete_connection_description": "a child can only add a grown up and a grown up can only add a child.",
   "general_days": "Days",
@@ -1204,5 +1203,4 @@
   "my_kids": "My children",
   "general_contacts": "contacts",
   "kid_allowance_month_error": "Not available. %1$d already has weekly pocket money from somebody else."
-
 }

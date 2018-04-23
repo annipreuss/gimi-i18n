@@ -2,16 +2,6 @@
 import sv from './text_strings/moonshine/sv.json'
 import en from './text_strings/moonshine/en.json'
 import no from './text_strings/moonshine/nb.json'
-import da from './text_strings/client/da.json'
-import fi from './text_strings/client/fi.json'
-import is from './text_strings/client/is.json'
-import fr from './text_strings/client/fr.json'
-import nl from './text_strings/client/nl.json'
-import be from './text_strings/client/be.json'
-import it from './text_strings/client/it.json'
-import es from './text_strings/client/es.json'
-import de from './text_strings/client/de.json'
-import et from './text_strings/client/et.json'
 import _default from './text_strings/client/default.json'
 
 // calendar
@@ -72,19 +62,19 @@ export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> =
 export let getTextStrings = (lang: string) => {
   // lang = 'sv'// ONLY SV IN MOOMSHINE TODO: Needs to be remove later
   switch (lang.substring(0, 2)) {
-    case 'da' : return {..._default, ...da} // danish
+    case 'da' : return {..._default, ...en} // danish
     case 'sv' : return {..._default, ...sv} // sweden
     case 'nb' :
     case 'nn' : return {..._default, ...no} // norway
-    case 'fr' : return {..._default, ...fr} // france
-    case 'nl' : return {..._default, ...nl} // Netherlands
-    case 'be' : return {..._default, ...be} // belgian
-    case 'fi' : return {..._default, ...fi} // finish
-    case 'it' : return {..._default, ...it} // italian
-    case 'es' : return {..._default, ...es} // spanish
-    case 'de' : return {..._default, ...de} // german
-    case 'is' : return {..._default, ...is} // island
-    case 'et' : return {..._default, ...et} // Estonia
+    case 'fr' : return {..._default, ...en} // france
+    case 'nl' : return {..._default, ...en} // Netherlands
+    case 'be' : return {..._default, ...en} // belgian
+    case 'fi' : return {..._default, ...en} // finish
+    case 'it' : return {..._default, ...en} // italian
+    case 'es' : return {..._default, ...en} // spanish
+    case 'de' : return {..._default, ...en} // german
+    case 'is' : return {..._default, ...en} // island
+    case 'et' : return {..._default, ...en} // Estonia
     default : return {..._default, ...en}
   }
 }
