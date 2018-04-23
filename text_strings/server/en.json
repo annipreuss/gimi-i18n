@@ -251,7 +251,7 @@
   "event_you_now_got_monthly_allowance": "You now got monthly allowance",
   "event_you_have_got_a_new_chore": "You have got a new chore",
   "event_you_have_got_x_new_chores": "You have got {x} new chores",
-  "event_chore_was_not_approved": "{chore} was not approved",
+  "event_chore_was_not_approved": "{chore.title} was not approved",
   "event_reminder_of_chore": "Reminder of {chore}",
   "event_chore_is_deleted": "{chore.title} is deleted",
   "event_you_have_got_an_interest_rate_of_x": "You have got an interest rate of {x}%",
