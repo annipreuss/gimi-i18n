@@ -1199,7 +1199,7 @@
   "revoke_permission_notifications": "Är du säker på att du vill ta bort anmälningsbehörighet",
   "invitation_error":"Connection problem...",
   "invitation_error_mesasge": "We could not connect you to %1$d",
-  "option_phone_number": "Enter phone number",
+  "option_phone_number": "Click here to enter number",
   "my_kids": "My children",
   "general_contacts": "contacts",
   "kid_allowance_month_error": "Not available. %1$d already has weekly pocket money from somebody else."
