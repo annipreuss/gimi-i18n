@@ -460,7 +460,7 @@
   "bot_greeting_5": "Waaaazzzaaa!",
   "bot_greeting_6": "Well hello! It's been a long time!",
   "bot_greeting_absent": "I'm counting your money. We can talk again tomorrow!",
-  "bot_question_connect": "You don't have any contacts yet. Do you want to invite some now?"
+  "bot_question_connect": "You don't have any contacts yet. Do you want to invite some now?",
   "bot_question_allowance": "Yay today is %1$d and you will get %2$d. Do you want to put the money in the piggy bank?",
   "bot_message_allowance": "Smack a Doley! Today, it's %1$d and you've got a savings bonus of %2$d!",
   "bot_question_goal": "I see you haven't set up a savings goal... What do you wish for?",
@@ -1204,5 +1204,6 @@
   "general_contacts": "contacts",
   "kid_allowance_month_error": "Not available. %1$d already has weekly pocket money from somebody else.",
   "word_from_ceo_header":"Welcome to the new Gimi app!",
-  "word_from_ceo_desc": "This is our biggest update that we have been working on for over a year. I hope you and your family will love it!"
+  "word_from_ceo_desc": "This is our biggest update that we have been working on for over a year. I hope you and your family will love it!",
+  "general_week": "week"
 }
