@@ -61,6 +61,7 @@
     "@google-cloud/translate": "1.1.0",
     "accounting": "^0.4.1",
     "babel-preset-node6": "^11.0.0",
+    "exec": "^0.2.1",
     "google-translate-api": "2.3.0"
   }
 }
