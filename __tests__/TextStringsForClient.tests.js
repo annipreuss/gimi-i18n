@@ -38,7 +38,7 @@ describe('TextStrings', () => {
     expect(getTextStrings('en')).toEqual(getTextStrings(''))
   })
 
-  xit('Text strings should not be more than 20% longer in other languages', () => {
+  it('Text strings should not be more than 20% longer in other languages', () => {
     supportedLanguageCodes.forEach(lang2 => checkStringLenght(getTextStrings('en'), getTextStrings(lang2), 'en', lang2))
   })
 

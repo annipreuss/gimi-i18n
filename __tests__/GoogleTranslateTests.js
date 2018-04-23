@@ -2,7 +2,7 @@
 jest.disableAutomock()
 
 describe('AnnaHelper', () => {
-  xit('it should be able to hash string', () => {
+  it('it should be able to hash string', () => {
     var translate = require('@google-cloud/translate')({
       projectId: 'gimi-969a7',
       keyFilename: './utils/gkey/Gimi-b4f63676ca99.json'

@@ -7,7 +7,7 @@ var Slack = require('node-slack')
 jest.disableAutomock()
 
 describe('TextStrings', () => {
-  xit('it should export in slack the length of text_strings', () => {
+  it('it should export in slack the length of text_strings', () => {
     var stringLengthData
 
     languageCodes.forEach(languageCode => {
