@@ -1,7 +1,7 @@
 
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 var fs = require('fs')
-let templateDir = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web']
+let templateDir = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/moonshine']
 
 let RunSara = (filePath): * => {
   let getPath = (file) => `${filePath}/${file}`
@@ -37,7 +37,7 @@ let RunSara = (filePath): * => {
 
     // Craete Support
     let NewTextStrings = {...lang}
-    if(!file.includes('sv.json') && !file.includes('en.json')) Object.keys(NewTextStrings).forEach(key => (NewTextStrings[key] = `PLZ_TRANSLATE ${lang[key]}`))
+    if (!file.includes('sv.json') && !file.includes('en.json')) Object.keys(NewTextStrings).forEach(key => (NewTextStrings[key] = `PLZ_TRANSLATE ${lang[key]}`))
     NewTextStrings = {...NewTextStrings, ...TextStrings}
     Object.keys(_default).forEach(key => delete NewTextStrings[key])
     var NewTextStringsLength = Object.keys(NewTextStrings).length
