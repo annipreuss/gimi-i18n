@@ -21,8 +21,6 @@ expect.extend({
   }
 })
 
-var supportedCurrencies = ['SEK', 'USD', 'AUD', 'CAD', 'GBP', 'INR', 'EUR', 'NZD']
-
 let getAllConfigFiles = (): Array<Object> => {
   configs = fs.readdirSync('./config/')
   configs.forEach(file => {
@@ -37,12 +35,12 @@ let getAllConfigFiles = (): Array<Object> => {
 
 describe('Config', () => {
   it('it should be able to get config ', () => {
-    supportedCurrencies.forEach((currencyCode) => expect(getCurrencyConfig(currencyCode)).toBeDefined())
+    allConfigs.forEach((currencyCode) => expect(getCurrencyConfig(currencyCode)).toBeDefined())
   })
 
   it('all supported configs should have same number of keys', () => {
-    supportedCurrencies.forEach((x) =>
-      supportedCurrencies.forEach(y =>
+    allConfigs.forEach((x) =>
+      allConfigs.forEach(y =>
         Object.keys(getCurrencyConfig(x)).forEach(xKey =>
           Object.keys(getCurrencyConfig(y)).forEach(yKey => expect(getCurrencyConfig(x)[yKey]).not.toEqual(undefined, `Have you configured ${yKey} on currecy ${x}?`))
         )
@@ -50,16 +48,12 @@ describe('Config', () => {
     )
   })
 
-  xit('all configs should have same number of keys', () => {
+  it('all configs should have same number of keys', () => {
     getAllConfigFiles()
     allConfigs.forEach((x) => {
       allConfigs.forEach((y) => {
         expect(Object.keys(getCurrencyConfig(x)).length).toHaveSameLength(Object.keys(getCurrencyConfig(y)).length, {x, y})
       })
     })
-  })
-
-  xit('supported files should match the config files', () => {
-    expect(allConfigs).toEqual(supportedCurrencies)
   })
 })
