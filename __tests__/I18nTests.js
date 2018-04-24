@@ -14,7 +14,7 @@ textStringsTypes.forEach(textStringsType => {
 })
 textStringsTypes.forEach(textStringsType => {
   var languageCodesHolder = languageCodes
-  if (textStringsType === 'moonshine') languageCodesHolder = ['sv', 'en']
+  if (textStringsType === 'moonshine') languageCodesHolder = ['sv', 'en', 'nb']
   if (textStringsType === 'gimi-web-redux') languageCodesHolder = ['sv', 'en']
   if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
   if (textStringsType !== 'gimi-web' && textStringsType !== 'gimi-web-redux' &&
