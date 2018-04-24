@@ -1207,5 +1207,6 @@
   "word_from_ceo_desc": "This is our biggest update that we have been working on for over a year. I hope you and your family will love it!",
   "general_week": "week",
   "empty_graph_state":"collecting data...",
-  "task_title_placeholder":"name"
+  "task_title_placeholder":"name",
+  "custom_notification_onboarding_old_user_child":"Get to know your new app"
 }
