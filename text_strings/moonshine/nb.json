@@ -1198,5 +1198,6 @@
   "word_from_ceo_desc": "lorem Ipsum",
   "general_week": "PLZ_TRANSLATE uke",
   "empty_graph_state":"Samlar data...",
-  "task_title_placeholder":"namn"
+  "task_title_placeholder":"namn",
+  "custom_notification_add_phone":"Lägg till mobilnummer"
 }
