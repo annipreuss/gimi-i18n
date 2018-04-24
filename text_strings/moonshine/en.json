@@ -675,7 +675,7 @@
   "qr_scan_parent_instructions": "2. Go to Profile, choose My contacts and then Invite. Choose Show code.",
   "step_n": "Step %1$d",
   "connect_nav_header": "Invite",
-  "qr_connect_instructions_help": "To the person inviting,
+  "qr_connect_instructions_help": "To the person inviting",
   "show_code": "Show code",
   "scan_code": "Scan code",
   "recommended_card_age_description": "We recommend ordering the card for children over %1$d years.",
