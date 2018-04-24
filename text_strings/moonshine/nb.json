@@ -1199,5 +1199,11 @@
   "general_week": "PLZ_TRANSLATE uke",
   "empty_graph_state":"Samlar data...",
   "task_title_placeholder":"namn",
+  "example_name_1": "Mathias",
+  "example_name_2": "Martin",
+  "example_name_3": "Philip",
+  "example_name_4": "Monika",
+  "example_name_5": "Elin",
+  "example_name_6": "Tintin",
   "custom_notification_add_phone":"Lägg till mobilnummer"
 }
