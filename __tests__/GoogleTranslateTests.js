@@ -11,5 +11,7 @@ describe('AnnaHelper', () => {
       .then((err, translation) => {
         if (err) throw err
       })
+      // eslint-disable-next-line
+      .catch(err => console.log('Error: ', err))
   })
 })
