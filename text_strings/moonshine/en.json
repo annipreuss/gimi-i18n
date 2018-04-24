@@ -1168,7 +1168,7 @@
   "transactional_account_title": "card",
   "to_n": "To %1$d",
   "from_n": "From %1$d",
-  "sms_invite_description": "we sent in a SMS",
+  "sms_invite_description": "we sent an SMS",
   "general_write_something": "write something",
   "general_assignee" : "participants",
   "new_allowance_connection": "new pocket money!",
@@ -1205,6 +1205,5 @@
   "kid_allowance_month_error": "Not available. %1$d already has weekly pocket money from somebody else.",
   "word_from_ceo_header":"Welcome to the new Gimi app!",
   "word_from_ceo_desc": "This is our biggest update that we have been working on for over a year. I hope you and your family will love it!",
-  "general_week": "week",
-  "task_title_placeholder":"namn"
+  "general_week": "week"
 }
