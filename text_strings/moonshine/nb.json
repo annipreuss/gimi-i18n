@@ -1199,5 +1199,6 @@
   "general_week": "PLZ_TRANSLATE uke",
   "empty_graph_state":"Samlar data...",
   "task_title_placeholder":"namn",
-  "custom_notification_onboarding_old_user_child":"Get to know your new app"
+  "custom_notification_onboarding_old_user_child":"Get to know your new app",
+  "custom_notification_onboarding_old_user_parent" :"Tutorial för ny app"
 }

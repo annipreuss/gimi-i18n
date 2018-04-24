@@ -1208,5 +1208,6 @@
   "general_week": "week",
   "empty_graph_state":"collecting data...",
   "task_title_placeholder":"name",
-  "custom_notification_onboarding_old_user_child":"Get to know your new app"
+  "custom_notification_onboarding_old_user_child":"Get to know your new app",
+  "custom_notification_onboarding_old_user_parent" :"Get to know your new app"
 }
