@@ -1,7 +1,6 @@
 
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 var fs = require('fs')
-var exec = require('exec')
 let templateDir = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/moonshine']
 
 let RunSara = (filePath): * => {
@@ -38,17 +37,7 @@ let RunSara = (filePath): * => {
 
     // Craete Support
     let NewTextStrings = {...lang}
-    if (!file.includes('sv.json') && !file.includes('en.json')) Object.keys(NewTextStrings).forEach(key => {
-      NewTextStrings[key] = `PLZ_TRANSLATE ${lang[key]}`
-      if (process.argv[2] && process.argv[2] === 'translate')
-        exec(`npm run translate ${key}`, function (err, out, code) {
-          if (err) console.log('ERROR: ', err)
-          console.log('Detected a key to translate...')
-          process.stdout.write(out)
-          process.exit(code)
-        })
-    })
-
+    if (!file.includes('sv.json') && !file.includes('en.json')) Object.keys(NewTextStrings).forEach(key => (NewTextStrings[key] = `PLZ_TRANSLATE ${lang[key]}`))
     NewTextStrings = {...NewTextStrings, ...TextStrings}
     Object.keys(_default).forEach(key => delete NewTextStrings[key])
     var NewTextStringsLength = Object.keys(NewTextStrings).length
