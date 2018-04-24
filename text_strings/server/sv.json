@@ -227,7 +227,7 @@
   "event_suggestion_of_monthly_allowance": "Gimi föreslår byte till månadspeng",
   "event_done_with_chore": "Klar med {chore}",
   "event_chore_was_approved": "{chore.title} har godkänts",
-  "event_chore_was_auto_approved": "{chore} godkändes automatiskt",
+  "event_chore_was_auto_approved": "{chore.title} godkändes automatiskt",
   "event_chore_was_disapproved": "{chore} godkändes inte",
   "event_want_to_activate_auto_approval": "Aktivera automatiskt godkännande?",
   "event_requests_for_chore_permission": "Frågar om tillgång till uppgifter",
