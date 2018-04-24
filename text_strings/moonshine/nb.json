@@ -1196,5 +1196,6 @@
   "kid_allowance_month_error": "Inte valbart. %1$d har redan veckopeng från någon annan.",
   "word_from_ceo_header": "la la la la",
   "word_from_ceo_desc": "lorem Ipsum",
-  "general_week": "PLZ_TRANSLATE uke"
+  "general_week": "PLZ_TRANSLATE uke",
+  "empty_graph_state":"Samlar data..."
 }

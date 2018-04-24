@@ -1196,5 +1196,6 @@
   "kid_allowance_month_error": "Inte tillgängligt. %1$d har redan något nice",
   "word_from_ceo_header": "Välkommen till nya Gimi!",
   "word_from_ceo_desc": "Detta är en stor uppdatering som vi har jobbat med i nästan ett år. Jag hoppas att du och din familj ska älska den nya appen!",
-  "general_week": "vecka"
+  "general_week": "vecka",
+  "empty_graph_state":"Samlar data..."
 }
