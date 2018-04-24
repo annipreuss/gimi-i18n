@@ -1197,13 +1197,15 @@
   "word_from_ceo_header": "la la la la",
   "word_from_ceo_desc": "lorem Ipsum",
   "general_week": "PLZ_TRANSLATE uke",
-  "empty_graph_state":"Samlar data...",
-  "task_title_placeholder":"namn",
+  "empty_graph_state": "Samlar data...",
+  "task_title_placeholder": "namn",
+  "custom_notification_onboarding_old_user_child": "PLZ_TRANSLATE Get to know your new app",
+  "custom_notification_onboarding_old_user_parent": "PLZ_TRANSLATE Get to know your new app",
+  "custom_notification_add_phone": "Lägg till mobilnummer",
   "example_name_1": "Mathias",
   "example_name_2": "Martin",
   "example_name_3": "Philip",
   "example_name_4": "Monika",
   "example_name_5": "Elin",
-  "example_name_6": "Tintin",
-  "custom_notification_add_phone":"Lägg till mobilnummer"
+  "example_name_6": "Tintin"
 }
