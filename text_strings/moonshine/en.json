@@ -414,7 +414,7 @@
   "general_statistics": "statistics",
   "statistics_earned_average": "earned on average",
   "general_per_month": "per month",
-  "of_done_chores": "of done chores",
+  "of_done_chores": "of completed chores",
   "statistics_completed_average": "approved on average",
   "general_spent": "withdrawals",
   "account_found_title": "Do you want to log in now?",
@@ -574,9 +574,9 @@
   "email_already_in_use": "This email address is already registered",
   "invite_by_email": "Invite with email",
   "invite_by_sms": "Invite with SMS",
-  "question_recieved_email": "Have you got an email?",
+  "question_recieved_email": "Have you received an email?",
   "invited_by_email_instructions": "go to the email and click on the link to add the contact",
-  "question_recieved_sms": "have you got an SMS?",
+  "question_recieved_sms": "have you received an SMS?",
   "invited_by_sms_instructions": "go to the SMS and click on the link to add the contact",
   "days_to_next_pay": "days until \nPayday",
   "search_results": "search results",
@@ -847,7 +847,7 @@
   "activate_card_showing_pin_desc": "Remember it. Don't write it down. If you forget it you can retrieve it in the app.",
   "general_show_pin": "show PIN code",
   "card_activation_success_title": "your card is activated!",
-  "card_activation_success_desc": "Great success! You can now spend your own money",
+  "card_activation_success_desc": "Success! You can now spend your own money",
   "upgraded_to_premium_info_1_title": "You'll get your own card",
   "upgraded_to_premium_info_1_desc": "so that you can pay in stores or online. The card will be sent home to you",
   "upgraded_to_premium_info_2_title": "...and a savings account",
@@ -1205,6 +1205,5 @@
   "kid_allowance_month_error": "Not available. %1$d already has weekly pocket money from somebody else.",
   "word_from_ceo_header":"Welcome to the new Gimi app!",
   "word_from_ceo_desc": "This is our biggest update that we have been working on for over a year. I hope you and your family will love it!",
-  "general_week": "week",
-  "empty_graph_state":"Samlar data..."
+  "general_week": "week"
 }
