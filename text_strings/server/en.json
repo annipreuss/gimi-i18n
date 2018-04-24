@@ -266,10 +266,10 @@
   "push_you_have_a_new_connection": "You have a new connection! ",
   "push_you_have_got_an_invitation_to_connect": "You have got an invitation from {name} to connect",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Allowance is set for you! Check it out in the app!",
-  "push_childname_has_completed_a_chore": "{name} has completed a chore!",
+  "push_child_has_completed_a_chore": "{name} has completed a chore!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} asks permission to edit your chores",
   "push_name_received_x_in_allowance_from_you_today_mark_it_as_paid_out_if_you_paid_out_cash": "{chore} received {amount} in allowance from you today! Mark it as paid out if you paid out cash!",
-  "push_childname_has_reached_a_dream": "{name} has reached a dream",
+  "push_child_has_reached_a_dream": "{name} has reached a dream",
   "event_add_email": "Add email for status & security",
   "push_short_tutorial": "That's how Gimi works, in 20 seconds",
   "event_chore_name_is_changed": "PLZ_CHECK Chore {name} is changed"
