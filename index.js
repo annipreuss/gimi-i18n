@@ -62,10 +62,10 @@ export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> =
 export let getTextStrings = (lang: string) => {
   // lang = 'sv'// ONLY SV IN MOOMSHINE TODO: Needs to be remove later
   switch (lang.substring(0, 2)) {
-    case 'da' : return {..._default, ...en} // danish
     case 'sv' : return {..._default, ...sv} // sweden
     case 'nb' :
     case 'nn' : return {..._default, ...no} // norway
+    case 'da' : return {..._default, ...en} // danish
     case 'fr' : return {..._default, ...en} // france
     case 'nl' : return {..._default, ...en} // Netherlands
     case 'be' : return {..._default, ...en} // belgian
