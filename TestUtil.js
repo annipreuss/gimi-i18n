@@ -16,8 +16,8 @@ export let emmaTranslationTag = 'EMMA'
 var ignoredKeys = ['currency', 'currencyMinus', 'currencyPlus', 'aint_no_money_desc', 'no_money_pig_parent_text']
 
 export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
-  var keys = Object.keys(firstLang)
-  var errorMessages = []
+  let keys = Object.keys(firstLang)
+  let errorMessages = []
 
   keys.forEach(key => {
     if (secondLang[key] === undefined || secondLang[key] === '') {
@@ -29,6 +29,17 @@ export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: 
       errorMessages.push(`Lang: '${firstLangName}', Key: '${key}' has a $ and whitespace, do you mean $s, $d or $c ?`)
 
     if ((secondLang[key] === 'PLZ_CHECK' && firstLang[key] === 'PLZ_CHECK') && firstLangName !== 'sv' && secondLangName === 'sv') return true
+    return true
+  })
+
+  expect(errorMessages).toEqual([])
+}
+
+export let findDuplicateKeyValues = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
+  let keys = Object.keys(firstLang)
+  let errorMessages = []
+
+  keys.forEach(key => {
     if (secondLang[key] === firstLang[key] && firstLangName === 'en' && secondLangName === 'sv' && !IgnoredTextStrings.includes(key) && !defaultTextStrings[key] && supportedLanguageCodes.includes(firstLangName))
       errorMessages.push(`Lang: '${secondLang[key]}', Key: '${key}' is equal to: '${firstLang[key]}'`)
 
