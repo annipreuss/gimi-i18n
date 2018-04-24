@@ -1,7 +1,7 @@
 
 /* eslint no-console:0 */
-import {getTextStrings, supportedLanguageCodes} from '../index'
-import {compareKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
+import {getTextStrings, supportedLanguageCodes, moonshineCountryCodes} from '../index'
+import {compareKeys, findDuplicateKeyValues, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
 jest.disableAutomock()
 
 describe('TextStrings', () => {
@@ -10,7 +10,12 @@ describe('TextStrings', () => {
   })
 
   it('all textstrings should have a equivalent string in all other languages', () => {
-    supportedLanguageCodes.forEach(lang1 => supportedLanguageCodes.forEach(lang2 => compareKeys(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2)))
+    supportedLanguageCodes.forEach(lang1 => {
+      supportedLanguageCodes.forEach(lang2 => {
+        compareKeys(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2)
+        if (!moonshineCountryCodes.includes(lang1)) findDuplicateKeyValues(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2)
+      })
+    })
   })
 
   it('all textstrings should have right amount of $d and $c and $s signs signs', () => {
