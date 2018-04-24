@@ -228,7 +228,7 @@
   "event_done_with_chore": "Klar med {chore}",
   "event_chore_was_approved": "{chore.title} har godkänts",
   "event_chore_was_auto_approved": "{chore.title} godkändes automatiskt",
-  "event_chore_was_disapproved": "{chore} godkändes inte",
+  "event_chore_was_disapproved": "{chore.title} godkändes inte",
   "event_want_to_activate_auto_approval": "Aktivera automatiskt godkännande?",
   "event_requests_for_chore_permission": "Frågar om tillgång till uppgifter",
   "event_you_got_permission_to_edit_chores": "Du har fått tillåtelse att redigera uppgifter",
