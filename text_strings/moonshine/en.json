@@ -1203,11 +1203,12 @@
   "custom_notification_onboarding_old_user_parent" :"Get to know your new app",
   "empty_graph_state": "collecting data...",
   "task_title_placeholder": "name",
-  "example_name_1": "Mathias",
-  "example_name_2": "Martin",
-  "example_name_3": "Philip",
-  "example_name_4": "Monika",
-  "example_name_5": "Elin",
-  "example_name_6": "Tintin",
-  "custom_notification_add_phone":"add phone number"
+  "custom_notification_add_phone":"add phone number",
+  "custom_notification_onboarding_old_user_child": "Get to know your new app",
+  "example_name_1": "PLZ_CHECK Mathias",
+  "example_name_2": "PLZ_CHECK Martin",
+  "example_name_3": "PLZ_CHECK Philip",
+  "example_name_4": "PLZ_CHECK Monika",
+  "example_name_5": "PLZ_CHECK Elin",
+  "example_name_6": "PLZ_CHECK Tintin"
 }
