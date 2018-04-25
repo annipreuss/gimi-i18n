@@ -1201,5 +1201,7 @@
   "example_name_4": "Monika",
   "example_name_5": "Elin",
   "example_name_6": "Tintin",
-  "general_add":"PLZ_TRANSLATE Lägg till"
+  "general_add":"PLZ_TRANSLATE Lägg till",
+  "allowance_frequency_select_monthly_title": "PLZ_TRANSLATE Monthly",
+  "allowance_frequency_select_weekly_title": "PLZ_TRANSLATE Weekly"
 }
