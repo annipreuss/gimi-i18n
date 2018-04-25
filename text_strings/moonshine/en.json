@@ -647,7 +647,7 @@
   "verify_pin_code": "Verify PIN code",
   "pin_code_doesnt_match_previous": "The PIN code doesn't match with the previous PIN code",
   "currency_update_title": "The local currency",
-  "currency_update_desc": "Gimi uses your local currency. You and your child have %1$d as currency. If you want to change currency, contact support.",
+  "currency_update_desc": "Gimi uses your local currency. You and your contacts have %1$d as currency. If you want to change currency, contact support.",
   "timeout_title": "Too much time has passed!",
   "timout_desc": "It seems like you didn't complete the login. Try again!",
   "general_something_wrong": "Something is wrong...",
