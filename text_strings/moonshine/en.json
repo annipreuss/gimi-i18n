@@ -1178,7 +1178,7 @@
   "revoke_permission_microphone": "PLZ_CHECK Are you sure you want to enable access to the microphone?",
   "revoke_permission_title": "PLZ_CHECK Removing permissions can lead to unexpected events",
   "request_permission_photo": "PLZ_CHECK The app requests access to the gallery so that you can add picures to dreams, chores and update your profile picture",
-  "request_permission_title_photo": "PLZ_CHECK The app doesn't have persmission to access the gallery,
+  "request_permission_title_photo": "PLZ_CHECK The app doesn't have persmission to access the gallery",
   "revoke_permission_camera": "PLZ_CHECK Are you sure you want to enable access to the camera?",
   "revoke_permission_photo": "PLZ_CHECK Are you sure you want to enable access to the gallery",
   "revoke_permission_notifications": "PLZ_CHECK Are you sure you want to remove the permission to send notifications",
