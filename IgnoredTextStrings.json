@@ -504,5 +504,6 @@
   "revoke_permission_photo",
   "revoke_permission_notifications",
   "invitation_error",
-  "invitation_error_mesasge"
+  "invitation_error_mesasge",
+  "notification_section_setup"
 ]
