@@ -1207,5 +1207,6 @@
   "notification_section_setup": "PLZ_TRANSLATE Kom igång",
   "general_weekly_allowance": "PLZ_TRANSLATE Veckopeng",
   "general_monthly_allowance": "PLZ_TRANSLATE Månadspeng",
-  "kid_connected_parent": "PLZ_TRANSLATE you and %1$d are now connected"
+  "kid_connected_parent": "PLZ_TRANSLATE you and %1$d are now connected",
+  "set_interest_descr": "PLZ_TRANSLATE som beräknas på hur mycket som finns sparat"
 }
