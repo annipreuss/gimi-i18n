@@ -1206,5 +1206,6 @@
   "allowance_frequency_select_weekly_title": "Veckopeng",
   "notification_section_setup": "Kom igång",
   "general_weekly_allowance": "Veckopeng",
-  "general_monthly_allowance": "Månadspeng"
+  "general_monthly_allowance": "Månadspeng",
+  "kid_connected_parent": "you and %1$d are now connected"
 }

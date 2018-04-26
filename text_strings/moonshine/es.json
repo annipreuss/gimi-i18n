@@ -1206,5 +1206,6 @@
   "allowance_frequency_select_weekly_title": "Weekly",
   "notification_section_setup": "PLZ_TRANSLATE Kom igång",
   "general_weekly_allowance": "PLZ_TRANSLATE Veckopeng",
-  "general_monthly_allowance": "PLZ_TRANSLATE Månadspeng"
+  "general_monthly_allowance": "PLZ_TRANSLATE Månadspeng",
+  "kid_connected_parent": "PLZ_TRANSLATE you and %1$d are now connected"
 }
