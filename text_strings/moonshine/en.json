@@ -1204,5 +1204,7 @@
   "general_add": "Add",
   "allowance_frequency_select_monthly_title": "Monthly",
   "allowance_frequency_select_weekly_title": "Weekly",
-  "notification_section_setup": "Setup"
+  "notification_section_setup": "Setup",
+  "general_weekly_allowance": "Veckopeng",
+  "general_monthly_allowance": "Månadspeng"
 }

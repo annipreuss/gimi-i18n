@@ -1204,5 +1204,7 @@
   "general_add": "Add",
   "allowance_frequency_select_monthly_title": "Monthly",
   "allowance_frequency_select_weekly_title": "Weekly",
-  "notification_section_setup": "PLZ_TRANSLATE Kom igång"
+  "notification_section_setup": "PLZ_TRANSLATE Kom igång",
+  "general_weekly_allowance": "PLZ_TRANSLATE Veckopeng",
+  "general_monthly_allowance": "PLZ_TRANSLATE Månadspeng"
 }
