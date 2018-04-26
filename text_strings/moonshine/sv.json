@@ -1201,7 +1201,8 @@
   "example_name_4": "Monika",
   "example_name_5": "Elin",
   "example_name_6": "Tintin",
-  "general_add":"Lägg till",
+  "general_add": "Lägg till",
   "allowance_frequency_select_monthly_title": "Månadspeng",
-  "allowance_frequency_select_weekly_title": "Veckopeng"
+  "allowance_frequency_select_weekly_title": "Veckopeng",
+  "notification_section_setup": "Kom igång"
 }

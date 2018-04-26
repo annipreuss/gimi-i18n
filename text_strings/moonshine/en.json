@@ -1201,7 +1201,8 @@
   "example_name_4": "PLZ_CHECK Monika",
   "example_name_5": "PLZ_CHECK Elin",
   "example_name_6": "PLZ_CHECK Tintin",
-  "general_add":"Add",
+  "general_add": "Add",
   "allowance_frequency_select_monthly_title": "Monthly",
-  "allowance_frequency_select_weekly_title": "Weekly"
+  "allowance_frequency_select_weekly_title": "Weekly",
+  "notification_section_setup": "Setup"
 }
