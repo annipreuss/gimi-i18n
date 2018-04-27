@@ -1208,5 +1208,6 @@
   "general_weekly_allowance": "Veckopeng",
   "general_monthly_allowance": "Månadspeng",
   "kid_connected_parent": "you and %1$d are now connected",
-  "set_interest_descr": "som beräknas på hur mycket som finns sparat"
+  "set_interest_descr": "som beräknas på hur mycket som finns sparat",
+  "payday_circle_empty_state_title": "No money in sight..."
 }

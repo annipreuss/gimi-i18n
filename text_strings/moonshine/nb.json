@@ -1208,5 +1208,6 @@
   "general_weekly_allowance": "PLZ_TRANSLATE Veckopeng",
   "general_monthly_allowance": "PLZ_TRANSLATE Månadspeng",
   "kid_connected_parent": "PLZ_TRANSLATE you and %1$d are now connected",
-  "set_interest_descr": "PLZ_TRANSLATE som beräknas på hur mycket som finns sparat"
+  "set_interest_descr": "PLZ_TRANSLATE som beräknas på hur mycket som finns sparat",
+  "payday_circle_empty_state_title": "PLZ_TRANSLATE No money in sight..."
 }
