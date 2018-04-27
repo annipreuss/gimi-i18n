@@ -725,7 +725,7 @@
   "why_verify_identity_desc": "Enligt EU-lagstiftning behöver finansiella tjänster identifiera sina kunder, det kallas Know Your Customer. \n\nDet innebär att vi behöver verifiera din identitet. \n\nVi använder oss av Instantor, och deras lösning bygger på en BankID-inloggning.",
   "kid_card_pin_reminder": "%1$d kort-PIN är \n\n1234",
   "contacting_bank": "kopplar upp mot din bank",
-  "push_cloud_created": "ditt moln har skapats",
+  "push_cloud_created": "Molnet är ditt sparkonto",
   "push_add_profile_pic": "lägg till en bild",
   "push_no_new_notifications_kid": "allt lugnt här, du har koll!",
   "push_short_tutorial": "Så funkar Gimi på 20 sekunder",
