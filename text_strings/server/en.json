@@ -272,5 +272,7 @@
   "push_child_has_reached_a_dream": "{name} has reached a dream",
   "event_add_email": "Add email for status & security",
   "push_short_tutorial": "That's how Gimi works, in 20 seconds",
-  "event_chore_name_is_changed": "PLZ_CHECK Chore {name} is changed"
+  "event_chore_name_is_changed": "PLZ_CHECK Chore {name} is changed",
+  "event_welcome_back": "Welcome back! Do you want to start over?",
+  "event_tell_that_your_back": "Let your family know you're back!"
 }

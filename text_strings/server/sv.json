@@ -272,5 +272,7 @@
   "push_child_has_reached_a_dream": "{name} har sparat ihop till en dröm",
   "event_add_email": "Lägg till din e-post",
   "push_short_tutorial": "Så funkar Gimi, på 20 sekunder",
-  "event_chore_name_is_changed": "Uppgiften {name} har redigerats"
+  "event_chore_name_is_changed": "Uppgiften {name} har redigerats",
+  "event_welcome_back": "Welcome back! Do you want to start over?",
+  "event_tell_that_your_back": "Let your family know you're back!"
 }

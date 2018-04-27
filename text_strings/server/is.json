@@ -272,5 +272,7 @@
   "push_child_has_reached_a_dream": "PLZ_TRANSLATE {name} has reached a dream",
   "event_add_email": "PLZ_TRANSLATE Add email for status & security",
   "push_short_tutorial": "PLZ_TRANSLATE That's how Gimi works, in 20 seconds",
-  "event_chore_name_is_changed": "PLZ_TRANSLATE PLZ_CHECK Chore {name} is changed"
+  "event_chore_name_is_changed": "PLZ_TRANSLATE PLZ_CHECK Chore {name} is changed",
+  "event_welcome_back": "PLZ_TRANSLATE Welcome back! Do you want to start over?",
+  "event_tell_that_your_back": "PLZ_TRANSLATE Let your family know you're back!"
 }
