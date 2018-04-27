@@ -725,7 +725,7 @@
   "why_verify_identity_desc": "According to EU legislation and regulations, financial services need to identify their customers, it's called Know Your Customer. \n\nThis means we need to verify your identity. \n\nWe use Instantor, whose solution is based on a BankID login.",
   "kid_card_pin_reminder": "%1$d card PIN code is \n\n1234",
   "contacting_bank": "connecting with your bank",
-  "push_cloud_created": "your cloud has been created",
+  "push_cloud_created": "The cloud is your savings account",
   "push_add_profile_pic": "add a picture",
   "push_no_new_notifications_kid": "all cool here, you got it under control!",
   "push_short_tutorial": "This is how Gimi works, in 20 seconds",
